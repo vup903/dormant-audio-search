@@ -1,0 +1,19 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  hermetic-tests:
+    # Hermetic layer only: schema, vocab, windowing, BM25 — no models, no
+    # network, no audio. The retrieval eval (eval/) needs the built index and
+    # runs locally; its results.json is committed alongside the code.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install jsonschema pytest
+      - run: python -m pytest tests/ -q

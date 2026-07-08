@@ -1,0 +1,693 @@
+{
+  "id": "1938-05-23-radio-berlin-news",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 680.6,
+  "confidence": 0.6914,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.0,
+      "text": "The weather report for today says, today the weather is fine with an atmosphere of spring in Berlin and the suburban districts, although there is a fishwind from the east.",
+      "confidence": 0.6697
+    },
+    {
+      "start": 15.0,
+      "end": 22.0,
+      "text": "Three more incidents are referred to on the German frontiers.",
+      "confidence": 0.6633
+    },
+    {
+      "start": 22.0,
+      "end": 30.0,
+      "text": "On Saturday, 10 tech soldiers attempted to blow up the wooden bridge across the Rev. Taya,",
+      "confidence": 0.6633
+    },
+    {
+      "start": 30.0,
+      "end": 35.0,
+      "text": "in the Beiharth style, which is on German territory.",
+      "confidence": 0.6633
+    },
+    {
+      "start": 35.0,
+      "end": 41.0,
+      "text": "The tech soldiers placed 10 kilos of dynamite under the bridge, and were about to set fire",
+      "confidence": 0.6633
+    },
+    {
+      "start": 41.0,
+      "end": 47.64,
+      "text": "to the railing when they were sighted by two German frontier gods. As the Germans approached,",
+      "confidence": 0.7969
+    },
+    {
+      "start": 47.64,
+      "end": 54.76,
+      "text": "the Czech soldiers fled across the frontier. The dynamite has not yet been removed from underneath",
+      "confidence": 0.7969
+    },
+    {
+      "start": 54.76,
+      "end": 62.2,
+      "text": "the bridge. At nine this morning a Czech military plane flew over the German Czech frontier at",
+      "confidence": 0.7969
+    },
+    {
+      "start": 62.2,
+      "end": 70.44,
+      "text": "bear on stand in the Yetsky Burger. The machine was sighted by a number of people and recognized",
+      "confidence": 0.7238
+    },
+    {
+      "start": 70.44,
+      "end": 77.96,
+      "text": "beyond doubt as a military plane. After the plane which was a two-seater fighter, it circled",
+      "confidence": 0.7238
+    },
+    {
+      "start": 77.96,
+      "end": 83.56,
+      "text": "round for some time, they returned to the frontier and shaped its course towards the town of",
+      "confidence": 0.7238
+    },
+    {
+      "start": 83.56,
+      "end": 92.76,
+      "text": "press nets in Czechoslovakia. On its way back to press nets, the plane suddenly caught fire",
+      "confidence": 0.7531
+    },
+    {
+      "start": 92.76,
+      "end": 99.16,
+      "text": "and crashed on Czech territory. People on this side of the frontier observed how Czech",
+      "confidence": 0.7531
+    },
+    {
+      "start": 99.16,
+      "end": 105.64,
+      "text": "frontier guards and soldiers attempted in vain to rescue the pilots from the blazing debris.",
+      "confidence": 0.7531
+    },
+    {
+      "start": 105.64,
+      "end": 114.2,
+      "text": "Fullermore, check soldiers made on slots on two bridges, Oloy Speck and Hoenfeldt, North",
+      "confidence": 0.6123
+    },
+    {
+      "start": 114.2,
+      "end": 116.88,
+      "text": "of Lins.",
+      "confidence": 0.6123
+    },
+    {
+      "start": 116.88,
+      "end": 122.76,
+      "text": "These bridges are half German, half Czech, and the Czech soldiers add Wunstraw around the",
+      "confidence": 0.6123
+    },
+    {
+      "start": 122.76,
+      "end": 129.4,
+      "text": "wooden supports of the German part of the bridges, and poor petrol over it, but before they were",
+      "confidence": 0.6123
+    },
+    {
+      "start": 129.4,
+      "end": 135.12,
+      "text": "able to set the straw on fire, German frontier guards approached and the Czech soldiers",
+      "confidence": 0.6123
+    },
+    {
+      "start": 135.12,
+      "end": 140.92,
+      "text": "proceed to retreat so into Czech territory.",
+      "confidence": 0.6959
+    },
+    {
+      "start": 140.92,
+      "end": 146.8,
+      "text": "Regarding the incident at the Taya Bridge, the Czech press agency reports that Czech soldiers",
+      "confidence": 0.6959
+    },
+    {
+      "start": 146.8,
+      "end": 153.7,
+      "text": "had actually attempted to enter German territory, but that they had not intended to blow up",
+      "confidence": 0.6959
+    },
+    {
+      "start": 153.7,
+      "end": 155.7,
+      "text": "the bridge.",
+      "confidence": 0.6959
+    },
+    {
+      "start": 155.7,
+      "end": 160.64,
+      "text": "The Czech military authorities reported the incident to the Prague Foreign Office.",
+      "confidence": 0.6959
+    },
+    {
+      "start": 160.64,
+      "end": 168.64,
+      "text": "They repumbed out the crock tar, the Czech foreign minister pleaded an excuse to the German ambassador to Prague.",
+      "confidence": 0.6435
+    },
+    {
+      "start": 172.64,
+      "end": 179.64,
+      "text": "Dealing with an additional version of the Czech news agency report regarding the Taya Bridge incident,",
+      "confidence": 0.6435
+    },
+    {
+      "start": 180.64,
+      "end": 189.64,
+      "text": "the Berliner Tagablet writes that even if the Czech report, according to which Czech soldiers exercised near the bridge,",
+      "confidence": 0.6435
+    },
+    {
+      "start": 189.64,
+      "end": 196.46,
+      "text": "true, the conduct of the military command of that platoon was irresponsible in view of",
+      "confidence": 0.7295
+    },
+    {
+      "start": 196.46,
+      "end": 205.04,
+      "text": "the seriousness of the political situation and cannot be termed otherwise but provocation.",
+      "confidence": 0.7295
+    },
+    {
+      "start": 205.04,
+      "end": 210.44,
+      "text": "The bill in paper further emphasizes this tracking contrast between the tech soldiers and",
+      "confidence": 0.7295
+    },
+    {
+      "start": 210.44,
+      "end": 217.48,
+      "text": "the Sudeten Germans with always shown an exemplary dipsy plan.",
+      "confidence": 0.7295
+    },
+    {
+      "start": 217.48,
+      "end": 223.48,
+      "text": "The result of the municipal elections in Czechoslovakia and the victory of the Sudeten German",
+      "confidence": 0.8218
+    },
+    {
+      "start": 223.48,
+      "end": 232.08,
+      "text": "Party has made a deep impression on all the powers interested in Czechoslovak affairs.",
+      "confidence": 0.8218
+    },
+    {
+      "start": 232.08,
+      "end": 238.0,
+      "text": "The British and French papers again asked Prague to settle the Sudeten German problem",
+      "confidence": 0.8218
+    },
+    {
+      "start": 238.0,
+      "end": 241.96,
+      "text": "according to the demands of Conrad Heinlein.",
+      "confidence": 0.8218
+    },
+    {
+      "start": 241.96,
+      "end": 247.16,
+      "text": "Daily mail declares that the critical situation after the overwhelming victory of the",
+      "confidence": 0.8218
+    },
+    {
+      "start": 247.16,
+      "end": 252.76,
+      "text": "The inline party will force the checks to make conditions.",
+      "confidence": 0.6578
+    },
+    {
+      "start": 252.76,
+      "end": 255.6,
+      "text": "The impregs started in Paris, Nell Square,",
+      "confidence": 0.6578
+    },
+    {
+      "start": 255.6,
+      "end": 260.16,
+      "text": "sustained mail by a way of prompting the check government to act",
+      "confidence": 0.6578
+    },
+    {
+      "start": 260.16,
+      "end": 264.84,
+      "text": "on the spur of the moment, were calculated to cause the explosion",
+      "confidence": 0.6578
+    },
+    {
+      "start": 264.84,
+      "end": 267.44,
+      "text": "which was generally feared.",
+      "confidence": 0.6578
+    },
+    {
+      "start": 267.44,
+      "end": 269.64,
+      "text": "Britain must stand aloof in the matter,",
+      "confidence": 0.6578
+    },
+    {
+      "start": 269.64,
+      "end": 272.28,
+      "text": "whatever happens, and avoid to be drawn",
+      "confidence": 0.6578
+    },
+    {
+      "start": 272.28,
+      "end": 275.16,
+      "text": "into difficulties by pacts with France,",
+      "confidence": 0.6578
+    },
+    {
+      "start": 275.16,
+      "end": 282.0,
+      "text": "the Soviet Union, or Czechoslovakia, or even the Geneva League.",
+      "confidence": 0.7288
+    },
+    {
+      "start": 282.0,
+      "end": 287.16,
+      "text": "It is also being tried in Paris to get out of an unpleasant situation.",
+      "confidence": 0.7288
+    },
+    {
+      "start": 287.16,
+      "end": 291.76,
+      "text": "Petit Paris, here, impressed by the election victory of Conrad Haidl\u00e1n,",
+      "confidence": 0.7288
+    },
+    {
+      "start": 291.76,
+      "end": 296.32,
+      "text": "is an opinion that Prague might contribute to the general appeasement",
+      "confidence": 0.7288
+    },
+    {
+      "start": 296.32,
+      "end": 301.92,
+      "text": "while sending the reservists home where it so recently been called to the colors.",
+      "confidence": 0.7288
+    },
+    {
+      "start": 301.92,
+      "end": 307.68,
+      "text": "The Paris papers as well as the Lenin press advocate, the realisation of the Sudeten German",
+      "confidence": 0.7233
+    },
+    {
+      "start": 307.68,
+      "end": 314.68,
+      "text": "demands by the Prague government, which could eliminate all difficulties likely to lead",
+      "confidence": 0.7233
+    },
+    {
+      "start": 314.68,
+      "end": 318.52,
+      "text": "to a more serious conflict.",
+      "confidence": 0.7233
+    },
+    {
+      "start": 318.52,
+      "end": 323.84,
+      "text": "According to a report from the press office of the Sudeten German party, the informative",
+      "confidence": 0.7233
+    },
+    {
+      "start": 323.84,
+      "end": 329.66,
+      "text": "discussions between Hakanard Hinlein and Dr. Arger, the Czech Premier, which will serve",
+      "confidence": 0.7233
+    },
+    {
+      "start": 329.66,
+      "end": 337.34,
+      "text": "to clarify and pacify the political situation have begun today.",
+      "confidence": 0.7178
+    },
+    {
+      "start": 337.34,
+      "end": 342.42,
+      "text": "The rapidly melting snow and the rain falls of the last few days have caused floods in",
+      "confidence": 0.7178
+    },
+    {
+      "start": 342.42,
+      "end": 346.38,
+      "text": "Steyermark and in some parts of Counten.",
+      "confidence": 0.7178
+    },
+    {
+      "start": 346.38,
+      "end": 351.1,
+      "text": "Unfortunately, eight persons have lost their lives in the floods.",
+      "confidence": 0.7178
+    },
+    {
+      "start": 351.1,
+      "end": 356.98,
+      "text": "The region leader, Birko, has asked for the relief train bayon, which left Litzig for",
+      "confidence": 0.6429
+    },
+    {
+      "start": 356.98,
+      "end": 360.86,
+      "text": "the distressed area today.",
+      "confidence": 0.6429
+    },
+    {
+      "start": 360.86,
+      "end": 366.54,
+      "text": "The Romanian Premier Miron Crist\u00e9a, coming from Warsaw, arrived at Krakow today, where",
+      "confidence": 0.6429
+    },
+    {
+      "start": 366.54,
+      "end": 373.02,
+      "text": "he placed a wreath on the tomb of Marshall Pilsowski.",
+      "confidence": 0.6429
+    },
+    {
+      "start": 373.02,
+      "end": 378.46,
+      "text": "It is stated in political circles of Warsaw that Premier Crist\u00e9a, as discussed various",
+      "confidence": 0.6429
+    },
+    {
+      "start": 378.46,
+      "end": 389.78,
+      "text": "These questions connected with the Polish Romanian agreement during her stay in Warsaw.",
+      "confidence": 0.7046
+    },
+    {
+      "start": 389.78,
+      "end": 395.3,
+      "text": "In connection with the rumours of alleged arms transports in South Africa and the speculations",
+      "confidence": 0.7046
+    },
+    {
+      "start": 395.3,
+      "end": 401.82,
+      "text": "on pending disturbances in South West Africa, Deputy Laudanard Burke stated in the Sunday",
+      "confidence": 0.7046
+    },
+    {
+      "start": 401.82,
+      "end": 407.54,
+      "text": "times of Johannesburg that all their apprehension in that respect was unfounded.",
+      "confidence": 0.7046
+    },
+    {
+      "start": 407.54,
+      "end": 413.32,
+      "text": "The administration of South West Africa ascertained with the satisfaction that the room is concerning",
+      "confidence": 0.6024
+    },
+    {
+      "start": 413.32,
+      "end": 418.68,
+      "text": "secret arms impulse that not correspond to the facts.",
+      "confidence": 0.6024
+    },
+    {
+      "start": 418.68,
+      "end": 424.88,
+      "text": "The London afternoon priests also regarded the situation in Tekaslovakia as less critical",
+      "confidence": 0.6024
+    },
+    {
+      "start": 424.88,
+      "end": 426.48,
+      "text": "the days ago.",
+      "confidence": 0.6024
+    },
+    {
+      "start": 426.48,
+      "end": 433.16,
+      "text": "To a certain extent, the London Stakiks changed reactor-hiver for the opposite, but as investments",
+      "confidence": 0.6024
+    },
+    {
+      "start": 433.16,
+      "end": 439.96,
+      "text": "as well as foreign bonds dropped, and the turn of the verb was rather low.",
+      "confidence": 0.7389
+    },
+    {
+      "start": 439.96,
+      "end": 445.32,
+      "text": "In contrast to the rather optimistic view of British and French papers, in connection with",
+      "confidence": 0.7389
+    },
+    {
+      "start": 445.32,
+      "end": 451.94,
+      "text": "a Czech problem, the Budapest government paper exec asks, whether after the events of",
+      "confidence": 0.7389
+    },
+    {
+      "start": 451.94,
+      "end": 458.4,
+      "text": "the last couple of days, it was possible to believe that certain Czech circles actually",
+      "confidence": 0.7389
+    },
+    {
+      "start": 458.4,
+      "end": 461.24,
+      "text": "wanted peace and order.",
+      "confidence": 0.6845
+    },
+    {
+      "start": 461.24,
+      "end": 466.96,
+      "text": "An Evangelion paper to put forth to know that a panic-like atmosphere prevailed in Prague",
+      "confidence": 0.6845
+    },
+    {
+      "start": 466.96,
+      "end": 471.68,
+      "text": "as the nationality's problem had entered into its decisive stage.",
+      "confidence": 0.6845
+    },
+    {
+      "start": 471.68,
+      "end": 478.16,
+      "text": "And responsible people knew quite well that this satisfactory solution of the problem",
+      "confidence": 0.6845
+    },
+    {
+      "start": 478.16,
+      "end": 481.72,
+      "text": "might lead to a European conflict.",
+      "confidence": 0.6845
+    },
+    {
+      "start": 481.72,
+      "end": 491.72,
+      "text": "The last Sonyo's paper, Correa Giovanni, dealing with the situation in Czechoslovakia, says",
+      "confidence": 0.7093
+    },
+    {
+      "start": 491.72,
+      "end": 498.04,
+      "text": "that the Czechs had completely lost their heads, and by their conduct, they rendered the",
+      "confidence": 0.7093
+    },
+    {
+      "start": 498.04,
+      "end": 501.0,
+      "text": "situation still more critical.",
+      "confidence": 0.7093
+    },
+    {
+      "start": 501.0,
+      "end": 508.48,
+      "text": "The nationalities' problem in Czechoslovakia urgently demanded a solution, emphasizes the semi-official",
+      "confidence": 0.7093
+    },
+    {
+      "start": 508.48,
+      "end": 514.76,
+      "text": "Polish paper. According to Polish Newspaper reports,",
+      "confidence": 0.6117
+    },
+    {
+      "start": 514.76,
+      "end": 517.28,
+      "text": "primarily Tvinoff, the Soviet Russian foreign",
+      "confidence": 0.6117
+    },
+    {
+      "start": 517.28,
+      "end": 520.64,
+      "text": "chemistry, traveled from Paris to Prague with a",
+      "confidence": 0.6117
+    },
+    {
+      "start": 520.64,
+      "end": 523.8,
+      "text": "full passport issued for certain Markovsky.",
+      "confidence": 0.6117
+    },
+    {
+      "start": 524.92,
+      "end": 527.68,
+      "text": "Conradly Tvinoff is stated to have had discussions",
+      "confidence": 0.6117
+    },
+    {
+      "start": 527.68,
+      "end": 531.52,
+      "text": "with Dr. Vinish, the Czech president, and Dr. Hodja,",
+      "confidence": 0.6117
+    },
+    {
+      "start": 531.52,
+      "end": 532.8,
+      "text": "the Czech prime minister.",
+      "confidence": 0.6117
+    },
+    {
+      "start": 532.8,
+      "end": 540.24,
+      "text": "The servals who date in German officials in Czechoslovakia were subjected to disciplinary",
+      "confidence": 0.6699
+    },
+    {
+      "start": 540.24,
+      "end": 549.16,
+      "text": "punishment, because they had taken part in the man-making of the sedate in German party.",
+      "confidence": 0.6699
+    },
+    {
+      "start": 549.16,
+      "end": 554.88,
+      "text": "Lord Plenith, speaking in the House of Lords of the Anglo-Maxican or Lispute, said that",
+      "confidence": 0.6699
+    },
+    {
+      "start": 554.88,
+      "end": 560.76,
+      "text": "Britain would only be satisfied by the Mexican government, returning the British-owned oil",
+      "confidence": 0.6699
+    },
+    {
+      "start": 560.76,
+      "end": 566.0,
+      "text": "fails to their legal proprietors.",
+      "confidence": 0.6911
+    },
+    {
+      "start": 566.0,
+      "end": 571.84,
+      "text": "The Paris paper Libert\u00e9, dealing with French arms deliveries to Red Spain, declared",
+      "confidence": 0.6911
+    },
+    {
+      "start": 571.84,
+      "end": 579.84,
+      "text": "that since December 26th of last year, every month two ships laid in with arms in ammunition",
+      "confidence": 0.6911
+    },
+    {
+      "start": 579.84,
+      "end": 585.6,
+      "text": "had arrived at Bordeaux, and from there the war material was conveyed to Red Spain by",
+      "confidence": 0.6911
+    },
+    {
+      "start": 585.6,
+      "end": 589.74,
+      "text": "rail and emblauries.",
+      "confidence": 0.6425
+    },
+    {
+      "start": 589.74,
+      "end": 593.94,
+      "text": "The postmortem examination of her Bermond, her off-monger, the two",
+      "confidence": 0.6425
+    },
+    {
+      "start": 593.94,
+      "end": 600.22,
+      "text": "serrated German farmers who were shot dead in anger a couple of days ago proved that they",
+      "confidence": 0.6425
+    },
+    {
+      "start": 600.22,
+      "end": 606.86,
+      "text": "had been fired at from behind and at a distance of only seven yards.",
+      "confidence": 0.6425
+    },
+    {
+      "start": 606.86,
+      "end": 612.54,
+      "text": "Witnesses stated that when the police got fired, the fatal shock Bermond and off-monger",
+      "confidence": 0.6425
+    },
+    {
+      "start": 612.54,
+      "end": 619.9,
+      "text": "motorbike had practically stopped. Thus, the post-mortem examination contradicts the official",
+      "confidence": 0.7292
+    },
+    {
+      "start": 619.9,
+      "end": 626.66,
+      "text": "check report according to which the policeman had aimed at the footwheel, found at the front",
+      "confidence": 0.7292
+    },
+    {
+      "start": 626.66,
+      "end": 634.14,
+      "text": "wheel of the motorbicycle. The interest coupons of the American young",
+      "confidence": 0.7292
+    },
+    {
+      "start": 634.14,
+      "end": 642.78,
+      "text": "on June 1, 1938, which pair the stamp United States of America domicile October 1,",
+      "confidence": 0.6166
+    },
+    {
+      "start": 642.78,
+      "end": 650.06,
+      "text": "1935 will be purchased in the same way as were the coupons, June 1, 1937.",
+      "confidence": 0.6166
+    },
+    {
+      "start": 652.22,
+      "end": 657.9,
+      "text": "Olders of such coupons will on-due date be able to sell their coupons of their value",
+      "confidence": 0.6166
+    },
+    {
+      "start": 657.9,
+      "end": 668.94,
+      "text": "of $20 for $27.50 nominal at Mrs. J. P. Morgan and company New York City or at one of the American",
+      "confidence": 0.7153
+    },
+    {
+      "start": 668.94,
+      "end": 677.5,
+      "text": "agencies of the Hamburg-American line. On the other hand, young marks can be purchased according",
+      "confidence": 0.7153
+    },
+    {
+      "start": 677.5,
+      "end": 679.5,
+      "text": "to regulations.",
+      "confidence": 0.4463
+    }
+  ]
+}

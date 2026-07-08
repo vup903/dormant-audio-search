@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>evaluation — dormant-audio-search</title>
+<style>
+  :root {
+    --ink: #1a1a1a; --muted: #6b6b6b; --line: #e2ddd4;
+    --paper: #faf7f2; --card: #ffffff; --accent: #8a3324;
+    --good: #2e6b4f; --bad: #a03123;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: Georgia, serif; background: var(--paper); color: var(--ink); }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+  header { border-bottom: 3px double var(--ink); padding-bottom: 1rem; margin-bottom: 1.5rem; }
+  h1 { font-size: 1.5rem; } h1 span { color: var(--accent); }
+  .sub { color: var(--muted); font-style: italic; margin-top: .3rem; }
+  nav { margin-top: .5rem; font-size: .85rem; } nav a { color: var(--accent); }
+  h2 { font-size: 1.05rem; margin: 1.6rem 0 .6rem; }
+  .tiles { display: flex; gap: 1rem; flex-wrap: wrap; }
+  .tile {
+    background: var(--card); border: 1px solid var(--line); border-radius: 4px;
+    padding: .9rem 1.2rem; min-width: 130px;
+  }
+  .tile .num { font-size: 1.9rem; font-weight: bold; }
+  .tile .lbl { font-family: system-ui, sans-serif; font-size: .72rem; color: var(--muted);
+    text-transform: uppercase; letter-spacing: .06em; margin-top: .15rem; }
+  .bar { height: 6px; background: var(--line); border-radius: 3px; margin-top: .5rem; overflow: hidden; }
+  .bar i { display: block; height: 100%; background: var(--accent); }
+  table { width: 100%; border-collapse: collapse; background: var(--card);
+    border: 1px solid var(--line); font-size: .88rem; }
+  th, td { text-align: left; padding: .5rem .7rem; border-bottom: 1px solid var(--line);
+    vertical-align: top; }
+  th { font-family: system-ui, sans-serif; font-size: .72rem; text-transform: uppercase;
+    letter-spacing: .06em; color: var(--muted); }
+  .hit { color: var(--good); font-weight: bold; }
+  .miss { color: var(--bad); font-weight: bold; }
+  .mono { font-family: ui-monospace, monospace; font-size: .78rem; color: var(--muted); }
+  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--line);
+    font-size: .8rem; color: var(--muted); line-height: 1.6; }
+  #status { color: var(--muted); font-style: italic; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>evaluation — dormant-audio-<span>search</span></h1>
+    <div class="sub">Golden queries → expected clips, scored with hit@5 and broken down per decade. The per-group breakdown is the bias evaluation.</div>
+    <nav><a href="/">← back to search</a></nav>
+  </header>
+
+  <div id="status">Loading eval/results.json…</div>
+  <div id="content" hidden>
+    <h2>Overall</h2>
+    <div class="tiles" id="tiles"></div>
+
+    <h2>By decade — who does the tool fail?</h2>
+    <table id="decades"><thead>
+      <tr><th>decade</th><th>hit@5</th><th>queries</th><th></th></tr>
+    </thead><tbody></tbody></table>
+
+    <h2>Every query</h2>
+    <table id="queries"><thead>
+      <tr><th></th><th>query</th><th>decade</th><th>expected → got (top 5)</th></tr>
+    </thead><tbody></tbody></table>
+  </div>
+
+  <footer>
+    Rerun with <span class="mono">python -m pytest eval/ -q</span> — the suite fails if overall
+    hit@5 drops below its floor, so retrieval quality is gated by tests, not vibes.
+    Older recordings transcribe worse; if a decade's score lags, that is the tool being
+    honestly worse for that slice of history — the kind of gap a per-community breakdown
+    would surface on a real archive.
+  </footer>
+</div>
+
+<script>
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+(async () => {
+  const status = document.getElementById('status');
+  let d;
+  try {
+    const r = await fetch('/api/eval');
+    if (!r.ok) { status.textContent = (await r.json()).error; return; }
+    d = await r.json();
+  } catch (e) { status.textContent = 'Failed to load results: ' + e; return; }
+
+  status.hidden = true;
+  document.getElementById('content').hidden = false;
+
+  document.getElementById('tiles').innerHTML = `
+    <div class="tile"><div class="num">${(d.overall.hit_at_5*100).toFixed(0)}%</div>
+      <div class="lbl">hit@5 overall</div></div>
+    <div class="tile"><div class="num">${d.overall.hits}/${d.overall.total}</div>
+      <div class="lbl">queries answered</div></div>
+    <div class="tile"><div class="num" style="font-size:.95rem; padding-top:.55rem">${esc(d.generated_at)}</div>
+      <div class="lbl">last run (UTC)</div></div>`;
+
+  const dt = document.querySelector('#decades tbody');
+  for (const [dec, v] of Object.entries(d.per_decade)) {
+    dt.insertAdjacentHTML('beforeend', `<tr>
+      <td>${esc(dec)}</td><td><b>${(v.hit_at_5*100).toFixed(0)}%</b></td>
+      <td>${v.hits}/${v.total}</td>
+      <td style="width:40%"><div class="bar"><i style="width:${v.hit_at_5*100}%"></i></div></td></tr>`);
+  }
+
+  const qt = document.querySelector('#queries tbody');
+  for (const q of d.queries) {
+    qt.insertAdjacentHTML('beforeend', `<tr>
+      <td class="${q.hit ? 'hit' : 'miss'}">${q.hit ? '✓' : '✗'}</td>
+      <td>${esc(q.query)}</td><td>${esc(q.decade)}</td>
+      <td class="mono">${q.expected.map(esc).join(', ')}<br>→ ${q.got.map(g =>
+        q.expected.includes(g) ? '<b>' + esc(g) + '</b>' : esc(g)).join(', ')}</td></tr>`);
+  }
+})();
+</script>
+</body>
+</html>
