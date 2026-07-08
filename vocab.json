@@ -1,0 +1,25 @@
+{
+  "description": "Controlled vocabulary for topic tagging. AI tag output is constrained to these terms and schema-validated; anything outside the list is rejected. In a real archive these would map INTO the institution's own subject-term list, never replace it.",
+  "terms": {
+    "war": "armed conflict, battles, front-line reports, war declarations",
+    "military": "armed forces, defense, soldiers, weapons, mobilization",
+    "election": "elections, campaigns, voting, candidates, ballots",
+    "government": "presidents, congress, legislation, policy, public administration",
+    "international": "foreign affairs, diplomacy, treaties, events abroad",
+    "economy": "business, markets, prices, trade, employment, industry",
+    "labor": "workers, unions, strikes, wages, working conditions",
+    "health": "medicine, disease, public health, hospitals, doctors",
+    "crime": "crime, police, trials, courts, investigations",
+    "disaster": "natural disasters, accidents, fires, floods, emergencies",
+    "weather": "weather reports, forecasts, storms, temperature",
+    "sports": "sports events, games, athletes, scores",
+    "science": "scientific discoveries, technology, inventions, research",
+    "education": "schools, universities, students, teaching",
+    "religion": "churches, faith, religious leaders and events",
+    "agriculture": "farming, crops, livestock, rural life, food production",
+    "transportation": "railroads, aviation, ships, automobiles, roads",
+    "civil-rights": "civil rights, segregation, discrimination, social justice",
+    "entertainment": "film, theater, music, radio programs, celebrities",
+    "human-interest": "everyday life, personal stories, community events"
+  }
+}

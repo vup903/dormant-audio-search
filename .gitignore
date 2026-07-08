@@ -1,0 +1,8 @@
+# audio is fetched from archive.org, not committed
+data/audio/
+# rebuildable artifacts
+data/index/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
