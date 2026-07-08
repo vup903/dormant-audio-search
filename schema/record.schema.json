@@ -25,6 +25,7 @@
       "description": "Rights statement as recorded from the archive.org item (e.g. 'public domain')"
     },
     "audio_file": { "type": "string", "minLength": 1 },
+    "language": { "type": "string", "minLength": 2 },
     "duration_s": { "type": "number", "exclusiveMinimum": 0 },
     "asr": {
       "type": "object",

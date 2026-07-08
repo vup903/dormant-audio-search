@@ -1,0 +1,2973 @@
+{
+  "id": "1938-02-03-nbcb-march-of-time",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 1728.0,
+  "confidence": 0.6864,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "The March of Time.",
+      "confidence": 0.7006
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "News of life.",
+      "confidence": 0.7006
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "A magazine which tells the news of the world and the ways of its people in words and pictures.",
+      "confidence": 0.7006
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "16 million American men, women and children, nine readers per copy,",
+      "confidence": 0.7006
+    },
+    {
+      "start": 27.0,
+      "end": 34.0,
+      "text": "stirring to the strangely compelling desire to see, to know, to be informed, are now reading life each week.",
+      "confidence": 0.7887
+    },
+    {
+      "start": 34.0,
+      "end": 40.0,
+      "text": "And as life goes into its second year, US business is discovering what the US reading public has already discovered.",
+      "confidence": 0.7887
+    },
+    {
+      "start": 40.0,
+      "end": 47.0,
+      "text": "The life's force, the impact of pictures which attract and inform and impel.",
+      "confidence": 0.7887
+    },
+    {
+      "start": 47.0,
+      "end": 52.0,
+      "text": "Last fall, the General Foods Corporation decided to place the advertising of one of its products,",
+      "confidence": 0.7887
+    },
+    {
+      "start": 52.0,
+      "end": 57.0,
+      "text": "Baker's chocolate and cocoa in a special full-color campaign in life.",
+      "confidence": 0.7957
+    },
+    {
+      "start": 57.0,
+      "end": 61.0,
+      "text": "Immediately, General Foods began to feel the life force in advertising.",
+      "confidence": 0.7957
+    },
+    {
+      "start": 61.0,
+      "end": 64.0,
+      "text": "Whole sailors and big retailers tell the story.",
+      "confidence": 0.7957
+    },
+    {
+      "start": 64.0,
+      "end": 69.0,
+      "text": "From Chris T.D. Brothers with 180 stores in and near New York.",
+      "confidence": 0.7957
+    },
+    {
+      "start": 69.0,
+      "end": 75.0,
+      "text": "Baker campaign in life is directly responsible for the major portion of our great recent sales increase",
+      "confidence": 0.7957
+    },
+    {
+      "start": 75.0,
+      "end": 77.0,
+      "text": "of Baker's chocolate and cocoa.",
+      "confidence": 0.7957
+    },
+    {
+      "start": 77.0,
+      "end": 80.0,
+      "text": "From the Imperial Whole Sales grocery company in San Francisco.",
+      "confidence": 0.7957
+    },
+    {
+      "start": 80.0,
+      "end": 85.6,
+      "text": "school. Baker's product sales up 100 percent. Life is gigantic medium for advertising grocery",
+      "confidence": 0.717
+    },
+    {
+      "start": 85.6,
+      "end": 90.48,
+      "text": "product. From Kroger, grocery and baking company Cleveland, customers talk about seeing the",
+      "confidence": 0.717
+    },
+    {
+      "start": 90.48,
+      "end": 95.84,
+      "text": "Baker chocolate advertising in life, then buy. It's meant a big sales increase. Wooden",
+      "confidence": 0.717
+    },
+    {
+      "start": 95.84,
+      "end": 101.2,
+      "text": "Bell and market company Atlanta. Now selling 100 cans of Baker's cocoa to one of any other brands.",
+      "confidence": 0.717
+    },
+    {
+      "start": 101.2,
+      "end": 106.08,
+      "text": "City market to loot. Baker's chocolate sales tripled since advertising in life started.",
+      "confidence": 0.717
+    },
+    {
+      "start": 106.08,
+      "end": 110.68,
+      "text": "Like many another advertiser who discovered the power of the life force in 1937,",
+      "confidence": 0.731
+    },
+    {
+      "start": 110.68,
+      "end": 115.28,
+      "text": "makers talk about it as again, this year, making life the backbone of its advertising campaign.",
+      "confidence": 0.731
+    },
+    {
+      "start": 118.68,
+      "end": 123.28,
+      "text": "Tonight's life, the weekly magazine of pictures, joins time, the weekly news magazine,",
+      "confidence": 0.731
+    },
+    {
+      "start": 123.28,
+      "end": 127.48,
+      "text": "in presenting by radio the reenactment of memorable scenes from the news of the week,",
+      "confidence": 0.731
+    },
+    {
+      "start": 127.48,
+      "end": 128.88,
+      "text": "from the March of Time.",
+      "confidence": 0.731
+    },
+    {
+      "start": 136.08,
+      "end": 142.88,
+      "text": "The U.S. political front. The farmer and the city worker in this country should get together",
+      "confidence": 0.7538
+    },
+    {
+      "start": 142.88,
+      "end": 148.36,
+      "text": "and find out what's keeping them apart. A ham sandwich costs the city worker as much as",
+      "confidence": 0.7538
+    },
+    {
+      "start": 148.36,
+      "end": 154.0,
+      "text": "a farmer gets for a whole pig. And you ought to see one of those ham sandwiches, one tenth",
+      "confidence": 0.7538
+    },
+    {
+      "start": 154.0,
+      "end": 158.08,
+      "text": "ham, one tenth whole wheat, and eight tenths free air.",
+      "confidence": 0.7538
+    },
+    {
+      "start": 158.08,
+      "end": 163.08,
+      "text": "This week stumping the U.S. grassroots in a first cautious appearance on the state of national politics.",
+      "confidence": 0.6397
+    },
+    {
+      "start": 163.08,
+      "end": 170.08,
+      "text": "And thus week with a weather eye on 1904, mid-western New York's rush to interview with the road-tun little mayor of the world's largest city.",
+      "confidence": 0.6397
+    },
+    {
+      "start": 170.08,
+      "end": 173.08,
+      "text": "And what's the significance of this western tour of yours, Mayor LaGuardia?",
+      "confidence": 0.6397
+    },
+    {
+      "start": 173.08,
+      "end": 176.08,
+      "text": "I'm interested in the farm problem. Who isn't?",
+      "confidence": 0.6397
+    },
+    {
+      "start": 176.08,
+      "end": 178.08,
+      "text": "The launch you interested in the presidency in 1940?",
+      "confidence": 0.6397
+    },
+    {
+      "start": 178.08,
+      "end": 179.08,
+      "text": "Well, of course.",
+      "confidence": 0.6397
+    },
+    {
+      "start": 179.08,
+      "end": 180.08,
+      "text": "I think it's going to be a great deal.",
+      "confidence": 0.6397
+    },
+    {
+      "start": 180.08,
+      "end": 181.08,
+      "text": "I think it's going to be a great deal.",
+      "confidence": 0.6397
+    },
+    {
+      "start": 181.08,
+      "end": 182.08,
+      "text": "I think it's going to be a great deal.",
+      "confidence": 0.6397
+    },
+    {
+      "start": 182.08,
+      "end": 183.08,
+      "text": "I think it's going to be a great deal.",
+      "confidence": 0.6397
+    },
+    {
+      "start": 183.08,
+      "end": 185.08,
+      "text": "I think it's going to be a great deal.",
+      "confidence": 0.6397
+    },
+    {
+      "start": 185.08,
+      "end": 187.48,
+      "text": "Well, aren't you interested in the presidency in 1940?",
+      "confidence": 0.8597
+    },
+    {
+      "start": 187.48,
+      "end": 190.28,
+      "text": "Well, of course, but I don't see what that's got to do with me.",
+      "confidence": 0.8597
+    },
+    {
+      "start": 190.28,
+      "end": 192.48,
+      "text": "For what about President Roosevelt's recent statement",
+      "confidence": 0.8597
+    },
+    {
+      "start": 192.48,
+      "end": 195.38,
+      "text": "that the country should draft a younger man for 1940?",
+      "confidence": 0.8597
+    },
+    {
+      "start": 195.38,
+      "end": 196.98,
+      "text": "That could refer to you, couldn't it?",
+      "confidence": 0.8597
+    },
+    {
+      "start": 196.98,
+      "end": 197.88,
+      "text": "Don't be silly.",
+      "confidence": 0.8597
+    },
+    {
+      "start": 197.88,
+      "end": 200.28,
+      "text": "Nobody was ever drafted for a political office.",
+      "confidence": 0.8597
+    },
+    {
+      "start": 200.28,
+      "end": 202.78,
+      "text": "You ought to know better than that, but you would take the job.",
+      "confidence": 0.8597
+    },
+    {
+      "start": 202.78,
+      "end": 204.98,
+      "text": "My boy, let me tell you something.",
+      "confidence": 0.8597
+    },
+    {
+      "start": 204.98,
+      "end": 207.18,
+      "text": "It's a bad thing for a man holding one office",
+      "confidence": 0.8597
+    },
+    {
+      "start": 207.18,
+      "end": 209.18,
+      "text": "to think about obtaining another office.",
+      "confidence": 0.8597
+    },
+    {
+      "start": 209.18,
+      "end": 210.98,
+      "text": "It impairs his usefulness.",
+      "confidence": 0.8597
+    },
+    {
+      "start": 210.98,
+      "end": 213.48,
+      "text": "It's like necking in a closed card and moonlight night",
+      "confidence": 0.8597
+    },
+    {
+      "start": 213.48,
+      "end": 216.32,
+      "text": "after a good dinner in Champagne. Don't start it.",
+      "confidence": 0.6615
+    },
+    {
+      "start": 221.82,
+      "end": 224.22,
+      "text": "So this week, New York's quick-witted little mayor,",
+      "confidence": 0.6615
+    },
+    {
+      "start": 224.22,
+      "end": 225.98,
+      "text": "Fence's away, attempts to bracket him",
+      "confidence": 0.6615
+    },
+    {
+      "start": 225.98,
+      "end": 228.06,
+      "text": "as a 1940 presidential ass group.",
+      "confidence": 0.6615
+    },
+    {
+      "start": 229.06,
+      "end": 232.06,
+      "text": "But this week, surveying the list of potent New Deal possibilities",
+      "confidence": 0.6615
+    },
+    {
+      "start": 232.06,
+      "end": 235.44,
+      "text": "for 1940, joining the ranks with Pennsylvania's governor,",
+      "confidence": 0.6615
+    },
+    {
+      "start": 235.44,
+      "end": 238.46,
+      "text": "George Howard Earl, and Michigan's governor, Frank Murphy,",
+      "confidence": 0.6615
+    },
+    {
+      "start": 238.46,
+      "end": 240.42,
+      "text": "is a man, nominally, a Republican,",
+      "confidence": 0.6615
+    },
+    {
+      "start": 240.42,
+      "end": 242.78,
+      "text": "philosophically, a New Deal Democrat.",
+      "confidence": 0.6615
+    },
+    {
+      "start": 242.78,
+      "end": 246.3,
+      "text": "The only politician in U.S. history to be elected to office with the almost unanimous",
+      "confidence": 0.705
+    },
+    {
+      "start": 246.3,
+      "end": 251.42,
+      "text": "support of liberal and Tory republicans, New Deal and Orthodox Democrats, Communists",
+      "confidence": 0.705
+    },
+    {
+      "start": 251.42,
+      "end": 256.9,
+      "text": "and Tutskyites, Socialists and Labor Rights, Protestants, Catholics and Jews.",
+      "confidence": 0.705
+    },
+    {
+      "start": 256.9,
+      "end": 260.78,
+      "text": "Only politician anywhere whose name means little flower.",
+      "confidence": 0.705
+    },
+    {
+      "start": 260.78,
+      "end": 265.34,
+      "text": "1938 marchers on.",
+      "confidence": 0.705
+    },
+    {
+      "start": 265.34,
+      "end": 276.58,
+      "text": "The Arctic Ocean, this week pushing its way through the pile of ice-clothes of the Arctic",
+      "confidence": 0.6432
+    },
+    {
+      "start": 276.58,
+      "end": 278.7,
+      "text": "Sea north of Spitzbergen.",
+      "confidence": 0.6432
+    },
+    {
+      "start": 278.7,
+      "end": 283.46,
+      "text": "The Soviet Union's icebreaker, Mamanitz, is bound north to pick up a party of four Soviet",
+      "confidence": 0.6432
+    },
+    {
+      "start": 283.46,
+      "end": 287.58,
+      "text": "scientists left at the North Pole eight months ago to make scientific observations.",
+      "confidence": 0.6432
+    },
+    {
+      "start": 287.58,
+      "end": 295.14,
+      "text": "In the radio room of the Mamanitz one day this week, Soviet polar expedition icebreaker",
+      "confidence": 0.6432
+    },
+    {
+      "start": 295.14,
+      "end": 298.98,
+      "text": "Mormanyets calling Soviet polar expedition.",
+      "confidence": 0.6124
+    },
+    {
+      "start": 298.98,
+      "end": 300.14,
+      "text": "Come in.",
+      "confidence": 0.6124
+    },
+    {
+      "start": 300.14,
+      "end": 306.46,
+      "text": "Yes, Mormanyets, this is Apanin, polar expedition.",
+      "confidence": 0.6124
+    },
+    {
+      "start": 306.46,
+      "end": 308.14,
+      "text": "Go ahead.",
+      "confidence": 0.6124
+    },
+    {
+      "start": 308.14,
+      "end": 312.9,
+      "text": "Severe weather disturbance reported off the coast of Greenland.",
+      "confidence": 0.6124
+    },
+    {
+      "start": 312.9,
+      "end": 318.3,
+      "text": "Be prepared for heavy seas and winds of Gail Force within 24 hours.",
+      "confidence": 0.6124
+    },
+    {
+      "start": 318.3,
+      "end": 320.5,
+      "text": "Go ahead.",
+      "confidence": 0.6124
+    },
+    {
+      "start": 320.5,
+      "end": 322.38,
+      "text": "Thank you, comrades.",
+      "confidence": 0.6124
+    },
+    {
+      "start": 322.38,
+      "end": 325.38,
+      "text": "We will make all necessary preparations.",
+      "confidence": 0.7
+    },
+    {
+      "start": 325.38,
+      "end": 328.38,
+      "text": "How near are you to us now?",
+      "confidence": 0.7
+    },
+    {
+      "start": 328.38,
+      "end": 331.38,
+      "text": "We are about 70 miles away.",
+      "confidence": 0.7
+    },
+    {
+      "start": 331.38,
+      "end": 335.38,
+      "text": "Should break through to you in a week or 10 days.",
+      "confidence": 0.7
+    },
+    {
+      "start": 335.38,
+      "end": 337.38,
+      "text": "Keep in touch with us.",
+      "confidence": 0.7
+    },
+    {
+      "start": 343.38,
+      "end": 345.38,
+      "text": "The unites later in the Darajaman hut,",
+      "confidence": 0.7
+    },
+    {
+      "start": 345.38,
+      "end": 349.38,
+      "text": "where the little banders and camped on the ice for the long-aw piquetter.",
+      "confidence": 0.7
+    },
+    {
+      "start": 349.38,
+      "end": 354.88,
+      "text": "What? Wake up. What is it? What do you want?",
+      "confidence": 0.6329
+    },
+    {
+      "start": 354.88,
+      "end": 356.38,
+      "text": "Do you ice?",
+      "confidence": 0.6329
+    },
+    {
+      "start": 356.38,
+      "end": 358.38,
+      "text": "You have that?",
+      "confidence": 0.6329
+    },
+    {
+      "start": 358.38,
+      "end": 359.38,
+      "text": "No.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 359.38,
+      "end": 360.38,
+      "text": "Too near.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 360.38,
+      "end": 362.38,
+      "text": "Come on.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 362.38,
+      "end": 365.38,
+      "text": "It was all with this way, I think.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 365.38,
+      "end": 367.38,
+      "text": "Up to sea, I think.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 367.38,
+      "end": 368.38,
+      "text": "Good.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 368.38,
+      "end": 371.38,
+      "text": "We've broken up from the icefield.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 371.38,
+      "end": 372.38,
+      "text": "You're drifting away.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 372.38,
+      "end": 375.38,
+      "text": "Breaking up. Ice is breaking up.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 375.38,
+      "end": 377.38,
+      "text": "All around us.",
+      "confidence": 0.6329
+    },
+    {
+      "start": 379.38,
+      "end": 389.38,
+      "text": "One hour later in the radio room of the icebreaker mannits.",
+      "confidence": 0.6389
+    },
+    {
+      "start": 389.38,
+      "end": 393.38,
+      "text": "Aller expedition, calling mormonits.",
+      "confidence": 0.6389
+    },
+    {
+      "start": 393.38,
+      "end": 396.38,
+      "text": "Apanin, calling mormonits.",
+      "confidence": 0.6389
+    },
+    {
+      "start": 396.38,
+      "end": 398.38,
+      "text": "Come in.",
+      "confidence": 0.6389
+    },
+    {
+      "start": 398.38,
+      "end": 400.38,
+      "text": "This is the mormonits.",
+      "confidence": 0.6389
+    },
+    {
+      "start": 400.38,
+      "end": 402.38,
+      "text": "Go ahead, papanin.",
+      "confidence": 0.6389
+    },
+    {
+      "start": 402.38,
+      "end": 404.38,
+      "text": "The ice has broken up.",
+      "confidence": 0.6389
+    },
+    {
+      "start": 404.38,
+      "end": 408.38,
+      "text": "We are drifting south on an ice roll.",
+      "confidence": 0.6389
+    },
+    {
+      "start": 408.38,
+      "end": 416.38,
+      "text": "About a hundred yards long, they break up at any time and you get to us, go ahead.",
+      "confidence": 0.7417
+    },
+    {
+      "start": 417.38,
+      "end": 421.38,
+      "text": "No comrade, storm has driven us way off our course.",
+      "confidence": 0.7417
+    },
+    {
+      "start": 422.38,
+      "end": 426.38,
+      "text": "We are jammed in the ice. It will be days before we can get to you.",
+      "confidence": 0.7417
+    },
+    {
+      "start": 427.38,
+      "end": 430.38,
+      "text": "Call Moscow. Give them your position.",
+      "confidence": 0.7417
+    },
+    {
+      "start": 431.38,
+      "end": 433.38,
+      "text": "Perhaps they consent planes.",
+      "confidence": 0.7417
+    },
+    {
+      "start": 433.38,
+      "end": 445.22,
+      "text": "The night somewhere in the Arctic Ocean between Greenland and the coast of Spitzbergam,",
+      "confidence": 0.6304
+    },
+    {
+      "start": 445.22,
+      "end": 451.62,
+      "text": "far-solved scientists are adrift on a dwindling ice-cage, the size of three tennis courts.",
+      "confidence": 0.6304
+    },
+    {
+      "start": 451.62,
+      "end": 456.26,
+      "text": "Cut off from the world, their position growing hourly more dangerous, as they float southward",
+      "confidence": 0.6304
+    },
+    {
+      "start": 456.26,
+      "end": 458.46,
+      "text": "toward the warm waters of the Gulf's clean.",
+      "confidence": 0.6304
+    },
+    {
+      "start": 458.46,
+      "end": 465.46,
+      "text": "Their nearest hope of rescue, the Arctic ship momania, still ice-bound over 100 miles away.",
+      "confidence": 0.6476
+    },
+    {
+      "start": 465.46,
+      "end": 468.46,
+      "text": "Time, march us on.",
+      "confidence": 0.6476
+    },
+    {
+      "start": 474.46,
+      "end": 475.46,
+      "text": "Rockland, New York.",
+      "confidence": 0.6476
+    },
+    {
+      "start": 475.46,
+      "end": 480.46,
+      "text": "This week on the stage of Brooklyn's Weber Theatre at Flatbush Avenue Extension and Fulton Street.",
+      "confidence": 0.6476
+    },
+    {
+      "start": 480.46,
+      "end": 484.46,
+      "text": "You've come to the very sinkhole of creation, Langford.",
+      "confidence": 0.6476
+    },
+    {
+      "start": 484.46,
+      "end": 486.46,
+      "text": "Oh, I say, aren't you being just a bit dramatic?",
+      "confidence": 0.6476
+    },
+    {
+      "start": 486.46,
+      "end": 491.38,
+      "text": "Backstage attired in grease paint, feathers, and three beads for the role of white cargo's",
+      "confidence": 0.7044
+    },
+    {
+      "start": 491.38,
+      "end": 495.46,
+      "text": "self-trade funder they all, actress Annette Margulli stands in the wings.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 495.46,
+      "end": 497.46,
+      "text": "She's coming up, Miss Margulli.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 497.46,
+      "end": 498.46,
+      "text": "Thanks.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 498.46,
+      "end": 500.46,
+      "text": "Any spots in my makeup, Ellen?",
+      "confidence": 0.7044
+    },
+    {
+      "start": 500.46,
+      "end": 501.46,
+      "text": "Turn around, Ellen.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 501.46,
+      "end": 502.46,
+      "text": "No, you look just fine.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 502.46,
+      "end": 503.46,
+      "text": "That's good.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 503.46,
+      "end": 504.46,
+      "text": "Oh, wait a minute, Miss Margulli.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 504.46,
+      "end": 506.46,
+      "text": "These wonderful beaches, you should let me sew it over.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 506.46,
+      "end": 507.46,
+      "text": "Well, all right, but hurry.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 507.46,
+      "end": 509.46,
+      "text": "I got needle and thread right here.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 509.46,
+      "end": 511.46,
+      "text": "Won't take a minute.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 511.46,
+      "end": 512.46,
+      "text": "All right.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 512.46,
+      "end": 513.46,
+      "text": "Hurry now.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 513.46,
+      "end": 514.46,
+      "text": "Okay.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 514.46,
+      "end": 515.46,
+      "text": "Hold the fort, Bella.",
+      "confidence": 0.7044
+    },
+    {
+      "start": 515.46,
+      "end": 520.46,
+      "text": "Hey, Bella, hey, what were you doing then?",
+      "confidence": 0.731
+    },
+    {
+      "start": 520.46,
+      "end": 521.46,
+      "text": "What do you mean?",
+      "confidence": 0.731
+    },
+    {
+      "start": 521.46,
+      "end": 522.46,
+      "text": "I seen you.",
+      "confidence": 0.731
+    },
+    {
+      "start": 522.46,
+      "end": 525.46,
+      "text": "Soaring that beat on Margly's costume.",
+      "confidence": 0.731
+    },
+    {
+      "start": 525.46,
+      "end": 526.46,
+      "text": "Well, so what?",
+      "confidence": 0.731
+    },
+    {
+      "start": 526.46,
+      "end": 529.46,
+      "text": "So you ain't a member of the costume as union, that's what?",
+      "confidence": 0.731
+    },
+    {
+      "start": 529.46,
+      "end": 531.46,
+      "text": "Nobody but union men supposed to fix those costumes.",
+      "confidence": 0.731
+    },
+    {
+      "start": 531.46,
+      "end": 534.46,
+      "text": "Not even fixing the costume as soon as one beat.",
+      "confidence": 0.731
+    },
+    {
+      "start": 534.46,
+      "end": 535.46,
+      "text": "Yeah.",
+      "confidence": 0.731
+    },
+    {
+      "start": 535.46,
+      "end": 536.46,
+      "text": "Well, one beat or a million.",
+      "confidence": 0.731
+    },
+    {
+      "start": 536.46,
+      "end": 539.46,
+      "text": "It's all the same to local 21313.",
+      "confidence": 0.731
+    },
+    {
+      "start": 545.46,
+      "end": 547.96,
+      "text": "We're mysterious, unfettered lane.",
+      "confidence": 0.5841
+    },
+    {
+      "start": 547.96,
+      "end": 549.96,
+      "text": "Do not attend this theater.",
+      "confidence": 0.5841
+    },
+    {
+      "start": 549.96,
+      "end": 553.96,
+      "text": "The scapegoat is unfettered, a local 2-1-3-1-3.",
+      "confidence": 0.5841
+    },
+    {
+      "start": 553.96,
+      "end": 554.96,
+      "text": "The end of the classroom.",
+      "confidence": 0.5841
+    },
+    {
+      "start": 554.96,
+      "end": 556.96,
+      "text": "White car, white car goal.",
+      "confidence": 0.5841
+    },
+    {
+      "start": 556.96,
+      "end": 558.96,
+      "text": "White car goal.",
+      "confidence": 0.5841
+    },
+    {
+      "start": 558.96,
+      "end": 560.96,
+      "text": "White car goal.",
+      "confidence": 0.5841
+    },
+    {
+      "start": 564.46,
+      "end": 568.96,
+      "text": "Up and down in front of Weber's theater, March pickets of the theatrical costumers,",
+      "confidence": 0.5841
+    },
+    {
+      "start": 568.96,
+      "end": 571.46,
+      "text": "Union Local 21-3-13.",
+      "confidence": 0.5841
+    },
+    {
+      "start": 571.46,
+      "end": 574.9,
+      "text": "I'm back and forth across the table and manager Edward Weinstock's office",
+      "confidence": 0.6857
+    },
+    {
+      "start": 574.9,
+      "end": 576.9,
+      "text": "slows the argument with Union negotiators.",
+      "confidence": 0.6857
+    },
+    {
+      "start": 576.9,
+      "end": 578.1,
+      "text": "One bead.",
+      "confidence": 0.6857
+    },
+    {
+      "start": 578.1,
+      "end": 582.58,
+      "text": "An actress gets a girl to sew on one bead and I get pickers in front of my theater.",
+      "confidence": 0.6857
+    },
+    {
+      "start": 582.58,
+      "end": 585.06,
+      "text": "It's depressive, Mr. Weinstock.",
+      "confidence": 0.6857
+    },
+    {
+      "start": 585.06,
+      "end": 588.02,
+      "text": "Start with one bead, where wouldn't a violation's end?",
+      "confidence": 0.6857
+    },
+    {
+      "start": 588.02,
+      "end": 591.62,
+      "text": "But if the costume was won't come back to work, how can I get her a new costume?",
+      "confidence": 0.6857
+    },
+    {
+      "start": 591.62,
+      "end": 594.18,
+      "text": "Eh, let your problem is to Weinstock.",
+      "confidence": 0.6857
+    },
+    {
+      "start": 594.18,
+      "end": 596.02,
+      "text": "Our business is to negotiate.",
+      "confidence": 0.6857
+    },
+    {
+      "start": 596.02,
+      "end": 604.02,
+      "text": "On fair, Werber's theater is a contract breaker.",
+      "confidence": 0.6409
+    },
+    {
+      "start": 604.02,
+      "end": 606.02,
+      "text": "He's got a tender theater.",
+      "confidence": 0.6409
+    },
+    {
+      "start": 606.02,
+      "end": 608.02,
+      "text": "This is a scan play.",
+      "confidence": 0.6409
+    },
+    {
+      "start": 614.02,
+      "end": 618.02,
+      "text": "Hour after hour, picket smarts before Werber's theater.",
+      "confidence": 0.6409
+    },
+    {
+      "start": 618.02,
+      "end": 621.02,
+      "text": "And hour after hour on the Office of Theater Manager Weinstock.",
+      "confidence": 0.6409
+    },
+    {
+      "start": 621.02,
+      "end": 623.02,
+      "text": "The 72nd hour of negotiation.",
+      "confidence": 0.6409
+    },
+    {
+      "start": 623.02,
+      "end": 625.02,
+      "text": "It's no use.",
+      "confidence": 0.6409
+    },
+    {
+      "start": 625.02,
+      "end": 627.02,
+      "text": "It's no use talking anymore.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 627.02,
+      "end": 628.02,
+      "text": "Where are we?",
+      "confidence": 0.8182
+    },
+    {
+      "start": 628.02,
+      "end": 630.02,
+      "text": "Right where we started.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 630.02,
+      "end": 632.02,
+      "text": "We can wait until wine's done.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 632.02,
+      "end": 634.02,
+      "text": "Come in.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 634.02,
+      "end": 636.02,
+      "text": "Oh, hello, Miss Margles.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 636.02,
+      "end": 639.02,
+      "text": "These are the gentlemen from the union.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 639.02,
+      "end": 641.02,
+      "text": "So I hear.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 641.02,
+      "end": 643.02,
+      "text": "And this is the bead they're talking about.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 643.02,
+      "end": 645.02,
+      "text": "This one right here, see?",
+      "confidence": 0.8182
+    },
+    {
+      "start": 645.02,
+      "end": 646.02,
+      "text": "Oh.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 646.02,
+      "end": 647.02,
+      "text": "That one, huh?",
+      "confidence": 0.8182
+    },
+    {
+      "start": 647.02,
+      "end": 648.02,
+      "text": "Yes.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 648.02,
+      "end": 650.02,
+      "text": "And this thing has been going on long enough.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 650.02,
+      "end": 653.02,
+      "text": "So I brought along a pair of scissors.",
+      "confidence": 0.8182
+    },
+    {
+      "start": 653.02,
+      "end": 657.02,
+      "text": "Now, there's your bead. Now what?",
+      "confidence": 0.7119
+    },
+    {
+      "start": 657.02,
+      "end": 662.02,
+      "text": "Well, what do you gentlemen say? Does that make things any different?",
+      "confidence": 0.7119
+    },
+    {
+      "start": 662.02,
+      "end": 666.02,
+      "text": "Well, guess that fixes it. Strikes off.",
+      "confidence": 0.7119
+    },
+    {
+      "start": 671.02,
+      "end": 675.02,
+      "text": "Successful arbitrator of the strike of the week is actress Annette Margulis,",
+      "confidence": 0.7119
+    },
+    {
+      "start": 675.02,
+      "end": 681.02,
+      "text": "playing Tundelael to pack broken houses of weeks end with a costume ornamented by two beads instead of three.",
+      "confidence": 0.7119
+    },
+    {
+      "start": 681.02,
+      "end": 686.02,
+      "text": "Low approved by the Atrical Costumer's Union Local, 21313.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 686.02,
+      "end": 689.02,
+      "text": "1938, march us on.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 697.02,
+      "end": 701.02,
+      "text": "Off the southeast coast of Spain, one morning this week, one day out of Gibraltar,",
+      "confidence": 0.6624
+    },
+    {
+      "start": 701.02,
+      "end": 705.02,
+      "text": "found for the loyalest naval base of Cartagena with a cargo of coal,",
+      "confidence": 0.6624
+    },
+    {
+      "start": 705.02,
+      "end": 708.02,
+      "text": "Clouds, the 887 tonne, pretty straighter and dimmium.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 708.02,
+      "end": 711.02,
+      "text": "There's a few moments before 740 o'clock.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 711.02,
+      "end": 713.02,
+      "text": "As when the captain's cabin off the bridge,",
+      "confidence": 0.7448
+    },
+    {
+      "start": 713.02,
+      "end": 716.02,
+      "text": "the ship's master, Varano, speaks with wife.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 716.02,
+      "end": 718.02,
+      "text": "We'll be informed in a couple of hours, Laura.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 718.02,
+      "end": 720.02,
+      "text": "I might as well get a few things ready.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 720.02,
+      "end": 722.02,
+      "text": "Come in.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 722.02,
+      "end": 723.02,
+      "text": "Captain, look out there.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 723.02,
+      "end": 725.02,
+      "text": "He said it to submarine off-stop.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 725.02,
+      "end": 726.02,
+      "text": "Come on, Laura.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 726.02,
+      "end": 728.02,
+      "text": "Can you make out her nationality, Mr. Thomas?",
+      "confidence": 0.7448
+    },
+    {
+      "start": 728.02,
+      "end": 729.02,
+      "text": "Yes, sir.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 729.02,
+      "end": 730.02,
+      "text": "Yes, sir.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 730.02,
+      "end": 731.02,
+      "text": "Oh, yes.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 731.02,
+      "end": 733.02,
+      "text": "No marks to identify it.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 733.02,
+      "end": 734.02,
+      "text": "How close is it?",
+      "confidence": 0.7448
+    },
+    {
+      "start": 734.02,
+      "end": 736.72,
+      "text": "Lipsa, white streak coming towards us.",
+      "confidence": 0.5374
+    },
+    {
+      "start": 736.72,
+      "end": 737.72,
+      "text": "Torpedo!",
+      "confidence": 0.5374
+    },
+    {
+      "start": 737.72,
+      "end": 740.22,
+      "text": "This guy just like us in the fall, isn't it?",
+      "confidence": 0.5374
+    },
+    {
+      "start": 740.22,
+      "end": 741.72,
+      "text": "All hands on deck!",
+      "confidence": 0.5374
+    },
+    {
+      "start": 745.72,
+      "end": 746.22,
+      "text": "Come on!",
+      "confidence": 0.5374
+    },
+    {
+      "start": 746.22,
+      "end": 748.22,
+      "text": "Notice the cabin for your life now.",
+      "confidence": 0.5374
+    },
+    {
+      "start": 748.22,
+      "end": 749.22,
+      "text": "Do as I tell you.",
+      "confidence": 0.5374
+    },
+    {
+      "start": 749.22,
+      "end": 751.72,
+      "text": "George, S-Box and then S-Wes.",
+      "confidence": 0.5374
+    },
+    {
+      "start": 751.72,
+      "end": 753.22,
+      "text": "Go now to the men below.",
+      "confidence": 0.5374
+    },
+    {
+      "start": 753.22,
+      "end": 756.22,
+      "text": "We'll rip right through inside the Ford Hound.",
+      "confidence": 0.5374
+    },
+    {
+      "start": 756.22,
+      "end": 757.42,
+      "text": "Nothing we can do, sir.",
+      "confidence": 0.5374
+    },
+    {
+      "start": 757.42,
+      "end": 759.02,
+      "text": "No, no, not a chance.",
+      "confidence": 0.5374
+    },
+    {
+      "start": 759.02,
+      "end": 760.22,
+      "text": "We're settling fast.",
+      "confidence": 0.5374
+    },
+    {
+      "start": 760.22,
+      "end": 761.22,
+      "text": "Man the lifeboat!",
+      "confidence": 0.5374
+    },
+    {
+      "start": 761.22,
+      "end": 762.22,
+      "text": "Man the lifeboat!",
+      "confidence": 0.5374
+    },
+    {
+      "start": 762.22,
+      "end": 765.22,
+      "text": "Abandon ship! Abandon ship!",
+      "confidence": 0.6414
+    },
+    {
+      "start": 765.22,
+      "end": 766.22,
+      "text": "Laura!",
+      "confidence": 0.6414
+    },
+    {
+      "start": 766.22,
+      "end": 768.22,
+      "text": "Where's my wife?",
+      "confidence": 0.6414
+    },
+    {
+      "start": 768.22,
+      "end": 769.22,
+      "text": "Laura!",
+      "confidence": 0.6414
+    },
+    {
+      "start": 774.22,
+      "end": 775.22,
+      "text": "Jump, Laura!",
+      "confidence": 0.6414
+    },
+    {
+      "start": 775.22,
+      "end": 777.22,
+      "text": "On the summer side, the boilers have exploded.",
+      "confidence": 0.6414
+    },
+    {
+      "start": 777.22,
+      "end": 778.22,
+      "text": "Jump!",
+      "confidence": 0.6414
+    },
+    {
+      "start": 778.22,
+      "end": 779.22,
+      "text": "Jump, I tell you!",
+      "confidence": 0.6414
+    },
+    {
+      "start": 779.22,
+      "end": 780.22,
+      "text": "Try to keep the ship!",
+      "confidence": 0.6414
+    },
+    {
+      "start": 780.22,
+      "end": 782.22,
+      "text": "The wind can't launch the boats!",
+      "confidence": 0.6414
+    },
+    {
+      "start": 782.22,
+      "end": 783.22,
+      "text": "Jump!",
+      "confidence": 0.6414
+    },
+    {
+      "start": 783.22,
+      "end": 794.82,
+      "text": "In fact, stay in London on the British Foreign Office, Mr. Edmund, the admiral, they confirmed",
+      "confidence": 0.5593
+    },
+    {
+      "start": 794.82,
+      "end": 796.94,
+      "text": "the top peter being in the sinking of the Andeemian.",
+      "confidence": 0.5593
+    },
+    {
+      "start": 796.94,
+      "end": 797.94,
+      "text": "Any particulars?",
+      "confidence": 0.5593
+    },
+    {
+      "start": 797.94,
+      "end": 801.3,
+      "text": "If you think in four minutes, they're only four survivors, no other detainment.",
+      "confidence": 0.5593
+    },
+    {
+      "start": 801.3,
+      "end": 804.3,
+      "text": "But through a call for the internal ambassador at once, tell them it's urgent.",
+      "confidence": 0.5593
+    },
+    {
+      "start": 804.3,
+      "end": 810.3,
+      "text": "And as you wish to talk to the French Embassy, for the Prime Minister, the reason.",
+      "confidence": 0.5593
+    },
+    {
+      "start": 810.3,
+      "end": 824.74,
+      "text": "Mr. Speaker, the Admiralty has now informed that of the 15 persons onboard the Indian,",
+      "confidence": 0.6949
+    },
+    {
+      "start": 824.74,
+      "end": 831.06,
+      "text": "the only survivors were four members of the crew picked up by Spanish loyalist authorities.",
+      "confidence": 0.6949
+    },
+    {
+      "start": 831.06,
+      "end": 836.74,
+      "text": "The Swedish non-intentional control officer and three Britons, the captain and his wife",
+      "confidence": 0.6949
+    },
+    {
+      "start": 836.74,
+      "end": 840.94,
+      "text": "And the second engineer, we're among the 11 who perish.",
+      "confidence": 0.6985
+    },
+    {
+      "start": 840.94,
+      "end": 845.5,
+      "text": "Isn't it usual to express regret at the loss of British lives?",
+      "confidence": 0.6985
+    },
+    {
+      "start": 845.5,
+      "end": 849.74,
+      "text": "It is perhaps usual to express such regret I'm sorry I omitted to do this.",
+      "confidence": 0.6985
+    },
+    {
+      "start": 849.74,
+      "end": 850.66,
+      "text": "This is the speaker.",
+      "confidence": 0.6985
+    },
+    {
+      "start": 850.66,
+      "end": 852.98,
+      "text": "Mr. Speaker, again it has been charged.",
+      "confidence": 0.6985
+    },
+    {
+      "start": 852.98,
+      "end": 854.9,
+      "text": "The submarine was a talent.",
+      "confidence": 0.6985
+    },
+    {
+      "start": 854.9,
+      "end": 858.1,
+      "text": "Again the Italian government has not denied.",
+      "confidence": 0.6985
+    },
+    {
+      "start": 858.1,
+      "end": 861.54,
+      "text": "The time has come for a showdown because any...",
+      "confidence": 0.6985
+    },
+    {
+      "start": 861.54,
+      "end": 866.58,
+      "text": "With the house, with the house, I condemn this attack by a parrot.",
+      "confidence": 0.6985
+    },
+    {
+      "start": 866.58,
+      "end": 870.54,
+      "text": "However, if the endimials captured had been on the recommended course,",
+      "confidence": 0.5556
+    },
+    {
+      "start": 870.54,
+      "end": 874.5,
+      "text": "then there is the right honourable First Guard, the Embassy.",
+      "confidence": 0.5556
+    },
+    {
+      "start": 874.5,
+      "end": 877.9,
+      "text": "The endimials captured in order.",
+      "confidence": 0.5556
+    },
+    {
+      "start": 877.9,
+      "end": 885.9,
+      "text": "Gentlemen, the destroyers' fortune, fury, fire-drake and forest are already in the vicinity of the attack.",
+      "confidence": 0.5556
+    },
+    {
+      "start": 885.9,
+      "end": 889.06,
+      "text": "Four other destroyers are on route from Gibraltar,",
+      "confidence": 0.5556
+    },
+    {
+      "start": 889.06,
+      "end": 894.58,
+      "text": "with orders to sink any part of submarine of any nationality on site without quarter.",
+      "confidence": 0.5556
+    },
+    {
+      "start": 896.58,
+      "end": 906.58,
+      "text": "This week is the fader-and-demion, first British vessel torpedoes in September's anti-piracy agreement.",
+      "confidence": 0.7425
+    },
+    {
+      "start": 906.58,
+      "end": 911.58,
+      "text": "Sinks with the loss of more British lives than in any of the previous 25 British ships attacked.",
+      "confidence": 0.7425
+    },
+    {
+      "start": 911.58,
+      "end": 919.58,
+      "text": "Headed by the battleships Rodney and Nelson, the British home fleet speeds to join the 200 British French and Italian warships concentrated in the Mediterranean.",
+      "confidence": 0.7425
+    },
+    {
+      "start": 919.58,
+      "end": 921.58,
+      "text": "What a week's end!",
+      "confidence": 0.6125
+    },
+    {
+      "start": 921.58,
+      "end": 924.58,
+      "text": "Order's repul Generalissimo Francisco Franco.",
+      "confidence": 0.6125
+    },
+    {
+      "start": 924.58,
+      "end": 928.58,
+      "text": "Against all ships carrying supplies to his Spanish loyalists.",
+      "confidence": 0.6125
+    },
+    {
+      "start": 928.58,
+      "end": 934.58,
+      "text": "All submarines on the my command will begin immediately unrestricted war pair.",
+      "confidence": 0.6125
+    },
+    {
+      "start": 934.58,
+      "end": 937.58,
+      "text": "I'm marcher son!",
+      "confidence": 0.6125
+    },
+    {
+      "start": 943.58,
+      "end": 946.58,
+      "text": "Fortnight ago on the ops of the New York Journal American,",
+      "confidence": 0.6125
+    },
+    {
+      "start": 946.58,
+      "end": 948.86,
+      "text": "in the midst of a hot campaign against New York State's",
+      "confidence": 0.6919
+    },
+    {
+      "start": 948.86,
+      "end": 950.14,
+      "text": "lunacy commission.",
+      "confidence": 0.6919
+    },
+    {
+      "start": 950.14,
+      "end": 953.26,
+      "text": "A series of expos\u00e9 featuring criminal records, lost",
+      "confidence": 0.6919
+    },
+    {
+      "start": 953.26,
+      "end": 956.18,
+      "text": "documents, and firsthand including a city editor,",
+      "confidence": 0.6919
+    },
+    {
+      "start": 956.18,
+      "end": 957.58,
+      "text": "someone's reporter.",
+      "confidence": 0.6919
+    },
+    {
+      "start": 957.58,
+      "end": 961.26,
+      "text": "Now, Alan, this story is going to be part of our special",
+      "confidence": 0.6919
+    },
+    {
+      "start": 961.26,
+      "end": 965.42,
+      "text": "series, the complete load on on what goes on in Rockland,",
+      "confidence": 0.6919
+    },
+    {
+      "start": 965.42,
+      "end": 966.94,
+      "text": "County, and St. Asal.",
+      "confidence": 0.6919
+    },
+    {
+      "start": 966.94,
+      "end": 968.06,
+      "text": "OK.",
+      "confidence": 0.6919
+    },
+    {
+      "start": 968.06,
+      "end": 970.1,
+      "text": "Any idea on how you've been handled?",
+      "confidence": 0.6919
+    },
+    {
+      "start": 970.1,
+      "end": 971.46,
+      "text": "Sure.",
+      "confidence": 0.6919
+    },
+    {
+      "start": 971.46,
+      "end": 973.46,
+      "text": "Why not go right up the asylum and register",
+      "confidence": 0.6919
+    },
+    {
+      "start": 973.46,
+      "end": 974.82,
+      "text": "myself as a nut?",
+      "confidence": 0.6919
+    },
+    {
+      "start": 974.82,
+      "end": 975.98,
+      "text": "You think you could do it?",
+      "confidence": 0.6919
+    },
+    {
+      "start": 975.98,
+      "end": 980.18,
+      "text": "Why not? I'll get into that asylum and get the dope and be back here money.",
+      "confidence": 0.7034
+    },
+    {
+      "start": 985.98,
+      "end": 989.98,
+      "text": "Two hours later, the admission bureau of Rutland County Hospital for the insane.",
+      "confidence": 0.7034
+    },
+    {
+      "start": 990.58,
+      "end": 991.58,
+      "text": "And Dr.",
+      "confidence": 0.7034
+    },
+    {
+      "start": 992.38,
+      "end": 993.98,
+      "text": "I thought a year ago I lost my job.",
+      "confidence": 0.7034
+    },
+    {
+      "start": 994.78,
+      "end": 997.58,
+      "text": "After that, things just seemed to go from bad to worse.",
+      "confidence": 0.7034
+    },
+    {
+      "start": 997.98,
+      "end": 999.18,
+      "text": "Felt depressed?",
+      "confidence": 0.7034
+    },
+    {
+      "start": 999.48,
+      "end": 1001.48,
+      "text": "Yeah, depressed. Worse than that.",
+      "confidence": 0.7034
+    },
+    {
+      "start": 1002.28,
+      "end": 1003.98,
+      "text": "Sometimes I'm afraid I'm going to...",
+      "confidence": 0.7034
+    },
+    {
+      "start": 1004.78,
+      "end": 1005.78,
+      "text": "Going to what?",
+      "confidence": 0.7034
+    },
+    {
+      "start": 1005.98,
+      "end": 1007.98,
+      "text": "Kill myself?",
+      "confidence": 0.725
+    },
+    {
+      "start": 1007.98,
+      "end": 1008.98,
+      "text": "I see.",
+      "confidence": 0.725
+    },
+    {
+      "start": 1008.98,
+      "end": 1009.98,
+      "text": "Will you take me in, Doctor?",
+      "confidence": 0.725
+    },
+    {
+      "start": 1009.98,
+      "end": 1012.98,
+      "text": "I'm afraid to be alone and I'm afraid of it.",
+      "confidence": 0.725
+    },
+    {
+      "start": 1012.98,
+      "end": 1014.98,
+      "text": "I think we can, Mr. Carlin.",
+      "confidence": 0.725
+    },
+    {
+      "start": 1014.98,
+      "end": 1016.98,
+      "text": "They just fill out this car.",
+      "confidence": 0.725
+    },
+    {
+      "start": 1016.98,
+      "end": 1018.98,
+      "text": "Name, address.",
+      "confidence": 0.725
+    },
+    {
+      "start": 1023.98,
+      "end": 1026.98,
+      "text": "Registered as a patient suffering from melancholia",
+      "confidence": 0.725
+    },
+    {
+      "start": 1026.98,
+      "end": 1029.98,
+      "text": "with suicidal tendencies is New Hawk, Alan Fernard.",
+      "confidence": 0.725
+    },
+    {
+      "start": 1029.98,
+      "end": 1031.98,
+      "text": "Known during three days of observation",
+      "confidence": 0.725
+    },
+    {
+      "start": 1031.98,
+      "end": 1034.98,
+      "text": "by weapon-county doctors at Alan Carlin.",
+      "confidence": 0.725
+    },
+    {
+      "start": 1034.98,
+      "end": 1037.48,
+      "text": "Then, one morning, Ward-Round.",
+      "confidence": 0.7678
+    },
+    {
+      "start": 1037.48,
+      "end": 1040.68,
+      "text": "Well, Ellen, how are you feeling this morning?",
+      "confidence": 0.7678
+    },
+    {
+      "start": 1040.68,
+      "end": 1043.98,
+      "text": "Well, Doctor, I've filled out a petition for a lease.",
+      "confidence": 0.7678
+    },
+    {
+      "start": 1043.98,
+      "end": 1045.98,
+      "text": "A petition for a lease?",
+      "confidence": 0.7678
+    },
+    {
+      "start": 1045.98,
+      "end": 1049.48,
+      "text": "Yeah. That's how you get out of here, isn't it?",
+      "confidence": 0.7678
+    },
+    {
+      "start": 1049.48,
+      "end": 1054.98,
+      "text": "Well, Colin, you feel you're ready to leave us already, do you?",
+      "confidence": 0.7678
+    },
+    {
+      "start": 1054.98,
+      "end": 1058.48,
+      "text": "Well, I guess I'll tell you, Doctor.",
+      "confidence": 0.7678
+    },
+    {
+      "start": 1058.48,
+      "end": 1060.98,
+      "text": "I'm a reporter up here on a special assignment.",
+      "confidence": 0.7678
+    },
+    {
+      "start": 1060.98,
+      "end": 1062.98,
+      "text": "Oh, I see.",
+      "confidence": 0.7678
+    },
+    {
+      "start": 1062.98,
+      "end": 1065.38,
+      "text": "Have you been a reporter long, Colin?",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1065.38,
+      "end": 1066.88,
+      "text": "All my life, Britney.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1066.88,
+      "end": 1069.22,
+      "text": "Well, that's very interesting.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1069.22,
+      "end": 1070.78,
+      "text": "Schizofrenia.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1070.78,
+      "end": 1072.38,
+      "text": "Now, wait a minute.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1072.38,
+      "end": 1073.78,
+      "text": "I really am a reporter.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1073.78,
+      "end": 1075.48,
+      "text": "Well, of course you are.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1075.48,
+      "end": 1076.18,
+      "text": "From Mr. Johnson.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1076.18,
+      "end": 1076.98,
+      "text": "Hey, I'm not kidding.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1076.98,
+      "end": 1078.18,
+      "text": "I'm a reporter from the Journal.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1078.18,
+      "end": 1081.18,
+      "text": "I think we'd better go up and talk to Dr. Brown.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1081.18,
+      "end": 1082.98,
+      "text": "He's very interested in reporters.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1082.98,
+      "end": 1084.18,
+      "text": "Now, wait a minute, Dr. Johnson.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1089.18,
+      "end": 1090.18,
+      "text": "I tell you I'm a saint.",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1090.18,
+      "end": 1092.08,
+      "text": "Is anybody I've got to get back to the office?",
+      "confidence": 0.6993
+    },
+    {
+      "start": 1092.08,
+      "end": 1096.16,
+      "text": "Why will I have you back in your office in no time?",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1096.16,
+      "end": 1098.68,
+      "text": "Now, oh, still, while I test your reflex.",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1098.68,
+      "end": 1100.4,
+      "text": "Oh, look, doctor, just know you can tell the phone, will you?",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1100.4,
+      "end": 1101.28,
+      "text": "Later, perhaps.",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1101.28,
+      "end": 1105.44,
+      "text": "But first, some exercise, and a nice warm bath.",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1110.64,
+      "end": 1112.68,
+      "text": "I'll just relax.",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1112.68,
+      "end": 1114.6,
+      "text": "My way back in the water.",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1114.6,
+      "end": 1117.64,
+      "text": "Listen, Doc, please, Doc, I, at Carlin,",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1117.64,
+      "end": 1119.88,
+      "text": "we're only trying to help you.",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1119.88,
+      "end": 1121.4,
+      "text": "Now, lie back.",
+      "confidence": 0.6572
+    },
+    {
+      "start": 1121.4,
+      "end": 1123.7,
+      "text": "I can't get away! I got it!",
+      "confidence": 0.39
+    },
+    {
+      "start": 1129.68,
+      "end": 1132.74,
+      "text": "Handays later in the city room of the New York Journal of America.",
+      "confidence": 0.39
+    },
+    {
+      "start": 1134.56,
+      "end": 1135.74,
+      "text": "Hello, city desk.",
+      "confidence": 0.39
+    },
+    {
+      "start": 1135.74,
+      "end": 1137.06,
+      "text": "Justice Allen, Bernad.",
+      "confidence": 0.39
+    },
+    {
+      "start": 1137.06,
+      "end": 1138.14,
+      "text": "Well, where are you, Ben?",
+      "confidence": 0.39
+    },
+    {
+      "start": 1138.14,
+      "end": 1140.7,
+      "text": "Listen, I just broke away and I got to tell you.",
+      "confidence": 0.39
+    },
+    {
+      "start": 1140.7,
+      "end": 1142.38,
+      "text": "You gotta come and get me out of here.",
+      "confidence": 0.39
+    },
+    {
+      "start": 1142.38,
+      "end": 1143.6,
+      "text": "You gotta come and get me out of here!",
+      "confidence": 0.39
+    },
+    {
+      "start": 1143.6,
+      "end": 1146.2,
+      "text": "Hello? Hello, Allen?",
+      "confidence": 0.39
+    },
+    {
+      "start": 1146.2,
+      "end": 1147.02,
+      "text": "Allen?",
+      "confidence": 0.39
+    },
+    {
+      "start": 1147.02,
+      "end": 1149.7,
+      "text": "Hey, operator, operator trace that clock!",
+      "confidence": 0.39
+    },
+    {
+      "start": 1149.7,
+      "end": 1150.7,
+      "text": "Trace that drop!",
+      "confidence": 0.6832
+    },
+    {
+      "start": 1154.7,
+      "end": 1157.7,
+      "text": "Finally released is journal reporter Alan Bernard.",
+      "confidence": 0.6832
+    },
+    {
+      "start": 1157.7,
+      "end": 1161.7,
+      "text": "For ten days the unwilling guest of a New York institution for the insane.",
+      "confidence": 0.6832
+    },
+    {
+      "start": 1161.7,
+      "end": 1167.7,
+      "text": "At a week's end, journal American President prepare to roll out the inside story of Rockland County asylum.",
+      "confidence": 0.6832
+    },
+    {
+      "start": 1167.7,
+      "end": 1170.7,
+      "text": "Does Rockland County psychiatrist in chief?",
+      "confidence": 0.6832
+    },
+    {
+      "start": 1170.7,
+      "end": 1175.7,
+      "text": "He may be a reporter all right, but I still say he's crazy.",
+      "confidence": 0.6832
+    },
+    {
+      "start": 1175.7,
+      "end": 1178.7,
+      "text": "1938 march was on.",
+      "confidence": 0.6832
+    },
+    {
+      "start": 1179.7,
+      "end": 1192.7,
+      "text": "This week, over North Steer's dark white villa and a wooded section at Dorn in the Netherlands,",
+      "confidence": 0.6305
+    },
+    {
+      "start": 1192.7,
+      "end": 1195.7,
+      "text": "is hoist at the proud banner of the House of Homes on them.",
+      "confidence": 0.6305
+    },
+    {
+      "start": 1195.7,
+      "end": 1206.7,
+      "text": "To mark the 79th birthday of the man who once ruled Continental Europe's greatest empire.",
+      "confidence": 0.6305
+    },
+    {
+      "start": 1206.7,
+      "end": 1210.7,
+      "text": "Let us turn time back to the year 1910.",
+      "confidence": 0.7744
+    },
+    {
+      "start": 1210.7,
+      "end": 1216.7,
+      "text": "In the capital of Windsor Castle, the party of Britain's king Edward VII lies in state.",
+      "confidence": 0.7744
+    },
+    {
+      "start": 1216.7,
+      "end": 1221.7,
+      "text": "Installed in the annual apartments of the new king, George V is Queen Mary,",
+      "confidence": 0.7744
+    },
+    {
+      "start": 1221.7,
+      "end": 1225.7,
+      "text": "the adolescent prince of Wales and the child birthday Duke of York.",
+      "confidence": 0.7744
+    },
+    {
+      "start": 1225.7,
+      "end": 1230.7,
+      "text": "Who one evening walks into the somber library of Windsor Castle, boldly approaches a house guest.",
+      "confidence": 0.7744
+    },
+    {
+      "start": 1230.7,
+      "end": 1233.7,
+      "text": "Good evening, cousin Wilhelm.",
+      "confidence": 0.7744
+    },
+    {
+      "start": 1233.7,
+      "end": 1236.2,
+      "text": "Well, good evening, cousin Bertie.",
+      "confidence": 0.8217
+    },
+    {
+      "start": 1236.2,
+      "end": 1241.7,
+      "text": "I hope I'm not disturbing you, sir, but I thought, since we're cousins, we should get acquainted.",
+      "confidence": 0.8217
+    },
+    {
+      "start": 1242.7,
+      "end": 1249.7,
+      "text": "And since I am the Kaiser of Germany, and you may one day be the King of England, it is doubly imperative, isn't it?",
+      "confidence": 0.8217
+    },
+    {
+      "start": 1249.7,
+      "end": 1251.7,
+      "text": "What book are you reading, sir?",
+      "confidence": 0.8217
+    },
+    {
+      "start": 1251.7,
+      "end": 1255.7,
+      "text": "This is an old German book on military tactics.",
+      "confidence": 0.8217
+    },
+    {
+      "start": 1255.7,
+      "end": 1259.7,
+      "text": "It was given to me by your great grandmother, Queen Victoria.",
+      "confidence": 0.8217
+    },
+    {
+      "start": 1259.7,
+      "end": 1262.7,
+      "text": "She was my grandmother, you know.",
+      "confidence": 0.8217
+    },
+    {
+      "start": 1262.7,
+      "end": 1265.5,
+      "text": "I found it right there on the shallow,",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1265.5,
+      "end": 1267.7,
+      "text": "but I left it when I was about 40.",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1267.7,
+      "end": 1270.9,
+      "text": "Did you used to stay here and win the castle?",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1270.9,
+      "end": 1274.9,
+      "text": "The happiest days of my childhood were spent in this house.",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1274.9,
+      "end": 1277.4,
+      "text": "I know every corner of it.",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1277.4,
+      "end": 1280.9,
+      "text": "Look, you see that armchair over there?",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1280.9,
+      "end": 1282.4,
+      "text": "Yes.",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1282.4,
+      "end": 1284.9,
+      "text": "Well, that's where I was sick once,",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1284.9,
+      "end": 1286.9,
+      "text": "when my grandmother fed me too much pudding.",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1286.9,
+      "end": 1288.5,
+      "text": "David was sick in the hall once,",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1288.5,
+      "end": 1290.9,
+      "text": "and mother gave him a frightful scolding.",
+      "confidence": 0.7686
+    },
+    {
+      "start": 1290.9,
+      "end": 1293.46,
+      "text": "Bertie, whatever you say, the cousin will help.",
+      "confidence": 0.6479
+    },
+    {
+      "start": 1293.46,
+      "end": 1296.94,
+      "text": "Er, we were just discussing all times, me.",
+      "confidence": 0.6479
+    },
+    {
+      "start": 1296.94,
+      "end": 1299.78,
+      "text": "Then Windsor Castle was my home.",
+      "confidence": 0.6479
+    },
+    {
+      "start": 1299.78,
+      "end": 1301.66,
+      "text": "George, remember this?",
+      "confidence": 0.6479
+    },
+    {
+      "start": 1301.66,
+      "end": 1302.62,
+      "text": "Don't you, cousin.",
+      "confidence": 0.6479
+    },
+    {
+      "start": 1302.62,
+      "end": 1304.14,
+      "text": "Indeed, I do.",
+      "confidence": 0.6479
+    },
+    {
+      "start": 1304.14,
+      "end": 1307.22,
+      "text": "I hope you'll always consider this place your home, will he?",
+      "confidence": 0.6479
+    },
+    {
+      "start": 1315.22,
+      "end": 1318.5,
+      "text": "One week later, May 1910, Wilhelm of Poins",
+      "confidence": 0.6479
+    },
+    {
+      "start": 1318.5,
+      "end": 1320.3,
+      "text": "all on returns to Berlin.",
+      "confidence": 0.6479
+    },
+    {
+      "start": 1320.3,
+      "end": 1323.22,
+      "text": "Never to set eyes on his cousin George again.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1323.22,
+      "end": 1324.66,
+      "text": "Never to hear from his English cousins",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1324.66,
+      "end": 1328.26,
+      "text": "after August 1914.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1328.26,
+      "end": 1332.1,
+      "text": "This week of 1938 in Dorn House, his home in exile,",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1332.1,
+      "end": 1333.78,
+      "text": "an erect white bearded old gentleman",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1333.78,
+      "end": 1336.26,
+      "text": "with a shriveled left arm is seeing his last dinner",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1336.26,
+      "end": 1337.42,
+      "text": "guest for the door.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1337.42,
+      "end": 1338.58,
+      "text": "Good night, Bill Helen.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1338.58,
+      "end": 1339.54,
+      "text": "Good night.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1339.54,
+      "end": 1340.38,
+      "text": "Thank you.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1340.38,
+      "end": 1340.86,
+      "text": "Thank you.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1340.86,
+      "end": 1344.18,
+      "text": "Good night.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1344.18,
+      "end": 1346.34,
+      "text": "Hermini.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1346.34,
+      "end": 1347.82,
+      "text": "Hermini.",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1347.82,
+      "end": 1349.42,
+      "text": "Yes, Bill Helen?",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1349.42,
+      "end": 1350.22,
+      "text": "Are you all right?",
+      "confidence": 0.7021
+    },
+    {
+      "start": 1350.22,
+      "end": 1357.22,
+      "text": "Yes, yes, sit down here beside me for a moment, Hermine.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 1357.22,
+      "end": 1358.94,
+      "text": "I've been helping Manila for God.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 1358.94,
+      "end": 1360.94,
+      "text": "Another telegram arrived during dinner.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 1360.94,
+      "end": 1362.42,
+      "text": "Here it is.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 1362.42,
+      "end": 1364.14,
+      "text": "Another?",
+      "confidence": 0.6054
+    },
+    {
+      "start": 1364.14,
+      "end": 1366.94,
+      "text": "All the relatives I've heard from.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 1366.94,
+      "end": 1370.62,
+      "text": "It's me, my glasses, were you my dear?",
+      "confidence": 0.6054
+    },
+    {
+      "start": 1370.62,
+      "end": 1373.78,
+      "text": "Thank you.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 1373.78,
+      "end": 1378.34,
+      "text": "From England, England, Hermine.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 1378.34,
+      "end": 1388.34,
+      "text": "Congratulations in kinship and deep affection signed 30 May in the visible.",
+      "confidence": 0.6327
+    },
+    {
+      "start": 1388.34,
+      "end": 1392.34,
+      "text": "Very well. From Windsor Castle.",
+      "confidence": 0.6327
+    },
+    {
+      "start": 1392.34,
+      "end": 1405.34,
+      "text": "After all these years, 24 years, they never sent me any worth while my cousin George was alive.",
+      "confidence": 0.6327
+    },
+    {
+      "start": 1405.34,
+      "end": 1408.34,
+      "text": "George never could bring himself to write.",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1409.34,
+      "end": 1413.34,
+      "text": "Would have been seventy-three now.",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1413.34,
+      "end": 1417.34,
+      "text": "But I think even he would have let me hear from him now.",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1417.34,
+      "end": 1419.34,
+      "text": "I'm sure he would have, Wilhelm.",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1419.34,
+      "end": 1421.34,
+      "text": "But he...",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1421.34,
+      "end": 1424.34,
+      "text": "And now he's keen.",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1424.34,
+      "end": 1426.34,
+      "text": "May you know what I mean?",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1426.34,
+      "end": 1428.34,
+      "text": "May and I, our friends,",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1428.34,
+      "end": 1431.34,
+      "text": "even before she was engaged to George.",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1431.34,
+      "end": 1433.34,
+      "text": "Yeah, Wilhelm, you must come to bed now.",
+      "confidence": 0.7451
+    },
+    {
+      "start": 1433.34,
+      "end": 1435.34,
+      "text": "Now it's so late.",
+      "confidence": 0.6406
+    },
+    {
+      "start": 1444.34,
+      "end": 1446.34,
+      "text": "This week for the first time in 24 years,",
+      "confidence": 0.6406
+    },
+    {
+      "start": 1446.34,
+      "end": 1448.34,
+      "text": "Millhelm of Horn's all-own is greeted on his birthday",
+      "confidence": 0.6406
+    },
+    {
+      "start": 1448.34,
+      "end": 1451.34,
+      "text": "by his cousin's daughter, the sixth Queen Elizabeth",
+      "confidence": 0.6406
+    },
+    {
+      "start": 1451.34,
+      "end": 1454.34,
+      "text": "and Dowager Queen Mary of Britain's Royal House.",
+      "confidence": 0.6406
+    },
+    {
+      "start": 1454.34,
+      "end": 1467.66,
+      "text": "This week, a bear 15 miles from the Dutch villa where an old monarch lives out his last days,",
+      "confidence": 0.6909
+    },
+    {
+      "start": 1467.66,
+      "end": 1472.06,
+      "text": "the banner of another royal house is unfurled to mark a milestone in the stolid history",
+      "confidence": 0.6909
+    },
+    {
+      "start": 1472.06,
+      "end": 1476.14,
+      "text": "of Orange Nassau, ruling house of the Netherlands.",
+      "confidence": 0.6909
+    },
+    {
+      "start": 1476.14,
+      "end": 1482.02,
+      "text": "At precisely one minute after 10 a.m., out from Holland, Cerzic Palace, a dapper blue-and-orange",
+      "confidence": 0.6909
+    },
+    {
+      "start": 1482.02,
+      "end": 1485.18,
+      "text": "uniformed, act for a flanked by two royal trumpeters,",
+      "confidence": 0.5332
+    },
+    {
+      "start": 1485.18,
+      "end": 1489.02,
+      "text": "strides toward the palace gates, where a crowd has been waiting since dawn.",
+      "confidence": 0.5332
+    },
+    {
+      "start": 1489.02,
+      "end": 1491.42,
+      "text": "Here he comes! He's coming down!",
+      "confidence": 0.5332
+    },
+    {
+      "start": 1491.42,
+      "end": 1495.22,
+      "text": "Stand back! Stand back! Let the Queen's hair up, too!",
+      "confidence": 0.5332
+    },
+    {
+      "start": 1503.02,
+      "end": 1505.82,
+      "text": "Hello, citizens!",
+      "confidence": 0.5332
+    },
+    {
+      "start": 1505.82,
+      "end": 1519.9,
+      "text": "It is with deep felt joy that we proclaim that today, January 31, 1938, through the grace",
+      "confidence": 0.6326
+    },
+    {
+      "start": 1519.9,
+      "end": 1530.58,
+      "text": "of God, is born to the heart of Orange Nassau, and will be bestowed a princess whereby the",
+      "confidence": 0.6326
+    },
+    {
+      "start": 1530.58,
+      "end": 1537.58,
+      "text": "The heart's desire of all the Netherlands people is realized.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1537.58,
+      "end": 1541.58,
+      "text": "Long live the royal family.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1541.58,
+      "end": 1543.58,
+      "text": "A good, a princess, did he say?",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1543.58,
+      "end": 1544.58,
+      "text": "Yeah, good.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1544.58,
+      "end": 1547.58,
+      "text": "Forshave the speaks of the hair to the throne.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1547.58,
+      "end": 1550.58,
+      "text": "I say long live the royal family.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1550.58,
+      "end": 1564.54,
+      "text": "That precisely one minute after ten a.m. out from the garrisons it on. I'm red her and I'm",
+      "confidence": 0.5415
+    },
+    {
+      "start": 1564.54,
+      "end": 1570.74,
+      "text": "a sport. Absolutely Dutch field pieces, under a 51 gun salute. And at that very moment",
+      "confidence": 0.5415
+    },
+    {
+      "start": 1570.74,
+      "end": 1577.22,
+      "text": "in Sumatra, Borneo and Farley on the Salabees, in Sarvan, Majora, Giano and Kurosau, Dutch",
+      "confidence": 0.5415
+    },
+    {
+      "start": 1577.22,
+      "end": 1583.22,
+      "text": "Scarrisons, ring out a salute around the world, for the new heir to the throne of the world's four largest colonial empire.",
+      "confidence": 0.7024
+    },
+    {
+      "start": 1588.22,
+      "end": 1590.22,
+      "text": "You're at 20 minutes past 10.",
+      "confidence": 0.7024
+    },
+    {
+      "start": 1590.22,
+      "end": 1594.22,
+      "text": "In the Royal Soustic Palace, Queen Willamina, Holland enters her daughter's apartment.",
+      "confidence": 0.7024
+    },
+    {
+      "start": 1594.22,
+      "end": 1598.22,
+      "text": "You're younger, my pet. I'm so happy.",
+      "confidence": 0.7024
+    },
+    {
+      "start": 1598.22,
+      "end": 1602.22,
+      "text": "Did you see her mother? She's a beautiful child, my dear.",
+      "confidence": 0.7024
+    },
+    {
+      "start": 1602.22,
+      "end": 1606.22,
+      "text": "Mother, may I be fixed up a little before their heart comes in?",
+      "confidence": 0.7024
+    },
+    {
+      "start": 1607.22,
+      "end": 1609.22,
+      "text": "Can I have my hairdresser?",
+      "confidence": 0.7273
+    },
+    {
+      "start": 1609.22,
+      "end": 1610.22,
+      "text": "Of course you may.",
+      "confidence": 0.7273
+    },
+    {
+      "start": 1610.22,
+      "end": 1613.22,
+      "text": "And can I have my eyebrows plucked right now?",
+      "confidence": 0.7273
+    },
+    {
+      "start": 1613.22,
+      "end": 1615.22,
+      "text": "I'll call Irma to come now.",
+      "confidence": 0.7273
+    },
+    {
+      "start": 1615.22,
+      "end": 1617.22,
+      "text": "Wait, mother.",
+      "confidence": 0.7273
+    },
+    {
+      "start": 1617.22,
+      "end": 1618.22,
+      "text": "Yes, Yuliana.",
+      "confidence": 0.7273
+    },
+    {
+      "start": 1618.22,
+      "end": 1622.22,
+      "text": "I know you and another disappointed it wasn't a boy.",
+      "confidence": 0.7273
+    },
+    {
+      "start": 1622.22,
+      "end": 1626.22,
+      "text": "But, mother, I'm going to have a dozen children.",
+      "confidence": 0.7273
+    },
+    {
+      "start": 1626.22,
+      "end": 1629.22,
+      "text": "We'll get a boy soon a little later.",
+      "confidence": 0.7273
+    },
+    {
+      "start": 1629.22,
+      "end": 1641.46,
+      "text": "This week scanning the long roster of orange relatives, Hollanders speculate whose namesake",
+      "confidence": 0.661
+    },
+    {
+      "start": 1641.46,
+      "end": 1647.74,
+      "text": "their new princess will be, whether cousin's Mary of England, Lord of Norway, or Victoria",
+      "confidence": 0.661
+    },
+    {
+      "start": 1647.74,
+      "end": 1650.3,
+      "text": "of Spain will be honored.",
+      "confidence": 0.661
+    },
+    {
+      "start": 1650.3,
+      "end": 1654.28,
+      "text": "Learn at week's end that proud father Bernhard of Lippe-Bistefeld has registered his daughter",
+      "confidence": 0.661
+    },
+    {
+      "start": 1654.28,
+      "end": 1662.28,
+      "text": "simply as Beatrix explains he I don't know why we named her Beatrix but Julian and I were both",
+      "confidence": 0.7244
+    },
+    {
+      "start": 1662.28,
+      "end": 1669.32,
+      "text": "thinking of names and we thought of Beatrix and we both liked it. I'm Marta's on.",
+      "confidence": 0.7244
+    },
+    {
+      "start": 1675.96,
+      "end": 1680.36,
+      "text": "The pageant of the week's news memorable scenes from the news of the world you have followed",
+      "confidence": 0.7244
+    },
+    {
+      "start": 1680.36,
+      "end": 1685.64,
+      "text": "night on the march of time. It is this great news pageant of the world for magazine life is unfolding",
+      "confidence": 0.8327
+    },
+    {
+      "start": 1685.64,
+      "end": 1691.32,
+      "text": "every week before the eyes of its readers in pictures. People like life. They like life's news",
+      "confidence": 0.8327
+    },
+    {
+      "start": 1691.32,
+      "end": 1696.76,
+      "text": "coverage of events at home and abroad. It's human interest stories. They like life's news",
+      "confidence": 0.8327
+    },
+    {
+      "start": 1696.76,
+      "end": 1702.84,
+      "text": "of art and science. It's there to emotion picture reviews. Big businessmen and little businessmen",
+      "confidence": 0.8327
+    },
+    {
+      "start": 1702.84,
+      "end": 1708.52,
+      "text": "like life. All sale and retail grocers know first hand the power of life in helping to sell their",
+      "confidence": 0.8327
+    },
+    {
+      "start": 1708.52,
+      "end": 1714.28,
+      "text": "products. They like to read life. Along with 18 million other American men, women and children,",
+      "confidence": 0.7961
+    },
+    {
+      "start": 1714.28,
+      "end": 1718.52,
+      "text": "they have discovered the fascination of seeing and knowing. They're following through life's",
+      "confidence": 0.7961
+    },
+    {
+      "start": 1718.52,
+      "end": 1723.96,
+      "text": "pictures, the news of the week and the ways of the world. The new issue of life goes on sale tomorrow",
+      "confidence": 0.7961
+    },
+    {
+      "start": 1723.96,
+      "end": 1729.64,
+      "text": "night. So to make sure of getting your copy, we suggest you ask your news dealer for life tomorrow,",
+      "confidence": 0.7961
+    },
+    {
+      "start": 1729.64,
+      "end": 1730.64,
+      "text": "Friday morning.",
+      "confidence": 0.5218
+    },
+    {
+      "start": 1734.64,
+      "end": 1735.64,
+      "text": "Time!",
+      "confidence": 0.5218
+    },
+    {
+      "start": 1735.64,
+      "end": 1736.64,
+      "text": "March the sun!",
+      "confidence": 0.5218
+    }
+  ]
+}
