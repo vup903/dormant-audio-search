@@ -1,0 +1,404 @@
+{
+  "id": "1945-04-13-bbc-news-dora-bateman-commentary-on-fdrs-death",
+  "title": "News Dora Bateman Commentary On FDRs Death",
+  "program": "BBC",
+  "date": "1945-04-13",
+  "decade": "1940s",
+  "source_url": "https://archive.org/details/1945RadioNews",
+  "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+  "audio_file": "1945-04-13-bbc-news-dora-bateman-commentary-on-fdrs-death.mp3",
+  "language": "en",
+  "duration_s": 279.1,
+  "asr": {
+    "model": "faster-whisper-base",
+    "confidence": 0.7432,
+    "ai_generated": true
+  },
+  "transcript": "This is London, calling North America. Next in our program, we participate in the talk by Mrs. Donald Basement. At 90 hours and 30 seconds, 30 and 30 seconds per night, stand by now for Mrs. Donald Basement. Hello to you, listeners, to station WLS. This is door abatement speaking to you from a busy studio in London. I really don't know how to express the horrible shock I had on listening to the seven o'clock news this morning to hear the death of Mr Roseville. It seems like a personal loss, and I'm sure we English feel it almost as much as if it had been our own leader. For such a fine man, an outstanding example of high-perfect contrast of a critical disability given the will and the courage to have worked so hard and so long for victory and then to be taken as it is inside an engaged tragic. Coming up to town today, there was an air of bloom in the sadness on everyone's face, replacing the brightness that the news of the last few weeks has caused. I think everyone in England likes and respects Mr. Roosevelt, and personally, I've never heard a soul-steak-an-unkind word about him. He seems to be appreciated by all, as a realist and fair, good-living man. I've heard a great many British women, too, express their gifts and to say this is Roosevelt. We haven't forgotten her visits to Britain last summer, and her friendly interest in the a different pop played by British women and girls at war. She must understand so well the feelings of mothers everywhere who watched their boys and girls put on uniform and marched off to war, going away from home perhaps for the first time to live in fighting strange surroundings, doing things their mothers can't follow even in imagination. You know I sometimes think that that's one of the hardest things to bear. I found it still with my own husband during the last war. I couldn't tell of him even with my mind because the experiences he was going through were quite outside anything I'd ever known. We British mothers know how you and the United States must feel with your boys over here in countries you've only read about. Among people you know nothing of. Your letters tell me over and over again of your anxiety for them. And I'd like to assure you once again that in Britain, at least, we are doing all we can to welcome them. Just lately though, many homes in Britain have been pleasant by one piece of news in particular, the overrunning by British and American forces of prison-to-war camps. Already, some of the boys are coming home again. Those who were taken prisoner at arm are liberated. And this week they arrived back in Britain. They had terrible stories to tell if they are forced to march a 400-mile eastward into Germany as our soldiers advanced. But also it, they realized that before very long they would be free again and that's how to keep their spirits up. The other night we heard a young Canadian Airmen speaking on the radio. He had been a prisoner of the Germans for more than five years And the free world seemed a little strange to him. I can imagine how his mother will feel when he walks through the front door of his home again. I think it's so important, don't you? Do he keep the home going for these boys and girls? Home is the place they dream of while on a way. If ever I am one of them, what is the first thing he wants after the fighting is over? I know what the answer will be in advance. First of all, to go home. I think the women who go on cheerfully with their daily lives in spite of all their wounds and the fears are the bravest people on earth. And now that she's door abatement from the BBC in London, returning you to station WLS Chicago. So just had a talk by which is door abatement. Present it from London by the BBC.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "This is London, calling North America.",
+      "confidence": 0.6324
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Next in our program, we participate in the talk by Mrs. Donald Basement.",
+      "confidence": 0.6324
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "At 90 hours and 30 seconds,",
+      "confidence": 0.6324
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "30 and 30 seconds per night,",
+      "confidence": 0.6324
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "stand by now for Mrs. Donald Basement.",
+      "confidence": 0.6324
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Hello to you, listeners, to station WLS.",
+      "confidence": 0.6324
+    },
+    {
+      "start": 28.0,
+      "end": 35.0,
+      "text": "This is door abatement speaking to you from a busy studio in London.",
+      "confidence": 0.7614
+    },
+    {
+      "start": 35.0,
+      "end": 42.0,
+      "text": "I really don't know how to express the horrible shock I had on listening to the seven o'clock news this morning",
+      "confidence": 0.7614
+    },
+    {
+      "start": 42.0,
+      "end": 45.0,
+      "text": "to hear the death of Mr Roseville.",
+      "confidence": 0.7614
+    },
+    {
+      "start": 45.0,
+      "end": 53.0,
+      "text": "It seems like a personal loss, and I'm sure we English feel it almost as much as if it had been our own leader.",
+      "confidence": 0.7614
+    },
+    {
+      "start": 53.0,
+      "end": 60.5,
+      "text": "For such a fine man, an outstanding example of high-perfect contrast of a critical disability",
+      "confidence": 0.6988
+    },
+    {
+      "start": 60.5,
+      "end": 67.0,
+      "text": "given the will and the courage to have worked so hard and so long for victory and then",
+      "confidence": 0.6988
+    },
+    {
+      "start": 67.0,
+      "end": 71.84,
+      "text": "to be taken as it is inside an engaged tragic.",
+      "confidence": 0.6988
+    },
+    {
+      "start": 71.84,
+      "end": 77.34,
+      "text": "Coming up to town today, there was an air of bloom in the sadness on everyone's face,",
+      "confidence": 0.6988
+    },
+    {
+      "start": 77.34,
+      "end": 82.5,
+      "text": "replacing the brightness that the news of the last few weeks has caused.",
+      "confidence": 0.6988
+    },
+    {
+      "start": 82.5,
+      "end": 88.68,
+      "text": "I think everyone in England likes and respects Mr. Roosevelt, and personally, I've never heard",
+      "confidence": 0.6254
+    },
+    {
+      "start": 88.68,
+      "end": 92.1,
+      "text": "a soul-steak-an-unkind word about him.",
+      "confidence": 0.6254
+    },
+    {
+      "start": 92.1,
+      "end": 97.34,
+      "text": "He seems to be appreciated by all, as a realist and fair, good-living man.",
+      "confidence": 0.6254
+    },
+    {
+      "start": 97.34,
+      "end": 103.34,
+      "text": "I've heard a great many British women, too, express their gifts and to say this is",
+      "confidence": 0.6254
+    },
+    {
+      "start": 103.34,
+      "end": 104.34,
+      "text": "Roosevelt.",
+      "confidence": 0.6254
+    },
+    {
+      "start": 104.34,
+      "end": 109.26,
+      "text": "We haven't forgotten her visits to Britain last summer, and her friendly interest in the",
+      "confidence": 0.6254
+    },
+    {
+      "start": 109.26,
+      "end": 113.6,
+      "text": "a different pop played by British women and girls at war.",
+      "confidence": 0.7581
+    },
+    {
+      "start": 113.6,
+      "end": 117.94,
+      "text": "She must understand so well the feelings of mothers everywhere",
+      "confidence": 0.7581
+    },
+    {
+      "start": 117.94,
+      "end": 121.06,
+      "text": "who watched their boys and girls put on uniform",
+      "confidence": 0.7581
+    },
+    {
+      "start": 121.06,
+      "end": 122.74,
+      "text": "and marched off to war,",
+      "confidence": 0.7581
+    },
+    {
+      "start": 122.74,
+      "end": 126.22,
+      "text": "going away from home perhaps for the first time",
+      "confidence": 0.7581
+    },
+    {
+      "start": 126.22,
+      "end": 129.22,
+      "text": "to live in fighting strange surroundings,",
+      "confidence": 0.7581
+    },
+    {
+      "start": 129.22,
+      "end": 133.82,
+      "text": "doing things their mothers can't follow even in imagination.",
+      "confidence": 0.7581
+    },
+    {
+      "start": 133.82,
+      "end": 138.26,
+      "text": "You know I sometimes think that that's one of the hardest things to bear.",
+      "confidence": 0.7581
+    },
+    {
+      "start": 138.26,
+      "end": 142.22,
+      "text": "I found it still with my own husband during the last war.",
+      "confidence": 0.7831
+    },
+    {
+      "start": 142.22,
+      "end": 145.1,
+      "text": "I couldn't tell of him even with my mind",
+      "confidence": 0.7831
+    },
+    {
+      "start": 145.1,
+      "end": 148.18,
+      "text": "because the experiences he was going through",
+      "confidence": 0.7831
+    },
+    {
+      "start": 148.18,
+      "end": 151.02,
+      "text": "were quite outside anything I'd ever known.",
+      "confidence": 0.7831
+    },
+    {
+      "start": 151.98,
+      "end": 154.98,
+      "text": "We British mothers know how you and the United States",
+      "confidence": 0.7831
+    },
+    {
+      "start": 154.98,
+      "end": 158.34,
+      "text": "must feel with your boys over here in countries",
+      "confidence": 0.7831
+    },
+    {
+      "start": 158.34,
+      "end": 160.5,
+      "text": "you've only read about.",
+      "confidence": 0.7831
+    },
+    {
+      "start": 160.5,
+      "end": 163.3,
+      "text": "Among people you know nothing of.",
+      "confidence": 0.7831
+    },
+    {
+      "start": 163.3,
+      "end": 165.7,
+      "text": "Your letters tell me over and over again",
+      "confidence": 0.7831
+    },
+    {
+      "start": 165.7,
+      "end": 167.9,
+      "text": "of your anxiety for them.",
+      "confidence": 0.7831
+    },
+    {
+      "start": 167.9,
+      "end": 174.9,
+      "text": "And I'd like to assure you once again that in Britain, at least, we are doing all we can to welcome them.",
+      "confidence": 0.7712
+    },
+    {
+      "start": 174.9,
+      "end": 180.9,
+      "text": "Just lately though, many homes in Britain have been pleasant by one piece of news in particular,",
+      "confidence": 0.7712
+    },
+    {
+      "start": 180.9,
+      "end": 186.9,
+      "text": "the overrunning by British and American forces of prison-to-war camps.",
+      "confidence": 0.7712
+    },
+    {
+      "start": 186.9,
+      "end": 193.9,
+      "text": "Already, some of the boys are coming home again. Those who were taken prisoner at arm are liberated.",
+      "confidence": 0.7712
+    },
+    {
+      "start": 193.9,
+      "end": 196.9,
+      "text": "And this week they arrived back in Britain.",
+      "confidence": 0.8108
+    },
+    {
+      "start": 196.9,
+      "end": 202.9,
+      "text": "They had terrible stories to tell if they are forced to march a 400-mile eastward into Germany",
+      "confidence": 0.8108
+    },
+    {
+      "start": 202.9,
+      "end": 204.9,
+      "text": "as our soldiers advanced.",
+      "confidence": 0.8108
+    },
+    {
+      "start": 204.9,
+      "end": 209.9,
+      "text": "But also it, they realized that before very long they would be free again",
+      "confidence": 0.8108
+    },
+    {
+      "start": 209.9,
+      "end": 212.9,
+      "text": "and that's how to keep their spirits up.",
+      "confidence": 0.8108
+    },
+    {
+      "start": 212.9,
+      "end": 217.9,
+      "text": "The other night we heard a young Canadian Airmen speaking on the radio.",
+      "confidence": 0.8108
+    },
+    {
+      "start": 217.9,
+      "end": 221.9,
+      "text": "He had been a prisoner of the Germans for more than five years",
+      "confidence": 0.8108
+    },
+    {
+      "start": 221.9,
+      "end": 225.7,
+      "text": "And the free world seemed a little strange to him.",
+      "confidence": 0.8254
+    },
+    {
+      "start": 225.7,
+      "end": 231.6,
+      "text": "I can imagine how his mother will feel when he walks through the front door of his home again.",
+      "confidence": 0.8254
+    },
+    {
+      "start": 231.6,
+      "end": 234.0,
+      "text": "I think it's so important, don't you?",
+      "confidence": 0.8254
+    },
+    {
+      "start": 234.0,
+      "end": 237.8,
+      "text": "Do he keep the home going for these boys and girls?",
+      "confidence": 0.8254
+    },
+    {
+      "start": 237.8,
+      "end": 241.0,
+      "text": "Home is the place they dream of while on a way.",
+      "confidence": 0.8254
+    },
+    {
+      "start": 241.0,
+      "end": 245.6,
+      "text": "If ever I am one of them, what is the first thing he wants after the fighting is over?",
+      "confidence": 0.8254
+    },
+    {
+      "start": 245.6,
+      "end": 248.4,
+      "text": "I know what the answer will be in advance.",
+      "confidence": 0.8254
+    },
+    {
+      "start": 248.4,
+      "end": 251.5,
+      "text": "First of all, to go home.",
+      "confidence": 0.8254
+    },
+    {
+      "start": 251.5,
+      "end": 258.5,
+      "text": "I think the women who go on cheerfully with their daily lives in spite of all their wounds and the fears are the bravest people on earth.",
+      "confidence": 0.7009
+    },
+    {
+      "start": 259.5,
+      "end": 266.5,
+      "text": "And now that she's door abatement from the BBC in London, returning you to station WLS Chicago.",
+      "confidence": 0.7009
+    },
+    {
+      "start": 272.5,
+      "end": 275.5,
+      "text": "So just had a talk by which is door abatement.",
+      "confidence": 0.7009
+    },
+    {
+      "start": 275.5,
+      "end": 278.5,
+      "text": "Present it from London by the BBC.",
+      "confidence": 0.7009
+    }
+  ],
+  "tags": [
+    {
+      "term": "war",
+      "score": 0.321,
+      "ai_generated": true
+    },
+    {
+      "term": "military",
+      "score": 0.3079,
+      "ai_generated": true
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "id": "1939-09-06-bbc-survivors-recall-the-sinking-of-the-ss-athenia",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 287.0,
+  "confidence": 0.8393,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.16,
+      "text": "I arrived on August 14th on the Queen Mary to travel in England, Scotland and France, and",
+      "confidence": 0.8475
+    },
+    {
+      "start": 12.16,
+      "end": 15.84,
+      "text": "at the last minute book to return passage on the Athenia.",
+      "confidence": 0.8475
+    },
+    {
+      "start": 15.84,
+      "end": 19.0,
+      "text": "I was in the third class dining room on Sunday night.",
+      "confidence": 0.8475
+    },
+    {
+      "start": 19.0,
+      "end": 23.56,
+      "text": "I had been dreadfully sick all day, and had just finished a very light supper when the",
+      "confidence": 0.8475
+    },
+    {
+      "start": 23.56,
+      "end": 26.92,
+      "text": "man next to me said, I think I'll set my watch.",
+      "confidence": 0.8475
+    },
+    {
+      "start": 26.92,
+      "end": 31.2,
+      "text": "I was just in the process of setting my own watch when the loud crash of the explosion",
+      "confidence": 0.8243
+    },
+    {
+      "start": 31.2,
+      "end": 36.4,
+      "text": "came, and the support in the dining room, which was practically beside me, came crashing",
+      "confidence": 0.8243
+    },
+    {
+      "start": 36.4,
+      "end": 37.4,
+      "text": "down.",
+      "confidence": 0.8243
+    },
+    {
+      "start": 37.4,
+      "end": 41.72,
+      "text": "Dishes went flying all over the place, lights were extinguished immediately.",
+      "confidence": 0.8243
+    },
+    {
+      "start": 41.72,
+      "end": 46.08,
+      "text": "The boat lurched to the port side and everyone went hurtling across the floor.",
+      "confidence": 0.8243
+    },
+    {
+      "start": 46.08,
+      "end": 49.6,
+      "text": "The fumes were so thick that we thought we would be asphyxiated, and the smell was",
+      "confidence": 0.8243
+    },
+    {
+      "start": 49.6,
+      "end": 51.56,
+      "text": "something terrible.",
+      "confidence": 0.8243
+    },
+    {
+      "start": 51.56,
+      "end": 56.4,
+      "text": "Everyone was crying, oh my god, and we never really expected to see daylight.",
+      "confidence": 0.8243
+    },
+    {
+      "start": 56.4,
+      "end": 61.62,
+      "text": "Somehow, I will never know how, I reached the stairs, being separated from my friends in",
+      "confidence": 0.8398
+    },
+    {
+      "start": 61.62,
+      "end": 63.12,
+      "text": "the meantime.",
+      "confidence": 0.8398
+    },
+    {
+      "start": 63.12,
+      "end": 68.36,
+      "text": "When I got up on deck on the port side, I should say about a mile away, I saw a column",
+      "confidence": 0.8398
+    },
+    {
+      "start": 68.36,
+      "end": 71.6,
+      "text": "of smoke which I took to be from the submarine.",
+      "confidence": 0.8398
+    },
+    {
+      "start": 71.6,
+      "end": 75.88,
+      "text": "There were many dead lying around, and it wasn't very pleasant of course.",
+      "confidence": 0.8398
+    },
+    {
+      "start": 75.88,
+      "end": 80.56,
+      "text": "I couldn't get down into my cabin to get a life-preserver, and dashed frantically around",
+      "confidence": 0.8398
+    },
+    {
+      "start": 80.56,
+      "end": 83.32,
+      "text": "asking everyone where I might find one.",
+      "confidence": 0.8398
+    },
+    {
+      "start": 83.32,
+      "end": 87.64,
+      "text": "They suggested I go into any of the cabins, but I wasn't familiar with the first-class",
+      "confidence": 0.8698
+    },
+    {
+      "start": 87.64,
+      "end": 93.24,
+      "text": "cabins which were nearest to the life-belts, and consequently hardly knew which way to turn.",
+      "confidence": 0.8698
+    },
+    {
+      "start": 93.24,
+      "end": 96.84,
+      "text": "Someone finally threw me a life-belt, and a man helped me put it on.",
+      "confidence": 0.8698
+    },
+    {
+      "start": 96.84,
+      "end": 101.44,
+      "text": "A rope ladder was thrown overboard, and I was just about six feet from the water, when",
+      "confidence": 0.8698
+    },
+    {
+      "start": 101.44,
+      "end": 105.52,
+      "text": "I noticed that the ladder was tangled at the bottom, and I could not possibly proceed",
+      "confidence": 0.8698
+    },
+    {
+      "start": 105.52,
+      "end": 106.76,
+      "text": "any further.",
+      "confidence": 0.8698
+    },
+    {
+      "start": 106.76,
+      "end": 111.28,
+      "text": "The man above was practically on top of my hands all the time, and I was wondering how",
+      "confidence": 0.8698
+    },
+    {
+      "start": 111.28,
+      "end": 116.04,
+      "text": "much longer I could hang on, dangling in the air, when a man who was in the lifeboat",
+      "confidence": 0.8772
+    },
+    {
+      "start": 116.04,
+      "end": 119.4,
+      "text": "flung me a rope which I managed to slide down.",
+      "confidence": 0.8772
+    },
+    {
+      "start": 119.4,
+      "end": 123.6,
+      "text": "There were thirty or thirty-five people in the boat, and we were just ready to push off",
+      "confidence": 0.8772
+    },
+    {
+      "start": 123.6,
+      "end": 126.36,
+      "text": "when we saw a woman struggling in the water.",
+      "confidence": 0.8772
+    },
+    {
+      "start": 126.36,
+      "end": 130.76,
+      "text": "We finally got her into the boat, although it was found that she had broken her arm.",
+      "confidence": 0.8772
+    },
+    {
+      "start": 130.76,
+      "end": 134.96,
+      "text": "As we were pushing off, we saw several women coming down a rope ladder, but they slipped",
+      "confidence": 0.8772
+    },
+    {
+      "start": 134.96,
+      "end": 139.12,
+      "text": "right into the water, and I suppose were dashed against the side of the boat.",
+      "confidence": 0.8772
+    },
+    {
+      "start": 139.12,
+      "end": 141.4,
+      "text": "I never saw them after that.",
+      "confidence": 0.8459
+    },
+    {
+      "start": 141.4,
+      "end": 145.44,
+      "text": "A little later I heard another explosion, and it seemed as if it were right under the",
+      "confidence": 0.8459
+    },
+    {
+      "start": 145.44,
+      "end": 146.6,
+      "text": "lifeboat.",
+      "confidence": 0.8459
+    },
+    {
+      "start": 146.6,
+      "end": 149.48,
+      "text": "It seemed a lifetime until we were finally picked up.",
+      "confidence": 0.8459
+    },
+    {
+      "start": 149.48,
+      "end": 154.04,
+      "text": "I was so exhausted and weak that I had to be helped down to the boat and just flop down",
+      "confidence": 0.8459
+    },
+    {
+      "start": 154.04,
+      "end": 157.68,
+      "text": "and had to make the best of things.",
+      "confidence": 0.8459
+    },
+    {
+      "start": 157.68,
+      "end": 160.36,
+      "text": "I was asleep when the explosion came.",
+      "confidence": 0.8459
+    },
+    {
+      "start": 160.36,
+      "end": 163.12,
+      "text": "The terrific force pitched me down on the floor.",
+      "confidence": 0.8459
+    },
+    {
+      "start": 163.12,
+      "end": 165.32,
+      "text": "Immediately there was a complete black-hot.",
+      "confidence": 0.8459
+    },
+    {
+      "start": 165.32,
+      "end": 168.92,
+      "text": "I couldn't see to collect anything, not even my life jacket.",
+      "confidence": 0.8459
+    },
+    {
+      "start": 168.92,
+      "end": 173.36,
+      "text": "I distinctly remember hearing two detonations almost simultaneously.",
+      "confidence": 0.8263
+    },
+    {
+      "start": 173.36,
+      "end": 177.28,
+      "text": "I found my way out of my cabin and started the struggle to get on deck.",
+      "confidence": 0.8263
+    },
+    {
+      "start": 177.28,
+      "end": 182.68,
+      "text": "I have in mind a general impression of wrecked and distorted steelwork in splintered wood,",
+      "confidence": 0.8263
+    },
+    {
+      "start": 182.68,
+      "end": 188.32,
+      "text": "an awful sound of rushing water and almost overpowering flames.",
+      "confidence": 0.8263
+    },
+    {
+      "start": 188.32,
+      "end": 192.4,
+      "text": "As I made my way to the deck, I encountered at many points the bodies of those who must",
+      "confidence": 0.8263
+    },
+    {
+      "start": 192.4,
+      "end": 194.88,
+      "text": "have been killed in the explosion.",
+      "confidence": 0.8263
+    },
+    {
+      "start": 194.88,
+      "end": 199.24,
+      "text": "When I reached the deck, the scene was remarkably ordered, everything considered.",
+      "confidence": 0.8377
+    },
+    {
+      "start": 199.24,
+      "end": 202.94,
+      "text": "Those who could made their way to their boat stations, but gradually as the boats were slow",
+      "confidence": 0.8377
+    },
+    {
+      "start": 202.94,
+      "end": 207.84,
+      "text": "and being cleared, there was a series of rushes between boat stations.",
+      "confidence": 0.8377
+    },
+    {
+      "start": 207.84,
+      "end": 212.8,
+      "text": "Women and children were being flung into any boat which was ready to take off.",
+      "confidence": 0.8377
+    },
+    {
+      "start": 212.8,
+      "end": 216.96,
+      "text": "Out to sea, I just think we saw puffs of smoke from shells as if the submarine had been",
+      "confidence": 0.8377
+    },
+    {
+      "start": 216.96,
+      "end": 220.64,
+      "text": "firing in an attempt to get the wireless.",
+      "confidence": 0.8377
+    },
+    {
+      "start": 220.64,
+      "end": 224.84,
+      "text": "I helped to get the passengers into the lifeboat at my own station and also into one nearby",
+      "confidence": 0.8377
+    },
+    {
+      "start": 224.84,
+      "end": 229.16,
+      "text": "They were quickly filled, and with a chef who had been assisting me, we made our way",
+      "confidence": 0.8252
+    },
+    {
+      "start": 229.16,
+      "end": 231.92,
+      "text": "to the other side of the ship.",
+      "confidence": 0.8252
+    },
+    {
+      "start": 231.92,
+      "end": 236.04,
+      "text": "Most of the lifeboats seemed to be away, but looking over the rail, we were hailed by",
+      "confidence": 0.8252
+    },
+    {
+      "start": 236.04,
+      "end": 240.16,
+      "text": "a boat which was being lowered into the water until to jump.",
+      "confidence": 0.8252
+    },
+    {
+      "start": 240.16,
+      "end": 242.96,
+      "text": "We managed to get away fairly safely.",
+      "confidence": 0.8252
+    },
+    {
+      "start": 242.96,
+      "end": 246.92,
+      "text": "There were, however, few people on board who knew much about seamanship, and passengers",
+      "confidence": 0.8252
+    },
+    {
+      "start": 246.92,
+      "end": 250.08,
+      "text": "and crew alike, took a hand in the rowing.",
+      "confidence": 0.8252
+    },
+    {
+      "start": 250.08,
+      "end": 256.32,
+      "text": "Presently, a launch came alongside, and an officer came on board and sorted things out.",
+      "confidence": 0.8398
+    },
+    {
+      "start": 256.32,
+      "end": 261.0,
+      "text": "Later the lights of the Athenia came on, and it was then more easy to see our whereabouts.",
+      "confidence": 0.8398
+    },
+    {
+      "start": 261.0,
+      "end": 265.14,
+      "text": "By this time we managed to find flares, and it settled the women and children as comfortably",
+      "confidence": 0.8398
+    },
+    {
+      "start": 265.14,
+      "end": 268.24,
+      "text": "as possible in the bottom of the boat.",
+      "confidence": 0.8398
+    },
+    {
+      "start": 268.24,
+      "end": 272.12,
+      "text": "Altogether we were aboard the lifeboat for about ten hours before being taken on one",
+      "confidence": 0.8398
+    },
+    {
+      "start": 272.12,
+      "end": 275.44,
+      "text": "of the rescue ships at 6.15 in the morning.",
+      "confidence": 0.8398
+    },
+    {
+      "start": 275.44,
+      "end": 280.72,
+      "text": "back on it now, it seems one of the quickest nights I have spent, and is left in my mind",
+      "confidence": 0.8077
+    },
+    {
+      "start": 280.72,
+      "end": 284.72,
+      "text": "and a vague mixture of nightmare and stark reality.",
+      "confidence": 0.5859
+    }
+  ]
+}

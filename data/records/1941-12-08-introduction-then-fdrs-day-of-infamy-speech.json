@@ -1,0 +1,289 @@
+{
+  "id": "1941-12-08-introduction-then-fdrs-day-of-infamy-speech",
+  "title": "Then FDRs Day Of Infamy Speech",
+  "program": "INTRODUCTION",
+  "date": "1941-12-08",
+  "decade": "1940s",
+  "source_url": "https://archive.org/details/1941RadioNews",
+  "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+  "audio_file": "1941-12-08-introduction-then-fdrs-day-of-infamy-speech.mp3",
+  "language": "en",
+  "duration_s": 435.4,
+  "asr": {
+    "model": "faster-whisper-base",
+    "confidence": 0.5077,
+    "ai_generated": true
+  },
+  "transcript": "Senators and representatives, perhaps the distinguished honor of presenting the president of the United States. The boy's cousin, Mr. Speaker, members of the Senate, of the House of Records, the Senate is yesterday, December 7, 1931. The British would learn to insinuate the United States of America to suddenly and deliberately The United States was a peace with our nation, and as a civilization of Japan, we are still in conversation with its government and its emperor, looking for the measurements of peace in the Pacific. Indeed, one hour has passed out. There have been a stir room settlement coming in the American island of Elyahul. The Japanese ambassador to the United States and his colleague delivered to our Secretary of State a panel applied to a recent American magic. And by this requires today, that it seems useless to continue the existing deterministic negotiations, to contain no threats or things or law or the facts. It will to be respected, like the distance and the way from the hand, it should be obvious that the attached was deliberately scanned. My days have even reached to that. During the intervening time, the Japanese government has deliberately served to the three United States by self-statement And expressions are so spoken to you, please. We attacked yesterday on the Hawaiian Islands as close to their damage to American naval and military forces. I regret to tell you that very many American lives have been lost. In addition, Americans should have been attacked by people on the high seas between San Francisco and Honolulu. Yesterday, the Japanese government also launched an attack against Malaya. Last night, General East was attacked by Hong Kong. Last night, General East was attacked by Hong Kong. Last night, Japanese tapas attacked the Filipino. Last night, the Japanese attacked the Greek island. And this morning, the Japanese attacked Midway Island. Japan has therefore undertaken a surprise of countries Extending throughout the Pacific Coast, the facts are yes to the way and today speak for themselves. The people of the United States have already found their opinions and well-underfanged institutions to the very life and safety of our nation. As Commander-in-Chief of the Army and Navy, I have directed the old measures taken for our defense. The airways will all fill me. Remember the character of the onslaught against us. No matter how long it may take us, we'll become the pre-medicators of the invasion. The American people and the rest of the people will win through absolute success. I believe that I entrust the will of the common and of the people. Then I assert that we will not only defend ourselves to the uttermost, but we'll make it very certain that this form of victory shall not regain any danger of it. our salaries exist. There is no blinking at the back. Could our people, our territory, and our interests are in great danger. With confidence, can I ask this with the unbounding the termination of our people, we will gain the remarkable kind, so-so-so-that dogs. I asked that the Congress to prayer, since the ungrateful, and thus the ungrateful, by Japan on Sunday, December 7, 1931, a state-owned law has existed between the United States and the Japanese Empire.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "Senators and representatives, perhaps the distinguished honor of presenting the president of the United States.",
+      "confidence": 0.5408
+    },
+    {
+      "start": 30.0,
+      "end": 40.0,
+      "text": "The boy's cousin, Mr. Speaker, members of the Senate, of the House of Records, the",
+      "confidence": 0.3849
+    },
+    {
+      "start": 40.0,
+      "end": 47.0,
+      "text": "Senate is yesterday, December 7, 1931.",
+      "confidence": 0.3849
+    },
+    {
+      "start": 47.0,
+      "end": 59.0,
+      "text": "The British would learn to insinuate the United States of America to suddenly and deliberately",
+      "confidence": 0.3849
+    },
+    {
+      "start": 59.0,
+      "end": 76.64,
+      "text": "The United States was a peace with our nation, and as a civilization of Japan, we are still",
+      "confidence": 0.4506
+    },
+    {
+      "start": 76.64,
+      "end": 85.04,
+      "text": "in conversation with its government and its emperor, looking for the measurements of peace",
+      "confidence": 0.4506
+    },
+    {
+      "start": 85.04,
+      "end": 93.96,
+      "text": "in the Pacific. Indeed, one hour has passed out. There have been a stir room settlement",
+      "confidence": 0.5298
+    },
+    {
+      "start": 93.96,
+      "end": 102.56,
+      "text": "coming in the American island of Elyahul. The Japanese ambassador to the United States and",
+      "confidence": 0.5298
+    },
+    {
+      "start": 102.56,
+      "end": 112.24,
+      "text": "his colleague delivered to our Secretary of State a panel applied to a recent American",
+      "confidence": 0.5298
+    },
+    {
+      "start": 112.24,
+      "end": 120.82,
+      "text": "magic. And by this requires today, that it seems useless to continue the existing",
+      "confidence": 0.4313
+    },
+    {
+      "start": 120.82,
+      "end": 133.18,
+      "text": "deterministic negotiations, to contain no threats or things or law or the facts. It will",
+      "confidence": 0.4313
+    },
+    {
+      "start": 133.18,
+      "end": 141.08,
+      "text": "to be respected, like the distance and the way from the hand, it should be obvious that",
+      "confidence": 0.4961
+    },
+    {
+      "start": 141.08,
+      "end": 150.56,
+      "text": "the attached was deliberately scanned. My days have even reached to that. During the intervening",
+      "confidence": 0.4961
+    },
+    {
+      "start": 150.56,
+      "end": 160.8,
+      "text": "time, the Japanese government has deliberately served to the three United States by self-statement",
+      "confidence": 0.4961
+    },
+    {
+      "start": 160.8,
+      "end": 166.44,
+      "text": "And expressions are so spoken to you, please.",
+      "confidence": 0.6135
+    },
+    {
+      "start": 166.44,
+      "end": 178.52,
+      "text": "We attacked yesterday on the Hawaiian Islands as close to their damage to American naval and military forces.",
+      "confidence": 0.6135
+    },
+    {
+      "start": 178.52,
+      "end": 184.88,
+      "text": "I regret to tell you that very many American lives have been lost.",
+      "confidence": 0.6135
+    },
+    {
+      "start": 184.88,
+      "end": 189.84,
+      "text": "In addition, Americans should have been attacked by people on the high seas",
+      "confidence": 0.5977
+    },
+    {
+      "start": 189.84,
+      "end": 194.64,
+      "text": "between San Francisco and Honolulu.",
+      "confidence": 0.5977
+    },
+    {
+      "start": 194.64,
+      "end": 203.2,
+      "text": "Yesterday, the Japanese government also launched an attack against Malaya.",
+      "confidence": 0.5977
+    },
+    {
+      "start": 203.2,
+      "end": 208.76,
+      "text": "Last night, General East was attacked by Hong Kong.",
+      "confidence": 0.5977
+    },
+    {
+      "start": 208.76,
+      "end": 213.48,
+      "text": "Last night, General East was attacked by Hong Kong.",
+      "confidence": 0.5977
+    },
+    {
+      "start": 213.48,
+      "end": 219.94,
+      "text": "Last night, Japanese tapas attacked the Filipino.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 219.94,
+      "end": 224.88,
+      "text": "Last night, the Japanese attacked the Greek island.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 224.88,
+      "end": 230.44,
+      "text": "And this morning, the Japanese attacked Midway Island.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 230.44,
+      "end": 235.8,
+      "text": "Japan has therefore undertaken a surprise of countries",
+      "confidence": 0.4823
+    },
+    {
+      "start": 235.8,
+      "end": 247.8,
+      "text": "Extending throughout the Pacific Coast, the facts are yes to the way and today speak for themselves.",
+      "confidence": 0.4984
+    },
+    {
+      "start": 247.8,
+      "end": 256.8,
+      "text": "The people of the United States have already found their opinions and well-underfanged institutions",
+      "confidence": 0.4984
+    },
+    {
+      "start": 256.8,
+      "end": 261.8,
+      "text": "to the very life and safety of our nation.",
+      "confidence": 0.4984
+    },
+    {
+      "start": 261.8,
+      "end": 270.8,
+      "text": "As Commander-in-Chief of the Army and Navy, I have directed the old measures taken for our defense.",
+      "confidence": 0.5383
+    },
+    {
+      "start": 270.8,
+      "end": 274.8,
+      "text": "The airways will all fill me.",
+      "confidence": 0.5383
+    },
+    {
+      "start": 274.8,
+      "end": 280.8,
+      "text": "Remember the character of the onslaught against us.",
+      "confidence": 0.5383
+    },
+    {
+      "start": 280.8,
+      "end": 296.8,
+      "text": "No matter how long it may take us, we'll become the pre-medicators of the invasion.",
+      "confidence": 0.475
+    },
+    {
+      "start": 296.8,
+      "end": 303.8,
+      "text": "The American people and the rest of the people will win through absolute success.",
+      "confidence": 0.475
+    },
+    {
+      "start": 310.8,
+      "end": 338.76,
+      "text": "I believe that I entrust the will of the common and of the people.",
+      "confidence": 0.5167
+    },
+    {
+      "start": 338.76,
+      "end": 346.76,
+      "text": "Then I assert that we will not only defend ourselves to the uttermost, but we'll make it very",
+      "confidence": 0.5921
+    },
+    {
+      "start": 346.76,
+      "end": 362.76,
+      "text": "certain that this form of victory shall not regain any danger of it.",
+      "confidence": 0.5921
+    },
+    {
+      "start": 362.76,
+      "end": 372.74,
+      "text": "our salaries exist. There is no blinking at the back. Could our people, our territory, and",
+      "confidence": 0.5914
+    },
+    {
+      "start": 372.74,
+      "end": 382.78,
+      "text": "our interests are in great danger. With confidence, can I ask this with the unbounding",
+      "confidence": 0.5914
+    },
+    {
+      "start": 382.78,
+      "end": 397.74,
+      "text": "the termination of our people, we will gain the remarkable kind, so-so-so-that dogs.",
+      "confidence": 0.3901
+    },
+    {
+      "start": 397.74,
+      "end": 412.72,
+      "text": "I asked that the Congress to prayer, since the ungrateful, and thus the ungrateful,",
+      "confidence": 0.3901
+    },
+    {
+      "start": 412.72,
+      "end": 431.72,
+      "text": "by Japan on Sunday, December 7, 1931, a state-owned law has existed between the United States and the Japanese Empire.",
+      "confidence": 0.5849
+    }
+  ],
+  "tags": [
+    {
+      "term": "international",
+      "score": 0.4447,
+      "ai_generated": true
+    },
+    {
+      "term": "war",
+      "score": 0.3706,
+      "ai_generated": true
+    },
+    {
+      "term": "military",
+      "score": 0.3027,
+      "ai_generated": true
+    }
+  ]
+}

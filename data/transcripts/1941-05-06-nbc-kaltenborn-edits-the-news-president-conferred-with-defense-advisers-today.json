@@ -1,0 +1,945 @@
+{
+  "id": "1941-05-06-nbc-kaltenborn-edits-the-news-president-conferred-with-defense-advisers-today",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 839.1,
+  "confidence": 0.7598,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.84,
+      "text": "It's H.V. Carltonborn. Are you finding it hard to concentrate on your work these days?",
+      "confidence": 0.7736
+    },
+    {
+      "start": 6.84,
+      "end": 13.18,
+      "text": "Then here's a suggestion for a quick cure. Get out in your car and go. But first, make",
+      "confidence": 0.7736
+    },
+    {
+      "start": 13.18,
+      "end": 19.1,
+      "text": "sure your car is cured of its spring fever too. Get that lazy, low-key, winter-wearty feeling",
+      "confidence": 0.7736
+    },
+    {
+      "start": 19.1,
+      "end": 24.66,
+      "text": "out of your car with pure oil's complete bumper to bumper change over service. Every",
+      "confidence": 0.7736
+    },
+    {
+      "start": 24.66,
+      "end": 29.62,
+      "text": "car needs all these services to get set for summer driving and your nearest pure oil",
+      "confidence": 0.7736
+    },
+    {
+      "start": 29.62,
+      "end": 35.38,
+      "text": "dealer is the man to do the job right. You'll save time and money by putting your car in",
+      "confidence": 0.801
+    },
+    {
+      "start": 35.38,
+      "end": 41.14,
+      "text": "shape for summer the pure oil away and you can get something for yourself besides. Pure",
+      "confidence": 0.801
+    },
+    {
+      "start": 41.14,
+      "end": 45.86,
+      "text": "oil dealers are now offering a bargain as a bonus with their bumper to bumper change over",
+      "confidence": 0.801
+    },
+    {
+      "start": 45.86,
+      "end": 53.38,
+      "text": "service. It's a fitted picnic hamper, a $2 retail value for only 98 cents with the change",
+      "confidence": 0.801
+    },
+    {
+      "start": 53.38,
+      "end": 54.38,
+      "text": "over.",
+      "confidence": 0.7936
+    },
+    {
+      "start": 54.38,
+      "end": 58.98,
+      "text": "See your pure oil dealer for details on how to get it at Field Station.",
+      "confidence": 0.7936
+    },
+    {
+      "start": 58.98,
+      "end": 60.58,
+      "text": "And now, H.V.",
+      "confidence": 0.7936
+    },
+    {
+      "start": 60.58,
+      "end": 61.58,
+      "text": "Carlton-Born.",
+      "confidence": 0.7936
+    },
+    {
+      "start": 61.58,
+      "end": 63.58,
+      "text": "Good evening, everybody.",
+      "confidence": 0.7936
+    },
+    {
+      "start": 63.58,
+      "end": 67.38,
+      "text": "The president conferred today with his principal advisers on defense.",
+      "confidence": 0.7936
+    },
+    {
+      "start": 67.38,
+      "end": 71.46,
+      "text": "He asked that advice on what must be done to speed the production of heavy bombing planes",
+      "confidence": 0.7936
+    },
+    {
+      "start": 71.46,
+      "end": 72.46,
+      "text": "for Britain.",
+      "confidence": 0.7936
+    },
+    {
+      "start": 72.46,
+      "end": 77.74,
+      "text": "On the basis of the advice he received today, the president knows that it is one thing",
+      "confidence": 0.7936
+    },
+    {
+      "start": 77.74,
+      "end": 81.94,
+      "text": "to order more speed, but quite another to secure it.",
+      "confidence": 0.7936
+    },
+    {
+      "start": 81.94,
+      "end": 91.98,
+      "text": "In the production of airplanes, we have reached the limit unless, and here is the unless, unless",
+      "confidence": 0.7935
+    },
+    {
+      "start": 91.98,
+      "end": 97.22,
+      "text": "materials now assigned to private manufacturers for private purposes are repossessed and turned",
+      "confidence": 0.7935
+    },
+    {
+      "start": 97.22,
+      "end": 104.46,
+      "text": "over to airplane manufacturing plants, unless trained technicians employed by private enterprise",
+      "confidence": 0.7935
+    },
+    {
+      "start": 104.46,
+      "end": 111.18,
+      "text": "and in less essential defense enterprises are released to the airplane industry, unless",
+      "confidence": 0.7935
+    },
+    {
+      "start": 111.18,
+      "end": 116.38,
+      "text": "Experienced farming and supervisors trained in operations with some relation to aircraft",
+      "confidence": 0.7677
+    },
+    {
+      "start": 116.38,
+      "end": 122.58,
+      "text": "production are made available to the airplane industry unless there is a cessation of strikes",
+      "confidence": 0.7677
+    },
+    {
+      "start": 122.58,
+      "end": 130.1,
+      "text": "in plants producing airplane materials or airplane parts unless there is decisive action to",
+      "confidence": 0.7677
+    },
+    {
+      "start": 130.1,
+      "end": 136.9,
+      "text": "force much more subcontracting throughout the aircraft industry unless the president can",
+      "confidence": 0.7677
+    },
+    {
+      "start": 136.9,
+      "end": 144.66,
+      "text": "make much more clear than he has so far the immediate urgency of all these departures",
+      "confidence": 0.7836
+    },
+    {
+      "start": 144.66,
+      "end": 147.26,
+      "text": "from our normal way of life.",
+      "confidence": 0.7836
+    },
+    {
+      "start": 147.26,
+      "end": 152.78,
+      "text": "It is perfectly evident that the administration in Washington has received news which indicates",
+      "confidence": 0.7836
+    },
+    {
+      "start": 152.78,
+      "end": 157.9,
+      "text": "that we must speed our health to Britain if it is to be made effective.",
+      "confidence": 0.7836
+    },
+    {
+      "start": 157.9,
+      "end": 162.98,
+      "text": "Secretary of the Navy Knox and Secretary of State Hall have minced no words in telling",
+      "confidence": 0.7836
+    },
+    {
+      "start": 162.98,
+      "end": 164.5,
+      "text": "us these things.",
+      "confidence": 0.7836
+    },
+    {
+      "start": 164.5,
+      "end": 170.7,
+      "text": "Tonight, Secretary of Washington will have his turn, but no number of the Cabinet is able",
+      "confidence": 0.7755
+    },
+    {
+      "start": 170.7,
+      "end": 177.3,
+      "text": "to speak as forcefully or as persuasively as the President himself.",
+      "confidence": 0.7755
+    },
+    {
+      "start": 177.3,
+      "end": 182.64,
+      "text": "Mittens representatives in the United States and, in Great Britain, are doing their best",
+      "confidence": 0.7755
+    },
+    {
+      "start": 182.64,
+      "end": 187.78,
+      "text": "to drive home the urgency of Britain's situation without striking any note of apprehension or",
+      "confidence": 0.7755
+    },
+    {
+      "start": 187.78,
+      "end": 188.78,
+      "text": "panic.",
+      "confidence": 0.7755
+    },
+    {
+      "start": 188.78,
+      "end": 193.32,
+      "text": "When the premier of Australia arrives in the United States tonight from London, it is",
+      "confidence": 0.7755
+    },
+    {
+      "start": 193.32,
+      "end": 198.92,
+      "text": "quite likely that he will seek to make clear to us the changed situation that results from",
+      "confidence": 0.7737
+    },
+    {
+      "start": 198.92,
+      "end": 205.52,
+      "text": "Hitler's conquest of Greece and Yugoslavia. In London today, Foreign Secretary Edmond",
+      "confidence": 0.7737
+    },
+    {
+      "start": 205.52,
+      "end": 211.2,
+      "text": "came to the United States to use its influence to have air, give Britain an Irish basis for",
+      "confidence": 0.7737
+    },
+    {
+      "start": 211.2,
+      "end": 217.28,
+      "text": "the battle of the Atlantic. The Foreign Secretary said, if Hitler wins there, he wins",
+      "confidence": 0.7737
+    },
+    {
+      "start": 217.28,
+      "end": 223.08,
+      "text": "the war. Edmond described Britain's position in relation to where, as fantastic. He",
+      "confidence": 0.7737
+    },
+    {
+      "start": 223.08,
+      "end": 229.44,
+      "text": "He claimed the British use of bases at Bayer-Haven and Los-Winley would transform the submarine",
+      "confidence": 0.6896
+    },
+    {
+      "start": 229.44,
+      "end": 231.28,
+      "text": "war overnight.",
+      "confidence": 0.6896
+    },
+    {
+      "start": 231.28,
+      "end": 234.12,
+      "text": "His words on American help were these.",
+      "confidence": 0.6896
+    },
+    {
+      "start": 234.12,
+      "end": 240.32,
+      "text": "The United States is today helping us greatly in many spheres and many ways.",
+      "confidence": 0.6896
+    },
+    {
+      "start": 240.32,
+      "end": 247.4,
+      "text": "The more silly, the more rapidly, the more certainly that help can reach the battlefields in",
+      "confidence": 0.6896
+    },
+    {
+      "start": 247.4,
+      "end": 253.16,
+      "text": "Asia, Africa, and Europe, the shorter would be the duration of the war.",
+      "confidence": 0.8002
+    },
+    {
+      "start": 253.16,
+      "end": 257.16,
+      "text": "In the United States, Senator Pepper told the Senate that the American people are ready",
+      "confidence": 0.8002
+    },
+    {
+      "start": 257.16,
+      "end": 261.2,
+      "text": "to spill their blood, to prevent dictators from holding the earth.",
+      "confidence": 0.8002
+    },
+    {
+      "start": 261.2,
+      "end": 266.32,
+      "text": "He urged the United States to get tough by cooperating with Britain in the occupation",
+      "confidence": 0.8002
+    },
+    {
+      "start": 266.32,
+      "end": 272.92,
+      "text": "of Greenland, Iceland, the Azores, the Cape Verd Islands, the Canary Islands, Dakar in West",
+      "confidence": 0.8002
+    },
+    {
+      "start": 272.92,
+      "end": 277.16,
+      "text": "Africa, and Singapore in the Far East.",
+      "confidence": 0.8002
+    },
+    {
+      "start": 277.16,
+      "end": 282.16,
+      "text": "On Singapore, the air could be advised given to the United States by Hallit Abund.",
+      "confidence": 0.7328
+    },
+    {
+      "start": 282.16,
+      "end": 287.16,
+      "text": "Long-time New York Times got responded in China and one of the ablest students of the",
+      "confidence": 0.7328
+    },
+    {
+      "start": 287.16,
+      "end": 288.16,
+      "text": "Far East.",
+      "confidence": 0.7328
+    },
+    {
+      "start": 288.16,
+      "end": 296.16,
+      "text": "In his book, Japan Unmasked, Abund says, once Japan makes an assault upon that key position,",
+      "confidence": 0.7328
+    },
+    {
+      "start": 296.16,
+      "end": 299.16,
+      "text": "it will be too late for us to get there.",
+      "confidence": 0.7328
+    },
+    {
+      "start": 299.16,
+      "end": 306.96,
+      "text": "We did not send our fleet westward to or towards Singapore because we feared such an action",
+      "confidence": 0.7328
+    },
+    {
+      "start": 306.96,
+      "end": 311.96,
+      "text": "and might anger Japan to the point of a declaration of war.",
+      "confidence": 0.7613
+    },
+    {
+      "start": 312.04,
+      "end": 316.28,
+      "text": "Our reframing from action may go down in history",
+      "confidence": 0.7613
+    },
+    {
+      "start": 316.28,
+      "end": 319.16,
+      "text": "as another blunder of the democracies,",
+      "confidence": 0.7613
+    },
+    {
+      "start": 319.16,
+      "end": 322.8,
+      "text": "trying to avert an inevitable conflict.",
+      "confidence": 0.7613
+    },
+    {
+      "start": 324.12,
+      "end": 326.44,
+      "text": "In the House of Representatives today,",
+      "confidence": 0.7613
+    },
+    {
+      "start": 326.44,
+      "end": 329.16,
+      "text": "that body refused to prohibit the transfer",
+      "confidence": 0.7613
+    },
+    {
+      "start": 329.16,
+      "end": 333.92,
+      "text": "of confiscated German and Italian ships to Great Britain.",
+      "confidence": 0.7613
+    },
+    {
+      "start": 333.92,
+      "end": 340.72,
+      "text": "Members of the House declared before the vote that subject transfer would be an act of war",
+      "confidence": 0.7572
+    },
+    {
+      "start": 340.72,
+      "end": 346.56,
+      "text": "and the regard to be specifically prohibited before the House votes to authorize the confiscation",
+      "confidence": 0.7572
+    },
+    {
+      "start": 346.56,
+      "end": 348.36,
+      "text": "of these ships.",
+      "confidence": 0.7572
+    },
+    {
+      "start": 348.36,
+      "end": 357.24,
+      "text": "By a vote of 161 to 131, the House declared itself willing to face whatever risks were",
+      "confidence": 0.7572
+    },
+    {
+      "start": 357.24,
+      "end": 360.2,
+      "text": "involved in that procedure.",
+      "confidence": 0.7572
+    },
+    {
+      "start": 360.2,
+      "end": 365.56,
+      "text": "In both House and Senate today, it became evident that there is growing apprehension about",
+      "confidence": 0.7289
+    },
+    {
+      "start": 365.56,
+      "end": 367.76,
+      "text": "the imminence of war.",
+      "confidence": 0.7289
+    },
+    {
+      "start": 367.76,
+      "end": 375.08,
+      "text": "Joseph Stalin has replaced VM Molotov as Soviet premier.",
+      "confidence": 0.7289
+    },
+    {
+      "start": 375.08,
+      "end": 379.68,
+      "text": "Stalin has assumed his new duties as chairman of the Council of the People's Commissars",
+      "confidence": 0.7289
+    },
+    {
+      "start": 379.68,
+      "end": 386.28,
+      "text": "in addition to his position as General Secretary of the Central Committee of the Communist Party.",
+      "confidence": 0.7289
+    },
+    {
+      "start": 386.28,
+      "end": 393.76,
+      "text": "And all of us will henceforth devote himself exclusively to his duties as foreign minister.",
+      "confidence": 0.7124
+    },
+    {
+      "start": 393.76,
+      "end": 399.52,
+      "text": "On its face, this shift implies no change in Soviet policy.",
+      "confidence": 0.7124
+    },
+    {
+      "start": 399.52,
+      "end": 404.16,
+      "text": "If anything, he'd emphasise as Russia's desire to remain neutral.",
+      "confidence": 0.7124
+    },
+    {
+      "start": 404.16,
+      "end": 411.56,
+      "text": "Instead of working from behind the scenes, Stalin now steps to the front of the stage as the Soviet",
+      "confidence": 0.7124
+    },
+    {
+      "start": 411.56,
+      "end": 419.32,
+      "text": "But we should remember that Stalin has personally participated in every important act of recent",
+      "confidence": 0.7349
+    },
+    {
+      "start": 419.32,
+      "end": 421.08,
+      "text": "Soviet foreign policy.",
+      "confidence": 0.7349
+    },
+    {
+      "start": 421.08,
+      "end": 426.0,
+      "text": "He favoured Likvinov's policy of collaborating with the League of Nations.",
+      "confidence": 0.7349
+    },
+    {
+      "start": 426.0,
+      "end": 432.48,
+      "text": "On behalf of the principle of collective security, while that policy presented advantages to",
+      "confidence": 0.7349
+    },
+    {
+      "start": 432.48,
+      "end": 440.6,
+      "text": "Soviet Russia, when Stalin saw that France and Britain by their policy of appeasement that",
+      "confidence": 0.7349
+    },
+    {
+      "start": 440.6,
+      "end": 444.64,
+      "text": "strengthened the dictators, he turned to them.",
+      "confidence": 0.7182
+    },
+    {
+      "start": 444.64,
+      "end": 448.56,
+      "text": "Leblina was replaced by Molotov, his foreign commissar.",
+      "confidence": 0.7182
+    },
+    {
+      "start": 448.56,
+      "end": 456.56,
+      "text": "Four months later, in August 1939 Joseph Stalin made the pact with Adolf Hitler, which",
+      "confidence": 0.7182
+    },
+    {
+      "start": 456.56,
+      "end": 460.0,
+      "text": "cleared the way for the Nazi attack on Poland.",
+      "confidence": 0.7182
+    },
+    {
+      "start": 460.0,
+      "end": 466.12,
+      "text": "This is what we mean when we say that Soviet Russia gave the signal for the beginning of",
+      "confidence": 0.7182
+    },
+    {
+      "start": 466.12,
+      "end": 468.2,
+      "text": "the World War.",
+      "confidence": 0.7182
+    },
+    {
+      "start": 468.2,
+      "end": 473.16,
+      "text": "As premier of the Soviet Union, Stalin will serve as chairman of the Council of People's",
+      "confidence": 0.7512
+    },
+    {
+      "start": 473.16,
+      "end": 474.66,
+      "text": "Commissars.",
+      "confidence": 0.7512
+    },
+    {
+      "start": 474.66,
+      "end": 479.74,
+      "text": "This means that he will preside over the sessions of the Russian cabinet, and will be in the most",
+      "confidence": 0.7512
+    },
+    {
+      "start": 479.74,
+      "end": 483.88,
+      "text": "direct touch with its actions and policies.",
+      "confidence": 0.7512
+    },
+    {
+      "start": 483.88,
+      "end": 490.28,
+      "text": "It is quite possible that more or less wish to be relieved of this burden, the Musco-Radio,",
+      "confidence": 0.7512
+    },
+    {
+      "start": 490.28,
+      "end": 496.2,
+      "text": "which a few hours ago announced more or less retirement, emphasized the burden of his",
+      "confidence": 0.7512
+    },
+    {
+      "start": 496.2,
+      "end": 502.48,
+      "text": "dual role. Foreign policy is now Soviet Russia's dominant concern. Hitler's",
+      "confidence": 0.7751
+    },
+    {
+      "start": 502.48,
+      "end": 507.36,
+      "text": "advance in the Balkans threatens the peace of Russia. Stalin is under no",
+      "confidence": 0.7751
+    },
+    {
+      "start": 507.36,
+      "end": 513.84,
+      "text": "illusion as to Hitler's purpose. He knows that before long, Hitler must have more",
+      "confidence": 0.7751
+    },
+    {
+      "start": 513.84,
+      "end": 521.96,
+      "text": "oil and more food to remain the master of Europe. Russia has both. Stalin has",
+      "confidence": 0.7751
+    },
+    {
+      "start": 521.96,
+      "end": 527.64,
+      "text": "the choice between two policies, he can continue to cooperate with Hitler in further acts",
+      "confidence": 0.8561
+    },
+    {
+      "start": 527.64,
+      "end": 534.52,
+      "text": "of international brigandage. Europe's two powerful international high women can agree to share Turkey,",
+      "confidence": 0.8561
+    },
+    {
+      "start": 534.52,
+      "end": 542.84,
+      "text": "Syria, Iran, France, Jordania, Palestine, India or any combination of these territories. Turkey",
+      "confidence": 0.8561
+    },
+    {
+      "start": 542.84,
+      "end": 548.52,
+      "text": "might even be brought into the partnership and given a share of the loot. This is probably the",
+      "confidence": 0.8561
+    },
+    {
+      "start": 548.52,
+      "end": 556.28,
+      "text": "the policy, Stalin would like to adopt if he were sure of purchasing immunity from invasion",
+      "confidence": 0.7779
+    },
+    {
+      "start": 556.28,
+      "end": 560.04,
+      "text": "by such a cost, but he is not sure.",
+      "confidence": 0.7779
+    },
+    {
+      "start": 560.04,
+      "end": 566.6,
+      "text": "Stalin's chief purpose is to remain at peace while preserving Russia's territorial integrity",
+      "confidence": 0.7779
+    },
+    {
+      "start": 566.6,
+      "end": 570.08,
+      "text": "or expending his domain.",
+      "confidence": 0.7779
+    },
+    {
+      "start": 570.08,
+      "end": 576.72,
+      "text": "But we know that Stalin is seriously concerned over Germany's conquest of the Balkans, every",
+      "confidence": 0.7779
+    },
+    {
+      "start": 576.72,
+      "end": 583.28,
+      "text": "step that has been taken in foreign policy by Soviet Russia during the past few months",
+      "confidence": 0.7055
+    },
+    {
+      "start": 583.28,
+      "end": 592.16,
+      "text": "indicates this apprehension. Russia sees Persirigia and Bokovina from Romania without first",
+      "confidence": 0.7055
+    },
+    {
+      "start": 592.16,
+      "end": 599.52,
+      "text": "perceiving Germany's consent. She was continued to encourage Turkey to resist German aggression.",
+      "confidence": 0.7055
+    },
+    {
+      "start": 599.52,
+      "end": 606.4,
+      "text": "She rebuked Bulgaria for permitting German troops to enter that country.",
+      "confidence": 0.7216
+    },
+    {
+      "start": 606.4,
+      "end": 613.68,
+      "text": "He signed a mutual assistance pact with Yugoslavia a few days before Hitler invaded that country.",
+      "confidence": 0.7216
+    },
+    {
+      "start": 613.68,
+      "end": 621.76,
+      "text": "He signed an integration pact with Japan to be free in the Far East, if and when Hitler",
+      "confidence": 0.7216
+    },
+    {
+      "start": 621.76,
+      "end": 624.12,
+      "text": "attacks her in Europe.",
+      "confidence": 0.7216
+    },
+    {
+      "start": 624.12,
+      "end": 631.56,
+      "text": "announced that Hitler was sending troops to Finland, which Hitler himself denied. During",
+      "confidence": 0.775
+    },
+    {
+      "start": 631.56,
+      "end": 637.64,
+      "text": "the main day celebration of few days ago, Stalin himself emphasized Russia's policy of",
+      "confidence": 0.775
+    },
+    {
+      "start": 637.64,
+      "end": 645.0,
+      "text": "defense against involvement in the war, and a full mobilization of Russian strength against",
+      "confidence": 0.775
+    },
+    {
+      "start": 645.0,
+      "end": 653.8,
+      "text": "all surprises. Soviet troops have been transferred from the far east to Russia's Balkan",
+      "confidence": 0.775
+    },
+    {
+      "start": 653.8,
+      "end": 662.76,
+      "text": "Frontiers. As Puneer, Stalin is in the best position to direct Russian mobilization. We must",
+      "confidence": 0.7315
+    },
+    {
+      "start": 662.76,
+      "end": 670.2,
+      "text": "never forget that the Communist Party sees the present conflict as the second imperialist",
+      "confidence": 0.7315
+    },
+    {
+      "start": 670.2,
+      "end": 678.96,
+      "text": "war in which the capitalist empires will destroy one another. And then, when the process",
+      "confidence": 0.7315
+    },
+    {
+      "start": 678.96,
+      "end": 686.64,
+      "text": "This is completed Soviet Russia and the Communist Party will inherit the Earth.",
+      "confidence": 0.755
+    },
+    {
+      "start": 686.64,
+      "end": 693.88,
+      "text": "That is why most Americans welcome today's decision to send no more machine tools to",
+      "confidence": 0.755
+    },
+    {
+      "start": 693.88,
+      "end": 695.38,
+      "text": "Germany.",
+      "confidence": 0.755
+    },
+    {
+      "start": 695.38,
+      "end": 704.28,
+      "text": "That is why most Americans will not weep because 100 Russian purchasing agents find no",
+      "confidence": 0.755
+    },
+    {
+      "start": 704.28,
+      "end": 711.88,
+      "text": "more to do in the United States, and must now make their way home. That is why the",
+      "confidence": 0.7081
+    },
+    {
+      "start": 711.88,
+      "end": 718.0,
+      "text": "Americans will be wise to do no wishful thinking about today's news from",
+      "confidence": 0.7081
+    },
+    {
+      "start": 718.0,
+      "end": 719.9,
+      "text": "Moscow.",
+      "confidence": 0.7081
+    },
+    {
+      "start": 719.9,
+      "end": 727.84,
+      "text": "Haile Selassie is back in Addis Abhaba. Welcome today by General Cunningham. The",
+      "confidence": 0.7081
+    },
+    {
+      "start": 727.84,
+      "end": 733.96,
+      "text": "emperor of Ethiopia has returned to his capital. The first ruler to be",
+      "confidence": 0.7081
+    },
+    {
+      "start": 733.96,
+      "end": 741.68,
+      "text": "They ousted from power by fascist aggression is the first to be returned to power.",
+      "confidence": 0.7701
+    },
+    {
+      "start": 741.68,
+      "end": 750.16,
+      "text": "Great Britain, under Baldwin, tolerated the rape of Ethiopia in a vain gesture of appeasement",
+      "confidence": 0.7701
+    },
+    {
+      "start": 750.16,
+      "end": 752.48,
+      "text": "towards the dictators.",
+      "confidence": 0.7701
+    },
+    {
+      "start": 752.48,
+      "end": 758.88,
+      "text": "The Great Britain of Winston Churchill has restored Ethiopia's independence in a successful",
+      "confidence": 0.7701
+    },
+    {
+      "start": 758.88,
+      "end": 760.88,
+      "text": "gesture of atonement.",
+      "confidence": 0.7701
+    },
+    {
+      "start": 760.88,
+      "end": 767.92,
+      "text": "Thus the first country, the succumbed fascist aggression, is also the first to be set free",
+      "confidence": 0.7589
+    },
+    {
+      "start": 767.92,
+      "end": 770.12,
+      "text": "from fascist rule.",
+      "confidence": 0.7589
+    },
+    {
+      "start": 770.12,
+      "end": 773.88,
+      "text": "Those who believe in the ultimate triumph of justice over force have the right to see",
+      "confidence": 0.7589
+    },
+    {
+      "start": 773.88,
+      "end": 777.0,
+      "text": "a good woman in this historic restoration.",
+      "confidence": 0.7589
+    },
+    {
+      "start": 777.0,
+      "end": 783.44,
+      "text": "Harry Salassi returns to his throne five years after he fled before the fascist invader.",
+      "confidence": 0.7589
+    },
+    {
+      "start": 783.44,
+      "end": 788.56,
+      "text": "Even the Italians were able to conquer the bear for it poorly armed Ethiopians.",
+      "confidence": 0.7589
+    },
+    {
+      "start": 788.56,
+      "end": 792.72,
+      "text": "personal bravery, there's no match for bombing planes and poison gas.",
+      "confidence": 0.8126
+    },
+    {
+      "start": 792.72,
+      "end": 796.96,
+      "text": "Britain and France combined to sell out the League of Nations in Ethiopia",
+      "confidence": 0.8126
+    },
+    {
+      "start": 796.96,
+      "end": 800.16,
+      "text": "by driving Mussolini's fascists out of Ethiopia.",
+      "confidence": 0.8126
+    },
+    {
+      "start": 800.16,
+      "end": 805.92,
+      "text": "Britain has emanated the first unhappy consequence of the ill-fated appeasement policy.",
+      "confidence": 0.8126
+    },
+    {
+      "start": 805.92,
+      "end": 812.72,
+      "text": "She has begun to make amends for the most mistaken foreign policy ever followed by the British Empire.",
+      "confidence": 0.8126
+    },
+    {
+      "start": 812.72,
+      "end": 817.28,
+      "text": "Those of us who defraud and criticise that policy are the right to recall it",
+      "confidence": 0.8126
+    },
+    {
+      "start": 817.28,
+      "end": 828.28,
+      "text": "Even at a time when Great Britain needs and deserves our sympathy and help, for that are men in Britain, just as in the United States, who continue to believe in appeasing dictators.",
+      "confidence": 0.7135
+    },
+    {
+      "start": 829.28,
+      "end": 830.28,
+      "text": "Good night.",
+      "confidence": 0.7135
+    },
+    {
+      "start": 833.28,
+      "end": 835.28,
+      "text": "Be sure with pure.",
+      "confidence": 0.7135
+    },
+    {
+      "start": 836.28,
+      "end": 838.28,
+      "text": "The Pure Oil Company presents H.V. Cosmborg.",
+      "confidence": 0.7135
+    }
+  ]
+}

@@ -1,0 +1,2463 @@
+{
+  "id": "1941-12-28-rsh-lord-haw-haw---germany-calling",
+  "model": "faster-whisper-base",
+  "language": "de",
+  "duration_s": 1506.4,
+  "confidence": 0.3726,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Die L\u00e4nden waren am Steinbott, Herms Nied und Herms Vettike.",
+      "confidence": 0.5023
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "An der richtigen Serbendilie pr\u00e4gt ihn zu planen.",
+      "confidence": 0.5023
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": "Elisabeth Walzenau-Halt, Chaos mit Walzer-Variton, Hans-Wokker-Variton",
+      "confidence": 0.5023
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "und Willen-Dazon-Stars-Variton. Die L\u00e4ndung ist b\u00e4ndig.",
+      "confidence": 0.5023
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "Hello North America, this is Germany calling.",
+      "confidence": 0.5023
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "And that is the end of the German Tom Schler concert.",
+      "confidence": 0.5023
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "And we are now ready for that.",
+      "confidence": 0.5023
+    },
+    {
+      "start": 27.0,
+      "end": 28.44,
+      "text": "in England ...",
+      "confidence": 0.0132
+    },
+    {
+      "start": 52.94,
+      "end": 55.0,
+      "text": "lost machine",
+      "confidence": 0.0132
+    },
+    {
+      "start": 55.0,
+      "end": 57.3,
+      "text": "die zapvo your homes, in der im 28-ich.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 57.4,
+      "end": 60.48,
+      "text": "Wir werden es durcher Poisnach lagen, in 15-min.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 61.28,
+      "end": 63.02,
+      "text": "Im Fernsehen ist es disgracebar.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 63.64,
+      "end": 67.44,
+      "text": "...t brake ist sehr schnell, weil es es weltweit alles ist.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 67.52,
+      "end": 70.16,
+      "text": "Im Fernsehen wird es im 28-ich.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 70.4,
+      "end": 72.8,
+      "text": "Im Fernsehen wird es \u03a0\u00e4st pieces enthalten.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 73.52,
+      "end": 74.66,
+      "text": "Im Fernsehen wird es in der 27-ich.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 74.66,
+      "end": 76.04,
+      "text": "Im Fernsehen wird es in der 26.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 76.22,
+      "end": 78.72,
+      "text": "Im Fernsehen wird es eine zene zur Ruhige in die in den Regierungsinfrastration.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 79.06,
+      "end": 80.96,
+      "text": "Im Fernsehen wird es enthalten.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 80.96,
+      "end": 81.88,
+      "text": "Im Fernsehen wird es enthalten.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 81.96,
+      "end": 84.16,
+      "text": "Wir werden es durch Aufst\u00fcckstiegendesekulat werden.",
+      "confidence": 0.0541
+    },
+    {
+      "start": 84.16,
+      "end": 86.88,
+      "text": "Und weil an dieser Antibasie zu bekommen,",
+      "confidence": 0.3629
+    },
+    {
+      "start": 86.88,
+      "end": 88.56,
+      "text": "made up of Danish finish,",
+      "confidence": 0.3629
+    },
+    {
+      "start": 88.56,
+      "end": 91.78,
+      "text": "replenish Dutch and Norwegian volunteers",
+      "confidence": 0.3629
+    },
+    {
+      "start": 91.78,
+      "end": 93.92,
+      "text": "have again proved their talent.",
+      "confidence": 0.3629
+    },
+    {
+      "start": 93.92,
+      "end": 96.0,
+      "text": "On the center, check out the front,",
+      "confidence": 0.3629
+    },
+    {
+      "start": 96.0,
+      "end": 100.34,
+      "text": "ground animal tract will go up to a sand still after fierce fighting.",
+      "confidence": 0.3629
+    },
+    {
+      "start": 100.34,
+      "end": 104.32,
+      "text": "Minor Soviet attacks on the northern sector will go up to the report.",
+      "confidence": 0.3629
+    },
+    {
+      "start": 104.32,
+      "end": 107.42,
+      "text": "On all sectors of the front,",
+      "confidence": 0.3629
+    },
+    {
+      "start": 107.42,
+      "end": 110.02,
+      "text": "the Luftwaffe participated in ground fighting,",
+      "confidence": 0.3629
+    },
+    {
+      "start": 110.02,
+      "end": 113.4,
+      "text": "by cherry-how they take the range on enemy division,",
+      "confidence": 0.3629
+    },
+    {
+      "start": 113.4,
+      "end": 117.4,
+      "text": "und an die Animate-Apply und railway-Tippen in Lurea.",
+      "confidence": 0.4697
+    },
+    {
+      "start": 117.4,
+      "end": 119.4,
+      "text": "In der Skite von K\u00fcrzisch,",
+      "confidence": 0.4697
+    },
+    {
+      "start": 119.4,
+      "end": 120.4,
+      "text": "Strong German Command,",
+      "confidence": 0.4697
+    },
+    {
+      "start": 120.4,
+      "end": 121.4,
+      "text": "Duke of Amazon,",
+      "confidence": 0.4697
+    },
+    {
+      "start": 121.4,
+      "end": 124.4,
+      "text": "continued their attacks against enemy shipping.",
+      "confidence": 0.4697
+    },
+    {
+      "start": 124.4,
+      "end": 126.4,
+      "text": "Reaktant,",
+      "confidence": 0.4697
+    },
+    {
+      "start": 126.4,
+      "end": 128.4,
+      "text": "totaling 2.800 times,",
+      "confidence": 0.4697
+    },
+    {
+      "start": 128.4,
+      "end": 129.4,
+      "text": "research,",
+      "confidence": 0.4697
+    },
+    {
+      "start": 129.4,
+      "end": 130.4,
+      "text": "and four more ships",
+      "confidence": 0.4697
+    },
+    {
+      "start": 130.4,
+      "end": 133.4,
+      "text": "as well as a gun-boat with damage.",
+      "confidence": 0.4697
+    },
+    {
+      "start": 133.4,
+      "end": 135.4,
+      "text": "Last night, German bombers",
+      "confidence": 0.4697
+    },
+    {
+      "start": 135.4,
+      "end": 136.4,
+      "text": "paying a British membership",
+      "confidence": 0.4697
+    },
+    {
+      "start": 136.4,
+      "end": 137.4,
+      "text": "at 6.000 tonnes",
+      "confidence": 0.4697
+    },
+    {
+      "start": 137.4,
+      "end": 140.4,
+      "text": "are the English East Coast.",
+      "confidence": 0.4697
+    },
+    {
+      "start": 140.4,
+      "end": 142.4,
+      "text": "British Naval Unit",
+      "confidence": 0.4697
+    },
+    {
+      "start": 142.4,
+      "end": 148.32,
+      "text": "Wir haben 2 out-of-the-way tanks, an den Norwegen auf 27. of December,",
+      "confidence": 0.42
+    },
+    {
+      "start": 148.32,
+      "end": 151.12,
+      "text": "auf der Shorten, das CS-Fighting,",
+      "confidence": 0.42
+    },
+    {
+      "start": 151.12,
+      "end": 154.42,
+      "text": "between the British landing parties and down-to-to-challels of the U.S.",
+      "confidence": 0.42
+    },
+    {
+      "start": 154.42,
+      "end": 155.46,
+      "text": "Alley,",
+      "confidence": 0.42
+    },
+    {
+      "start": 155.46,
+      "end": 158.26,
+      "text": "the British troops were forced to re-embark.",
+      "confidence": 0.42
+    },
+    {
+      "start": 158.26,
+      "end": 161.7,
+      "text": "German bombers attacked the repeating British naval squadron",
+      "confidence": 0.42
+    },
+    {
+      "start": 161.7,
+      "end": 163.46,
+      "text": "and in a destroyer.",
+      "confidence": 0.42
+    },
+    {
+      "start": 163.46,
+      "end": 166.46,
+      "text": "And never destroyer and counter-web damage.",
+      "confidence": 0.42
+    },
+    {
+      "start": 166.46,
+      "end": 170.26,
+      "text": "10 enemy bombers were shot down in aerial engagement",
+      "confidence": 0.42
+    },
+    {
+      "start": 170.26,
+      "end": 173.26,
+      "text": "... als Weller bei Antikonat-Fuller.",
+      "confidence": 0.3986
+    },
+    {
+      "start": 174.26,
+      "end": 176.26,
+      "text": "Wenn die Anime abends der Norwegian-Kaust,",
+      "confidence": 0.3986
+    },
+    {
+      "start": 176.26,
+      "end": 178.26,
+      "text": "... die Dramat-Scholzot-Fuller, ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 178.26,
+      "end": 179.26,
+      "text": "... war die Katz, ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 179.26,
+      "end": 180.26,
+      "text": "... und die Numbers, ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 180.26,
+      "end": 181.26,
+      "text": "... die Formen.",
+      "confidence": 0.3986
+    },
+    {
+      "start": 181.26,
+      "end": 183.26,
+      "text": "After the friendly shooting German Anime playing, ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 183.26,
+      "end": 185.26,
+      "text": "... the fan went down in action ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 185.26,
+      "end": 187.26,
+      "text": "... against the numerically far superior enemy, ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 187.26,
+      "end": 189.26,
+      "text": "... the crew there, ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 189.26,
+      "end": 190.26,
+      "text": "... set with a shot.",
+      "confidence": 0.3986
+    },
+    {
+      "start": 190.26,
+      "end": 192.26,
+      "text": "Several Norwegian-Marchen-Petal, ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 192.26,
+      "end": 193.26,
+      "text": "... employed ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 193.26,
+      "end": 195.26,
+      "text": "... in East Coast also service, ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 195.26,
+      "end": 196.26,
+      "text": "... where it's up ...",
+      "confidence": 0.3986
+    },
+    {
+      "start": 196.26,
+      "end": 198.26,
+      "text": "... on so far the British.",
+      "confidence": 0.3986
+    },
+    {
+      "start": 258.26,
+      "end": 262.26,
+      "text": "die Attacks, Bolshevik, Columns, Th\u00fcrkonsentations- und Railway Line.",
+      "confidence": 0.5381
+    },
+    {
+      "start": 262.26,
+      "end": 266.26,
+      "text": "Ertrain loaded with tanks and trucks will destroy,",
+      "confidence": 0.5381
+    },
+    {
+      "start": 266.26,
+      "end": 269.26,
+      "text": "and six other trains heavily damaged.",
+      "confidence": 0.5381
+    },
+    {
+      "start": 269.26,
+      "end": 273.26,
+      "text": "Th\u00fcrkons and a large number of motor vehicles will destroy.",
+      "confidence": 0.5381
+    },
+    {
+      "start": 273.26,
+      "end": 275.26,
+      "text": "In the Corridorian area,",
+      "confidence": 0.5381
+    },
+    {
+      "start": 275.26,
+      "end": 278.26,
+      "text": "Th\u00fcrkons are destroyed in number of locomotives,",
+      "confidence": 0.5381
+    },
+    {
+      "start": 278.26,
+      "end": 282.26,
+      "text": "seven of mailmen railway lines and several trains.",
+      "confidence": 0.5381
+    },
+    {
+      "start": 282.26,
+      "end": 283.26,
+      "text": "In low-level attack,",
+      "confidence": 0.5381
+    },
+    {
+      "start": 283.26,
+      "end": 287.56,
+      "text": "In der Zeit, die Gerne Bombers putzen 5 Enemy Hacking Actions out of commission",
+      "confidence": 0.3052
+    },
+    {
+      "start": 287.56,
+      "end": 289.96,
+      "text": "mit Machine gun and Tenant Fire.",
+      "confidence": 0.3052
+    },
+    {
+      "start": 293.06,
+      "end": 296.06,
+      "text": "Das ist Berlin, broadcasting the news.",
+      "confidence": 0.3052
+    },
+    {
+      "start": 298.56,
+      "end": 303.16,
+      "text": "The entire Japanese label and army units which had taken Hong Kong,",
+      "confidence": 0.3052
+    },
+    {
+      "start": 303.16,
+      "end": 305.66,
+      "text": "most into the series afternoon.",
+      "confidence": 0.3052
+    },
+    {
+      "start": 305.66,
+      "end": 312.16,
+      "text": "At 2 o'clock, we are at the most grateful 90 and Lieutenant General Ryu Sakai",
+      "confidence": 0.3052
+    },
+    {
+      "start": 342.16,
+      "end": 343.16,
+      "text": "und die Spiele.",
+      "confidence": 0.4883
+    },
+    {
+      "start": 344.16,
+      "end": 345.16,
+      "text": "Squadrons auf der Planung,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 345.16,
+      "end": 347.16,
+      "text": "gerade als Low-Level-Over-Requins,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 347.16,
+      "end": 348.16,
+      "text": "werden,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 348.16,
+      "end": 350.16,
+      "text": "weil die Trucks f\u00fcr die Ingenien sind.",
+      "confidence": 0.4883
+    },
+    {
+      "start": 351.16,
+      "end": 352.16,
+      "text": "After the controversy",
+      "confidence": 0.4883
+    },
+    {
+      "start": 352.16,
+      "end": 353.16,
+      "text": "about the military ceremony,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 353.16,
+      "end": 354.16,
+      "text": "the rear Admiral,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 354.16,
+      "end": 355.16,
+      "text": "Neemly,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 355.16,
+      "end": 356.16,
+      "text": "and Lieutenant General,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 356.16,
+      "end": 357.16,
+      "text": "Dakar,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 357.16,
+      "end": 358.16,
+      "text": "to receive competencies",
+      "confidence": 0.4883
+    },
+    {
+      "start": 358.16,
+      "end": 359.16,
+      "text": "of the population",
+      "confidence": 0.4883
+    },
+    {
+      "start": 359.16,
+      "end": 360.16,
+      "text": "in the residents",
+      "confidence": 0.4883
+    },
+    {
+      "start": 360.16,
+      "end": 361.16,
+      "text": "of the governor.",
+      "confidence": 0.4883
+    },
+    {
+      "start": 362.16,
+      "end": 363.16,
+      "text": "At the same time,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 363.16,
+      "end": 365.16,
+      "text": "Japanese military apologies,",
+      "confidence": 0.4883
+    },
+    {
+      "start": 365.16,
+      "end": 367.16,
+      "text": "took over the public installations",
+      "confidence": 0.4883
+    },
+    {
+      "start": 367.16,
+      "end": 369.16,
+      "text": "and trafficked its democracy.",
+      "confidence": 0.4883
+    },
+    {
+      "start": 372.16,
+      "end": 378.66,
+      "text": "According to your name, Japanese troops in their attack on Singapore have reached a point",
+      "confidence": 0.6058
+    },
+    {
+      "start": 378.66,
+      "end": 385.16,
+      "text": "south of the Poehme Line, which was opposed with any attack for a three-month,",
+      "confidence": 0.6058
+    },
+    {
+      "start": 385.16,
+      "end": 389.16,
+      "text": "was broken through in exactly 24 hours.",
+      "confidence": 0.6058
+    },
+    {
+      "start": 389.16,
+      "end": 394.16,
+      "text": "The greatest part of the defenders, consisting of about 20,000 Indian troops,",
+      "confidence": 0.6058
+    },
+    {
+      "start": 394.16,
+      "end": 398.16,
+      "text": "has been decimated to a fraction of its former state.",
+      "confidence": 0.6058
+    },
+    {
+      "start": 398.16,
+      "end": 401.36,
+      "text": "Der Bitteschmied treibt Evidentien, was sich nicht gewinnen,",
+      "confidence": 0.2687
+    },
+    {
+      "start": 401.36,
+      "end": 406.16,
+      "text": "weil es zwischen 45 und 6 Kan\u00e4len ist.",
+      "confidence": 0.2687
+    },
+    {
+      "start": 406.16,
+      "end": 410.16,
+      "text": "Das ist ein Auto von den Filmen, und das ist ein Auto von den anderen Filmen.",
+      "confidence": 0.2687
+    },
+    {
+      "start": 411.16,
+      "end": 413.96,
+      "text": "Der Beton f\u00e4hrt auf der Pokon-Linus,",
+      "confidence": 0.2687
+    },
+    {
+      "start": 413.96,
+      "end": 415.76,
+      "text": "der schreit auf der Rode,",
+      "confidence": 0.2687
+    },
+    {
+      "start": 415.76,
+      "end": 417.96,
+      "text": "eine bestimmte Sexiart-Wide.",
+      "confidence": 0.2687
+    },
+    {
+      "start": 417.96,
+      "end": 419.36,
+      "text": "Das Highway",
+      "confidence": 0.2687
+    },
+    {
+      "start": 419.36,
+      "end": 421.36,
+      "text": "wird systematically fortified",
+      "confidence": 0.2687
+    },
+    {
+      "start": 421.36,
+      "end": 422.36,
+      "text": "mit Bunkies,",
+      "confidence": 0.2687
+    },
+    {
+      "start": 422.36,
+      "end": 425.76,
+      "text": "Tank-Crafts- und Top-Wide-Enterne-Level.",
+      "confidence": 0.2687
+    },
+    {
+      "start": 425.76,
+      "end": 428.76,
+      "text": "Es war die seltene Route, die Open-Public-Gapamie,",
+      "confidence": 0.3164
+    },
+    {
+      "start": 428.76,
+      "end": 432.76,
+      "text": "und in der Infektion der Junge leistet both sides of the road.",
+      "confidence": 0.3164
+    },
+    {
+      "start": 432.76,
+      "end": 435.76,
+      "text": "Die Betis fahrt immer die Planung,",
+      "confidence": 0.3164
+    },
+    {
+      "start": 435.76,
+      "end": 437.76,
+      "text": "um die Japanale zu entretagen,",
+      "confidence": 0.3164
+    },
+    {
+      "start": 437.76,
+      "end": 439.76,
+      "text": "um die Akkusse zu erinnern.",
+      "confidence": 0.3164
+    },
+    {
+      "start": 439.76,
+      "end": 442.76,
+      "text": "Und die Akkusse zu erinnern, um die Akkusse zu erinnern, um die Akkusse zu erinnern.",
+      "confidence": 0.3164
+    },
+    {
+      "start": 442.76,
+      "end": 445.76,
+      "text": "Nach der Defenz-Linie beginnt die Kremel,",
+      "confidence": 0.3164
+    },
+    {
+      "start": 445.76,
+      "end": 448.76,
+      "text": "die Not-Over-Infusion in Indian-Trucks,",
+      "confidence": 0.3164
+    },
+    {
+      "start": 448.76,
+      "end": 452.76,
+      "text": "die mit der Kronen-Rage \u00fcber die Bedingung,",
+      "confidence": 0.3164
+    },
+    {
+      "start": 452.76,
+      "end": 455.8,
+      "text": "Wir haben vorhin wieder auf der anderen Seite geholfen.",
+      "confidence": 0.292
+    },
+    {
+      "start": 456.82,
+      "end": 458.92,
+      "text": "Ein Numbar-Bedweb-Bird-Aufzettel,",
+      "confidence": 0.292
+    },
+    {
+      "start": 458.92,
+      "end": 461.72,
+      "text": "wo ihr Kettetgegung k\u00fcrzt bei den Indianen Soldiers,",
+      "confidence": 0.292
+    },
+    {
+      "start": 461.72,
+      "end": 465.52,
+      "text": "wo ihr sehr hohe Gwagbaden-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird-Bird.",
+      "confidence": 0.292
+    },
+    {
+      "start": 475.78,
+      "end": 477.98,
+      "text": "Continuing the news from Friday.",
+      "confidence": 0.292
+    },
+    {
+      "start": 482.76,
+      "end": 488.76,
+      "text": "Wir sprechen auf die Art und Departments, auf die japanische H\u00e4lfte in Tokyo,",
+      "confidence": 0.3709
+    },
+    {
+      "start": 488.76,
+      "end": 492.76,
+      "text": "dass die japanische Command und Luzon in der Art und Departments-Dekoration",
+      "confidence": 0.3709
+    },
+    {
+      "start": 492.76,
+      "end": 494.76,
+      "text": "aus Men\u00fcller als Open City.",
+      "confidence": 0.3709
+    },
+    {
+      "start": 494.76,
+      "end": 497.76,
+      "text": "Die japanische H\u00e4lfte, Continued by Taking,",
+      "confidence": 0.3709
+    },
+    {
+      "start": 497.76,
+      "end": 499.76,
+      "text": "dass die japanische Kipps,",
+      "confidence": 0.3709
+    },
+    {
+      "start": 499.76,
+      "end": 500.76,
+      "text": "was nicht vermittelt ist,",
+      "confidence": 0.3709
+    },
+    {
+      "start": 500.76,
+      "end": 501.76,
+      "text": "eine Partite dekoration,",
+      "confidence": 0.3709
+    },
+    {
+      "start": 501.76,
+      "end": 503.76,
+      "text": "die in der Tier mit dir,",
+      "confidence": 0.3709
+    },
+    {
+      "start": 503.76,
+      "end": 505.76,
+      "text": "so ist er alles necessary",
+      "confidence": 0.3709
+    },
+    {
+      "start": 505.76,
+      "end": 507.76,
+      "text": "f\u00fcr die Charngraum auf die Wahl.",
+      "confidence": 0.3709
+    },
+    {
+      "start": 507.76,
+      "end": 509.76,
+      "text": "Die Spieger bekehrt zu den Facts,",
+      "confidence": 0.3709
+    },
+    {
+      "start": 509.76,
+      "end": 510.76,
+      "text": "das Men\u00fcller ist still.",
+      "confidence": 0.3709
+    },
+    {
+      "start": 540.76,
+      "end": 545.26,
+      "text": "Die Japanese-Portie mit dem Limit\u00e4rattack zur Milit\u00e4rie von FM.",
+      "confidence": 0.3279
+    },
+    {
+      "start": 545.26,
+      "end": 547.46,
+      "text": "Es gab nichts, was wir unterhalten,",
+      "confidence": 0.3279
+    },
+    {
+      "start": 547.46,
+      "end": 549.16,
+      "text": "mit dem wir in Berlin verliebt.",
+      "confidence": 0.3279
+    },
+    {
+      "start": 549.16,
+      "end": 550.66,
+      "text": "Die Amerikaner von Mathematik,",
+      "confidence": 0.3279
+    },
+    {
+      "start": 550.66,
+      "end": 552.66,
+      "text": "die in Afghanistan-Japanese National,",
+      "confidence": 0.3279
+    },
+    {
+      "start": 552.66,
+      "end": 557.16,
+      "text": "sucht uns als zur Plattie vor die Japanese-Learning-On-Devile.",
+      "confidence": 0.3279
+    },
+    {
+      "start": 557.96,
+      "end": 560.26,
+      "text": "Die Japanese-Portie, der wir erledigen,",
+      "confidence": 0.3279
+    },
+    {
+      "start": 560.26,
+      "end": 561.56,
+      "text": "wurde in der Watt,",
+      "confidence": 0.3279
+    },
+    {
+      "start": 561.56,
+      "end": 564.26,
+      "text": "die Filipino-Han United States-Portie,",
+      "confidence": 0.3279
+    },
+    {
+      "start": 564.26,
+      "end": 566.26,
+      "text": "die im Milit\u00e4r-Portie,",
+      "confidence": 0.3279
+    },
+    {
+      "start": 566.26,
+      "end": 568.76,
+      "text": "von der City-to-2-Point,",
+      "confidence": 0.3279
+    },
+    {
+      "start": 568.76,
+      "end": 574.76,
+      "text": "Was die Japanese headquarters named und was auch und die Polo und Kontakt haben.",
+      "confidence": 0.4244
+    },
+    {
+      "start": 575.76,
+      "end": 577.76,
+      "text": "Was happened in der Speaker?",
+      "confidence": 0.4244
+    },
+    {
+      "start": 578.76,
+      "end": 581.76,
+      "text": "Dass die Imperial-Japanese headquarters bietet,",
+      "confidence": 0.4244
+    },
+    {
+      "start": 581.76,
+      "end": 583.76,
+      "text": "die Declaration von Manila und Open City,",
+      "confidence": 0.4244
+    },
+    {
+      "start": 584.76,
+      "end": 585.76,
+      "text": "und ein Attempts zu erlauben,",
+      "confidence": 0.4244
+    },
+    {
+      "start": 585.76,
+      "end": 587.76,
+      "text": "und die Japanese-Feeling-Emot Philippine,",
+      "confidence": 0.4244
+    },
+    {
+      "start": 588.76,
+      "end": 591.76,
+      "text": "by involving them directly in the actual hallucinations.",
+      "confidence": 0.4244
+    },
+    {
+      "start": 592.76,
+      "end": 593.76,
+      "text": "It is significant,",
+      "confidence": 0.4244
+    },
+    {
+      "start": 593.76,
+      "end": 595.76,
+      "text": "the Japanese Army-Speaker concluded,",
+      "confidence": 0.4244
+    },
+    {
+      "start": 595.76,
+      "end": 598.56,
+      "text": "Konkurrenz, dass die Amerikaner ist,",
+      "confidence": 0.3691
+    },
+    {
+      "start": 598.56,
+      "end": 600.76,
+      "text": "als die Schildhorne zu den Philippinos,",
+      "confidence": 0.3691
+    },
+    {
+      "start": 600.76,
+      "end": 602.84,
+      "text": "nicht zu evtl.",
+      "confidence": 0.3691
+    },
+    {
+      "start": 602.84,
+      "end": 604.76,
+      "text": "Nicht mit der Abbranche,",
+      "confidence": 0.3691
+    },
+    {
+      "start": 604.76,
+      "end": 605.76,
+      "text": "als die Japanese-Fraktion.",
+      "confidence": 0.3691
+    },
+    {
+      "start": 610.76,
+      "end": 612.76,
+      "text": "Die Amerikaner ist,",
+      "confidence": 0.3691
+    },
+    {
+      "start": 612.76,
+      "end": 613.76,
+      "text": "die Amerikaner ist,",
+      "confidence": 0.3691
+    },
+    {
+      "start": 613.76,
+      "end": 615.76,
+      "text": "jetzt in Japan,",
+      "confidence": 0.3691
+    },
+    {
+      "start": 615.76,
+      "end": 616.76,
+      "text": "erlaubt zu mehr,",
+      "confidence": 0.3691
+    },
+    {
+      "start": 616.76,
+      "end": 617.76,
+      "text": "than 1 billion,",
+      "confidence": 0.3691
+    },
+    {
+      "start": 617.76,
+      "end": 619.76,
+      "text": "800 million yen.",
+      "confidence": 0.3691
+    },
+    {
+      "start": 619.76,
+      "end": 620.76,
+      "text": "Das Zeltsmann",
+      "confidence": 0.3691
+    },
+    {
+      "start": 620.76,
+      "end": 622.76,
+      "text": "auf die Japanese-Prinas-Ministerie",
+      "confidence": 0.3691
+    },
+    {
+      "start": 622.76,
+      "end": 623.76,
+      "text": "steht jetzt.",
+      "confidence": 0.3691
+    },
+    {
+      "start": 623.76,
+      "end": 626.76,
+      "text": "Er empatet, dass die Japanese- und Affe,",
+      "confidence": 0.2894
+    },
+    {
+      "start": 626.76,
+      "end": 629.76,
+      "text": "die Frauen in Grand Christian und die USA,",
+      "confidence": 0.2894
+    },
+    {
+      "start": 629.76,
+      "end": 632.76,
+      "text": "die Menschen in der Erdbeeren zu haben, dass sie.",
+      "confidence": 0.2894
+    },
+    {
+      "start": 636.76,
+      "end": 638.76,
+      "text": "Die anderen Frauen contingenten,",
+      "confidence": 0.2894
+    },
+    {
+      "start": 638.76,
+      "end": 640.76,
+      "text": "die sich in die Ausgabe von den Menschen,",
+      "confidence": 0.2894
+    },
+    {
+      "start": 640.76,
+      "end": 642.76,
+      "text": "die sich in die Ausgabe von den Menschen,",
+      "confidence": 0.2894
+    },
+    {
+      "start": 642.76,
+      "end": 644.76,
+      "text": "die sich in die Ausgabe von den Menschen,",
+      "confidence": 0.2894
+    },
+    {
+      "start": 644.76,
+      "end": 646.76,
+      "text": "die sich in die Ausgabe von den Menschen,",
+      "confidence": 0.2894
+    },
+    {
+      "start": 646.76,
+      "end": 655.32,
+      "text": "Within the past few weeks, heavy fighting has been taking place on the finish front",
+      "confidence": 0.5044
+    },
+    {
+      "start": 655.32,
+      "end": 656.76,
+      "text": "east of Pestinke.",
+      "confidence": 0.5044
+    },
+    {
+      "start": 656.76,
+      "end": 662.84,
+      "text": "In a two-speed outcome and ship, finished and German troops had struck similarly against",
+      "confidence": 0.5044
+    },
+    {
+      "start": 662.84,
+      "end": 670.48,
+      "text": "the Soviet, in the thick part where ice and snow and heat are the cold most intense.",
+      "confidence": 0.5044
+    },
+    {
+      "start": 670.48,
+      "end": 675.08,
+      "text": "During the Corps of these operations, numerous small and limited systems were completely",
+      "confidence": 0.5044
+    },
+    {
+      "start": 675.08,
+      "end": 676.08,
+      "text": "crushed.",
+      "confidence": 0.5044
+    },
+    {
+      "start": 676.08,
+      "end": 680.32,
+      "text": "During the past four weeks, more than 1,700 Vorgers",
+      "confidence": 0.467
+    },
+    {
+      "start": 680.32,
+      "end": 682.72,
+      "text": "and other types of resistance.",
+      "confidence": 0.467
+    },
+    {
+      "start": 682.72,
+      "end": 685.28,
+      "text": "Equipped with machine guns and planes,",
+      "confidence": 0.467
+    },
+    {
+      "start": 685.28,
+      "end": 687.88,
+      "text": "we had a mission one after another",
+      "confidence": 0.467
+    },
+    {
+      "start": 687.88,
+      "end": 689.68,
+      "text": "and totally demolished.",
+      "confidence": 0.467
+    },
+    {
+      "start": 689.68,
+      "end": 694.68,
+      "text": "The pistol crew at the fighting had an extremely fair and bitter.",
+      "confidence": 0.467
+    },
+    {
+      "start": 694.68,
+      "end": 697.68,
+      "text": "Vorgers' week relief operations came to naught",
+      "confidence": 0.467
+    },
+    {
+      "start": 697.68,
+      "end": 702.16,
+      "text": "when Jeff and Finnish units carried out a number of counter-threats,",
+      "confidence": 0.467
+    },
+    {
+      "start": 702.16,
+      "end": 704.16,
+      "text": "which resulted in very few",
+      "confidence": 0.467
+    },
+    {
+      "start": 704.16,
+      "end": 706.16,
+      "text": "auf dem Mindestlobnis f\u00fcr die Buschwik.",
+      "confidence": 0.5144
+    },
+    {
+      "start": 707.16,
+      "end": 710.16,
+      "text": "Down our Soviets were left behind on the field of battle",
+      "confidence": 0.5144
+    },
+    {
+      "start": 710.16,
+      "end": 714.16,
+      "text": "and almost countless numbers of others landed in prison camps.",
+      "confidence": 0.5144
+    },
+    {
+      "start": 714.16,
+      "end": 715.16,
+      "text": "In addition,",
+      "confidence": 0.5144
+    },
+    {
+      "start": 715.16,
+      "end": 718.16,
+      "text": "the Buschwik's law used quantities of rifle,",
+      "confidence": 0.5144
+    },
+    {
+      "start": 718.16,
+      "end": 719.16,
+      "text": "machine guns,",
+      "confidence": 0.5144
+    },
+    {
+      "start": 719.16,
+      "end": 720.16,
+      "text": "armed models,",
+      "confidence": 0.5144
+    },
+    {
+      "start": 720.16,
+      "end": 721.16,
+      "text": "cannon,",
+      "confidence": 0.5144
+    },
+    {
+      "start": 721.16,
+      "end": 722.16,
+      "text": "weapon equipment,",
+      "confidence": 0.5144
+    },
+    {
+      "start": 722.16,
+      "end": 723.16,
+      "text": "and out of warfare.",
+      "confidence": 0.5144
+    },
+    {
+      "start": 728.16,
+      "end": 729.16,
+      "text": "And then,",
+      "confidence": 0.5144
+    },
+    {
+      "start": 729.16,
+      "end": 730.16,
+      "text": "down our heads,",
+      "confidence": 0.5144
+    },
+    {
+      "start": 730.16,
+      "end": 731.16,
+      "text": "promised peace",
+      "confidence": 0.5144
+    },
+    {
+      "start": 731.16,
+      "end": 732.16,
+      "text": "that brought you all.",
+      "confidence": 0.5144
+    },
+    {
+      "start": 764.16,
+      "end": 768.16,
+      "text": "Du bist littig und leuchter.",
+      "confidence": 0.3038
+    },
+    {
+      "start": 768.16,
+      "end": 770.16,
+      "text": "Und in den letzten Tagen?",
+      "confidence": 0.3038
+    },
+    {
+      "start": 770.16,
+      "end": 772.16,
+      "text": "Ich hoffe, du bist ein leuchter Musiker.",
+      "confidence": 0.3038
+    },
+    {
+      "start": 794.16,
+      "end": 796.66,
+      "text": "Komm, \u2026",
+      "confidence": 0.1333
+    },
+    {
+      "start": 814.66,
+      "end": 815.76,
+      "text": "Germany Calling,",
+      "confidence": 0.1333
+    },
+    {
+      "start": 816.06,
+      "end": 818.56,
+      "text": "...we are waiting again over 6 stations.",
+      "confidence": 0.1333
+    },
+    {
+      "start": 818.76,
+      "end": 819.78,
+      "text": "...two in the 25,",
+      "confidence": 0.1333
+    },
+    {
+      "start": 819.78,
+      "end": 824.78,
+      "text": "Und die anderen sind in der 28.31.41.49 in der Band.",
+      "confidence": 0.527
+    },
+    {
+      "start": 824.78,
+      "end": 828.78,
+      "text": "Wir wissen nicht, was wir in England machen.",
+      "confidence": 0.527
+    },
+    {
+      "start": 831.78,
+      "end": 833.78,
+      "text": "To say, what will happen?",
+      "confidence": 0.527
+    },
+    {
+      "start": 833.78,
+      "end": 836.78,
+      "text": "It will happen today.",
+      "confidence": 0.527
+    },
+    {
+      "start": 836.78,
+      "end": 840.78,
+      "text": "It will be a very fatal statement.",
+      "confidence": 0.527
+    },
+    {
+      "start": 840.78,
+      "end": 846.78,
+      "text": "Never before has it been in such a perilous position.",
+      "confidence": 0.527
+    },
+    {
+      "start": 846.78,
+      "end": 852.78,
+      "text": "Until those those in Chapter, so needless the provoked Japan,",
+      "confidence": 0.5644
+    },
+    {
+      "start": 852.78,
+      "end": 854.78,
+      "text": "in to take your bombs,",
+      "confidence": 0.5644
+    },
+    {
+      "start": 854.78,
+      "end": 857.78,
+      "text": "but what have I to do with my chamber,",
+      "confidence": 0.5644
+    },
+    {
+      "start": 857.78,
+      "end": 861.78,
+      "text": "without itself outside the warzone?",
+      "confidence": 0.5644
+    },
+    {
+      "start": 861.78,
+      "end": 865.78,
+      "text": "Of course, to be outside the warzone",
+      "confidence": 0.5644
+    },
+    {
+      "start": 865.78,
+      "end": 868.78,
+      "text": "is not necessarily to be safe.",
+      "confidence": 0.5644
+    },
+    {
+      "start": 868.78,
+      "end": 875.78,
+      "text": "For example, Canada was secure against any attack by Germany or at all.",
+      "confidence": 0.5644
+    },
+    {
+      "start": 875.78,
+      "end": 876.78,
+      "text": "Und jetzt?",
+      "confidence": 0.2967
+    },
+    {
+      "start": 877.78,
+      "end": 878.78,
+      "text": "Du bist nicht sicher,",
+      "confidence": 0.2967
+    },
+    {
+      "start": 879.78,
+      "end": 882.78,
+      "text": "gegen die Schmerzen von Ver\u00e4nderungen von der EU.",
+      "confidence": 0.2967
+    },
+    {
+      "start": 885.78,
+      "end": 887.78,
+      "text": "Die Agreement hat geschnitten,",
+      "confidence": 0.2967
+    },
+    {
+      "start": 888.78,
+      "end": 890.78,
+      "text": "wobei die virtuelle Kontrollen der Industrie,",
+      "confidence": 0.2967
+    },
+    {
+      "start": 891.78,
+      "end": 893.78,
+      "text": "falls in die Medikine in den H\u00e4nden.",
+      "confidence": 0.2967
+    },
+    {
+      "start": 894.78,
+      "end": 896.78,
+      "text": "Und wobei Tariffskosteln,",
+      "confidence": 0.2967
+    },
+    {
+      "start": 897.78,
+      "end": 899.78,
+      "text": "und andere konkurrenzende Dependenten,",
+      "confidence": 0.2967
+    },
+    {
+      "start": 900.78,
+      "end": 902.78,
+      "text": "makest du die Ver\u00e4nderungen,",
+      "confidence": 0.2967
+    },
+    {
+      "start": 902.78,
+      "end": 903.78,
+      "text": "eine Medikin-Domination?",
+      "confidence": 0.2967
+    },
+    {
+      "start": 903.78,
+      "end": 910.78,
+      "text": "In diesem Land, auf Kanagien und Subjugation, war nicht ein Maschruh-Mugroh.",
+      "confidence": 0.3002
+    },
+    {
+      "start": 910.78,
+      "end": 912.78,
+      "text": "Es war auch ein Kalbination.",
+      "confidence": 0.3002
+    },
+    {
+      "start": 912.78,
+      "end": 916.78,
+      "text": "Das ist ein zus\u00e4tzliches Moment des Planes.",
+      "confidence": 0.3002
+    },
+    {
+      "start": 916.78,
+      "end": 918.78,
+      "text": "Was R\u00f6hrsfeld und der Sprene-Sethos,",
+      "confidence": 0.3002
+    },
+    {
+      "start": 918.78,
+      "end": 921.78,
+      "text": "hat beinachtelt,",
+      "confidence": 0.3002
+    },
+    {
+      "start": 921.78,
+      "end": 926.78,
+      "text": "um die Pr\u00e4senten von der Medikine-Konsumente anzusetzen.",
+      "confidence": 0.3002
+    },
+    {
+      "start": 926.78,
+      "end": 930.78,
+      "text": "Und, als Memorum der Rockefeller-Pampe,",
+      "confidence": 0.3002
+    },
+    {
+      "start": 930.78,
+      "end": 932.78,
+      "text": "Die Ausborgung des VierEEEEEIT, die in Publikum.",
+      "confidence": 0.2777
+    },
+    {
+      "start": 932.78,
+      "end": 937.78,
+      "text": "To give the United States a monopoly in the West of hemisphere.",
+      "confidence": 0.2777
+    },
+    {
+      "start": 937.78,
+      "end": 939.78,
+      "text": "Mr. Kavanaugh?",
+      "confidence": 0.2777
+    },
+    {
+      "start": 939.78,
+      "end": 942.78,
+      "text": "The Australian Prime Minister?",
+      "confidence": 0.2777
+    },
+    {
+      "start": 942.78,
+      "end": 944.78,
+      "text": "Yes, address to this question.",
+      "confidence": 0.2777
+    },
+    {
+      "start": 944.78,
+      "end": 948.78,
+      "text": "Rupert, what amount do you want to be here for a heed?",
+      "confidence": 0.2777
+    },
+    {
+      "start": 948.78,
+      "end": 950.78,
+      "text": "Without safeguards!",
+      "confidence": 0.2777
+    },
+    {
+      "start": 950.78,
+      "end": 954.78,
+      "text": "How far this message was inspired by church to himself?",
+      "confidence": 0.2777
+    },
+    {
+      "start": 954.78,
+      "end": 957.78,
+      "text": "I cannot say.",
+      "confidence": 0.2777
+    },
+    {
+      "start": 957.78,
+      "end": 967.78,
+      "text": "Aber Roosevelt now has an excuse for handing Luke's not failure and keeping them bad if he can.",
+      "confidence": 0.5983
+    },
+    {
+      "start": 967.78,
+      "end": 976.78,
+      "text": "Until that inconceivable day, when all Britain's debts for the United States shall have been tight.",
+      "confidence": 0.5983
+    },
+    {
+      "start": 976.78,
+      "end": 985.78,
+      "text": "A member of the New Zealand Capitalist declares for the most courteous moment of the history of his country arrived.",
+      "confidence": 0.5983
+    },
+    {
+      "start": 985.78,
+      "end": 990.1,
+      "text": "Und die Leute von Las Vegas und New Zealand, maybe thinking,",
+      "confidence": 0.4109
+    },
+    {
+      "start": 990.1,
+      "end": 992.02,
+      "text": "ist dieses Ramanter.",
+      "confidence": 0.4109
+    },
+    {
+      "start": 994.02,
+      "end": 1001.7,
+      "text": "Now troops are fighting, and now that we have to gain for Churchill prestige and propaganda victories.",
+      "confidence": 0.4109
+    },
+    {
+      "start": 1001.7,
+      "end": 1006.7,
+      "text": "Which of these events have shown, can exert no influence,",
+      "confidence": 0.4109
+    },
+    {
+      "start": 1006.7,
+      "end": 1009.7,
+      "text": "above the issue of the waters of hope.",
+      "confidence": 0.4109
+    },
+    {
+      "start": 1009.7,
+      "end": 1012.66,
+      "text": "They are a war in Japan,",
+      "confidence": 0.4109
+    },
+    {
+      "start": 1012.66,
+      "end": 1015.66,
+      "text": "Wir sind in der meisten Markable-Tatet.",
+      "confidence": 0.5418
+    },
+    {
+      "start": 1015.66,
+      "end": 1019.66,
+      "text": "Marketing out multiple attacks on the widest scale.",
+      "confidence": 0.5418
+    },
+    {
+      "start": 1019.66,
+      "end": 1022.66,
+      "text": "And on the other hand,",
+      "confidence": 0.5418
+    },
+    {
+      "start": 1022.66,
+      "end": 1026.66,
+      "text": "they know that if American troops appeared in the guise of Stagels,",
+      "confidence": 0.5418
+    },
+    {
+      "start": 1026.66,
+      "end": 1031.66,
+      "text": "they will remain in the role of sailors.",
+      "confidence": 0.5418
+    },
+    {
+      "start": 1031.66,
+      "end": 1036.66,
+      "text": "They can't be reassured by statements from the BBC to nothing.",
+      "confidence": 0.5418
+    },
+    {
+      "start": 1036.66,
+      "end": 1039.66,
+      "text": "The home government simplifies this without position.",
+      "confidence": 0.5418
+    },
+    {
+      "start": 1039.66,
+      "end": 1042.26,
+      "text": "Ich bin auch nicht scherziger.",
+      "confidence": 0.1228
+    },
+    {
+      "start": 1042.26,
+      "end": 1044.96,
+      "text": "Und ich kann nicht es verletzt werden.",
+      "confidence": 0.1228
+    },
+    {
+      "start": 1044.96,
+      "end": 1050.46,
+      "text": "Aber auf den anderen handen kann ich diese B\u00f6se auf den gleichen Zeit.",
+      "confidence": 0.1228
+    },
+    {
+      "start": 1050.46,
+      "end": 1056.06,
+      "text": "Warum die Strecke an der Strecke zu Hause in der Tat ist der Patient,",
+      "confidence": 0.1228
+    },
+    {
+      "start": 1056.06,
+      "end": 1059.86,
+      "text": "der doos ausgerichtet hat und kredite Betriebe.",
+      "confidence": 0.1228
+    },
+    {
+      "start": 1059.86,
+      "end": 1062.26,
+      "text": "Sie sind nicht scherziger.",
+      "confidence": 0.1228
+    },
+    {
+      "start": 1062.26,
+      "end": 1063.86,
+      "text": "Sie sind scherziger.",
+      "confidence": 0.1228
+    },
+    {
+      "start": 1063.86,
+      "end": 1065.86,
+      "text": "So ist das der F\u00fclle in der Berat.",
+      "confidence": 0.1228
+    },
+    {
+      "start": 1065.86,
+      "end": 1070.86,
+      "text": "Nun, es ist all dem Orte marktabel der Universit\u00e4t zu beginnen.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 1070.86,
+      "end": 1072.86,
+      "text": "Sucht ein Assendensil f\u00fcr die Br\u00fcnche Empire.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 1072.86,
+      "end": 1075.86,
+      "text": "Well, knows most conduct of the war against Japan.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 1075.86,
+      "end": 1078.86,
+      "text": "Has been such a signal failure.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 1078.86,
+      "end": 1080.86,
+      "text": "Up to the present.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 1080.86,
+      "end": 1083.86,
+      "text": "And he lost his specific fleet.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 1083.86,
+      "end": 1088.86,
+      "text": "He can hardly afford to pose at the mouth of the situation.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 1088.86,
+      "end": 1092.86,
+      "text": "And yet, Mr. Churchill will invite him.",
+      "confidence": 0.4823
+    },
+    {
+      "start": 1092.86,
+      "end": 1094.1,
+      "text": "wie?",
+      "confidence": 0.0343
+    },
+    {
+      "start": 1094.1,
+      "end": 1096.1,
+      "text": "Og nach Ihrem Wissen.",
+      "confidence": 0.0343
+    },
+    {
+      "start": 1096.1,
+      "end": 1100.1,
+      "text": "Auch ein l\u00e4ngtes Motor kommt in dein Pfad.",
+      "confidence": 0.0343
+    },
+    {
+      "start": 1100.1,
+      "end": 1104.42,
+      "text": "Sie besuchen, dass man gr\u00f6\u00dfer machen kann,",
+      "confidence": 0.0343
+    },
+    {
+      "start": 1104.42,
+      "end": 1106.1,
+      "text": "zu c\u00f9ngig nach den Punkts.",
+      "confidence": 0.0343
+    },
+    {
+      "start": 1106.1,
+      "end": 1109.84,
+      "text": "In die EU-Ace eine andere Funktion,",
+      "confidence": 0.0343
+    },
+    {
+      "start": 1109.84,
+      "end": 1114.62,
+      "text": "weil es die Kapine ist und die Geb\u00e4ude um\ufffdlose.",
+      "confidence": 0.0343
+    },
+    {
+      "start": 1114.62,
+      "end": 1117.7,
+      "text": "Ich kann es aber keine Post story.",
+      "confidence": 0.0343
+    },
+    {
+      "start": 1117.7,
+      "end": 1123.28,
+      "text": "In Britain's present terrible deliver to a naval witness,",
+      "confidence": 0.4135
+    },
+    {
+      "start": 1123.28,
+      "end": 1125.9,
+      "text": "at least large part,",
+      "confidence": 0.4135
+    },
+    {
+      "start": 1125.9,
+      "end": 1128.9,
+      "text": "a sea of the warling, killing the Pacific Ocean,",
+      "confidence": 0.4135
+    },
+    {
+      "start": 1128.9,
+      "end": 1133.74,
+      "text": "must need raised, great naval problem.",
+      "confidence": 0.4135
+    },
+    {
+      "start": 1133.74,
+      "end": 1135.78,
+      "text": "In any British prime minister's days,",
+      "confidence": 0.4135
+    },
+    {
+      "start": 1135.78,
+      "end": 1140.98,
+      "text": "we're able to compensate for American naval losses",
+      "confidence": 0.4135
+    },
+    {
+      "start": 1140.98,
+      "end": 1145.56,
+      "text": "by setting large fleet to the Pacific.",
+      "confidence": 0.4135
+    },
+    {
+      "start": 1145.56,
+      "end": 1153.12,
+      "text": "Der Landranger muss sich abfordern, dass die Gewicht und die Klinik nicht runterf\u00e4hrt,",
+      "confidence": 0.1426
+    },
+    {
+      "start": 1153.12,
+      "end": 1156.38,
+      "text": "dass der Landranger damit schildert.",
+      "confidence": 0.1426
+    },
+    {
+      "start": 1156.38,
+      "end": 1161.08,
+      "text": "Und die P\u00fcnktum des W\u00e4ls und die Rippos, in der Doping,",
+      "confidence": 0.1426
+    },
+    {
+      "start": 1161.08,
+      "end": 1165.16,
+      "text": "dass die Gewicht nicht nachher vorliegt.",
+      "confidence": 0.1426
+    },
+    {
+      "start": 1165.16,
+      "end": 1168.2,
+      "text": "Der Landranger hat nur eine gute M\u00fche.",
+      "confidence": 0.1426
+    },
+    {
+      "start": 1168.2,
+      "end": 1172.76,
+      "text": "Der Landranger ist der Landranger damit, dass der Landranger damit schildert.",
+      "confidence": 0.1426
+    },
+    {
+      "start": 1172.76,
+      "end": 1177.76,
+      "text": "In comparison with the range of talks, which it has to perform.",
+      "confidence": 0.6941
+    },
+    {
+      "start": 1177.76,
+      "end": 1184.76,
+      "text": "For example, Switzerland does not need any battle cruises.",
+      "confidence": 0.6941
+    },
+    {
+      "start": 1185.76,
+      "end": 1190.76,
+      "text": "No navy can be, or it any rate can within years.",
+      "confidence": 0.6941
+    },
+    {
+      "start": 1190.76,
+      "end": 1199.76,
+      "text": "It is large enough to do battle against powerful opponents in all the waters of the world at the same time.",
+      "confidence": 0.6941
+    },
+    {
+      "start": 1199.76,
+      "end": 1203.76,
+      "text": "F\u00fcr alle, die sich in der N\u00e4ve war,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1203.76,
+      "end": 1205.76,
+      "text": "was da war,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1205.76,
+      "end": 1207.76,
+      "text": "either in der Stittbar-Kamitment,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1207.76,
+      "end": 1209.76,
+      "text": "oder in der Konsequenz.",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1210.76,
+      "end": 1212.76,
+      "text": "Germany, f\u00fcr example,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1212.76,
+      "end": 1214.76,
+      "text": "hat noch eine Redezeit,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1214.76,
+      "end": 1217.76,
+      "text": "und in dieser N\u00e4ve,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1217.76,
+      "end": 1220.76,
+      "text": "die Bremse f\u00fcr die Worte war,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1220.76,
+      "end": 1222.76,
+      "text": "in der N\u00e4ve.",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1224.76,
+      "end": 1225.76,
+      "text": "F\u00fcr viele T\u00e4tten,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1225.76,
+      "end": 1226.76,
+      "text": "die Maintainer Position,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1226.76,
+      "end": 1227.76,
+      "text": "in der N\u00e4he,",
+      "confidence": 0.3357
+    },
+    {
+      "start": 1227.76,
+      "end": 1228.76,
+      "text": "In der WHO war es sehr, sehr sch\u00f6n bef\u00f6rdert.",
+      "confidence": 0.1433
+    },
+    {
+      "start": 1230.76,
+      "end": 1232.76,
+      "text": "Die Besicht der Allerb\u00f6ster, die Sorgen der Lauraten,",
+      "confidence": 0.1433
+    },
+    {
+      "start": 1233.76,
+      "end": 1234.76,
+      "text": "sind sehr sch\u00f6n umgesagt.",
+      "confidence": 0.1433
+    },
+    {
+      "start": 1240.76,
+      "end": 1242.76,
+      "text": "Wir sind die Ausgangsabenderte Ausgangsabenderte.",
+      "confidence": 0.1433
+    },
+    {
+      "start": 1243.76,
+      "end": 1245.76,
+      "text": "Wie ist die Ausgangsabendende?",
+      "confidence": 0.1433
+    },
+    {
+      "start": 1246.76,
+      "end": 1247.76,
+      "text": "In der Lage, die Untergangsabendende aus der Europ\u00e4ischen Entengagement.",
+      "confidence": 0.1433
+    },
+    {
+      "start": 1248.76,
+      "end": 1252.76,
+      "text": "Wir sind sehr sch\u00f6n, dass die Ausgangsabendende aus der Europ\u00e4ischen Entengagement",
+      "confidence": 0.1433
+    },
+    {
+      "start": 1252.76,
+      "end": 1256.76,
+      "text": "Anbricken abstainten die Europ\u00e4er Entengenze.",
+      "confidence": 0.4799
+    },
+    {
+      "start": 1256.76,
+      "end": 1264.76,
+      "text": "Hanna Ruhrs renounced the claim to middle in European affairs.",
+      "confidence": 0.4799
+    },
+    {
+      "start": 1264.76,
+      "end": 1271.76,
+      "text": "Then the power of the British power in eastern Asia might well have endured longer.",
+      "confidence": 0.4799
+    },
+    {
+      "start": 1271.76,
+      "end": 1276.76,
+      "text": "It might have been possible to indulge in luxury,",
+      "confidence": 0.4799
+    },
+    {
+      "start": 1276.76,
+      "end": 1279.76,
+      "text": "Ich bin zuerst mit dem Menschen von Asia,",
+      "confidence": 0.2655
+    },
+    {
+      "start": 1280.76,
+      "end": 1283.76,
+      "text": "von der Verbrauchung von der Ausgleichung von der Domini-Universit\u00e4t,",
+      "confidence": 0.2655
+    },
+    {
+      "start": 1284.76,
+      "end": 1287.76,
+      "text": "oder auch in der N\u00e4he von der Festive von Butter,",
+      "confidence": 0.2655
+    },
+    {
+      "start": 1288.76,
+      "end": 1291.76,
+      "text": "als der Kleine von der Menschen von der N\u00e4he ist jetzt.",
+      "confidence": 0.2655
+    },
+    {
+      "start": 1292.76,
+      "end": 1295.76,
+      "text": "Aber die Domini-Universit\u00e4t von der Domini-Universit\u00e4t",
+      "confidence": 0.2655
+    },
+    {
+      "start": 1296.76,
+      "end": 1299.76,
+      "text": "ist in Deutschland zu gro\u00df,",
+      "confidence": 0.2655
+    },
+    {
+      "start": 1300.76,
+      "end": 1302.76,
+      "text": "oder die U.S. von der Welt zu verbinden.",
+      "confidence": 0.2655
+    },
+    {
+      "start": 1302.76,
+      "end": 1307.98,
+      "text": "Da war der Beste, was er im Monat war,",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1307.98,
+      "end": 1310.16,
+      "text": "dass alle Dinge in der Forschung",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1310.16,
+      "end": 1312.0,
+      "text": "und die Gewicht zu tun haben,",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1312.0,
+      "end": 1314.72,
+      "text": "und die L\u00e4schung von der Dosen zu haben,",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1314.72,
+      "end": 1318.0,
+      "text": "wurde es in der Pr\u00fcbe der Pfeil,",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1318.0,
+      "end": 1322.0,
+      "text": "um die L\u00e4schung zu erfordern und zu erfordern,",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1322.0,
+      "end": 1324.5,
+      "text": "um ein paar Probeke zu erfordern.",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1324.5,
+      "end": 1327.0,
+      "text": "Die L\u00e4schung von der R\u00e4schung",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1327.0,
+      "end": 1329.4,
+      "text": "zu erfordern, die L\u00e4schung zu erfordern,",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1329.4,
+      "end": 1330.5,
+      "text": "um die R\u00e4schung zu erfordern,",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1330.5,
+      "end": 1332.46,
+      "text": "um die R\u00e4schung zu erfordern,",
+      "confidence": 0.2147
+    },
+    {
+      "start": 1332.46,
+      "end": 1337.46,
+      "text": "Der Loden, der Charmefassist, der Publikum, der Name der B\u00fchne.",
+      "confidence": 0.3391
+    },
+    {
+      "start": 1337.46,
+      "end": 1341.36,
+      "text": "Ein Aircraft-Karrier, ein Klusser,",
+      "confidence": 0.3391
+    },
+    {
+      "start": 1341.36,
+      "end": 1345.36,
+      "text": "Riedescoil und ein paar Smaller-Bethalts.",
+      "confidence": 0.3391
+    },
+    {
+      "start": 1345.36,
+      "end": 1348.36,
+      "text": "Mein Damage 2005,",
+      "confidence": 0.3391
+    },
+    {
+      "start": 1348.36,
+      "end": 1351.36,
+      "text": "sie inkluden Pensive-Wales",
+      "confidence": 0.3391
+    },
+    {
+      "start": 1351.36,
+      "end": 1354.36,
+      "text": "f\u00fcr den Kost,",
+      "confidence": 0.3391
+    },
+    {
+      "start": 1354.36,
+      "end": 1357.36,
+      "text": "und die See-Pain-Karrier-Unikost",
+      "confidence": 0.3391
+    },
+    {
+      "start": 1357.36,
+      "end": 1360.36,
+      "text": "auf 14.500 Dunn",
+      "confidence": 0.3391
+    },
+    {
+      "start": 1360.36,
+      "end": 1365.12,
+      "text": "Er ist nur ein starker Prize, dass wir mit den Planeten der Nebelwarfer",
+      "confidence": 0.16
+    },
+    {
+      "start": 1365.12,
+      "end": 1367.12,
+      "text": "von den Schatz- und Sch\u00e4den beinahe.",
+      "confidence": 0.16
+    },
+    {
+      "start": 1367.12,
+      "end": 1370.3,
+      "text": "Nach diesem Fall r\u00e4nder Piano-Digitasi,",
+      "confidence": 0.16
+    },
+    {
+      "start": 1370.3,
+      "end": 1372.46,
+      "text": "ab der Prasgueran-Friske Mauer,",
+      "confidence": 0.16
+    },
+    {
+      "start": 1372.46,
+      "end": 1375.86,
+      "text": "in solven Elliot-Parton der Nebelwarfer war,",
+      "confidence": 0.16
+    },
+    {
+      "start": 1375.86,
+      "end": 1379.9,
+      "text": "der Nebelwarfer Britten ist non in der Pension.",
+      "confidence": 0.16
+    },
+    {
+      "start": 1379.9,
+      "end": 1382.14,
+      "text": "Es ist ein indispensable Aspect",
+      "confidence": 0.16
+    },
+    {
+      "start": 1382.14,
+      "end": 1384.86,
+      "text": "von der Nebelwarfer-Tension mit dem Holz.",
+      "confidence": 0.16
+    },
+    {
+      "start": 1384.86,
+      "end": 1388.02,
+      "text": "Sie haben Strate zum Kontext.",
+      "confidence": 0.16
+    },
+    {
+      "start": 1388.02,
+      "end": 1392.02,
+      "text": "Die Details der Batterie in der Nahe der Amerikanten.",
+      "confidence": 0.3286
+    },
+    {
+      "start": 1392.02,
+      "end": 1394.02,
+      "text": "Es ist kein Problem.",
+      "confidence": 0.3286
+    },
+    {
+      "start": 1394.02,
+      "end": 1398.02,
+      "text": "F\u00fcr die Berichtung, weil es alles \u00fcber die Welt ist.",
+      "confidence": 0.3286
+    },
+    {
+      "start": 1398.02,
+      "end": 1402.02,
+      "text": "Es ist incomparably mehr hurtig als die USE.",
+      "confidence": 0.3286
+    },
+    {
+      "start": 1404.02,
+      "end": 1406.02,
+      "text": "Was ist das?",
+      "confidence": 0.3286
+    },
+    {
+      "start": 1406.02,
+      "end": 1408.02,
+      "text": "Die Lusion der Perspektive.",
+      "confidence": 0.3286
+    },
+    {
+      "start": 1408.02,
+      "end": 1409.02,
+      "text": "Es ist klein.",
+      "confidence": 0.3286
+    },
+    {
+      "start": 1409.02,
+      "end": 1412.02,
+      "text": "In comparison, was Britain stands for lose.",
+      "confidence": 0.3286
+    },
+    {
+      "start": 1413.02,
+      "end": 1415.02,
+      "text": "Even India is threatened.",
+      "confidence": 0.3286
+    },
+    {
+      "start": 1415.02,
+      "end": 1419.02,
+      "text": "Die Politiker ist praktically in Amerika-Dominien.",
+      "confidence": 0.4712
+    },
+    {
+      "start": 1419.02,
+      "end": 1421.02,
+      "text": "Ruhige Rospels.",
+      "confidence": 0.4712
+    },
+    {
+      "start": 1421.02,
+      "end": 1424.02,
+      "text": "Die Strasse der Strasse, die du sehen,",
+      "confidence": 0.4712
+    },
+    {
+      "start": 1424.02,
+      "end": 1427.02,
+      "text": "ist in der Balance.",
+      "confidence": 0.4712
+    },
+    {
+      "start": 1427.02,
+      "end": 1431.02,
+      "text": "Royal Air Force is too weak.",
+      "confidence": 0.4712
+    },
+    {
+      "start": 1431.02,
+      "end": 1434.02,
+      "text": "Royal Navy is too weak.",
+      "confidence": 0.4712
+    },
+    {
+      "start": 1434.02,
+      "end": 1439.02,
+      "text": "And as yet, the common sense of the both people is too weak",
+      "confidence": 0.4712
+    },
+    {
+      "start": 1439.02,
+      "end": 1443.02,
+      "text": "to perceive the catastrophic nature",
+      "confidence": 0.4712
+    },
+    {
+      "start": 1443.02,
+      "end": 1447.02,
+      "text": "All the flights, in which they have allowed jet-travelism.",
+      "confidence": 0.4683
+    },
+    {
+      "start": 1459.02,
+      "end": 1461.02,
+      "text": "Germany calling.",
+      "confidence": 0.4683
+    },
+    {
+      "start": 1462.02,
+      "end": 1464.02,
+      "text": "You have just been nothing too long.",
+      "confidence": 0.4683
+    },
+    {
+      "start": 1465.02,
+      "end": 1471.02,
+      "text": "And this talk about when we repeated at 10.25 p.m.",
+      "confidence": 0.4683
+    },
+    {
+      "start": 1471.02,
+      "end": 1473.02,
+      "text": "Sie ist denn Panatarn, zu n\u00fcgend.",
+      "confidence": 0.2287
+    },
+    {
+      "start": 1477.02,
+      "end": 1480.02,
+      "text": "Wir sollten jetzt noch eine rechte Erm\u00e4rkung von 9 o'clock.",
+      "confidence": 0.2287
+    },
+    {
+      "start": 1481.02,
+      "end": 1482.02,
+      "text": "9 o'clock.",
+      "confidence": 0.2287
+    },
+    {
+      "start": 1484.02,
+      "end": 1485.02,
+      "text": "In 18 o'clock.",
+      "confidence": 0.2287
+    },
+    {
+      "start": 1486.02,
+      "end": 1490.02,
+      "text": "Sie wollen einen Interview mit Jane Hamilton und Sue Latzienwillen,",
+      "confidence": 0.2287
+    },
+    {
+      "start": 1491.02,
+      "end": 1493.02,
+      "text": "die heute in der Krise in den Kurs zu verlassen.",
+      "confidence": 0.2287
+    },
+    {
+      "start": 1494.02,
+      "end": 1495.02,
+      "text": "Die Krise mit Jane Hamilton,",
+      "confidence": 0.2287
+    },
+    {
+      "start": 1496.02,
+      "end": 1498.02,
+      "text": "die erste Krise von den Menschen,",
+      "confidence": 0.2287
+    },
+    {
+      "start": 1498.02,
+      "end": 1501.02,
+      "text": "und die Verbrauchung des Wendensherraus",
+      "confidence": 0.1219
+    },
+    {
+      "start": 1501.02,
+      "end": 1503.56,
+      "text": "und die Offizie von der Flasche",
+      "confidence": 0.1219
+    },
+    {
+      "start": 1503.56,
+      "end": 1505.82,
+      "text": "erhebt gerade einen deiner Glock.",
+      "confidence": 0.1219
+    }
+  ]
+}

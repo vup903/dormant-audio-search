@@ -1,0 +1,1953 @@
+{
+  "id": "1950-02-06-billings-montana-news-warren-marshall",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 1356.0,
+  "confidence": 0.7611,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "And now here's one module at the news. Good evening. First year is the official weather forecast",
+      "confidence": 0.7303
+    },
+    {
+      "start": 8.0,
+      "end": 12.36,
+      "text": "from the United States Weather Bureau at the Billings Airport. For Billings and vicinity",
+      "confidence": 0.7303
+    },
+    {
+      "start": 12.36,
+      "end": 18.52,
+      "text": "cloudy with light to moderate snow and north-westerny winds 25 to 35 miles per hour, causing near",
+      "confidence": 0.7303
+    },
+    {
+      "start": 18.52,
+      "end": 23.32,
+      "text": "blizzard conditions at times early this evening. Snow ending late tonight or early tomorrow",
+      "confidence": 0.7303
+    },
+    {
+      "start": 23.32,
+      "end": 29.02,
+      "text": "morning, decreasing cut in this Tuesday afternoon. Colder tonight with a low of 18 continued quite",
+      "confidence": 0.7303
+    },
+    {
+      "start": 29.02,
+      "end": 34.02,
+      "text": "cool tomorrow with a high of 30, low tomorrow night, 12 above.",
+      "confidence": 0.7364
+    },
+    {
+      "start": 34.02,
+      "end": 37.9,
+      "text": "Regional forecast, snow will spread into northern and eastern Wyoming in the western",
+      "confidence": 0.7364
+    },
+    {
+      "start": 37.9,
+      "end": 42.42,
+      "text": "decoters early tonight, and into the eastern decoters by tomorrow morning accompanied by strong",
+      "confidence": 0.7364
+    },
+    {
+      "start": 42.42,
+      "end": 45.7,
+      "text": "north-western winds and reserve conditions at times.",
+      "confidence": 0.7364
+    },
+    {
+      "start": 45.7,
+      "end": 50.1,
+      "text": "Snow will end in north-western Montana early tonight, and over the most of the state Tuesday",
+      "confidence": 0.7364
+    },
+    {
+      "start": 50.1,
+      "end": 55.5,
+      "text": "4 noon and in western decoters and extreme northern Wyoming tomorrow afternoon.",
+      "confidence": 0.7364
+    },
+    {
+      "start": 55.5,
+      "end": 62.0,
+      "text": "will fall to 15 to 25 above in North Dakota, 25 to 35 in South Dakota, 20 to 30 in Wyoming",
+      "confidence": 0.7252
+    },
+    {
+      "start": 62.0,
+      "end": 67.7,
+      "text": "and 15 to 25 in Montana tonight, except 5 to 15 in North Eastern Montana.",
+      "confidence": 0.7252
+    },
+    {
+      "start": 67.7,
+      "end": 73.5,
+      "text": "From all of the rather cold in most sections with high temperatures ranging from 25 to 35",
+      "confidence": 0.7252
+    },
+    {
+      "start": 73.5,
+      "end": 79.5,
+      "text": "in South Dakota in Wyoming and west of the continent of the bride in Montana, to 15 to 25 in",
+      "confidence": 0.7252
+    },
+    {
+      "start": 79.5,
+      "end": 85.3,
+      "text": "North Dakota and North Eastern Montana.",
+      "confidence": 0.7252
+    },
+    {
+      "start": 85.3,
+      "end": 88.46,
+      "text": "The local side of the news this evening, the Yellowstone Board of County commissioners",
+      "confidence": 0.7782
+    },
+    {
+      "start": 88.46,
+      "end": 93.14,
+      "text": "today signed the resolution creating the fifth township in Yellowstone County.",
+      "confidence": 0.7782
+    },
+    {
+      "start": 93.14,
+      "end": 97.18,
+      "text": "The board action was taken following a hearing and a petition for the creation of a township",
+      "confidence": 0.7782
+    },
+    {
+      "start": 97.18,
+      "end": 99.66,
+      "text": "submitted by Custer Residence.",
+      "confidence": 0.7782
+    },
+    {
+      "start": 99.66,
+      "end": 104.22,
+      "text": "Custer has been in the Warden township, which Custer Residence believed too large to adequately",
+      "confidence": 0.7782
+    },
+    {
+      "start": 104.22,
+      "end": 106.14,
+      "text": "service the town of Custer.",
+      "confidence": 0.7782
+    },
+    {
+      "start": 106.14,
+      "end": 111.26,
+      "text": "The board reported no protests were registered against the petition.",
+      "confidence": 0.7782
+    },
+    {
+      "start": 111.26,
+      "end": 116.46,
+      "text": "Emerson Body, famous Negro minister and lecturer, spoke this morning before the student body",
+      "confidence": 0.793
+    },
+    {
+      "start": 116.46,
+      "end": 120.98,
+      "text": "of Eastern Montana College of Education on human and race relations.",
+      "confidence": 0.793
+    },
+    {
+      "start": 120.98,
+      "end": 125.74,
+      "text": "Dr. Body emphasized the fact that in world terms, the white race is in the minority, and",
+      "confidence": 0.793
+    },
+    {
+      "start": 125.74,
+      "end": 130.18,
+      "text": "that the shrinking of the world through improved methods of communication and transportation",
+      "confidence": 0.793
+    },
+    {
+      "start": 130.18,
+      "end": 134.98,
+      "text": "has forced man's attention to the necessity of believing in the theory of world brotherhood.",
+      "confidence": 0.793
+    },
+    {
+      "start": 134.98,
+      "end": 140.62,
+      "text": "Dr. Body will speak before the public tonight at the College Auditorium at 8 p.m.",
+      "confidence": 0.793
+    },
+    {
+      "start": 140.62,
+      "end": 144.3,
+      "text": "address will be directed to the subject of Christianity and freedom.",
+      "confidence": 0.7522
+    },
+    {
+      "start": 144.3,
+      "end": 151.42,
+      "text": "The current lectures are included in the 1950 series of lectures at Eastern.",
+      "confidence": 0.7522
+    },
+    {
+      "start": 151.42,
+      "end": 154.78,
+      "text": "Ten crew leaders of the Abelings District of the Bureau of Census will attend crew leading",
+      "confidence": 0.7522
+    },
+    {
+      "start": 154.78,
+      "end": 156.1,
+      "text": "training schools.",
+      "confidence": 0.7522
+    },
+    {
+      "start": 156.1,
+      "end": 160.46,
+      "text": "They first to be at the commercial club from March 8 through March 11 and the second to",
+      "confidence": 0.7522
+    },
+    {
+      "start": 160.46,
+      "end": 164.86,
+      "text": "be at Eastern Montana College of Education from March 13 through March 15.",
+      "confidence": 0.7522
+    },
+    {
+      "start": 164.86,
+      "end": 169.26,
+      "text": "The schools will be on a technical advisor ship of Mrs. Esther Cooper of the city.",
+      "confidence": 0.7522
+    },
+    {
+      "start": 169.26,
+      "end": 173.26,
+      "text": "will be assisted by William Long of Billings Irrigation Technician.",
+      "confidence": 0.746
+    },
+    {
+      "start": 173.26,
+      "end": 177.26,
+      "text": "According to District Supervisor Thomas D. Kelly, these crew leading training schools",
+      "confidence": 0.746
+    },
+    {
+      "start": 177.26,
+      "end": 183.26,
+      "text": "are being staged for all over the 40-year-old census districts in the continental United States.",
+      "confidence": 0.746
+    },
+    {
+      "start": 183.26,
+      "end": 189.26,
+      "text": "The local chapter of the Order of Demolay was advised by the Grand Council at Edwin H. Keith.",
+      "confidence": 0.746
+    },
+    {
+      "start": 189.26,
+      "end": 195.26,
+      "text": "And Harry L. Fine of Billings, former Demolay members, have been awarded the Legion of Honor degree.",
+      "confidence": 0.746
+    },
+    {
+      "start": 195.26,
+      "end": 198.38,
+      "text": "for Keith, his treasurer of the Keith Autumn supply company, Mr.",
+      "confidence": 0.6743
+    },
+    {
+      "start": 198.38,
+      "end": 200.98,
+      "text": "Pine, his western manager of the Beacon Balls rubber footwear.",
+      "confidence": 0.6743
+    },
+    {
+      "start": 200.98,
+      "end": 205.54,
+      "text": "A Chevrolet degree, which is awarded to active demolay members for work in the local",
+      "confidence": 0.6743
+    },
+    {
+      "start": 205.54,
+      "end": 209.58,
+      "text": "chapter, has been given to Dale Strait, Thomas Larson,",
+      "confidence": 0.6743
+    },
+    {
+      "start": 209.58,
+      "end": 212.92,
+      "text": "Frederick Johnson, and Gilbert Reak.",
+      "confidence": 0.6743
+    },
+    {
+      "start": 212.92,
+      "end": 217.52,
+      "text": "Every year the Grand Council honors active and former demolays throughout the nation on",
+      "confidence": 0.6743
+    },
+    {
+      "start": 217.52,
+      "end": 222.22,
+      "text": "the basis of their service to mankind, work in a business or a profession, or work in community",
+      "confidence": 0.6743
+    },
+    {
+      "start": 222.22,
+      "end": 223.22,
+      "text": "welfare activities.",
+      "confidence": 0.6743
+    },
+    {
+      "start": 223.22,
+      "end": 227.02,
+      "text": "days. The names are submitted by delegates attending the annual conference of the Grand",
+      "confidence": 0.6806
+    },
+    {
+      "start": 227.02,
+      "end": 233.82,
+      "text": "Council. This year's conference was staged at Port Worth, Texas.",
+      "confidence": 0.6806
+    },
+    {
+      "start": 233.82,
+      "end": 238.42,
+      "text": "A moving man whose body was found Saturday near the highway south of Tostorne still has",
+      "confidence": 0.6806
+    },
+    {
+      "start": 238.42,
+      "end": 242.9,
+      "text": "not been identified this evening, shut George Kickburshire Broadway County says he is",
+      "confidence": 0.6806
+    },
+    {
+      "start": 242.9,
+      "end": 247.06,
+      "text": "sending a package to the Federal Bureau of Investigation in Washington for examination",
+      "confidence": 0.6806
+    },
+    {
+      "start": 247.06,
+      "end": 251.98,
+      "text": "by the FBI Scientific Crime Detection Laboratory. Items being sent to the package include",
+      "confidence": 0.6806
+    },
+    {
+      "start": 251.98,
+      "end": 258.48,
+      "text": "the bullet-rather, taken from the man's head, is quoting and his finger-pence.",
+      "confidence": 0.7182
+    },
+    {
+      "start": 258.48,
+      "end": 263.74,
+      "text": "Governor John W. Bonner says the special firm to help rehabilitate wayward Montana girls",
+      "confidence": 0.7182
+    },
+    {
+      "start": 263.74,
+      "end": 267.68,
+      "text": "has been set up through the generosity of a Midwest business man.",
+      "confidence": 0.7182
+    },
+    {
+      "start": 267.68,
+      "end": 271.64,
+      "text": "Mr. Bonner says the money was given to Mrs. Elizabeth Steve, director of the State Vocational",
+      "confidence": 0.7182
+    },
+    {
+      "start": 271.64,
+      "end": 277.32,
+      "text": "School for Girls and Helmer, by Charles Ward, president of the St. Paul, Minnesota firm.",
+      "confidence": 0.7182
+    },
+    {
+      "start": 277.32,
+      "end": 284.92,
+      "text": "gave Mrs. Steer $1,000 recently after her work to rehabilitate young girls came to his",
+      "confidence": 0.7408
+    },
+    {
+      "start": 284.92,
+      "end": 286.08,
+      "text": "attention.",
+      "confidence": 0.7408
+    },
+    {
+      "start": 286.08,
+      "end": 289.52,
+      "text": "Mrs. Steed established a Charles Ward fund with the money.",
+      "confidence": 0.7408
+    },
+    {
+      "start": 289.52,
+      "end": 291.88,
+      "text": "She says she will use it for three purposes.",
+      "confidence": 0.7408
+    },
+    {
+      "start": 291.88,
+      "end": 296.6,
+      "text": "One, to get her senior class graduated in June, to finance a business college education for",
+      "confidence": 0.7408
+    },
+    {
+      "start": 296.6,
+      "end": 301.6,
+      "text": "two rehabilitated girls, and to obtain marriage annulments for some underage girls in her",
+      "confidence": 0.7408
+    },
+    {
+      "start": 301.6,
+      "end": 302.6,
+      "text": "care.",
+      "confidence": 0.7408
+    },
+    {
+      "start": 302.6,
+      "end": 306.88,
+      "text": "Governor Bonan says he has extremely gratified that Mrs. Steed's work has received national",
+      "confidence": 0.7408
+    },
+    {
+      "start": 306.88,
+      "end": 313.42,
+      "text": "recognition for the man of Mr. Ward Stetcher. For consciousness entered the New York stock",
+      "confidence": 0.698
+    },
+    {
+      "start": 313.42,
+      "end": 318.12,
+      "text": "market today and prices drifted in an air range as the market closed, several of the",
+      "confidence": 0.698
+    },
+    {
+      "start": 318.12,
+      "end": 322.48,
+      "text": "coal strikes of course had been anticipated and discounted by the stock list last week",
+      "confidence": 0.698
+    },
+    {
+      "start": 322.48,
+      "end": 327.02,
+      "text": "and there were no new incentives. The Dow Jones closing stock air reaches industrial",
+      "confidence": 0.698
+    },
+    {
+      "start": 327.02,
+      "end": 335.78,
+      "text": "200-4 and 8800 sub-1700s, railroads 56 and 42-hundreds off 1800s, utilities 42 and 90-hundreds",
+      "confidence": 0.7009
+    },
+    {
+      "start": 335.78,
+      "end": 346.5,
+      "text": "off 1100s and 65 stocks, 74 and 44-hundreds off 500s. Sales today totaled 1,470,000 shares",
+      "confidence": 0.7009
+    },
+    {
+      "start": 346.5,
+      "end": 354.42,
+      "text": "against 1,510,000 shares traded last Friday. Weak call and soybean futures closed sharply",
+      "confidence": 0.7009
+    },
+    {
+      "start": 354.42,
+      "end": 359.3,
+      "text": "higher in trading at Chicago, oats and rye were irregular, wheat was up one and one quarter",
+      "confidence": 0.7756
+    },
+    {
+      "start": 359.3,
+      "end": 364.18,
+      "text": "to two cents, corn gained one eighth to one cent, oats were up one eighth to up one quarter,",
+      "confidence": 0.7756
+    },
+    {
+      "start": 364.18,
+      "end": 368.26,
+      "text": "rye was up one and half to up three quarters and soybeans were up one quarter to one man,",
+      "confidence": 0.7756
+    },
+    {
+      "start": 368.26,
+      "end": 372.98,
+      "text": "one quarter. Wheat was higher, but other grains were irregular at outside markets.",
+      "confidence": 0.7756
+    },
+    {
+      "start": 374.9,
+      "end": 379.14,
+      "text": "Well on the national land, international news scene this evening, this has been a crucial day",
+      "confidence": 0.7756
+    },
+    {
+      "start": 379.14,
+      "end": 384.02,
+      "text": "in the murder trial of Dr. Herman Sandrup, Manchester New Hampshire, his boyhood pal who became an",
+      "confidence": 0.7756
+    },
+    {
+      "start": 384.02,
+      "end": 388.34,
+      "text": "attorney general hounded him for an answer to the question, why did he inject air into",
+      "confidence": 0.7974
+    },
+    {
+      "start": 388.34,
+      "end": 391.98,
+      "text": "the veins of a woman cancer patient he's accused of slaying?",
+      "confidence": 0.7974
+    },
+    {
+      "start": 391.98,
+      "end": 394.18,
+      "text": "Dr. Sanders says his mind snapped.",
+      "confidence": 0.7974
+    },
+    {
+      "start": 394.18,
+      "end": 396.86,
+      "text": "He believed the patient was already dead.",
+      "confidence": 0.7974
+    },
+    {
+      "start": 396.86,
+      "end": 400.54,
+      "text": "It was just the appearance of her face and the remembrance of her long suffering that might",
+      "confidence": 0.7974
+    },
+    {
+      "start": 400.54,
+      "end": 404.26,
+      "text": "have touched me off and made me do something that doesn't make sense, he said.",
+      "confidence": 0.7974
+    },
+    {
+      "start": 404.26,
+      "end": 409.5,
+      "text": "I was obsessed to do it, but he insisted that he believed the patient was dead.",
+      "confidence": 0.7974
+    },
+    {
+      "start": 409.5,
+      "end": 415.26,
+      "text": "Sandy said, the very fact that she was dead gave me assurance I could do her no harm.",
+      "confidence": 0.7901
+    },
+    {
+      "start": 415.26,
+      "end": 418.74,
+      "text": "Under Fanny's questioning, Sanders said he had given the patient larger than usual doses",
+      "confidence": 0.7901
+    },
+    {
+      "start": 418.74,
+      "end": 420.42,
+      "text": "of drugs to ease her pain.",
+      "confidence": 0.7901
+    },
+    {
+      "start": 420.42,
+      "end": 424.22,
+      "text": "Fanny said, you knew overdoses might result in a fatality.",
+      "confidence": 0.7901
+    },
+    {
+      "start": 424.22,
+      "end": 429.58,
+      "text": "Dr. Sanders said overdose is merely a relative term, but the prosecutor said they can be",
+      "confidence": 0.7901
+    },
+    {
+      "start": 429.58,
+      "end": 430.58,
+      "text": "fatal.",
+      "confidence": 0.7901
+    },
+    {
+      "start": 430.58,
+      "end": 431.58,
+      "text": "Is that right?",
+      "confidence": 0.7901
+    },
+    {
+      "start": 431.58,
+      "end": 432.58,
+      "text": "That's right.",
+      "confidence": 0.7901
+    },
+    {
+      "start": 432.58,
+      "end": 436.46,
+      "text": "Sanders said adding, but I didn't consider this an overdose.",
+      "confidence": 0.7901
+    },
+    {
+      "start": 436.46,
+      "end": 441.34,
+      "text": "testified calmly. People in the courtroom lean forward to catch his testimony and the jurors",
+      "confidence": 0.7274
+    },
+    {
+      "start": 441.34,
+      "end": 445.76,
+      "text": "listened intently. Sandra completed his testimony in just under four hours and he finished",
+      "confidence": 0.7274
+    },
+    {
+      "start": 445.76,
+      "end": 450.9,
+      "text": "up by saying he had no intention of doing harm at any time to his cancer patient. Then",
+      "confidence": 0.7274
+    },
+    {
+      "start": 450.9,
+      "end": 457.24,
+      "text": "we stepped from the stand. Well, when you first call loads of coal are rolling out of the",
+      "confidence": 0.7274
+    },
+    {
+      "start": 457.24,
+      "end": 461.58,
+      "text": "minefields and Mr. John L. Lewis is squaring his debts this evening. While the miners were",
+      "confidence": 0.7274
+    },
+    {
+      "start": 461.58,
+      "end": 466.42,
+      "text": "on strike, CIO unions helped feed the hungry coal diggers and their families. The steel workers",
+      "confidence": 0.7274
+    },
+    {
+      "start": 466.42,
+      "end": 469.58,
+      "text": "Spitched in with a half a million dollars the auto workers showed up with food and other",
+      "confidence": 0.7292
+    },
+    {
+      "start": 469.58,
+      "end": 470.58,
+      "text": "relief assistance.",
+      "confidence": 0.7292
+    },
+    {
+      "start": 470.58,
+      "end": 472.46,
+      "text": "John L. didn't forget.",
+      "confidence": 0.7292
+    },
+    {
+      "start": 472.46,
+      "end": 475.98,
+      "text": "His troubles over Mr. Lewis moved quickly to the aid of the CIO auto workers who have been",
+      "confidence": 0.7292
+    },
+    {
+      "start": 475.98,
+      "end": 478.18,
+      "text": "on strike for eight weeks in Chrysler.",
+      "confidence": 0.7292
+    },
+    {
+      "start": 478.18,
+      "end": 482.26,
+      "text": "Lewis offered the auto men a one million dollar loan and called upon other great unions",
+      "confidence": 0.7292
+    },
+    {
+      "start": 482.26,
+      "end": 483.26,
+      "text": "to help out too.",
+      "confidence": 0.7292
+    },
+    {
+      "start": 483.26,
+      "end": 488.46,
+      "text": "The mining and chief intimated the auto workers and the UMW are allies in about the same",
+      "confidence": 0.7292
+    },
+    {
+      "start": 488.46,
+      "end": 489.46,
+      "text": "battle.",
+      "confidence": 0.7292
+    },
+    {
+      "start": 489.46,
+      "end": 494.3,
+      "text": "In the coal contract this few just suddenly said the UMW was opposed by a lied financial",
+      "confidence": 0.7292
+    },
+    {
+      "start": 494.3,
+      "end": 499.3,
+      "text": "interests associated in a major sense with the financial group that dominates the auto",
+      "confidence": 0.7651
+    },
+    {
+      "start": 499.3,
+      "end": 500.3,
+      "text": "industry.",
+      "confidence": 0.7651
+    },
+    {
+      "start": 500.3,
+      "end": 504.5,
+      "text": "But the biggest news around the fireside is that the coal is coming out of the mines",
+      "confidence": 0.7651
+    },
+    {
+      "start": 504.5,
+      "end": 505.5,
+      "text": "this evening.",
+      "confidence": 0.7651
+    },
+    {
+      "start": 505.5,
+      "end": 509.5,
+      "text": "Car loads a few already have been dug from the mines in West Virginia in Kentucky, and",
+      "confidence": 0.7651
+    },
+    {
+      "start": 509.5,
+      "end": 513.1,
+      "text": "a jackpot hall is coming in tonight.",
+      "confidence": 0.7651
+    },
+    {
+      "start": 513.1,
+      "end": 516.5,
+      "text": "Meanwhile employment is up and unemployment is up.",
+      "confidence": 0.7651
+    },
+    {
+      "start": 516.5,
+      "end": 520.0,
+      "text": "That sounds bad, Mexico, but the fact is the number of unemployed in February jumped",
+      "confidence": 0.7651
+    },
+    {
+      "start": 520.0,
+      "end": 525.0,
+      "text": "to $4,684,000 the highest since August, 1941.",
+      "confidence": 0.7441
+    },
+    {
+      "start": 525.0,
+      "end": 528.0,
+      "text": "That's according to figures released by the Census Bureau today.",
+      "confidence": 0.7441
+    },
+    {
+      "start": 528.0,
+      "end": 533.0,
+      "text": "At the same time, employment in February rose 6,000 above the January total.",
+      "confidence": 0.7441
+    },
+    {
+      "start": 533.0,
+      "end": 536.0,
+      "text": "The striking co-miters were not taken into consideration.",
+      "confidence": 0.7441
+    },
+    {
+      "start": 536.0,
+      "end": 541.0,
+      "text": "The reason they seemingly contradictory figures jive is that the civilian labor force,",
+      "confidence": 0.7441
+    },
+    {
+      "start": 541.0,
+      "end": 545.0,
+      "text": "everyone looking for a job, continued to rise and reached $60,000.",
+      "confidence": 0.7441
+    },
+    {
+      "start": 545.0,
+      "end": 549.96,
+      "text": "information brought to you six nights each week at six-fifteen by the Midland National Bank,",
+      "confidence": 0.8064
+    },
+    {
+      "start": 549.96,
+      "end": 553.56,
+      "text": "an institution devoted to service for the people of the Midland Empire and the member of",
+      "confidence": 0.8064
+    },
+    {
+      "start": 553.56,
+      "end": 557.88,
+      "text": "the Federal Opposite Insurance Corporation. In a moment for latest news and weather, but first",
+      "confidence": 0.8064
+    },
+    {
+      "start": 557.88,
+      "end": 560.92,
+      "text": "here is Howard Harding with a message from the Midland National Bank.",
+      "confidence": 0.8064
+    },
+    {
+      "start": 562.44,
+      "end": 567.24,
+      "text": "You know when a merchant or a store of businessmen sells you an item for a dollar or even a hundred",
+      "confidence": 0.8064
+    },
+    {
+      "start": 567.24,
+      "end": 571.08,
+      "text": "dollars it's a pretty fair gamble that he made a legitimate profit over and above his rent",
+      "confidence": 0.8064
+    },
+    {
+      "start": 571.08,
+      "end": 575.72,
+      "text": "is advertising, the employees salaries the glass, the lights, the phone, and all you know,",
+      "confidence": 0.7563
+    },
+    {
+      "start": 575.72,
+      "end": 578.36,
+      "text": "too many different items to mention.",
+      "confidence": 0.7563
+    },
+    {
+      "start": 578.36,
+      "end": 583.2,
+      "text": "And you have helped to pay those expenses too, or he wouldn't stay in long in business.",
+      "confidence": 0.7563
+    },
+    {
+      "start": 583.2,
+      "end": 587.36,
+      "text": "Now then, when you go to a bank for a loan, you receive one hundred cents on the dollar.",
+      "confidence": 0.7563
+    },
+    {
+      "start": 587.36,
+      "end": 589.36,
+      "text": "Yes, right there in your hand.",
+      "confidence": 0.7563
+    },
+    {
+      "start": 589.36,
+      "end": 594.52,
+      "text": "There couldn't possibly be a mark-up or a special deal or so-called goodbye, because a dollar",
+      "confidence": 0.7563
+    },
+    {
+      "start": 594.52,
+      "end": 600.12,
+      "text": "is a dollar, no more, no less, and it's yours to do that, which you desire.",
+      "confidence": 0.7563
+    },
+    {
+      "start": 600.12,
+      "end": 605.48,
+      "text": "A bank tells you what it's profit is and it's mighty small by most any comparison.",
+      "confidence": 0.8233
+    },
+    {
+      "start": 605.48,
+      "end": 609.92,
+      "text": "The bank you will find is your friend and generally one of your greatest allies in your time",
+      "confidence": 0.8233
+    },
+    {
+      "start": 609.92,
+      "end": 610.92,
+      "text": "of need.",
+      "confidence": 0.8233
+    },
+    {
+      "start": 610.92,
+      "end": 615.24,
+      "text": "The Midland National Bank is just as anxious to sell you dollars as any merchant is to sell",
+      "confidence": 0.8233
+    },
+    {
+      "start": 615.24,
+      "end": 616.24,
+      "text": "you merchandise.",
+      "confidence": 0.8233
+    },
+    {
+      "start": 616.24,
+      "end": 622.24,
+      "text": "And that's why the Midland National Bank encourages you to buy dollars from them.",
+      "confidence": 0.8233
+    },
+    {
+      "start": 622.24,
+      "end": 626.36,
+      "text": "You'll always find that the Midland National Bank officers and the employers are courteous.",
+      "confidence": 0.8233
+    },
+    {
+      "start": 626.36,
+      "end": 629.84,
+      "text": "They're willing to be of assistance to you no matter what your business.",
+      "confidence": 0.8233
+    },
+    {
+      "start": 629.84,
+      "end": 634.3,
+      "text": "The Midland National Bank feels that it can't overstate the importance to you of saving",
+      "confidence": 0.7247
+    },
+    {
+      "start": 634.3,
+      "end": 639.98,
+      "text": "for a purpose, and when it's a loan you need, just try it for once, the Midland National",
+      "confidence": 0.7247
+    },
+    {
+      "start": 639.98,
+      "end": 640.98,
+      "text": "Bank.",
+      "confidence": 0.7247
+    },
+    {
+      "start": 640.98,
+      "end": 644.78,
+      "text": "And now we take you to the U.S. Federal Office, the Billings Airport, for the latest",
+      "confidence": 0.7247
+    },
+    {
+      "start": 644.78,
+      "end": 646.54,
+      "text": "official weather information.",
+      "confidence": 0.7247
+    },
+    {
+      "start": 646.54,
+      "end": 652.54,
+      "text": "Good evening, this is Ray Cunning with The Weather Summary and Forecasts.",
+      "confidence": 0.7247
+    },
+    {
+      "start": 652.54,
+      "end": 658.02,
+      "text": "Last night and today a strong surge of Pacific air moved through Montana and into the western",
+      "confidence": 0.7247
+    },
+    {
+      "start": 658.02,
+      "end": 663.7,
+      "text": "encoders, and not in Wyoming, followed by colder air spreading in from the north.",
+      "confidence": 0.7826
+    },
+    {
+      "start": 663.7,
+      "end": 668.3,
+      "text": "This storm, which was centered in southwestern Montana at this time yesterday evening, is",
+      "confidence": 0.7826
+    },
+    {
+      "start": 668.3,
+      "end": 673.9,
+      "text": "now centered over the eastern decoders, and the strong winds with snow and blowing snow",
+      "confidence": 0.7826
+    },
+    {
+      "start": 673.9,
+      "end": 677.94,
+      "text": "and near blizzard conditions are now spreading into the western decoders.",
+      "confidence": 0.7826
+    },
+    {
+      "start": 677.94,
+      "end": 685.74,
+      "text": "In buildings, the snow is gradually decreasing, but blowing snow with 25 to 35 mile per hour",
+      "confidence": 0.7826
+    },
+    {
+      "start": 685.74,
+      "end": 692.1,
+      "text": "north-western winds, with near blizzard conditions at times, will be continuing during the early",
+      "confidence": 0.725
+    },
+    {
+      "start": 692.1,
+      "end": 697.26,
+      "text": "part of the night, with a snow ending, and the wind decreasing during the latter part",
+      "confidence": 0.725
+    },
+    {
+      "start": 697.26,
+      "end": 700.34,
+      "text": "of the night, and cloudiness decreasing tomorrow afternoon.",
+      "confidence": 0.725
+    },
+    {
+      "start": 700.34,
+      "end": 705.58,
+      "text": "It will be colder tonight with the lowest temperature near 18 above.",
+      "confidence": 0.725
+    },
+    {
+      "start": 705.58,
+      "end": 712.86,
+      "text": "Tomorrow, the high temperature will be near 30, and the last tomorrow night about 12 above.",
+      "confidence": 0.725
+    },
+    {
+      "start": 712.86,
+      "end": 716.86,
+      "text": "high-end conditions for the operation of a light aircraft will not be favorable during",
+      "confidence": 0.7698
+    },
+    {
+      "start": 716.86,
+      "end": 723.86,
+      "text": "the early part of tomorrow for noon due to scattered snow showers and surface winds between",
+      "confidence": 0.7698
+    },
+    {
+      "start": 723.86,
+      "end": 729.86,
+      "text": "20 to 25 miles per hour. But during the afternoon the clouds will be breaking and the surface",
+      "confidence": 0.7698
+    },
+    {
+      "start": 729.86,
+      "end": 736.86,
+      "text": "winds will be decreasing for local operations. The highest wind here at the Billings Airport",
+      "confidence": 0.7698
+    },
+    {
+      "start": 736.86,
+      "end": 740.62,
+      "text": "occurred during the latter part of the forenoon and the wind reached north",
+      "confidence": 0.729
+    },
+    {
+      "start": 740.62,
+      "end": 747.36,
+      "text": "westerly 47 miles per hour with gusts to 55 miles per hour. Most places east of",
+      "confidence": 0.729
+    },
+    {
+      "start": 747.36,
+      "end": 752.78,
+      "text": "the continental divide in Montana experienced gusty winds today between 35 and",
+      "confidence": 0.729
+    },
+    {
+      "start": 752.78,
+      "end": 760.42,
+      "text": "45 miles per hour or higher and near-blessed conditions. During the past 18",
+      "confidence": 0.729
+    },
+    {
+      "start": 760.42,
+      "end": 765.24,
+      "text": "hours some beneficial amounts of precipitation were reported over Montana. Here",
+      "confidence": 0.729
+    },
+    {
+      "start": 765.24,
+      "end": 771.44,
+      "text": "At the Bellings Airport, we receive 600-7-inch Lewis Town, reported 1800s, Calis Bell",
+      "confidence": 0.5894
+    },
+    {
+      "start": 771.44,
+      "end": 783.92,
+      "text": "57-100s, Cutbank 700s, Great Falls 7-600s, Helena 32-100s, Boseman 28-100s, and Haber 85-100s.",
+      "confidence": 0.5894
+    },
+    {
+      "start": 783.92,
+      "end": 795.2,
+      "text": "Our high temperature today was 46 miles, 30-30-36, shared in 58, Livingston 35, and Cody 38.",
+      "confidence": 0.5894
+    },
+    {
+      "start": 795.2,
+      "end": 799.2,
+      "text": "Here again is the forecast for bellings and vicinity.",
+      "confidence": 0.7768
+    },
+    {
+      "start": 799.2,
+      "end": 803.2,
+      "text": "Cloudy, with light snow at times and blowing snow,",
+      "confidence": 0.7768
+    },
+    {
+      "start": 803.2,
+      "end": 807.2,
+      "text": "with the north-westernly winds 25 to 35 miles per hour,",
+      "confidence": 0.7768
+    },
+    {
+      "start": 807.2,
+      "end": 810.2,
+      "text": "causing near-blizzard conditions at times early tonight,",
+      "confidence": 0.7768
+    },
+    {
+      "start": 810.2,
+      "end": 812.2,
+      "text": "with the snow ending late tonight,",
+      "confidence": 0.7768
+    },
+    {
+      "start": 812.2,
+      "end": 816.2,
+      "text": "and the cloudiness decreasing tomorrow afternoon.",
+      "confidence": 0.7768
+    },
+    {
+      "start": 816.2,
+      "end": 819.2,
+      "text": "It will be colder tonight with the lowest 18,",
+      "confidence": 0.7768
+    },
+    {
+      "start": 819.2,
+      "end": 823.2,
+      "text": "and continued quite cold tomorrow, the higher on 30.",
+      "confidence": 0.7768
+    },
+    {
+      "start": 823.2,
+      "end": 827.2,
+      "text": "The load tomorrow night will be 12 above.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 827.2,
+      "end": 829.2,
+      "text": "That's all from the weather bureau for now.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 829.2,
+      "end": 831.2,
+      "text": "Here again is your announcer.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 831.2,
+      "end": 834.2,
+      "text": "Our next weather broad jazz will be heard at 11 o'clock this evening.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 834.2,
+      "end": 837.2,
+      "text": "And now here's Howard Harding and Venews.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 837.2,
+      "end": 840.2,
+      "text": "The big coal strike just ended has overshadowed the strike",
+      "confidence": 0.7925
+    },
+    {
+      "start": 840.2,
+      "end": 842.2,
+      "text": "at Plants of the Chrysler Motor Company.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 842.2,
+      "end": 844.2,
+      "text": "That strike is now seven weeks old.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 844.2,
+      "end": 848.2,
+      "text": "And John A. Lewis has just come out with an offer of a $1 million known",
+      "confidence": 0.7925
+    },
+    {
+      "start": 848.2,
+      "end": 851.2,
+      "text": "to aid the CIO auto workers in the Chrysler Strike.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 851.2,
+      "end": 855.84,
+      "text": "Lewis made the offer to the Outer Workers President Walter Ruther in a letter saying that",
+      "confidence": 0.7648
+    },
+    {
+      "start": 855.84,
+      "end": 859.52,
+      "text": "the policy committee of the United Mine Workers had authorized.",
+      "confidence": 0.7648
+    },
+    {
+      "start": 859.52,
+      "end": 863.76,
+      "text": "Lewis said that the Mine Workers Union hopes that the other unions in the CIO and the",
+      "confidence": 0.7648
+    },
+    {
+      "start": 863.76,
+      "end": 865.96,
+      "text": "FABL will extend similar aid.",
+      "confidence": 0.7648
+    },
+    {
+      "start": 865.96,
+      "end": 871.72,
+      "text": "Lewis's offer is seen as a response to the gift check for $500,000 which CIO President",
+      "confidence": 0.7648
+    },
+    {
+      "start": 871.72,
+      "end": 876.52,
+      "text": "Philip Murray sent to the Mine Workers in their contract flight.",
+      "confidence": 0.7648
+    },
+    {
+      "start": 876.52,
+      "end": 881.44,
+      "text": "In offering a loan of $1 million to the CIO auto union, John L. Lewis emphasized the",
+      "confidence": 0.8128
+    },
+    {
+      "start": 881.44,
+      "end": 885.6,
+      "text": "current crisis strike, but he made it clear that the mine union authorized the loan for",
+      "confidence": 0.8128
+    },
+    {
+      "start": 885.6,
+      "end": 887.76,
+      "text": "the overall auto union drive.",
+      "confidence": 0.8128
+    },
+    {
+      "start": 887.76,
+      "end": 891.64,
+      "text": "Lewis mentioned only Chrysler by name, but he implied that the loan could be used to",
+      "confidence": 0.8128
+    },
+    {
+      "start": 891.64,
+      "end": 897.44,
+      "text": "help defray expenses of the coming contract talks with General Motors.",
+      "confidence": 0.8128
+    },
+    {
+      "start": 897.44,
+      "end": 901.76,
+      "text": "Meanwhile the back-to-work parade of the nation's coal mines is picking up fast.",
+      "confidence": 0.8128
+    },
+    {
+      "start": 901.76,
+      "end": 905.92,
+      "text": "One coal state after another reports that the miners are flocking back to the jobs.",
+      "confidence": 0.8128
+    },
+    {
+      "start": 905.92,
+      "end": 910.32,
+      "text": "back to back back to work movement got off to a slow start this morning with only",
+      "confidence": 0.7957
+    },
+    {
+      "start": 910.32,
+      "end": 913.72,
+      "text": "about thirty thousand miners on hand for the early shifts. Good many of the",
+      "confidence": 0.7957
+    },
+    {
+      "start": 913.72,
+      "end": 916.8,
+      "text": "diggers waited until they got the official word from Mr. John L. Lewis at",
+      "confidence": 0.7957
+    },
+    {
+      "start": 916.8,
+      "end": 920.32,
+      "text": "the traditional union meetings. Nearly all of the miners are expected to be",
+      "confidence": 0.7957
+    },
+    {
+      "start": 920.32,
+      "end": 925.16,
+      "text": "digging coal again by nightfall. The rate roads have faced the return to work in",
+      "confidence": 0.7957
+    },
+    {
+      "start": 925.16,
+      "end": 929.6,
+      "text": "coal allied industries. Coal-carrying roads have recalled thousands of furloughed",
+      "confidence": 0.7957
+    },
+    {
+      "start": 929.6,
+      "end": 934.96,
+      "text": "furloughed furloughed employees and the big steel firms are acting a bit more",
+      "confidence": 0.7957
+    },
+    {
+      "start": 934.96,
+      "end": 938.76,
+      "text": "slowly. One steel firm says it will be three weeks before full production is",
+      "confidence": 0.8171
+    },
+    {
+      "start": 938.76,
+      "end": 943.36,
+      "text": "resumed, and it will take at least a week to replenish the coal supplies. The",
+      "confidence": 0.8171
+    },
+    {
+      "start": 943.36,
+      "end": 947.62,
+      "text": "coal miners in Wyoming and Utah reported back in the pits today, but Montana",
+      "confidence": 0.8171
+    },
+    {
+      "start": 947.62,
+      "end": 952.2,
+      "text": "and Colorado, the men aren't expected to be back to work before tomorrow. Miners",
+      "confidence": 0.8171
+    },
+    {
+      "start": 952.2,
+      "end": 955.64,
+      "text": "in all four states seem to be very happy about the new contract sign, but the",
+      "confidence": 0.8171
+    },
+    {
+      "start": 955.64,
+      "end": 959.96,
+      "text": "United Mine Workers Union. And Wall Street reflected the end of the coal strike",
+      "confidence": 0.8171
+    },
+    {
+      "start": 959.96,
+      "end": 964.4,
+      "text": "today with the small games on many leading stocks. At one point in today's",
+      "confidence": 0.8171
+    },
+    {
+      "start": 964.4,
+      "end": 968.4,
+      "text": "trading the demand for railroad and industrial shares lifted the general price level to its",
+      "confidence": 0.8392
+    },
+    {
+      "start": 968.4,
+      "end": 974.88,
+      "text": "highest point in more than three years. Now that the coal strike has been settled, why President",
+      "confidence": 0.8392
+    },
+    {
+      "start": 974.88,
+      "end": 979.12,
+      "text": "Truman has decided to take another floor to vacation. The White House announced today that",
+      "confidence": 0.8392
+    },
+    {
+      "start": 979.12,
+      "end": 983.28,
+      "text": "the president will leave Washington next Sunday morning for a three week stay in his favorite",
+      "confidence": 0.8392
+    },
+    {
+      "start": 983.28,
+      "end": 988.72,
+      "text": "vacation spot, Key West Florida. The president this time will make the trip by water aboard the",
+      "confidence": 0.8392
+    },
+    {
+      "start": 988.72,
+      "end": 993.04,
+      "text": "presidential yacht Williamsburg. The yacht will tie up the pier near the little White House in the",
+      "confidence": 0.8392
+    },
+    {
+      "start": 993.04,
+      "end": 1002.36,
+      "text": "the Key West and will be used to provide accommodations for the overflow of the White House personnel.",
+      "confidence": 0.8032
+    },
+    {
+      "start": 1002.36,
+      "end": 1006.8,
+      "text": "A report out of France says that the foreign ministers of the big three nations, Britain,",
+      "confidence": 0.8032
+    },
+    {
+      "start": 1006.8,
+      "end": 1009.44,
+      "text": "France and the United States will meet in London next month.",
+      "confidence": 0.8032
+    },
+    {
+      "start": 1009.44,
+      "end": 1013.4,
+      "text": "The report comes from one of the ministers, French foreign minister Robert Truman.",
+      "confidence": 0.8032
+    },
+    {
+      "start": 1013.4,
+      "end": 1017.72,
+      "text": "He says the big three diplomats will discuss a possible meeting with Russia and sources",
+      "confidence": 0.8032
+    },
+    {
+      "start": 1017.72,
+      "end": 1020.76,
+      "text": "that the French foreign office say that the date of the meeting has been set for April",
+      "confidence": 0.8032
+    },
+    {
+      "start": 1020.76,
+      "end": 1025.66,
+      "text": "the 12th, the same date foreign ministers of the 12 Atlantic PAC nations meet for discussion",
+      "confidence": 0.7911
+    },
+    {
+      "start": 1025.66,
+      "end": 1026.66,
+      "text": "of mutual defense.",
+      "confidence": 0.7911
+    },
+    {
+      "start": 1026.66,
+      "end": 1031.2,
+      "text": "In Washington, however, the State Department says that no date has been set for the big",
+      "confidence": 0.7911
+    },
+    {
+      "start": 1031.2,
+      "end": 1032.5,
+      "text": "three meeting.",
+      "confidence": 0.7911
+    },
+    {
+      "start": 1032.5,
+      "end": 1037.5,
+      "text": "The French premier's announcement said that the big three also will discuss the Far East,",
+      "confidence": 0.7911
+    },
+    {
+      "start": 1037.5,
+      "end": 1043.9,
+      "text": "including Japan, relations with communist China, aid to the Southeast Asia and Germany.",
+      "confidence": 0.7911
+    },
+    {
+      "start": 1043.9,
+      "end": 1048.1,
+      "text": "When King George opened the British Parliament today, he made no mention of one of the most",
+      "confidence": 0.7911
+    },
+    {
+      "start": 1048.1,
+      "end": 1050.22,
+      "text": "talked about subjects in the British Isles.",
+      "confidence": 0.7911
+    },
+    {
+      "start": 1050.22,
+      "end": 1054.22,
+      "text": "And that's the nationalization of the steel and the iron industries.",
+      "confidence": 0.7982
+    },
+    {
+      "start": 1054.22,
+      "end": 1058.74,
+      "text": "Now Prime Minister Atley says we should not take that omission as a sign of the labor",
+      "confidence": 0.7982
+    },
+    {
+      "start": 1058.74,
+      "end": 1060.5,
+      "text": "governments backing down.",
+      "confidence": 0.7982
+    },
+    {
+      "start": 1060.5,
+      "end": 1065.14,
+      "text": "Atley said that the laborites have not the slightest intention of dropping the nationalization",
+      "confidence": 0.7982
+    },
+    {
+      "start": 1065.14,
+      "end": 1066.66,
+      "text": "of steel in iron.",
+      "confidence": 0.7982
+    },
+    {
+      "start": 1066.66,
+      "end": 1071.02,
+      "text": "Said he, the statute is on the statute books and our purposes to give effect to the acts",
+      "confidence": 0.7982
+    },
+    {
+      "start": 1071.02,
+      "end": 1072.5,
+      "text": "passed by parliament.",
+      "confidence": 0.7982
+    },
+    {
+      "start": 1072.5,
+      "end": 1077.78,
+      "text": "The nationalization law is slated to take effect the first of October with the actual take-over",
+      "confidence": 0.7982
+    },
+    {
+      "start": 1077.78,
+      "end": 1079.34,
+      "text": "due in January.",
+      "confidence": 0.7982
+    },
+    {
+      "start": 1079.34,
+      "end": 1083.02,
+      "text": "The Atley Statement was a challenge to Winston Churchill's conservatives to fight off the",
+      "confidence": 0.7568
+    },
+    {
+      "start": 1083.02,
+      "end": 1091.78,
+      "text": "issue of nationalization in spite of a labor party's shaky majority in parliament.",
+      "confidence": 0.7568
+    },
+    {
+      "start": 1091.78,
+      "end": 1095.38,
+      "text": "Britain's Prime Minister Atley also had something to say of the talk about Britain's security",
+      "confidence": 0.7568
+    },
+    {
+      "start": 1095.38,
+      "end": 1099.9,
+      "text": "services in connection with the case of scientist Claus Sputje.",
+      "confidence": 0.7568
+    },
+    {
+      "start": 1099.9,
+      "end": 1104.26,
+      "text": "Atley said there has been a great deal of loose talk suggesting inefficiency on the part",
+      "confidence": 0.7568
+    },
+    {
+      "start": 1104.26,
+      "end": 1106.1,
+      "text": "of the security service.",
+      "confidence": 0.7568
+    },
+    {
+      "start": 1106.1,
+      "end": 1111.14,
+      "text": "He said he takes full responsibility for the efficiency of the security service, and",
+      "confidence": 0.832
+    },
+    {
+      "start": 1111.14,
+      "end": 1113.86,
+      "text": "entirely denied all charges.",
+      "confidence": 0.832
+    },
+    {
+      "start": 1113.86,
+      "end": 1116.66,
+      "text": "The British government today issued a white paper on defense.",
+      "confidence": 0.832
+    },
+    {
+      "start": 1116.66,
+      "end": 1121.5,
+      "text": "It discloses that Great Britain will add $56 million to a defense budget this year, but",
+      "confidence": 0.832
+    },
+    {
+      "start": 1121.5,
+      "end": 1124.94,
+      "text": "at the same time will reduce the personnel of her armed forces.",
+      "confidence": 0.832
+    },
+    {
+      "start": 1124.94,
+      "end": 1129.42,
+      "text": "The total British defense budget amounts to about $2 billion, and that compares rather",
+      "confidence": 0.832
+    },
+    {
+      "start": 1129.42,
+      "end": 1135.46,
+      "text": "feebley with the $3.5 billion President Truman has asked for this country.",
+      "confidence": 0.832
+    },
+    {
+      "start": 1135.46,
+      "end": 1138.98,
+      "text": "Returns from Sunday's election in Greece put a leftist party, the National Progressive",
+      "confidence": 0.771
+    },
+    {
+      "start": 1138.98,
+      "end": 1140.22,
+      "text": "Union, in the lead.",
+      "confidence": 0.771
+    },
+    {
+      "start": 1140.22,
+      "end": 1144.42,
+      "text": "The party holds more than 12,000 votes over the nearest conservative opposition.",
+      "confidence": 0.771
+    },
+    {
+      "start": 1144.42,
+      "end": 1148.42,
+      "text": "The heavy leftist vote in Greece is proving a surprise to politicians.",
+      "confidence": 0.771
+    },
+    {
+      "start": 1148.42,
+      "end": 1151.24,
+      "text": "Conservative opponents are saying that the parties of the left attracted considerable",
+      "confidence": 0.771
+    },
+    {
+      "start": 1151.24,
+      "end": 1158.1,
+      "text": "communist support, and the communists were outlawed in the Sunday election.",
+      "confidence": 0.771
+    },
+    {
+      "start": 1158.1,
+      "end": 1163.74,
+      "text": "The start market gave up an early advance today and finished about even with previous levels.",
+      "confidence": 0.771
+    },
+    {
+      "start": 1163.74,
+      "end": 1167.94,
+      "text": "The initial rise attributed to optimism over the resumption of the soft coal mining",
+      "confidence": 0.778
+    },
+    {
+      "start": 1167.94,
+      "end": 1173.02,
+      "text": "had carried the average price level to its best in more than three years.",
+      "confidence": 0.778
+    },
+    {
+      "start": 1173.02,
+      "end": 1179.66,
+      "text": "Profit taking, chipped away the games however, sales totaled 1,470,000 shares in all 1113",
+      "confidence": 0.778
+    },
+    {
+      "start": 1179.66,
+      "end": 1184.66,
+      "text": "issues were traded of these 410 advance 401 declined and 302 remained unchanged.",
+      "confidence": 0.778
+    },
+    {
+      "start": 1184.66,
+      "end": 1189.54,
+      "text": "The Associated Press 60 stock average was unchanged at 74.2.",
+      "confidence": 0.778
+    },
+    {
+      "start": 1189.54,
+      "end": 1193.62,
+      "text": "The bond market at New York was higher, and cotton futures at New York closed 50 cents",
+      "confidence": 0.78
+    },
+    {
+      "start": 1193.62,
+      "end": 1196.06,
+      "text": "a bail higher to 35 cents lower.",
+      "confidence": 0.78
+    },
+    {
+      "start": 1196.06,
+      "end": 1200.02,
+      "text": "At Chicago, wheat closed one and a quarter to two cents higher, corn was one eighth to",
+      "confidence": 0.78
+    },
+    {
+      "start": 1200.02,
+      "end": 1203.82,
+      "text": "a one cent higher, oats were one eighth to a quarter higher, rive was a half lower",
+      "confidence": 0.78
+    },
+    {
+      "start": 1203.82,
+      "end": 1208.02,
+      "text": "to three quarters higher, soy beans were a quarter to one and a quarter higher, and in",
+      "confidence": 0.78
+    },
+    {
+      "start": 1208.02,
+      "end": 1212.46,
+      "text": "the livestock market at Chicago, the hog prices were steady to 25 cents higher, with the top",
+      "confidence": 0.78
+    },
+    {
+      "start": 1212.46,
+      "end": 1220.18,
+      "text": "at 1750 and cattle were steady to 50 cents higher with the choice absent.",
+      "confidence": 0.7453
+    },
+    {
+      "start": 1220.18,
+      "end": 1223.86,
+      "text": "The State Board of Examiners tomorrow will open bids for construction of the Montana",
+      "confidence": 0.7453
+    },
+    {
+      "start": 1223.86,
+      "end": 1226.46,
+      "text": "Veterans and Pioneers Memorial Building.",
+      "confidence": 0.7453
+    },
+    {
+      "start": 1226.46,
+      "end": 1228.7,
+      "text": "The building has been planned for several years.",
+      "confidence": 0.7453
+    },
+    {
+      "start": 1228.7,
+      "end": 1235.7,
+      "text": "There is now $725,000 available for construction, and it will be built in Helena.",
+      "confidence": 0.7453
+    },
+    {
+      "start": 1235.7,
+      "end": 1240.06,
+      "text": "A great-falls woman Mrs. William Madison is the new president of the Montana Augustana",
+      "confidence": 0.7453
+    },
+    {
+      "start": 1240.06,
+      "end": 1242.5,
+      "text": "A Lutheran Church Women's Missionary Society.",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1242.5,
+      "end": 1245.34,
+      "text": "She was elected at the annual meeting yesterday in Helena.",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1245.34,
+      "end": 1247.74,
+      "text": "It was held in conjunction with a planning conference",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1247.74,
+      "end": 1250.3,
+      "text": "for the Luther League summer camp.",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1250.3,
+      "end": 1252.18,
+      "text": "Other officers included second vice president,",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1252.18,
+      "end": 1255.26,
+      "text": "Mrs. Ralph Linquist, of Great Falls.",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1255.26,
+      "end": 1257.54,
+      "text": "And for those of you who are driving,",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1257.54,
+      "end": 1259.94,
+      "text": "the highway department says that chains are needed",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1259.94,
+      "end": 1261.62,
+      "text": "on MacDonald Pass near Helena",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1261.62,
+      "end": 1264.06,
+      "text": "and on some roads leading out of view.",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1264.06,
+      "end": 1267.42,
+      "text": "Highway 87 was plugged by drifts from Great Falls to Belt,",
+      "confidence": 0.7908
+    },
+    {
+      "start": 1267.42,
+      "end": 1271.82,
+      "text": "We're a 53 mile per hour gale roared in with snow and sleet early today.",
+      "confidence": 0.7532
+    },
+    {
+      "start": 1271.82,
+      "end": 1276.34,
+      "text": "Some of the roads are dangerously slippery in spots.",
+      "confidence": 0.7532
+    },
+    {
+      "start": 1276.34,
+      "end": 1279.86,
+      "text": "A British decision to cut imports of American oil",
+      "confidence": 0.7532
+    },
+    {
+      "start": 1279.86,
+      "end": 1282.3,
+      "text": "in order to save dollars seems to have backpired.",
+      "confidence": 0.7532
+    },
+    {
+      "start": 1282.3,
+      "end": 1286.46,
+      "text": "The Economic Cooperation Administration, ECA, says it's cutting off aid from the British",
+      "confidence": 0.7532
+    },
+    {
+      "start": 1286.46,
+      "end": 1287.46,
+      "text": "oil industry.",
+      "confidence": 0.7532
+    },
+    {
+      "start": 1287.46,
+      "end": 1289.98,
+      "text": "And the aid for British oilmen will stay cut off.",
+      "confidence": 0.7532
+    },
+    {
+      "start": 1289.98,
+      "end": 1295.7,
+      "text": "The ECA said that until that oil matter is ironed out to the American satisfaction.",
+      "confidence": 0.7532
+    },
+    {
+      "start": 1295.7,
+      "end": 1300.1,
+      "text": "And ECA spokesman says that it's true that the British need to conserve dollars,",
+      "confidence": 0.8102
+    },
+    {
+      "start": 1300.1,
+      "end": 1305.3,
+      "text": "but he said curtailment of oil imports is likely to harm world recovery.",
+      "confidence": 0.8102
+    },
+    {
+      "start": 1305.3,
+      "end": 1308.5,
+      "text": "The Chinese nationalists are still sitting tight in the United Nations,",
+      "confidence": 0.8102
+    },
+    {
+      "start": 1308.5,
+      "end": 1311.4,
+      "text": "and the Russians are still walking on. It happened again today.",
+      "confidence": 0.8102
+    },
+    {
+      "start": 1311.4,
+      "end": 1315.0,
+      "text": "The executive board of the International Children's Emergency Fund convened.",
+      "confidence": 0.8102
+    },
+    {
+      "start": 1315.0,
+      "end": 1317.5,
+      "text": "The nationalists showed up, sold in the Russians.",
+      "confidence": 0.8102
+    },
+    {
+      "start": 1317.5,
+      "end": 1321.7,
+      "text": "The Russians took one look at the nationalists, and then they went with the satellite delegations",
+      "confidence": 0.8102
+    },
+    {
+      "start": 1321.7,
+      "end": 1326.22,
+      "text": "trailing behind them, and that's all of the news as of now.",
+      "confidence": 0.7731
+    },
+    {
+      "start": 1326.22,
+      "end": 1328.54,
+      "text": "Bank credit is the best credit.",
+      "confidence": 0.7731
+    },
+    {
+      "start": 1328.54,
+      "end": 1332.7,
+      "text": "Whether your credit needs a modest or involved large sums of money, bank credit is ideal",
+      "confidence": 0.7731
+    },
+    {
+      "start": 1332.7,
+      "end": 1334.3,
+      "text": "for your purposes.",
+      "confidence": 0.7731
+    },
+    {
+      "start": 1334.3,
+      "end": 1337.5,
+      "text": "The Mid-National Bank has always been keenly interested in the credit and financial",
+      "confidence": 0.7731
+    },
+    {
+      "start": 1337.5,
+      "end": 1341.46,
+      "text": "needs of this community, and its officers have a thorough knowledge of the whole subject.",
+      "confidence": 0.7731
+    },
+    {
+      "start": 1341.46,
+      "end": 1344.74,
+      "text": "They'll give your problems and your needs at the same understanding, attention no matter",
+      "confidence": 0.7731
+    },
+    {
+      "start": 1344.74,
+      "end": 1346.74,
+      "text": "what sums are involved.",
+      "confidence": 0.7731
+    },
+    {
+      "start": 1346.74,
+      "end": 1351.02,
+      "text": "In the great many cases, they can make valuable suggestions that will assist you greatly.",
+      "confidence": 0.7731
+    },
+    {
+      "start": 1351.02,
+      "end": 1356.02,
+      "text": "No matter what your financial problem is, stop in the Midland Bank and discuss it with financial experts.",
+      "confidence": 0.7391
+    }
+  ]
+}

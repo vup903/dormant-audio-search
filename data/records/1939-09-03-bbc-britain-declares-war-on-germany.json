@@ -1,0 +1,229 @@
+{
+  "id": "1939-09-03-bbc-britain-declares-war-on-germany",
+  "title": "Britain Declares War On Germany",
+  "program": "BBC",
+  "date": "1939-09-03",
+  "decade": "1930s",
+  "source_url": "https://archive.org/details/1939RadioNews",
+  "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+  "audio_file": "1939-09-03-bbc-britain-declares-war-on-germany.mp3",
+  "language": "en",
+  "duration_s": 210.0,
+  "asr": {
+    "model": "faster-whisper-base",
+    "confidence": 0.7384,
+    "ai_generated": true
+  },
+  "transcript": "The following official communique has been issued from Ten Downing Street. On September 1st, his Majesty and Ambassador in Berlin was instructed to inform the German government that unless they were prepared to give his Majesty's government in the United Kingdom, that his factory assurances, that the German government had suspended all aggressive action against Poland and were prepared to plomk it with draw their forces from Polish territory, his majesty's government in the United Kingdom, would without hesitation fulfill their obligations to Poland. At 9 a.m. this morning, his majesty and ambassador in Berlin informed the German government that unless, not later than 11 a.m., British summertime, today September the 3rd, satisfactory assortances to the above effect have been given by the German government and had reached his majesty's government in London. A state of war would exist between the two countries as from that hour. His majesty's government are now awaiting the receipt of any reply that may be made by the German government. The prime minister will broadcast to the nation at 11.15. That is the end of the announcement. This is London. You will now hear a statement by the prime minister. I am speaking to you from the cabinet room at Tim Downing Street. This morning the British ambassador in Berlin handed the German government a final note stating that unless we heard from them by eleven o'clock that they were prepared at once to withdraw their troops from Poland, a state of war would exist between us. I have to tell you now that no such undertaking has been received, and that consequently, this country is at war with Germany. You can imagine what a bitter blow it is to me that all my lungs struggle to win peace his table. Yet I cannot believe that there is anything more, or anything different that I could have done, and that would have been more successful. Up to the very last, it would have been quite possible to have arranged a peaceful and honorable settlement between Germany and Poland that Hitler would not have it now may God bless you all and may he defend the right but it is anything we should be fighting against root force, bad faith, injustice, operation and persecution and against them I am certain that the right group remain.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "The following official communique has been issued from Ten Downing Street.",
+      "confidence": 0.7391
+    },
+    {
+      "start": 6.0,
+      "end": 14.0,
+      "text": "On September 1st, his Majesty and Ambassador in Berlin was instructed to inform the German government",
+      "confidence": 0.7391
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "that unless they were prepared to give his Majesty's government in the United Kingdom,",
+      "confidence": 0.7391
+    },
+    {
+      "start": 19.0,
+      "end": 26.0,
+      "text": "that his factory assurances, that the German government had suspended all aggressive action against Poland",
+      "confidence": 0.7391
+    },
+    {
+      "start": 26.0,
+      "end": 31.0,
+      "text": "and were prepared to plomk it with draw their forces from Polish territory,",
+      "confidence": 0.6971
+    },
+    {
+      "start": 31.0,
+      "end": 34.0,
+      "text": "his majesty's government in the United Kingdom,",
+      "confidence": 0.6971
+    },
+    {
+      "start": 34.0,
+      "end": 39.0,
+      "text": "would without hesitation fulfill their obligations to Poland.",
+      "confidence": 0.6971
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "At 9 a.m. this morning,",
+      "confidence": 0.6971
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": "his majesty and ambassador in Berlin informed the German government",
+      "confidence": 0.6971
+    },
+    {
+      "start": 46.0,
+      "end": 50.0,
+      "text": "that unless, not later than 11 a.m.,",
+      "confidence": 0.6971
+    },
+    {
+      "start": 50.0,
+      "end": 54.0,
+      "text": "British summertime, today September the 3rd,",
+      "confidence": 0.6971
+    },
+    {
+      "start": 54.0,
+      "end": 62.0,
+      "text": "satisfactory assortances to the above effect have been given by the German government and had reached his majesty's government in London.",
+      "confidence": 0.7687
+    },
+    {
+      "start": 62.0,
+      "end": 68.0,
+      "text": "A state of war would exist between the two countries as from that hour.",
+      "confidence": 0.7687
+    },
+    {
+      "start": 68.0,
+      "end": 76.0,
+      "text": "His majesty's government are now awaiting the receipt of any reply that may be made by the German government.",
+      "confidence": 0.7687
+    },
+    {
+      "start": 76.0,
+      "end": 82.0,
+      "text": "The prime minister will broadcast to the nation at 11.15.",
+      "confidence": 0.7687
+    },
+    {
+      "start": 82.0,
+      "end": 91.72,
+      "text": "That is the end of the announcement.",
+      "confidence": 0.7432
+    },
+    {
+      "start": 91.72,
+      "end": 93.72,
+      "text": "This is London.",
+      "confidence": 0.7432
+    },
+    {
+      "start": 93.72,
+      "end": 99.8,
+      "text": "You will now hear a statement by the prime minister.",
+      "confidence": 0.7432
+    },
+    {
+      "start": 99.8,
+      "end": 107.36,
+      "text": "I am speaking to you from the cabinet room at Tim Downing Street.",
+      "confidence": 0.7432
+    },
+    {
+      "start": 107.36,
+      "end": 116.2,
+      "text": "This morning the British ambassador in Berlin handed the German government a final note stating",
+      "confidence": 0.825
+    },
+    {
+      "start": 116.2,
+      "end": 123.64,
+      "text": "that unless we heard from them by eleven o'clock that they were prepared at once to withdraw",
+      "confidence": 0.825
+    },
+    {
+      "start": 123.64,
+      "end": 131.0,
+      "text": "their troops from Poland, a state of war would exist between us.",
+      "confidence": 0.825
+    },
+    {
+      "start": 131.0,
+      "end": 138.72,
+      "text": "I have to tell you now that no such undertaking has been received, and that consequently,",
+      "confidence": 0.7885
+    },
+    {
+      "start": 138.72,
+      "end": 146.32,
+      "text": "this country is at war with Germany.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 146.32,
+      "end": 152.96,
+      "text": "You can imagine what a bitter blow it is to me that all my lungs struggle to win peace",
+      "confidence": 0.7885
+    },
+    {
+      "start": 152.96,
+      "end": 161.04,
+      "text": "his table. Yet I cannot believe that there is anything more, or anything different that",
+      "confidence": 0.7812
+    },
+    {
+      "start": 161.04,
+      "end": 168.48,
+      "text": "I could have done, and that would have been more successful. Up to the very last, it would",
+      "confidence": 0.7812
+    },
+    {
+      "start": 168.48,
+      "end": 174.68,
+      "text": "have been quite possible to have arranged a peaceful and honorable settlement between Germany",
+      "confidence": 0.7812
+    },
+    {
+      "start": 174.68,
+      "end": 188.16,
+      "text": "and Poland that Hitler would not have it now may God bless you all and may he defend",
+      "confidence": 0.6608
+    },
+    {
+      "start": 188.16,
+      "end": 199.0,
+      "text": "the right but it is anything we should be fighting against root force, bad faith, injustice,",
+      "confidence": 0.6608
+    },
+    {
+      "start": 199.0,
+      "end": 206.68,
+      "text": "operation and persecution and against them I am certain that the right group",
+      "confidence": 0.6006
+    },
+    {
+      "start": 206.68,
+      "end": 208.68,
+      "text": "remain.",
+      "confidence": 0.2565
+    }
+  ],
+  "tags": [
+    {
+      "term": "war",
+      "score": 0.3777,
+      "ai_generated": true
+    },
+    {
+      "term": "international",
+      "score": 0.3242,
+      "ai_generated": true
+    },
+    {
+      "term": "civil-rights",
+      "score": 0.3184,
+      "ai_generated": true
+    }
+  ]
+}

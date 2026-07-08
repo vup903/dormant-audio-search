@@ -1,0 +1,2793 @@
+{
+  "id": "1953-12-25-nbc-bob-hope-long-beach-veterans-hospital-esther-williams",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 1778.0,
+  "confidence": 0.7123,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.6,
+      "text": "The American Dairy Association, the nation's dairy farmers present the Bob Hope Show,",
+      "confidence": 0.6545
+    },
+    {
+      "start": 11.6,
+      "end": 16.28,
+      "text": "transcribed direct from the Veterans Administration Hospital in Long Beach, California, with",
+      "confidence": 0.6545
+    },
+    {
+      "start": 16.28,
+      "end": 18.56,
+      "text": "less brown and expanded renown.",
+      "confidence": 0.6545
+    },
+    {
+      "start": 18.56,
+      "end": 22.36,
+      "text": "For the American Dairy Association, whose dairy farmers produce the world's finest family",
+      "confidence": 0.6545
+    },
+    {
+      "start": 22.36,
+      "end": 25.2,
+      "text": "of delicious, healthful foods, you're truly build good with.",
+      "confidence": 0.6545
+    },
+    {
+      "start": 25.2,
+      "end": 28.44,
+      "text": "Our thinking star, Margaret Wedding, our special guest,",
+      "confidence": 0.6016
+    },
+    {
+      "start": 28.44,
+      "end": 32.08,
+      "text": "Esther Williams, and here he is, Bob Holt.",
+      "confidence": 0.6016
+    },
+    {
+      "start": 32.08,
+      "end": 34.08,
+      "text": "APPLAUSE",
+      "confidence": 0.6016
+    },
+    {
+      "start": 43.68,
+      "end": 44.68,
+      "text": "Thank you.",
+      "confidence": 0.6016
+    },
+    {
+      "start": 44.68,
+      "end": 45.68,
+      "text": "Thank you very much.",
+      "confidence": 0.6016
+    },
+    {
+      "start": 45.68,
+      "end": 48.28,
+      "text": "Here I am, ladies and gentlemen, for the American Dairy Association,",
+      "confidence": 0.6016
+    },
+    {
+      "start": 48.28,
+      "end": 50.96,
+      "text": "which sends you Christmas greetings for the entire year",
+      "confidence": 0.6016
+    },
+    {
+      "start": 50.96,
+      "end": 52.2,
+      "text": "and me for 30 minutes.",
+      "confidence": 0.6016
+    },
+    {
+      "start": 52.2,
+      "end": 53.72,
+      "text": "Yes, sir?",
+      "confidence": 0.6016
+    },
+    {
+      "start": 53.72,
+      "end": 61.72,
+      "text": "The very farmers of America are really grateful to the American public for their support and they've asked me to tell you that as long as you keep consuming milk, they'll be in there pulling for you.",
+      "confidence": 0.8038
+    },
+    {
+      "start": 70.72,
+      "end": 76.72,
+      "text": "And a couple of my sponsors don't know it but today I'm so full of Christmas spirit that I went out today and hung sleigh bells and all their cows.",
+      "confidence": 0.8038
+    },
+    {
+      "start": 78.72,
+      "end": 82.72,
+      "text": "I won't say where but tomorrow morning a couple of milkers are going to be Swiss bell rangers.",
+      "confidence": 0.8038
+    },
+    {
+      "start": 83.72,
+      "end": 89.16,
+      "text": "Anyway, ladies and gentlemen, tonight we're at the Long Beach Veterans Hospital, which is about 25 miles south of Los Angeles",
+      "confidence": 0.7509
+    },
+    {
+      "start": 89.16,
+      "end": 93.14,
+      "text": "as the crow flies, and about 20 miles south of Santa Nita as the doe flies.",
+      "confidence": 0.7509
+    },
+    {
+      "start": 93.14,
+      "end": 99.94,
+      "text": "But over 2,000 veterans call this place home. At least that's what they call it when the nurses are with an air shot.",
+      "confidence": 0.7509
+    },
+    {
+      "start": 99.94,
+      "end": 105.42,
+      "text": "Nurse, that's the girl in a white uniform who can take your temperature and give you one, both at the same time.",
+      "confidence": 0.7509
+    },
+    {
+      "start": 105.42,
+      "end": 112.7,
+      "text": "To give you an idea of how cute the nurses are in this hospital, somebody hung up a bunch of mistletoe and surgery,",
+      "confidence": 0.7509
+    },
+    {
+      "start": 112.7,
+      "end": 115.38,
+      "text": "and they had to operate on one poor guy twice.",
+      "confidence": 0.6769
+    },
+    {
+      "start": 115.38,
+      "end": 117.54,
+      "text": "Once to cure what was wrong with him",
+      "confidence": 0.6769
+    },
+    {
+      "start": 117.54,
+      "end": 119.26,
+      "text": "and once to get his lips unpuckered.",
+      "confidence": 0.6769
+    },
+    {
+      "start": 119.26,
+      "end": 124.06,
+      "text": "These nurses are so cute they even had to put a speed limit",
+      "confidence": 0.6769
+    },
+    {
+      "start": 124.06,
+      "end": 126.82,
+      "text": "on wheelchairs here, everybody wants a ricochet romance.",
+      "confidence": 0.6769
+    },
+    {
+      "start": 126.82,
+      "end": 136.5,
+      "text": "But really this is a great place",
+      "confidence": 0.6769
+    },
+    {
+      "start": 136.5,
+      "end": 139.34,
+      "text": "and I wish you could all see this gorgeous auditorium we have here.",
+      "confidence": 0.6769
+    },
+    {
+      "start": 139.34,
+      "end": 145.1,
+      "text": "And I asked Colonel McBride, what time I could put on my show for the patients.",
+      "confidence": 0.7038
+    },
+    {
+      "start": 145.1,
+      "end": 148.3,
+      "text": "He said, right after dinner, hope that's a usual time for their sedative.",
+      "confidence": 0.7038
+    },
+    {
+      "start": 148.3,
+      "end": 157.3,
+      "text": "Anyway, it's wonderful to be down here in Christmas and share in the fun.",
+      "confidence": 0.7038
+    },
+    {
+      "start": 157.3,
+      "end": 158.9,
+      "text": "The cooks here went all out for Christmas.",
+      "confidence": 0.7038
+    },
+    {
+      "start": 158.9,
+      "end": 164.14,
+      "text": "They wanted to get the boys a white Christmas, so they bleached the beans.",
+      "confidence": 0.7038
+    },
+    {
+      "start": 164.14,
+      "end": 168.14,
+      "text": "I'm kidding.",
+      "confidence": 0.7038
+    },
+    {
+      "start": 168.14,
+      "end": 169.14,
+      "text": "I'm kidding.",
+      "confidence": 0.7038
+    },
+    {
+      "start": 169.14,
+      "end": 173.78,
+      "text": "they had a wonderful turkey dinner and top it all off with a flaming dessert. Flaming dessert,",
+      "confidence": 0.7626
+    },
+    {
+      "start": 173.78,
+      "end": 182.42,
+      "text": "that's better set fire to a snack, somebody goofed. But it's Christmas time and all hollywood has",
+      "confidence": 0.7626
+    },
+    {
+      "start": 182.42,
+      "end": 186.42,
+      "text": "gotten into the Christmas spirit. Lauren be call on Humphrey Bogart hung a light in their window.",
+      "confidence": 0.7626
+    },
+    {
+      "start": 186.42,
+      "end": 189.78,
+      "text": "Gracie Allen and Georgie Burns hung a light in their window and Alice Faye hung Phil Harris",
+      "confidence": 0.7626
+    },
+    {
+      "start": 189.78,
+      "end": 196.9,
+      "text": "in their window. And naturally Santa came to hollywood. He went to Red Skeleton's house and left",
+      "confidence": 0.7626
+    },
+    {
+      "start": 196.9,
+      "end": 200.58,
+      "text": "the joke book, then even the Les Browns House left to Clarenette, and he went to Marilyn",
+      "confidence": 0.6746
+    },
+    {
+      "start": 200.58,
+      "end": 203.9,
+      "text": "Monroe's House and never left.",
+      "confidence": 0.6746
+    },
+    {
+      "start": 203.9,
+      "end": 211.92,
+      "text": "That's his Santa baby for this year.",
+      "confidence": 0.6746
+    },
+    {
+      "start": 211.92,
+      "end": 215.14,
+      "text": "But my wife has been hitting for a mink coach so I had to do something about it.",
+      "confidence": 0.6746
+    },
+    {
+      "start": 215.14,
+      "end": 217.98,
+      "text": "I gave her two minks in a book titled A Virtua Patience.",
+      "confidence": 0.6746
+    },
+    {
+      "start": 217.98,
+      "end": 221.94,
+      "text": "I didn't do very well as Christmas, very well.",
+      "confidence": 0.6746
+    },
+    {
+      "start": 221.94,
+      "end": 229.7,
+      "text": "I hung up my stocking when I went to look and it's foot powder, but I got a few gifts",
+      "confidence": 0.7304
+    },
+    {
+      "start": 229.7,
+      "end": 234.9,
+      "text": "the boys in the band gave me some cologne, you heard a taboo, this is called Babaloo.",
+      "confidence": 0.7304
+    },
+    {
+      "start": 234.9,
+      "end": 238.82,
+      "text": "You don't sprinkle it on, does the R&S comes around, sprays you with a perforated maracas.",
+      "confidence": 0.7304
+    },
+    {
+      "start": 238.82,
+      "end": 245.3,
+      "text": "I won't say it has a powerful scent, but as I was driving past Griffith Park two skunks",
+      "confidence": 0.7304
+    },
+    {
+      "start": 245.3,
+      "end": 252.3,
+      "text": "came out of the trees and you who'd at me.",
+      "confidence": 0.7168
+    },
+    {
+      "start": 257.3,
+      "end": 261.06,
+      "text": "Today I'm glad to know you had a good Christmas bill, and that big smile tells me you're still",
+      "confidence": 0.7168
+    },
+    {
+      "start": 261.06,
+      "end": 262.98,
+      "text": "brimming over with a Christmas spirit.",
+      "confidence": 0.7168
+    },
+    {
+      "start": 262.98,
+      "end": 264.94,
+      "text": "It's been a great holiday, Bob.",
+      "confidence": 0.7168
+    },
+    {
+      "start": 264.94,
+      "end": 268.98,
+      "text": "Like the presents, all the butter baked turkey I could eat and plenty of eggnog.",
+      "confidence": 0.7168
+    },
+    {
+      "start": 268.98,
+      "end": 272.78,
+      "text": "Now, to my mind, there's the perfect holiday beverage, eggnog.",
+      "confidence": 0.7168
+    },
+    {
+      "start": 272.78,
+      "end": 275.78,
+      "text": "It's easy, fast, and tastes so wonderful.",
+      "confidence": 0.8072
+    },
+    {
+      "start": 275.78,
+      "end": 278.28,
+      "text": "All you do is pick up bottles or cartons of ready-to-serve",
+      "confidence": 0.8072
+    },
+    {
+      "start": 278.28,
+      "end": 281.78,
+      "text": "Acknowledge your food store or have your milkman deliver to your door.",
+      "confidence": 0.8072
+    },
+    {
+      "start": 281.78,
+      "end": 286.78,
+      "text": "Add your favorite hot spotality flavoring and you've got the perfect wintertime beverage.",
+      "confidence": 0.8072
+    },
+    {
+      "start": 286.78,
+      "end": 289.78,
+      "text": "Ready to hand your guests in only a couple of minutes from the time the doorbell rings.",
+      "confidence": 0.8072
+    },
+    {
+      "start": 289.78,
+      "end": 294.78,
+      "text": "Let the youngsters enjoy Acknowledge too, sometimes flavored with chocolate or fruit juices.",
+      "confidence": 0.8072
+    },
+    {
+      "start": 294.78,
+      "end": 298.78,
+      "text": "Acknowledge its so nutritious, rich with all the goodness of milk.",
+      "confidence": 0.8072
+    },
+    {
+      "start": 298.78,
+      "end": 303.02,
+      "text": "Make the most of this holiday season and all your at-home occasions this winter.",
+      "confidence": 0.7513
+    },
+    {
+      "start": 303.02,
+      "end": 305.76,
+      "text": "Serve easy, speedy, eggnog.",
+      "confidence": 0.7513
+    },
+    {
+      "start": 305.76,
+      "end": 311.16,
+      "text": "And say Bill, did you remind the folks to turn in those empty milk bottles or say that's right, Bob?",
+      "confidence": 0.7513
+    },
+    {
+      "start": 311.16,
+      "end": 317.5,
+      "text": "Folks, because of the current emergency situation, please return your milk bottles so that no one will have to do without.",
+      "confidence": 0.7513
+    },
+    {
+      "start": 321.6,
+      "end": 324.84,
+      "text": "Well, ladies and gentlemen, I'm sure that you've all had a wonderful Christmas.",
+      "confidence": 0.7513
+    },
+    {
+      "start": 324.84,
+      "end": 327.84,
+      "text": "Now Bob spent the morning at his home in North Hollywood.",
+      "confidence": 0.7513
+    },
+    {
+      "start": 327.84,
+      "end": 332.18,
+      "text": "And up till noon, he wasn't quite sure whether he'd had a good Christmas or not.",
+      "confidence": 0.7061
+    },
+    {
+      "start": 332.18,
+      "end": 343.78,
+      "text": "Let's see, carry the one plus nine, plus eight plus five.",
+      "confidence": 0.7061
+    },
+    {
+      "start": 343.78,
+      "end": 347.22,
+      "text": "Total adds up to $112.19.",
+      "confidence": 0.7061
+    },
+    {
+      "start": 347.22,
+      "end": 350.22,
+      "text": "What a cheap bunch of relatives I've got.",
+      "confidence": 0.7061
+    },
+    {
+      "start": 350.22,
+      "end": 357.22,
+      "text": "They spent exactly the same amount on presents for me as I spent on there.",
+      "confidence": 0.7061
+    },
+    {
+      "start": 357.22,
+      "end": 360.22,
+      "text": "Well Bob, have you got it figured out yet?",
+      "confidence": 0.7669
+    },
+    {
+      "start": 360.22,
+      "end": 364.22,
+      "text": "Yeah, if you're landing up all the presents I received and all the presents I gave out on the whole deal, I lost 72 cents.",
+      "confidence": 0.7669
+    },
+    {
+      "start": 365.22,
+      "end": 367.22,
+      "text": "You lost 72 cents?",
+      "confidence": 0.7669
+    },
+    {
+      "start": 367.22,
+      "end": 369.22,
+      "text": "Yeah, if I hadn't given Crosby a present, I'd have broken even.",
+      "confidence": 0.7669
+    },
+    {
+      "start": 374.22,
+      "end": 377.22,
+      "text": "Well Zee, you certainly didn't plan on Bing's gift, did you? What'd you get for him?",
+      "confidence": 0.7669
+    },
+    {
+      "start": 377.22,
+      "end": 381.22,
+      "text": "Always very nice, Bill. I gave him an apparently gold watch with six apparently genuine diamonds.",
+      "confidence": 0.7669
+    },
+    {
+      "start": 381.22,
+      "end": 382.22,
+      "text": "diamond.",
+      "confidence": 0.7167
+    },
+    {
+      "start": 382.22,
+      "end": 387.22,
+      "text": "Not just a moment, is that the kind of stuff you give being something that's apparently",
+      "confidence": 0.7167
+    },
+    {
+      "start": 387.22,
+      "end": 388.22,
+      "text": "genuine?",
+      "confidence": 0.7167
+    },
+    {
+      "start": 388.22,
+      "end": 392.22,
+      "text": "Well, it matches his hair.",
+      "confidence": 0.7167
+    },
+    {
+      "start": 392.22,
+      "end": 398.14,
+      "text": "Listen, Rob, what did they give you?",
+      "confidence": 0.7167
+    },
+    {
+      "start": 398.14,
+      "end": 400.14,
+      "text": "I'd rather not talk about it.",
+      "confidence": 0.7167
+    },
+    {
+      "start": 400.14,
+      "end": 401.14,
+      "text": "Why?",
+      "confidence": 0.7167
+    },
+    {
+      "start": 401.14,
+      "end": 402.14,
+      "text": "What did he give you?",
+      "confidence": 0.7167
+    },
+    {
+      "start": 402.14,
+      "end": 404.14,
+      "text": "A lifetime membership at an exclusive golf club.",
+      "confidence": 0.7167
+    },
+    {
+      "start": 404.14,
+      "end": 405.14,
+      "text": "Well, that sounds terrific.",
+      "confidence": 0.7167
+    },
+    {
+      "start": 405.14,
+      "end": 406.14,
+      "text": "Yeah, but what a club.",
+      "confidence": 0.7167
+    },
+    {
+      "start": 406.14,
+      "end": 408.64,
+      "text": "The Penguin and Blubber Country Club of Nomalaska.",
+      "confidence": 0.7227
+    },
+    {
+      "start": 408.64,
+      "end": 413.64,
+      "text": "The Penguin and Blubber Country Club?",
+      "confidence": 0.7227
+    },
+    {
+      "start": 413.64,
+      "end": 416.14,
+      "text": "Yeah, nice club. You don't tip the caddy. You just rub noses.",
+      "confidence": 0.7227
+    },
+    {
+      "start": 416.14,
+      "end": 420.14,
+      "text": "You could pay him from here.",
+      "confidence": 0.7227
+    },
+    {
+      "start": 420.14,
+      "end": 421.14,
+      "text": "Yeah.",
+      "confidence": 0.7227
+    },
+    {
+      "start": 427.14,
+      "end": 430.14,
+      "text": "Careful, Bill. You can be replaced with a slice of Don Wilson, you know.",
+      "confidence": 0.7227
+    },
+    {
+      "start": 430.14,
+      "end": 432.14,
+      "text": "Say Bob.",
+      "confidence": 0.7227
+    },
+    {
+      "start": 432.14,
+      "end": 433.14,
+      "text": "Yeah, Maggie.",
+      "confidence": 0.7227
+    },
+    {
+      "start": 433.14,
+      "end": 435.14,
+      "text": "I thought we were going to the Veterans Hospital Long Beach.",
+      "confidence": 0.7227
+    },
+    {
+      "start": 435.14,
+      "end": 438.18,
+      "text": "Beach, hadn't we better be leaving pretty soon. Yeah Maggie, we'll leave as soon as",
+      "confidence": 0.7554
+    },
+    {
+      "start": 438.18,
+      "end": 444.1,
+      "text": "Esther Williams gets here. Oh, is she gonna be in our program tonight? Yeah. Esther Williams. Yep.",
+      "confidence": 0.7554
+    },
+    {
+      "start": 445.54,
+      "end": 450.66,
+      "text": "You like her? Yep. Her husband is six six and weighs two twenty. Yikes.",
+      "confidence": 0.7554
+    },
+    {
+      "start": 453.46,
+      "end": 458.26,
+      "text": "Why does the prettiest flowers always have the biggest fence around them? Well gee Bob,",
+      "confidence": 0.7554
+    },
+    {
+      "start": 458.26,
+      "end": 461.94,
+      "text": "what if Esther's husband were just a little undernourished shrimp? Yeah.",
+      "confidence": 0.7554
+    },
+    {
+      "start": 465.14,
+      "end": 468.14,
+      "text": "You wouldn't try to take advantage of the situation, would you?",
+      "confidence": 0.8164
+    },
+    {
+      "start": 468.14,
+      "end": 471.14,
+      "text": "That I'm happy to say is the story of my life.",
+      "confidence": 0.8164
+    },
+    {
+      "start": 473.14,
+      "end": 475.14,
+      "text": "Anyway, Esther will be along in any minute.",
+      "confidence": 0.8164
+    },
+    {
+      "start": 475.14,
+      "end": 477.14,
+      "text": "Just sit down and make yourselves at home, huh?",
+      "confidence": 0.8164
+    },
+    {
+      "start": 477.14,
+      "end": 479.14,
+      "text": "If you've got some Christmas cards, you haven't even opened yet.",
+      "confidence": 0.8164
+    },
+    {
+      "start": 479.14,
+      "end": 482.14,
+      "text": "Well, I don't have to open these, Bill. I can tell who they are just by the fragrance.",
+      "confidence": 0.8164
+    },
+    {
+      "start": 482.14,
+      "end": 484.14,
+      "text": "I'll show you. This one's from Ava Gardner.",
+      "confidence": 0.8164
+    },
+    {
+      "start": 484.14,
+      "end": 486.14,
+      "text": "Oh. Well, who's this one from?",
+      "confidence": 0.8164
+    },
+    {
+      "start": 486.14,
+      "end": 487.14,
+      "text": "This Betty Grable.",
+      "confidence": 0.8164
+    },
+    {
+      "start": 487.14,
+      "end": 488.14,
+      "text": "Oh, how about this one?",
+      "confidence": 0.8164
+    },
+    {
+      "start": 489.14,
+      "end": 490.14,
+      "text": "Roy Rogers.",
+      "confidence": 0.8164
+    },
+    {
+      "start": 495.14,
+      "end": 497.14,
+      "text": "Right, right here?",
+      "confidence": 0.7579
+    },
+    {
+      "start": 497.14,
+      "end": 498.14,
+      "text": "Yeah, you must have had trigger.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 498.14,
+      "end": 500.14,
+      "text": "Lick the stamp.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 500.14,
+      "end": 503.14,
+      "text": "Well, gosh, Bob, everybody certainly remembers you.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 503.14,
+      "end": 507.14,
+      "text": "You've got presents here from Gary Cooper, Tony Martin, Alan Ladd.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 507.14,
+      "end": 509.14,
+      "text": "It's even a big package from Jack Benny.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 509.14,
+      "end": 512.14,
+      "text": "Oh, that's my laundry.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 512.14,
+      "end": 514.14,
+      "text": "We have a trade agreement.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 514.14,
+      "end": 516.14,
+      "text": "Jack does my wash, and I iron his two pay.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 516.14,
+      "end": 518.14,
+      "text": "By the way, Matt!",
+      "confidence": 0.7579
+    },
+    {
+      "start": 518.14,
+      "end": 520.14,
+      "text": "I do like the present I sent you.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 520.14,
+      "end": 523.14,
+      "text": "Oh, I meant to thank you, but she is wonderful.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 523.14,
+      "end": 524.14,
+      "text": "Oh, nothing.",
+      "confidence": 0.7579
+    },
+    {
+      "start": 524.14,
+      "end": 525.24,
+      "text": "But it is.",
+      "confidence": 0.6978
+    },
+    {
+      "start": 525.24,
+      "end": 527.18,
+      "text": "What other girl in town has a gift certificate",
+      "confidence": 0.6978
+    },
+    {
+      "start": 527.18,
+      "end": 529.48,
+      "text": "for a box of Dr. Shoe's corn pair?",
+      "confidence": 0.6978
+    },
+    {
+      "start": 529.48,
+      "end": 531.48,
+      "text": "What?",
+      "confidence": 0.6978
+    },
+    {
+      "start": 531.48,
+      "end": 532.78,
+      "text": "Well, they're very handy, Maggie.",
+      "confidence": 0.6978
+    },
+    {
+      "start": 532.78,
+      "end": 534.62,
+      "text": "They're great for sealing up beehives,",
+      "confidence": 0.6978
+    },
+    {
+      "start": 534.62,
+      "end": 536.02,
+      "text": "or you can stick two or three of them together",
+      "confidence": 0.6978
+    },
+    {
+      "start": 536.02,
+      "end": 539.62,
+      "text": "and make a nice pot holder for your agent.",
+      "confidence": 0.6978
+    },
+    {
+      "start": 539.62,
+      "end": 542.78,
+      "text": "I'm sending you out of it.",
+      "confidence": 0.6978
+    },
+    {
+      "start": 542.78,
+      "end": 544.82,
+      "text": "And I'm sending you another present, Maggie,",
+      "confidence": 0.6978
+    },
+    {
+      "start": 544.82,
+      "end": 547.06,
+      "text": "a product my brother Jack puts out.",
+      "confidence": 0.6978
+    },
+    {
+      "start": 547.06,
+      "end": 548.5,
+      "text": "It's a guaranteed lipstick.",
+      "confidence": 0.6978
+    },
+    {
+      "start": 548.5,
+      "end": 549.82,
+      "text": "What's a guaranteed for?",
+      "confidence": 0.6978
+    },
+    {
+      "start": 549.82,
+      "end": 551.5,
+      "text": "Three games opposed to office with a civilian",
+      "confidence": 0.6978
+    },
+    {
+      "start": 551.5,
+      "end": 553.54,
+      "text": "or a trip with a marine through the tunnel of love.",
+      "confidence": 0.6978
+    },
+    {
+      "start": 553.54,
+      "end": 558.54,
+      "text": "Hey, this must be Esther now. I'll get it.",
+      "confidence": 0.7149
+    },
+    {
+      "start": 558.54,
+      "end": 562.54,
+      "text": "Mary, Christmas, everybody.",
+      "confidence": 0.7149
+    },
+    {
+      "start": 562.54,
+      "end": 564.54,
+      "text": "Wow, come on in.",
+      "confidence": 0.7149
+    },
+    {
+      "start": 570.54,
+      "end": 573.54,
+      "text": "Esther, where are you going?",
+      "confidence": 0.7149
+    },
+    {
+      "start": 573.54,
+      "end": 575.54,
+      "text": "Gee, honey, you look terrific.",
+      "confidence": 0.7149
+    },
+    {
+      "start": 575.54,
+      "end": 576.54,
+      "text": "Well, thank you, Bob.",
+      "confidence": 0.7149
+    },
+    {
+      "start": 576.54,
+      "end": 578.54,
+      "text": "No, I mean it. You're the answer to every guy's dream.",
+      "confidence": 0.7149
+    },
+    {
+      "start": 578.54,
+      "end": 580.54,
+      "text": "You know you're a natural beauty.",
+      "confidence": 0.7149
+    },
+    {
+      "start": 580.54,
+      "end": 585.02,
+      "text": "beauty. Aren't you taking a lot for granted? How do you know I'm a natural beauty?",
+      "confidence": 0.6922
+    },
+    {
+      "start": 585.02,
+      "end": 587.54,
+      "text": "Honey, when I see a body by Fisher, I don't ask who made the hug catch.",
+      "confidence": 0.6922
+    },
+    {
+      "start": 587.54,
+      "end": 596.66,
+      "text": "Yes, sir, you know Margaret Whiting. Oh, we're old friends. Hi, yes, sir. Hello, Maggie.",
+      "confidence": 0.6922
+    },
+    {
+      "start": 596.66,
+      "end": 601.14,
+      "text": "Oh, may I introduce myself, Miss Williams? I'm Bill Goodman, the announcer on this show,",
+      "confidence": 0.6922
+    },
+    {
+      "start": 601.14,
+      "end": 603.58,
+      "text": "and Bob's right-hand man. Down Rover.",
+      "confidence": 0.6922
+    },
+    {
+      "start": 603.58,
+      "end": 610.58,
+      "text": "Well, I feel as though I already know you, Bill, so many of my girlfriends mention this.",
+      "confidence": 0.7599
+    },
+    {
+      "start": 610.58,
+      "end": 613.58,
+      "text": "Oh, no doubt, sir. I happen to be a great admirer of yours, Miss Williams.",
+      "confidence": 0.7599
+    },
+    {
+      "start": 613.58,
+      "end": 619.58,
+      "text": "The first time I tell you I said to myself, I said, now, there is a girl.",
+      "confidence": 0.7599
+    },
+    {
+      "start": 619.58,
+      "end": 624.58,
+      "text": "How is that for a lucky guest?",
+      "confidence": 0.7599
+    },
+    {
+      "start": 624.58,
+      "end": 630.58,
+      "text": "Please, don't be uncouth. Uncouth. Are those teeth or is your spine coming unravel?",
+      "confidence": 0.7599
+    },
+    {
+      "start": 630.58,
+      "end": 633.34,
+      "text": "Will you beat it, Bill? I want to talk to Esther. Okay.",
+      "confidence": 0.6887
+    },
+    {
+      "start": 633.34,
+      "end": 636.34,
+      "text": "Bob, you shouldn't treat Bill that way.",
+      "confidence": 0.6887
+    },
+    {
+      "start": 636.34,
+      "end": 638.94,
+      "text": "Esther, all working on your show, it's his bread and butter.",
+      "confidence": 0.6887
+    },
+    {
+      "start": 638.94,
+      "end": 640.94,
+      "text": "Yeah, but now he's trying to get in on the desserts.",
+      "confidence": 0.6887
+    },
+    {
+      "start": 644.44,
+      "end": 655.78,
+      "text": "Anyway, Esther, I'm glad you're on the program tonight.",
+      "confidence": 0.6887
+    },
+    {
+      "start": 655.78,
+      "end": 657.58,
+      "text": "I'm glad you invited me.",
+      "confidence": 0.6887
+    },
+    {
+      "start": 657.58,
+      "end": 658.58,
+      "text": "Well, I'm glad you came.",
+      "confidence": 0.6887
+    },
+    {
+      "start": 658.58,
+      "end": 659.58,
+      "text": "Well, I'm glad I'm here.",
+      "confidence": 0.6887
+    },
+    {
+      "start": 659.58,
+      "end": 661.58,
+      "text": "I'm glad you're glad.",
+      "confidence": 0.8172
+    },
+    {
+      "start": 661.58,
+      "end": 663.58,
+      "text": "We're beginning to sound like Liberace look.",
+      "confidence": 0.8172
+    },
+    {
+      "start": 670.58,
+      "end": 672.58,
+      "text": "By the way, Esther, I just saw your new picture",
+      "confidence": 0.8172
+    },
+    {
+      "start": 672.58,
+      "end": 674.58,
+      "text": "easy to love with Van Johnson and Tony Mark",
+      "confidence": 0.8172
+    },
+    {
+      "start": 674.58,
+      "end": 675.58,
+      "text": "and I thought of it just great.",
+      "confidence": 0.8172
+    },
+    {
+      "start": 675.58,
+      "end": 676.58,
+      "text": "Well, thanks a lot, Bob.",
+      "confidence": 0.8172
+    },
+    {
+      "start": 676.58,
+      "end": 678.58,
+      "text": "Miss Williams, I saw your picture too.",
+      "confidence": 0.8172
+    },
+    {
+      "start": 678.58,
+      "end": 679.58,
+      "text": "The color was superb.",
+      "confidence": 0.8172
+    },
+    {
+      "start": 679.58,
+      "end": 681.58,
+      "text": "The swimming scenes were magnificent.",
+      "confidence": 0.8172
+    },
+    {
+      "start": 681.58,
+      "end": 683.58,
+      "text": "The wide screen was terrific.",
+      "confidence": 0.8172
+    },
+    {
+      "start": 683.58,
+      "end": 684.58,
+      "text": "The acting was absolutely...",
+      "confidence": 0.8172
+    },
+    {
+      "start": 684.58,
+      "end": 685.58,
+      "text": "Bill Boyd.",
+      "confidence": 0.8172
+    },
+    {
+      "start": 685.58,
+      "end": 688.58,
+      "text": "I don't mind you raving about Esther's picture on my time,",
+      "confidence": 0.8172
+    },
+    {
+      "start": 688.58,
+      "end": 691.04,
+      "text": "happen to catch my picture here, come the girls. Yeah.",
+      "confidence": 0.7322
+    },
+    {
+      "start": 691.04,
+      "end": 698.42,
+      "text": "The romantic scenes with Van and Tony were sensational.",
+      "confidence": 0.7322
+    },
+    {
+      "start": 698.42,
+      "end": 701.54,
+      "text": "Gosh, even now I can feel a chill running up and down my spine.",
+      "confidence": 0.7322
+    },
+    {
+      "start": 701.54,
+      "end": 705.06,
+      "text": "You should, I'm holding a knife at your back.",
+      "confidence": 0.7322
+    },
+    {
+      "start": 705.06,
+      "end": 706.82,
+      "text": "You know, Esther, I'm surprised you didn't have",
+      "confidence": 0.7322
+    },
+    {
+      "start": 706.82,
+      "end": 708.22,
+      "text": "me as your leading man in your picture.",
+      "confidence": 0.7322
+    },
+    {
+      "start": 708.22,
+      "end": 710.38,
+      "text": "We could have made some wonderful love scenes together.",
+      "confidence": 0.7322
+    },
+    {
+      "start": 710.38,
+      "end": 712.98,
+      "text": "Well, I was very happy working with Van, Johnson.",
+      "confidence": 0.7322
+    },
+    {
+      "start": 712.98,
+      "end": 714.42,
+      "text": "Why should I switch to you?",
+      "confidence": 0.7322
+    },
+    {
+      "start": 714.42,
+      "end": 715.58,
+      "text": "Well, why not?",
+      "confidence": 0.7322
+    },
+    {
+      "start": 715.58,
+      "end": 720.9,
+      "text": "Bob, when you're riding the Super Chief, who transfers to the Glendale bus?",
+      "confidence": 0.7057
+    },
+    {
+      "start": 720.9,
+      "end": 734.74,
+      "text": "Bob, I'm only kidding Bob, I think you're a wonderful leading man, I'm sure you can",
+      "confidence": 0.7057
+    },
+    {
+      "start": 734.74,
+      "end": 735.74,
+      "text": "be very romantic.",
+      "confidence": 0.7057
+    },
+    {
+      "start": 735.74,
+      "end": 738.74,
+      "text": "Do you think so, really?",
+      "confidence": 0.7057
+    },
+    {
+      "start": 738.74,
+      "end": 742.7,
+      "text": "Can you look at a pretty girl and put into words exactly what you're thinking?",
+      "confidence": 0.7057
+    },
+    {
+      "start": 742.7,
+      "end": 744.3,
+      "text": "Oh, I'd be afraid to do that.",
+      "confidence": 0.7363
+    },
+    {
+      "start": 747.3,
+      "end": 748.2,
+      "text": "Why, Bob?",
+      "confidence": 0.7363
+    },
+    {
+      "start": 748.2,
+      "end": 750.2,
+      "text": "Well, it sounds so different in court.",
+      "confidence": 0.7363
+    },
+    {
+      "start": 750.2,
+      "end": 752.7,
+      "text": "I just thought...",
+      "confidence": 0.7363
+    },
+    {
+      "start": 755.7,
+      "end": 757.7,
+      "text": "I just thought you'd like to make a picture with me,",
+      "confidence": 0.7363
+    },
+    {
+      "start": 757.7,
+      "end": 760.2,
+      "text": "as to because I happen to be a champion swimmer, too.",
+      "confidence": 0.7363
+    },
+    {
+      "start": 760.2,
+      "end": 761.7,
+      "text": "You're a champion swimmer?",
+      "confidence": 0.7363
+    },
+    {
+      "start": 761.7,
+      "end": 763.7,
+      "text": "Oh, yes. In fact, I once ran from here to Catalina",
+      "confidence": 0.7363
+    },
+    {
+      "start": 763.7,
+      "end": 765.7,
+      "text": "in 22 hours and back in two and a half minutes.",
+      "confidence": 0.7363
+    },
+    {
+      "start": 766.7,
+      "end": 767.7,
+      "text": "How'd you do that?",
+      "confidence": 0.7363
+    },
+    {
+      "start": 767.7,
+      "end": 769.2,
+      "text": "My guard was caught in the pier.",
+      "confidence": 0.7363
+    },
+    {
+      "start": 772.7,
+      "end": 776.46,
+      "text": "And you should see me do a high dive.",
+      "confidence": 0.7336
+    },
+    {
+      "start": 776.46,
+      "end": 777.46,
+      "text": "I have Bob.",
+      "confidence": 0.7336
+    },
+    {
+      "start": 777.46,
+      "end": 778.46,
+      "text": "You have really?",
+      "confidence": 0.7336
+    },
+    {
+      "start": 778.46,
+      "end": 779.46,
+      "text": "Mm-hmm.",
+      "confidence": 0.7336
+    },
+    {
+      "start": 779.46,
+      "end": 784.54,
+      "text": "I saw you do a high dive in a pool at Palm Springs last week, and I'll never forget it.",
+      "confidence": 0.7336
+    },
+    {
+      "start": 784.54,
+      "end": 789.94,
+      "text": "You drove with your arms spread out, and a little old lady said, look, Lockheed is making",
+      "confidence": 0.7336
+    },
+    {
+      "start": 789.94,
+      "end": 791.94,
+      "text": "them without motors.",
+      "confidence": 0.7336
+    },
+    {
+      "start": 791.94,
+      "end": 797.62,
+      "text": "Hey Bob, we better get started for long days.",
+      "confidence": 0.7336
+    },
+    {
+      "start": 797.62,
+      "end": 800.86,
+      "text": "Yeah, come on everybody.",
+      "confidence": 0.7336
+    },
+    {
+      "start": 800.86,
+      "end": 802.86,
+      "text": "My car's in the shop, so I'll ride with you at the",
+      "confidence": 0.7066
+    },
+    {
+      "start": 802.86,
+      "end": 808.18,
+      "text": "Oh, I didn't bring my car, Bob. My husband dropped me off. Oh big Ben. Well, we can both ride with Maggie or Bill",
+      "confidence": 0.7066
+    },
+    {
+      "start": 808.18,
+      "end": 812.78,
+      "text": "Huh? Oh, I didn't bring my car. Me neither. Well, never mind. Here comes a cab. Oh, taxi",
+      "confidence": 0.7066
+    },
+    {
+      "start": 814.78,
+      "end": 819.94,
+      "text": "Gee, Bob, it's 30 miles long. Beach and cabs are very expensive. Oh, well, don't give it a second thought",
+      "confidence": 0.7066
+    },
+    {
+      "start": 819.94,
+      "end": 824.74,
+      "text": "Esther, you're with Bob. Hope not. Piling everybody. Oh driver. Yes, sir. Take us to the nearest bus stop",
+      "confidence": 0.7066
+    },
+    {
+      "start": 830.86,
+      "end": 837.86,
+      "text": "Here's Margaret Wharton, the Christmas time again, Go Mad Martin!",
+      "confidence": 0.5748
+    },
+    {
+      "start": 843.86,
+      "end": 854.86,
+      "text": "No flakes falling, Church bells calling, It's Christmas time again.",
+      "confidence": 0.5748
+    },
+    {
+      "start": 854.86,
+      "end": 865.86,
+      "text": "Fire's lighted, kids excited, it's Christmas time again.",
+      "confidence": 0.651
+    },
+    {
+      "start": 865.86,
+      "end": 876.86,
+      "text": "Now Santa's blaze on its way with candy cans and toys.",
+      "confidence": 0.651
+    },
+    {
+      "start": 876.86,
+      "end": 882.86,
+      "text": "And wonderful things that Santa Claus brings",
+      "confidence": 0.7693
+    },
+    {
+      "start": 882.86,
+      "end": 888.86,
+      "text": "For good little girls and boys",
+      "confidence": 0.7693
+    },
+    {
+      "start": 888.86,
+      "end": 893.86,
+      "text": "Candle blow and mistletoe",
+      "confidence": 0.7693
+    },
+    {
+      "start": 893.86,
+      "end": 899.86,
+      "text": "It's Christmas time again",
+      "confidence": 0.7693
+    },
+    {
+      "start": 899.86,
+      "end": 904.86,
+      "text": "Carole sung and stockings sung",
+      "confidence": 0.7693
+    },
+    {
+      "start": 904.86,
+      "end": 909.86,
+      "text": "It's Christmas time again.",
+      "confidence": 0.696
+    },
+    {
+      "start": 909.86,
+      "end": 912.86,
+      "text": "There's a tree to trim,",
+      "confidence": 0.696
+    },
+    {
+      "start": 912.86,
+      "end": 915.86,
+      "text": "Our glass is brimmed",
+      "confidence": 0.696
+    },
+    {
+      "start": 915.86,
+      "end": 921.86,
+      "text": "With love and joy and cheer",
+      "confidence": 0.696
+    },
+    {
+      "start": 921.86,
+      "end": 926.86,
+      "text": "To all a merry Christmas",
+      "confidence": 0.696
+    },
+    {
+      "start": 926.86,
+      "end": 932.86,
+      "text": "And a happy new year.",
+      "confidence": 0.696
+    },
+    {
+      "start": 932.86,
+      "end": 957.86,
+      "text": "There's a tree to trim, a glass to trim, with love and joy and cheer.",
+      "confidence": 0.5779
+    },
+    {
+      "start": 957.86,
+      "end": 972.86,
+      "text": "You're all a Merry Christmas and a Happy New Year.",
+      "confidence": 0.4934
+    },
+    {
+      "start": 972.86,
+      "end": 991.38,
+      "text": "you know during the holiday week mom likes to take some time off too and believe me she's",
+      "confidence": 0.8142
+    },
+    {
+      "start": 991.38,
+      "end": 996.54,
+      "text": "entitled to it now one way is to let folks fix their own sandwiches big fat slices of",
+      "confidence": 0.8142
+    },
+    {
+      "start": 996.54,
+      "end": 1001.9,
+      "text": "turkey or ham and of course a generous spread of butter all good sandwiches begin with",
+      "confidence": 0.8142
+    },
+    {
+      "start": 1001.9,
+      "end": 1007.02,
+      "text": "butter, you know? And it's that wonderful flavor of butter which glorifies the taste of the turkeys.",
+      "confidence": 0.7754
+    },
+    {
+      "start": 1007.02,
+      "end": 1010.86,
+      "text": "So whenever you set out the makings for sandwiches, be sure you have the butter",
+      "confidence": 0.7754
+    },
+    {
+      "start": 1010.86,
+      "end": 1015.74,
+      "text": "where folks can help themselves. Butter brightens the flavor of every food it touches.",
+      "confidence": 0.7754
+    },
+    {
+      "start": 1020.06,
+      "end": 1024.54,
+      "text": "And now we continue with our show from the auditorium, the Long Beach Veteran's Hospital.",
+      "confidence": 0.7754
+    },
+    {
+      "start": 1024.54,
+      "end": 1028.86,
+      "text": "He isn't it's a wonderful place by... Oh sure is, Bill, and the Zesta Williams just found out",
+      "confidence": 0.7754
+    },
+    {
+      "start": 1028.86,
+      "end": 1032.66,
+      "text": "these guys have really got the Christmas spirit. Why? What happened? Esther stood",
+      "confidence": 0.7828
+    },
+    {
+      "start": 1032.66,
+      "end": 1035.86,
+      "text": "under the mistletoe and 200 bedpatients became ambulatory.",
+      "confidence": 0.7828
+    },
+    {
+      "start": 1035.86,
+      "end": 1042.58,
+      "text": "I've been having a wonderful time talking to these fellas about. I never",
+      "confidence": 0.7828
+    },
+    {
+      "start": 1042.58,
+      "end": 1046.3,
+      "text": "realized this was such a big place. That's the idea, Esther. What do you mean? Well,",
+      "confidence": 0.7828
+    },
+    {
+      "start": 1046.3,
+      "end": 1051.26,
+      "text": "it's spread out so much you have to get well before you can come here. Have you",
+      "confidence": 0.7828
+    },
+    {
+      "start": 1051.26,
+      "end": 1054.72,
+      "text": "been around looking the place over? Yes, and I've met some of the doctors in",
+      "confidence": 0.7828
+    },
+    {
+      "start": 1054.72,
+      "end": 1058.5,
+      "text": "nurses. You know, they're really some cute nurses here. Oh yeah, there's a",
+      "confidence": 0.7828
+    },
+    {
+      "start": 1058.5,
+      "end": 1062.5,
+      "text": "a lot of romance in a place like this, so this is sort of a Shangri-la with fog.",
+      "confidence": 0.7594
+    },
+    {
+      "start": 1062.5,
+      "end": 1068.5,
+      "text": "Anybody that finds the hospital in the night deserves it.",
+      "confidence": 0.7594
+    },
+    {
+      "start": 1068.5,
+      "end": 1078.5,
+      "text": "The whole commons on instruments. But anyway, I want to say,",
+      "confidence": 0.7594
+    },
+    {
+      "start": 1078.5,
+      "end": 1082.5,
+      "text": "you know, as for the boys recoup writing this hospital, come from all parts of the country,",
+      "confidence": 0.7594
+    },
+    {
+      "start": 1082.5,
+      "end": 1086.5,
+      "text": "why don't we take them on a quick trip and show them what's going on in other places on Christmas day?",
+      "confidence": 0.7594
+    },
+    {
+      "start": 1086.5,
+      "end": 1087.5,
+      "text": "Christmas Day.",
+      "confidence": 0.6275
+    },
+    {
+      "start": 1087.5,
+      "end": 1089.86,
+      "text": "That's a wonderful idea, Bob, let's do it.",
+      "confidence": 0.6275
+    },
+    {
+      "start": 1089.86,
+      "end": 1098.74,
+      "text": "First, let's see what Christmas is like back in the mountain country.",
+      "confidence": 0.6275
+    },
+    {
+      "start": 1098.74,
+      "end": 1100.74,
+      "text": "Oh",
+      "confidence": 0.4987
+    },
+    {
+      "start": 1105.74,
+      "end": 1107.74,
+      "text": "Oh",
+      "confidence": 0.4987
+    },
+    {
+      "start": 1110.74,
+      "end": 1112.74,
+      "text": "Paul",
+      "confidence": 0.4987
+    },
+    {
+      "start": 1112.74,
+      "end": 1115.74,
+      "text": "Hey, wait up Paul, it's Christmas again",
+      "confidence": 0.4987
+    },
+    {
+      "start": 1119.74,
+      "end": 1122.74,
+      "text": "Paul is Christmas 1953",
+      "confidence": 0.4987
+    },
+    {
+      "start": 1122.74,
+      "end": 1124.74,
+      "text": "1953?",
+      "confidence": 0.4987
+    },
+    {
+      "start": 1124.74,
+      "end": 1126.74,
+      "text": "What happened to Christmas 52?",
+      "confidence": 0.4987
+    },
+    {
+      "start": 1126.74,
+      "end": 1129.18,
+      "text": "Oh, oh, that's gone.",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1129.18,
+      "end": 1133.94,
+      "text": "You know, you look so tired I just hung up a re-sign your nose and let's just sleep.",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1133.94,
+      "end": 1139.46,
+      "text": "Oh, Sam, do you, Daisy, May, Francie, Lou, Springtime, and the Rocky's Bell?",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1139.46,
+      "end": 1142.14,
+      "text": "I think we're overdoing it.",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1142.14,
+      "end": 1147.5,
+      "text": "Christmas Day like it is, Paul, you oughta do that.",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1147.5,
+      "end": 1148.5,
+      "text": "I did do that.",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1148.5,
+      "end": 1149.5,
+      "text": "You did?",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1149.5,
+      "end": 1150.5,
+      "text": "Yeah, but I do it.",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1150.5,
+      "end": 1155.38,
+      "text": "Don't know what else I can do less than I take a bath and I ain't going to do that after",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1155.38,
+      "end": 1156.38,
+      "text": "what happened last time.",
+      "confidence": 0.6425
+    },
+    {
+      "start": 1156.38,
+      "end": 1158.38,
+      "text": "Well, what happened last time you took a bath, Paul?",
+      "confidence": 0.7131
+    },
+    {
+      "start": 1158.38,
+      "end": 1162.38,
+      "text": "Well, I'd been killing off Hatfields for 50 years when I got the dirt off. I found out I was one of them.",
+      "confidence": 0.7131
+    },
+    {
+      "start": 1164.38,
+      "end": 1167.38,
+      "text": "Hey, Bob, you got Christmas presents for me.",
+      "confidence": 0.7131
+    },
+    {
+      "start": 1167.38,
+      "end": 1168.38,
+      "text": "Ah.",
+      "confidence": 0.7131
+    },
+    {
+      "start": 1168.38,
+      "end": 1174.38,
+      "text": "You know I ain't the one of the kind, but I sure need a new dress.",
+      "confidence": 0.7131
+    },
+    {
+      "start": 1174.38,
+      "end": 1176.38,
+      "text": "Yeah, sure do, Abner.",
+      "confidence": 0.7131
+    },
+    {
+      "start": 1176.38,
+      "end": 1177.38,
+      "text": "Oh, no.",
+      "confidence": 0.7131
+    },
+    {
+      "start": 1177.38,
+      "end": 1179.38,
+      "text": "You need a dress and I need glasses.",
+      "confidence": 0.7131
+    },
+    {
+      "start": 1180.38,
+      "end": 1184.38,
+      "text": "So, you want a pretty up for the lot of famine and frippery, do you?",
+      "confidence": 0.7131
+    },
+    {
+      "start": 1184.38,
+      "end": 1186.96,
+      "text": "Well, a gal has dreams, Paul.",
+      "confidence": 0.5954
+    },
+    {
+      "start": 1186.96,
+      "end": 1189.82,
+      "text": "Seems like even a little, pastly mountain trash like me",
+      "confidence": 0.5954
+    },
+    {
+      "start": 1189.82,
+      "end": 1192.86,
+      "text": "all have something for Christmas, if I'm a wanton.",
+      "confidence": 0.5954
+    },
+    {
+      "start": 1192.86,
+      "end": 1196.9,
+      "text": "OK, I'll get you something for Christmas, if you're wanting it.",
+      "confidence": 0.5954
+    },
+    {
+      "start": 1196.9,
+      "end": 1199.34,
+      "text": "If you're wanting it, I'll get it if you're wanting it if-",
+      "confidence": 0.5954
+    },
+    {
+      "start": 1199.34,
+      "end": 1204.74,
+      "text": "Don't try it, I'll kill Billy and me.",
+      "confidence": 0.5954
+    },
+    {
+      "start": 1204.74,
+      "end": 1206.34,
+      "text": "I know Tennessee Ernie personally.",
+      "confidence": 0.5954
+    },
+    {
+      "start": 1206.34,
+      "end": 1210.94,
+      "text": "All right, Ma.",
+      "confidence": 0.5954
+    },
+    {
+      "start": 1210.94,
+      "end": 1213.06,
+      "text": "You talk me into it for a present, I'll give you a pig",
+      "confidence": 0.5954
+    },
+    {
+      "start": 1213.06,
+      "end": 1219.54,
+      "text": "for your very own real-life pig for you just you how's that a pig yeah isn't there is one",
+      "confidence": 0.7361
+    },
+    {
+      "start": 1219.54,
+      "end": 1226.02,
+      "text": "thing I don't want Paul it's a darn filthy stupid looking pig why not mall well look at the mirror on",
+      "confidence": 0.7361
+    },
+    {
+      "start": 1226.02,
+      "end": 1230.26,
+      "text": "this wallpaw and the marriage license on the other wall I already got one",
+      "confidence": 0.7361
+    },
+    {
+      "start": 1239.22,
+      "end": 1242.98,
+      "text": "and now let's go to the nation's capital in the White House and look in to see how the president",
+      "confidence": 0.7361
+    },
+    {
+      "start": 1242.98,
+      "end": 1244.98,
+      "text": "and Mrs. Eisenhower spent Christmas.",
+      "confidence": 0.7661
+    },
+    {
+      "start": 1244.98,
+      "end": 1251.98,
+      "text": "Oh, I, it's a wonderful Christmas.",
+      "confidence": 0.7661
+    },
+    {
+      "start": 1251.98,
+      "end": 1254.98,
+      "text": "Oh, it sure is, ma'am, especially for Republicans.",
+      "confidence": 0.7661
+    },
+    {
+      "start": 1254.98,
+      "end": 1259.98,
+      "text": "That's about it, isn't it, huh?",
+      "confidence": 0.7661
+    },
+    {
+      "start": 1259.98,
+      "end": 1262.98,
+      "text": "After 20 years, we're finally in the White House.",
+      "confidence": 0.7661
+    },
+    {
+      "start": 1262.98,
+      "end": 1264.98,
+      "text": "How does it feel, dear?",
+      "confidence": 0.7661
+    },
+    {
+      "start": 1264.98,
+      "end": 1265.98,
+      "text": "I can't tell you, but Tony Bennett doesn't",
+      "confidence": 0.7661
+    },
+    {
+      "start": 1265.98,
+      "end": 1267.98,
+      "text": "the only stranger in Paradise.",
+      "confidence": 0.7661
+    },
+    {
+      "start": 1267.98,
+      "end": 1269.98,
+      "text": "What was that?",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1269.98,
+      "end": 1274.98,
+      "text": "It's nothing. It always happens on windy nights.",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1274.98,
+      "end": 1277.98,
+      "text": "Well, anyway, I could be in a lovely Christmas.",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1277.98,
+      "end": 1279.98,
+      "text": "We got some beautiful cards and telegrams.",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1279.98,
+      "end": 1282.98,
+      "text": "Yes, except this one strikes a sad note.",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1282.98,
+      "end": 1285.98,
+      "text": "He felt so sure he was going to be elected then he lost out.",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1285.98,
+      "end": 1287.98,
+      "text": "Oh, who's it from? Adelaide?",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1287.98,
+      "end": 1289.98,
+      "text": "No, Jack Dempsey.",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1289.98,
+      "end": 1292.98,
+      "text": "Well, anyway, I could be in a lovely Christmas.",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1292.98,
+      "end": 1294.98,
+      "text": "We got some beautiful cards and telegrams.",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1294.98,
+      "end": 1296.98,
+      "text": "Yes, except this one strikes a sad note.",
+      "confidence": 0.7963
+    },
+    {
+      "start": 1296.98,
+      "end": 1297.98,
+      "text": "No, Jack Dempsey.",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1305.38,
+      "end": 1307.9,
+      "text": "And what lovely Christmas presents we got here.",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1307.9,
+      "end": 1310.7,
+      "text": "Yeah, I got a fishing pole and 600 dozen golf balls.",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1310.7,
+      "end": 1312.7,
+      "text": "600 dozen golf balls.",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1312.7,
+      "end": 1315.66,
+      "text": "Oh, it's not too many.",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1315.66,
+      "end": 1318.98,
+      "text": "I have planned.",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1318.98,
+      "end": 1321.1,
+      "text": "Well, what are you going to do with them all?",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1321.1,
+      "end": 1322.94,
+      "text": "Well, I'll keep a couple of dozen to play with.",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1322.94,
+      "end": 1323.46,
+      "text": "Yeah.",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1323.46,
+      "end": 1324.9,
+      "text": "And I'm going to scatter the rest on center",
+      "confidence": 0.7471
+    },
+    {
+      "start": 1324.9,
+      "end": 1326.9,
+      "text": "McCarthy's front porch.",
+      "confidence": 0.7362
+    },
+    {
+      "start": 1332.9,
+      "end": 1334.9,
+      "text": "That was wonderful, Bob. Where'd you now?",
+      "confidence": 0.7362
+    },
+    {
+      "start": 1334.9,
+      "end": 1337.9,
+      "text": "Well, Esther, almost everyone in the world celebrated Christmas today.",
+      "confidence": 0.7362
+    },
+    {
+      "start": 1337.9,
+      "end": 1344.9,
+      "text": "Thank you, thank you, thank you, thank you, thank you, thank you, and you, and you, and you, and you, and you, and you, and you.",
+      "confidence": 0.7362
+    },
+    {
+      "start": 1344.9,
+      "end": 1346.9,
+      "text": "Who is that?",
+      "confidence": 0.7362
+    },
+    {
+      "start": 1346.9,
+      "end": 1349.9,
+      "text": "King Farook, receiving a present from his heron.",
+      "confidence": 0.7362
+    },
+    {
+      "start": 1349.9,
+      "end": 1355.82,
+      "text": "But next up, so let's go on across the country and see what went on today in New York.",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1355.82,
+      "end": 1357.9,
+      "text": "Fine, Bob, where about to New York are we going?",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1357.9,
+      "end": 1360.9,
+      "text": "To the Tenement District and the tough kids on the wrong side of the track.",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1360.9,
+      "end": 1365.9,
+      "text": "Hey, Moe.",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1365.9,
+      "end": 1367.9,
+      "text": "Yeah, how are you?",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1367.9,
+      "end": 1369.9,
+      "text": "Ain't Christmas wonderful, Moe?",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1369.9,
+      "end": 1371.9,
+      "text": "Yeah, it's well, Moe.",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1371.9,
+      "end": 1374.9,
+      "text": "She, it makes me feel so good and so warm and sound, I got sluggied.",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1374.9,
+      "end": 1375.9,
+      "text": "Yeah.",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1375.9,
+      "end": 1376.9,
+      "text": "In fact, I think I will sluggied.",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1376.9,
+      "end": 1378.9,
+      "text": "Merry Christmas to you, Moe.",
+      "confidence": 0.7202
+    },
+    {
+      "start": 1378.9,
+      "end": 1380.9,
+      "text": "Jesus! Thanks!",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1380.9,
+      "end": 1382.9,
+      "text": "And I'm Merry Christmas to you, Himes.",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1388.9,
+      "end": 1390.9,
+      "text": "Well, I can always use them for a banjo fix.",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1392.9,
+      "end": 1393.9,
+      "text": "Damn!",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1393.9,
+      "end": 1394.9,
+      "text": "Hey, Himes.",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1394.9,
+      "end": 1396.9,
+      "text": "Where'd you folks give you for Christmas, eh?",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1396.9,
+      "end": 1397.9,
+      "text": "Nothing.",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1397.9,
+      "end": 1398.9,
+      "text": "Where'd you give it, folks?",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1398.9,
+      "end": 1399.9,
+      "text": "Nothing.",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1399.9,
+      "end": 1401.9,
+      "text": "Where'd you all lady give your pot?",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1401.9,
+      "end": 1402.9,
+      "text": "Nothing.",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1402.9,
+      "end": 1403.9,
+      "text": "Where'd he give her?",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1403.9,
+      "end": 1404.9,
+      "text": "Nothing.",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1404.9,
+      "end": 1406.9,
+      "text": "Hey! Don't you folks like Christmas?",
+      "confidence": 0.7493
+    },
+    {
+      "start": 1406.9,
+      "end": 1409.4,
+      "text": "Yeah, we like Christmas. We just don't like each other.",
+      "confidence": 0.7807
+    },
+    {
+      "start": 1413.4,
+      "end": 1415.9,
+      "text": "Uh-oh, and didn't you get nothing for Christmas?",
+      "confidence": 0.7807
+    },
+    {
+      "start": 1415.9,
+      "end": 1418.4,
+      "text": "Uh, my old man tried to do some Christmas shopping, but he couldn't.",
+      "confidence": 0.7807
+    },
+    {
+      "start": 1418.4,
+      "end": 1420.9,
+      "text": "He couldn't do any Christmas shopping. How about at night?",
+      "confidence": 0.7807
+    },
+    {
+      "start": 1420.9,
+      "end": 1422.9,
+      "text": "That's when he tried to do it, but the cops caught him.",
+      "confidence": 0.7807
+    },
+    {
+      "start": 1424.4,
+      "end": 1427.4,
+      "text": "He caught him down the basement of the five and ten. Now he's up the river doing ten to twenty.",
+      "confidence": 0.7807
+    },
+    {
+      "start": 1429.9,
+      "end": 1433.9,
+      "text": "I'm so glad you come over home. It's nice sitting here together.",
+      "confidence": 0.7807
+    },
+    {
+      "start": 1433.9,
+      "end": 1436.6,
+      "text": "Yeah, your folks have sure got a fancy apartment, Moe.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1436.6,
+      "end": 1437.6,
+      "text": "Yeah, you like it, huh?",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1437.6,
+      "end": 1439.1,
+      "text": "Yeah, what's that room without the door?",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1439.1,
+      "end": 1441.1,
+      "text": "Well, that's what the best of it.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1441.1,
+      "end": 1442.6,
+      "text": "Parts of the door.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1442.6,
+      "end": 1443.6,
+      "text": "Why?",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1443.6,
+      "end": 1444.6,
+      "text": "What?",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1444.6,
+      "end": 1446.1,
+      "text": "What he's taking is badly done.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1446.1,
+      "end": 1448.1,
+      "text": "I miss not non-dollivision.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1448.1,
+      "end": 1454.6,
+      "text": "That's what I like about your folks, Moe.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1454.6,
+      "end": 1455.6,
+      "text": "They're ritzy.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1457.6,
+      "end": 1458.6,
+      "text": "Hey, Moe.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1458.6,
+      "end": 1459.6,
+      "text": "Yeah?",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1459.6,
+      "end": 1460.6,
+      "text": "He mentioned my new suit.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1460.6,
+      "end": 1462.6,
+      "text": "It's real shopping.",
+      "confidence": 0.6446
+    },
+    {
+      "start": 1462.6,
+      "end": 1464.16,
+      "text": "Oh, that's one of them drapesuits.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1464.16,
+      "end": 1464.96,
+      "text": "Drapesuits, huh?",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1464.96,
+      "end": 1466.76,
+      "text": "Yeah, me old lady made it from the ones in the parlour.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1466.76,
+      "end": 1469.24,
+      "text": "LAUGHTER",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1469.24,
+      "end": 1470.88,
+      "text": "Yeah, fine.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1470.88,
+      "end": 1472.24,
+      "text": "I got some news for you.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1472.24,
+      "end": 1473.24,
+      "text": "Yeah.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1473.24,
+      "end": 1474.24,
+      "text": "She should have taken the Quayton rods out.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1474.24,
+      "end": 1476.24,
+      "text": "LAUGHTER",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1476.24,
+      "end": 1481.24,
+      "text": "I'll slug you again if I can spare your teeth.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1481.24,
+      "end": 1483.08,
+      "text": "You know what, being old rest up makes me feel like",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1483.08,
+      "end": 1484.48,
+      "text": "that song rags the riches.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1484.48,
+      "end": 1485.56,
+      "text": "Rags the riches.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1485.56,
+      "end": 1486.28,
+      "text": "Ain't you heard it?",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1486.28,
+      "end": 1487.28,
+      "text": "Nah, I'm saying it's here.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1487.28,
+      "end": 1488.56,
+      "text": "This suit is kind of tight for singing it,",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1488.56,
+      "end": 1489.36,
+      "text": "but I guess I can do it.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1489.36,
+      "end": 1492.56,
+      "text": "Listen, I know I'd go from rags the riches.",
+      "confidence": 0.6332
+    },
+    {
+      "start": 1492.56,
+      "end": 1499.56,
+      "text": "What do you know, Hime? You're back to rags again.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 1499.56,
+      "end": 1504.56,
+      "text": "Yeah, now I got to split personality.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 1504.56,
+      "end": 1508.56,
+      "text": "H, fine. I didn't tell my father we had a date tonight.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 1508.56,
+      "end": 1510.56,
+      "text": "And I think I hear him moving around, dead.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 1510.56,
+      "end": 1512.56,
+      "text": "Got it. What is that down there?",
+      "confidence": 0.6302
+    },
+    {
+      "start": 1512.56,
+      "end": 1514.56,
+      "text": "Mice?",
+      "confidence": 0.6302
+    },
+    {
+      "start": 1514.56,
+      "end": 1517.56,
+      "text": "No, Pa. It's lightning, hope.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 1517.56,
+      "end": 1519.56,
+      "text": "Oh, rap.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 1519.56,
+      "end": 1526.56,
+      "text": "Hey, hey, hey, boy. Here he comes. He's coming downstairs.",
+      "confidence": 0.7702
+    },
+    {
+      "start": 1526.56,
+      "end": 1528.56,
+      "text": "What does he want with me, that old coot?",
+      "confidence": 0.7702
+    },
+    {
+      "start": 1528.56,
+      "end": 1533.56,
+      "text": "Hey, what'd you say, young man? I said your daughter's a beauty.",
+      "confidence": 0.7702
+    },
+    {
+      "start": 1534.56,
+      "end": 1536.56,
+      "text": "I want to speak to you about that, young man.",
+      "confidence": 0.7702
+    },
+    {
+      "start": 1536.56,
+      "end": 1539.56,
+      "text": "You've been calling on my daughter for eight years now.",
+      "confidence": 0.7702
+    },
+    {
+      "start": 1539.56,
+      "end": 1543.56,
+      "text": "I don't know what your intentions are, but I doubt it.",
+      "confidence": 0.7702
+    },
+    {
+      "start": 1543.56,
+      "end": 1551.56,
+      "text": "Ah, fuck! Come on, I read it. Please leave him home in a long time.",
+      "confidence": 0.6637
+    },
+    {
+      "start": 1551.56,
+      "end": 1557.56,
+      "text": "You hoiter! Maybe you better go home.",
+      "confidence": 0.6637
+    },
+    {
+      "start": 1557.56,
+      "end": 1561.56,
+      "text": "Okay, but you come out in the hall with me, huh?",
+      "confidence": 0.6637
+    },
+    {
+      "start": 1561.56,
+      "end": 1567.56,
+      "text": "Gosh, it's dark out here, boy. Oh, still, I kissed you good night.",
+      "confidence": 0.6637
+    },
+    {
+      "start": 1567.56,
+      "end": 1571.56,
+      "text": "Hey, that doesn't feel like I kissed you, boy. I felt like somebody else.",
+      "confidence": 0.6637
+    },
+    {
+      "start": 1571.56,
+      "end": 1593.56,
+      "text": "Yeah, Bob, as we close our last show of the year, let's pause a moment to think about the ways in which the American dairy association touches our lives.",
+      "confidence": 0.7558
+    },
+    {
+      "start": 1593.56,
+      "end": 1599.56,
+      "text": "You know, it's pretty hard to imagine just what our country would be like with no eggnog or butter cookies at Christmas time.",
+      "confidence": 0.7558
+    },
+    {
+      "start": 1599.56,
+      "end": 1604.26,
+      "text": "No ice cream cones, no cream for our coffee, or milk to drink.",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1604.26,
+      "end": 1606.86,
+      "text": "Through the natural richness of this great land of ours,",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1606.86,
+      "end": 1610.86,
+      "text": "these millions of dairy farmers who make up the American Dairy Association",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1610.86,
+      "end": 1614.26,
+      "text": "make it possible for us to enjoy all the genuine dairy foods",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1614.26,
+      "end": 1616.46,
+      "text": "which fill such an important place in our lives.",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1616.46,
+      "end": 1618.66,
+      "text": "Yeah, let me add a holiday greeting from these members",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1618.66,
+      "end": 1620.66,
+      "text": "of the American Dairy Association",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1620.66,
+      "end": 1623.46,
+      "text": "as they extend their best wishes for a glorious holiday season",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1623.46,
+      "end": 1624.66,
+      "text": "to all our listeners.",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1624.66,
+      "end": 1626.46,
+      "text": "May the rich blessings of a happy home",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1626.46,
+      "end": 1629.46,
+      "text": "and the rewarding glow of warm friendships and richer lives.",
+      "confidence": 0.8406
+    },
+    {
+      "start": 1629.46,
+      "end": 1633.62,
+      "text": "May this holiday season in the year to come be the finest you have ever known.",
+      "confidence": 0.7528
+    },
+    {
+      "start": 1633.62,
+      "end": 1637.06,
+      "text": "That is the sincere wish of all of us in the American Dairy Association.",
+      "confidence": 0.7528
+    },
+    {
+      "start": 1637.06,
+      "end": 1650.38,
+      "text": "All thanks for the memory of Christmas here today in the good old USA.",
+      "confidence": 0.7528
+    },
+    {
+      "start": 1650.38,
+      "end": 1657.66,
+      "text": "peace on earth, goodwill toward men and our old, on fashioned way. And we thank you so much.",
+      "confidence": 0.7023
+    },
+    {
+      "start": 1659.42,
+      "end": 1663.5,
+      "text": "What a thank-ester Williams very much for bringing these boys a lot of happiness out here.",
+      "confidence": 0.7023
+    },
+    {
+      "start": 1663.5,
+      "end": 1668.86,
+      "text": "Also, Les Brown is band-market-whiting. Jimmy Wakeley, Guy Mitchell, Taylor Mays, Bobby Brand,",
+      "confidence": 0.7023
+    },
+    {
+      "start": 1668.86,
+      "end": 1673.5,
+      "text": "David Dyer, Joe Graydon. They're all out here with us today, along with a lot of Paramount",
+      "confidence": 0.7023
+    },
+    {
+      "start": 1673.5,
+      "end": 1678.3,
+      "text": "Starless, Joan Taylor, Marla English, Francie Higgins, Rita Sullivan, Mary and Ross, Jean",
+      "confidence": 0.7023
+    },
+    {
+      "start": 1678.3,
+      "end": 1684.54,
+      "text": "Shores, Randy Farr, Joni Parris, Pat Blake, all these people out here, Long Beach Hospital.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1684.54,
+      "end": 1691.6,
+      "text": "Along with Bill Goodwin, to sort of bring these boys a little laugh here and there.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1691.6,
+      "end": 1696.24,
+      "text": "Out of the boys here at Long Beach, veterans hospital for making us welcome once again.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1696.24,
+      "end": 1698.78,
+      "text": "You know, this is becoming an annual affair with us.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1698.78,
+      "end": 1703.44,
+      "text": "We hope you've enjoyed our Christmas show just as half as much as we've enjoyed putting",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1703.44,
+      "end": 1704.44,
+      "text": "it on for you.",
+      "confidence": 0.7261
+    },
+    {
+      "start": 1704.44,
+      "end": 1708.4,
+      "text": "I got a little of that turkey in my eye tooth, I couldn't see what I was talking about.",
+      "confidence": 0.718
+    },
+    {
+      "start": 1708.4,
+      "end": 1716.88,
+      "text": "I, um, now we really considered a great privilege to celebrate this Christmas tide with you,",
+      "confidence": 0.718
+    },
+    {
+      "start": 1716.88,
+      "end": 1721.02,
+      "text": "fellas, who've given so much in our struggle to make a living reality, the great idea",
+      "confidence": 0.718
+    },
+    {
+      "start": 1721.02,
+      "end": 1723.96,
+      "text": "of peace on earth, goodwill toward all men.",
+      "confidence": 0.718
+    },
+    {
+      "start": 1723.96,
+      "end": 1727.12,
+      "text": "We haven't attained our goal as yet, but with the example of courage and strength set",
+      "confidence": 0.718
+    },
+    {
+      "start": 1727.12,
+      "end": 1730.64,
+      "text": "by men like you, we will surely carry on until we do.",
+      "confidence": 0.718
+    },
+    {
+      "start": 1730.64,
+      "end": 1731.88,
+      "text": "Merry Christmas and good night.",
+      "confidence": 0.718
+    },
+    {
+      "start": 1731.88,
+      "end": 1741.72,
+      "text": "The short lessons of Bob Holt's show next week to model it with our special guest,",
+      "confidence": 0.497
+    },
+    {
+      "start": 1741.72,
+      "end": 1747.48,
+      "text": "a rain day, extra-Williams can soon be seen in MDM easy to love.",
+      "confidence": 0.497
+    },
+    {
+      "start": 1747.48,
+      "end": 1751.72,
+      "text": "The American Dairy Association, the nation's dairy farmer, is brought to the Bob Holt's",
+      "confidence": 0.497
+    },
+    {
+      "start": 1751.72,
+      "end": 1752.72,
+      "text": "show.",
+      "confidence": 0.497
+    },
+    {
+      "start": 1752.72,
+      "end": 1757.16,
+      "text": "An MDC radio network selection, written by Norman Sullivan and Charles Stewart,",
+      "confidence": 0.497
+    },
+    {
+      "start": 1757.16,
+      "end": 1757.66,
+      "text": "Thanks, Brad.",
+      "confidence": 0.4613
+    },
+    {
+      "start": 1757.66,
+      "end": 1761.36,
+      "text": "Directed to the Veterans Administration House from the Long Beach, California.",
+      "confidence": 0.4613
+    },
+    {
+      "start": 1761.36,
+      "end": 1766.16,
+      "text": "Remember, butter brightens the flavor of every full destination.",
+      "confidence": 0.4613
+    }
+  ]
+}

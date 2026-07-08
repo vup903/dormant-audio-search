@@ -1,0 +1,171 @@
+{
+  "id": "1948-04-03-cbc-the-atom-bomb",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 138.0,
+  "confidence": 0.8417,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Here's a letter from Mr. Nelson H. Watson, Brampton, Ontario, rural route number five.",
+      "confidence": 0.7904
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Does the atom bomb affect the weather?",
+      "confidence": 0.7904
+    },
+    {
+      "start": 7.0,
+      "end": 13.0,
+      "text": "Can the experiments with uranium at chalk, river, porthole, etc. have anything to do with the extremes of weather?",
+      "confidence": 0.7904
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "Well, Gil, what do you say about the atomic bomb and weather?",
+      "confidence": 0.7904
+    },
+    {
+      "start": 17.0,
+      "end": 23.0,
+      "text": "Not much more, Bill, and I said last summer over the CBC in response to a similar question.",
+      "confidence": 0.7904
+    },
+    {
+      "start": 23.0,
+      "end": 30.0,
+      "text": "Were it not for the risk of leaving a dangerous impression, I would say that the force of the atomic bomb has been overestimated.",
+      "confidence": 0.8951
+    },
+    {
+      "start": 30.0,
+      "end": 38.0,
+      "text": "However, as a scientist, I hasten to add that the horrible effects of our experiments with the atomic bomb to date cannot be overestimated.",
+      "confidence": 0.8951
+    },
+    {
+      "start": 38.0,
+      "end": 51.0,
+      "text": "Whatever I have to say about the relative energy of the bomb or the size of the explosion, I cannot caution people too strongly to remember the devastating result of the bomb measured in terms of human lives in destruction.",
+      "confidence": 0.8951
+    },
+    {
+      "start": 51.0,
+      "end": 56.84,
+      "text": "It's difficult for anyone to comprehend the insignificance of an atomic bomb explosion",
+      "confidence": 0.8483
+    },
+    {
+      "start": 56.84,
+      "end": 60.42,
+      "text": "compared with the energy of the Earth's atmosphere.",
+      "confidence": 0.8483
+    },
+    {
+      "start": 60.42,
+      "end": 64.82,
+      "text": "By limiting the comparison to a single storm such as moves across Eastern Canada about every",
+      "confidence": 0.8483
+    },
+    {
+      "start": 64.82,
+      "end": 70.78,
+      "text": "third day during the winter, we can get a better idea of the relative energy involved.",
+      "confidence": 0.8483
+    },
+    {
+      "start": 70.78,
+      "end": 74.9,
+      "text": "It has been reliably calculated that the energy of the atomic bomb is approximately",
+      "confidence": 0.8483
+    },
+    {
+      "start": 74.9,
+      "end": 80.04,
+      "text": "one-100,000th of the energy in a normal promised wide storm.",
+      "confidence": 0.8279
+    },
+    {
+      "start": 80.04,
+      "end": 86.24,
+      "text": "In other words, it would take 100,000 atomic bombs to equal the energy of an average storm.",
+      "confidence": 0.8279
+    },
+    {
+      "start": 86.24,
+      "end": 89.88,
+      "text": "To appreciate that figure, this difference is equivalent to the difference between the",
+      "confidence": 0.8279
+    },
+    {
+      "start": 89.88,
+      "end": 95.56,
+      "text": "energy you would expend in lifting a piano and in lifting a feather.",
+      "confidence": 0.8279
+    },
+    {
+      "start": 95.56,
+      "end": 100.6,
+      "text": "Perhaps a comparison of the area of the atomic bomb explosion with the area of a normal storm",
+      "confidence": 0.8279
+    },
+    {
+      "start": 100.6,
+      "end": 105.56,
+      "text": "would give a better idea of why the bomb has had a negligible effect on the world's weather.",
+      "confidence": 0.8367
+    },
+    {
+      "start": 105.56,
+      "end": 110.24,
+      "text": "Think of an average storm as about 1,500 miles in diameter and quite flat, very much like",
+      "confidence": 0.8367
+    },
+    {
+      "start": 110.24,
+      "end": 111.64,
+      "text": "a photograph record.",
+      "confidence": 0.8367
+    },
+    {
+      "start": 111.64,
+      "end": 116.96,
+      "text": "Now, to show the atomic bomb explosion on the same scale, you would have a spec on the",
+      "confidence": 0.8367
+    },
+    {
+      "start": 116.96,
+      "end": 121.96,
+      "text": "photograph record too small to be seen without the aid of a magnifying glass.",
+      "confidence": 0.8367
+    },
+    {
+      "start": 121.96,
+      "end": 127.44,
+      "text": "Let me repeat, I'm not minimizing the destruction and death which a company such man made explosions",
+      "confidence": 0.8367
+    },
+    {
+      "start": 127.44,
+      "end": 129.28,
+      "text": "as the atomic bomb.",
+      "confidence": 0.8367
+    },
+    {
+      "start": 129.28,
+      "end": 134.04,
+      "text": "I am saying that the magnitude of nature's forces cannot easily be grasped.",
+      "confidence": 0.8451
+    },
+    {
+      "start": 134.04,
+      "end": 137.84,
+      "text": "In short, that the atomic bomb has had no noticeable effect on the world's weather.",
+      "confidence": 0.8451
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "1941-08-29-bbc-winston-churchill-these-are-great-days",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 244.8,
+  "confidence": 0.7407,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.36,
+      "text": "Almost a year has passed since I came down here at your headmaster's kind invitation.",
+      "confidence": 0.8203
+    },
+    {
+      "start": 8.08,
+      "end": 16.0,
+      "text": "In order to chair myself and share the hearts of a few of my friends, I see some of our own songs.",
+      "confidence": 0.8203
+    },
+    {
+      "start": 17.2,
+      "end": 23.2,
+      "text": "The ten months that have passed have seen very terrible catastrophic events in the world,",
+      "confidence": 0.8203
+    },
+    {
+      "start": 23.2,
+      "end": 32.2,
+      "text": "ups and downs, misfortunes, but can anyone sitting here this afternoon, this October afternoon,",
+      "confidence": 0.8062
+    },
+    {
+      "start": 32.2,
+      "end": 37.2,
+      "text": "not feel deeply thankful for what has happened in the time that has passed,",
+      "confidence": 0.8062
+    },
+    {
+      "start": 37.2,
+      "end": 42.2,
+      "text": "and for the very great improvement in the position of our country and of our home.",
+      "confidence": 0.8062
+    },
+    {
+      "start": 42.2,
+      "end": 48.2,
+      "text": "Why, when I was here last time, we were quite alone, desperately alone,",
+      "confidence": 0.8062
+    },
+    {
+      "start": 48.2,
+      "end": 55.4,
+      "text": "alone. And we had been so from five or six months, we were poorly armed, we were not poorly",
+      "confidence": 0.7596
+    },
+    {
+      "start": 55.4,
+      "end": 61.86,
+      "text": "armed today. But then we were very poorly armed. We had the unmeasured minutes of the enemy",
+      "confidence": 0.7596
+    },
+    {
+      "start": 61.86,
+      "end": 67.58,
+      "text": "and their air attack still beating upon us. And you we ourselves had had experience of",
+      "confidence": 0.7596
+    },
+    {
+      "start": 67.58,
+      "end": 73.06,
+      "text": "this attack. And I expect you are beginning to feel impatient that there has been this",
+      "confidence": 0.7596
+    },
+    {
+      "start": 73.06,
+      "end": 77.66,
+      "text": "long love, with nothing particular turning up.",
+      "confidence": 0.7235
+    },
+    {
+      "start": 77.66,
+      "end": 81.86,
+      "text": "You cannot tell from appearances how things should go.",
+      "confidence": 0.7235
+    },
+    {
+      "start": 81.86,
+      "end": 87.38,
+      "text": "Sometimes imagination makes things hard for worse than they are, yet without imagination",
+      "confidence": 0.7235
+    },
+    {
+      "start": 87.38,
+      "end": 89.42,
+      "text": "not much can be done.",
+      "confidence": 0.7235
+    },
+    {
+      "start": 89.42,
+      "end": 96.1,
+      "text": "Though it's people who are imaginative, see many more dangers than perhaps resist.",
+      "confidence": 0.7235
+    },
+    {
+      "start": 96.1,
+      "end": 101.38,
+      "text": "Certainly many more than will happen, but then they must also pray to be given that extra",
+      "confidence": 0.7235
+    },
+    {
+      "start": 101.38,
+      "end": 109.06,
+      "text": "courage to carry this far reaching imagination. But for everyone, surely, what we've",
+      "confidence": 0.788
+    },
+    {
+      "start": 109.06,
+      "end": 115.46,
+      "text": "gone through in this period, I'm addressing myself to the school, surely in this period",
+      "confidence": 0.788
+    },
+    {
+      "start": 115.46,
+      "end": 121.8,
+      "text": "of ten months, this is the lesson. Never give in. Never give in. Never, never, never. In",
+      "confidence": 0.788
+    },
+    {
+      "start": 121.8,
+      "end": 127.5,
+      "text": "nothing, great or small, large or petty, never give in except the convictions of honor",
+      "confidence": 0.788
+    },
+    {
+      "start": 127.5,
+      "end": 132.88,
+      "text": "and good sense. Never yield to force, never yield to the appearance of overwhelming might",
+      "confidence": 0.7201
+    },
+    {
+      "start": 132.88,
+      "end": 139.46,
+      "text": "of the enemy. We stood all alone a year ago, and to many countries it seemed that are",
+      "confidence": 0.7201
+    },
+    {
+      "start": 139.46,
+      "end": 147.18,
+      "text": "a conquest out. We were finished. All this tradition of ours, our school history, our songs,",
+      "confidence": 0.7201
+    },
+    {
+      "start": 147.18,
+      "end": 155.06,
+      "text": "this part of the history of our country, all were gone and finished and liquidated. There",
+      "confidence": 0.7201
+    },
+    {
+      "start": 155.06,
+      "end": 160.78,
+      "text": "different is removed today. Britain, other nations sought a drawn",
+      "confidence": 0.6524
+    },
+    {
+      "start": 160.78,
+      "end": 166.68,
+      "text": "astonishment across our slate. But instead our country stood in the gap. There was no",
+      "confidence": 0.6524
+    },
+    {
+      "start": 166.68,
+      "end": 170.78,
+      "text": "finishing, no thought of giving in. And by what seemed almost",
+      "confidence": 0.6524
+    },
+    {
+      "start": 170.78,
+      "end": 176.66,
+      "text": "too medical to those outside the islands, that we ourselves never doubted it. We now",
+      "confidence": 0.6524
+    },
+    {
+      "start": 176.66,
+      "end": 182.7,
+      "text": "find ourselves in a position where I say we can be sure that we have only to",
+      "confidence": 0.6524
+    },
+    {
+      "start": 182.7,
+      "end": 189.74,
+      "text": "first year we are to conquer. You sang here a verse of a school song, you sang that",
+      "confidence": 0.7397
+    },
+    {
+      "start": 189.74,
+      "end": 196.22,
+      "text": "extra verse written in my honor because I was very greatly complimented by it and we should",
+      "confidence": 0.7397
+    },
+    {
+      "start": 196.22,
+      "end": 203.42,
+      "text": "have repeated today. But there is one word in it I want to alter. I wanted to do so last year,",
+      "confidence": 0.7397
+    },
+    {
+      "start": 204.14,
+      "end": 210.78,
+      "text": "but I did not venture to. It is a line, not less we praise in darker days.",
+      "confidence": 0.7397
+    },
+    {
+      "start": 210.78,
+      "end": 220.52,
+      "text": "I obtained the headmaster to mission to alter DACA to stoner, not less we pray in stoner",
+      "confidence": 0.6682
+    },
+    {
+      "start": 220.52,
+      "end": 221.52,
+      "text": "days.",
+      "confidence": 0.6682
+    },
+    {
+      "start": 221.52,
+      "end": 229.26,
+      "text": "Do not let the streak of DACA days, let the streak rather stoner days, these are not DAC days,",
+      "confidence": 0.6682
+    },
+    {
+      "start": 229.26,
+      "end": 235.18,
+      "text": "these are great days, the greatest our country has ever lived, and we would all thank God",
+      "confidence": 0.6682
+    },
+    {
+      "start": 235.18,
+      "end": 244.18,
+      "text": "that we have been allowed each of us according to our station to play a part in making these days memorable in the history of our race.",
+      "confidence": 0.7685
+    }
+  ]
+}

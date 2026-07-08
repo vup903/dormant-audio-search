@@ -1,0 +1,1443 @@
+{
+  "id": "1950-04-25-au-calling-the-stars-ep404-the-spirit-of-anzac",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 1758.0,
+  "confidence": 0.6343,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 21.28,
+      "text": "The palm of a theme, heralds radios, greatest primary show, Falling the Sun.",
+      "confidence": 0.5763
+    },
+    {
+      "start": 21.28,
+      "end": 23.92,
+      "text": "The time is twenty-hundred hours.",
+      "confidence": 0.5763
+    },
+    {
+      "start": 23.92,
+      "end": 28.68,
+      "text": "The date April the 25th, 1950.",
+      "confidence": 0.5763
+    },
+    {
+      "start": 28.68,
+      "end": 38.68,
+      "text": "exact day.",
+      "confidence": 0.7052
+    },
+    {
+      "start": 38.68,
+      "end": 43.64,
+      "text": "We are proud to announce that by courtesy of Colgate Parmolo, proprietary limited, the",
+      "confidence": 0.7052
+    },
+    {
+      "start": 43.64,
+      "end": 48.62,
+      "text": "makers of the world's finest toilet-soups, dental cream and cosmetics.",
+      "confidence": 0.7052
+    },
+    {
+      "start": 48.62,
+      "end": 52.8,
+      "text": "You ought to hear throughout a nationwide network of commercial stations from Cairns",
+      "confidence": 0.7052
+    },
+    {
+      "start": 52.8,
+      "end": 57.04,
+      "text": "to Perth, a special edition of Calling the Stars.",
+      "confidence": 0.7052
+    },
+    {
+      "start": 57.04,
+      "end": 60.04,
+      "text": "title, The Spirit of Anzac.",
+      "confidence": 0.5726
+    },
+    {
+      "start": 78.04,
+      "end": 81.04,
+      "text": "The Spirit of Anzac.",
+      "confidence": 0.5726
+    },
+    {
+      "start": 81.04,
+      "end": 89.04,
+      "text": "Nineteen, fourteen, nine-nineteen, fourteen.",
+      "confidence": 0.4609
+    },
+    {
+      "start": 92.04,
+      "end": 101.04,
+      "text": "Heat the hall by burning while your hearts are burning.",
+      "confidence": 0.4609
+    },
+    {
+      "start": 101.04,
+      "end": 110.04,
+      "text": "Turn the dark light in light out till the boys come home.",
+      "confidence": 0.7456
+    },
+    {
+      "start": 116.04,
+      "end": 121.04,
+      "text": "Yes, in 1914 Australia and New Zealand rallied to the colours.",
+      "confidence": 0.7456
+    },
+    {
+      "start": 121.04,
+      "end": 126.04,
+      "text": "From all corners of the land they came, giants from Queensland,",
+      "confidence": 0.7456
+    },
+    {
+      "start": 126.04,
+      "end": 132.36,
+      "text": "Aksman from the Gippsland Forests, from the vineyards of South Australia, from the orchards of Tasmania,",
+      "confidence": 0.7402
+    },
+    {
+      "start": 132.36,
+      "end": 139.08,
+      "text": "from the back of Verkin New South Wales across the desert from Perth, from the islands of New Zealand,",
+      "confidence": 0.7402
+    },
+    {
+      "start": 139.08,
+      "end": 145.0,
+      "text": "from all points they came, and so they sailed away to Flandersfield,",
+      "confidence": 0.7402
+    },
+    {
+      "start": 145.0,
+      "end": 150.12,
+      "text": "through the mud of France the scorching desert of Egypt, into the jaws of death,",
+      "confidence": 0.7402
+    },
+    {
+      "start": 150.12,
+      "end": 154.12,
+      "text": "to the bloodbath that was Amzek.",
+      "confidence": 0.5456
+    },
+    {
+      "start": 154.12,
+      "end": 161.12,
+      "text": ".",
+      "confidence": 0.4854
+    },
+    {
+      "start": 173.12,
+      "end": 181.12,
+      "text": "Nineteen, thirty nine. Nineteen, thirty nine.",
+      "confidence": 0.4854
+    },
+    {
+      "start": 181.12,
+      "end": 186.12,
+      "text": "Again, the spirit of Anza.",
+      "confidence": 0.5239
+    },
+    {
+      "start": 211.12,
+      "end": 214.12,
+      "text": "What can you win me?",
+      "confidence": 0.538
+    },
+    {
+      "start": 214.12,
+      "end": 218.12,
+      "text": "Who died?",
+      "confidence": 0.538
+    },
+    {
+      "start": 220.12,
+      "end": 225.12,
+      "text": "World War II saw the spirit of Anzac manifest again.",
+      "confidence": 0.538
+    },
+    {
+      "start": 228.12,
+      "end": 236.12,
+      "text": "Tobruk, Greece, Crete, Syria, El Alamein, Malaya, Burma, Cacoda, Buna, Sanonanda, Sepilburg.",
+      "confidence": 0.538
+    },
+    {
+      "start": 236.12,
+      "end": 241.12,
+      "text": "In the air on the seven seas, and in practically all corners of the earth,",
+      "confidence": 0.681
+    },
+    {
+      "start": 241.12,
+      "end": 248.12,
+      "text": "the spirit of Anzac, Sean as a beacon, symbolizing courage and sacrifice.",
+      "confidence": 0.681
+    },
+    {
+      "start": 248.12,
+      "end": 266.8,
+      "text": "Today, Australians the world over bow their heads in remembrance of the sons and daughters",
+      "confidence": 0.7997
+    },
+    {
+      "start": 266.8,
+      "end": 274.62,
+      "text": "of this great country of ours, to those who paid this supreme sacrifice, that we might",
+      "confidence": 0.7997
+    },
+    {
+      "start": 274.62,
+      "end": 286.06,
+      "text": "live in happiness and peace. They shall not grow old as we that are left grow old.",
+      "confidence": 0.7809
+    },
+    {
+      "start": 287.66,
+      "end": 295.9,
+      "text": "Age shall not weary them nor the years condemn. At the going down of the sun and in the morning",
+      "confidence": 0.7809
+    },
+    {
+      "start": 295.9,
+      "end": 301.9,
+      "text": "And we will remember them.",
+      "confidence": 0.7777
+    },
+    {
+      "start": 301.9,
+      "end": 304.9,
+      "text": "Lest we forget.",
+      "confidence": 0.7777
+    },
+    {
+      "start": 309.9,
+      "end": 313.9,
+      "text": "Anzac Day over the years has not only been a day of sorrow,",
+      "confidence": 0.7777
+    },
+    {
+      "start": 313.9,
+      "end": 315.9,
+      "text": "but a day of reunion,",
+      "confidence": 0.7777
+    },
+    {
+      "start": 315.9,
+      "end": 318.9,
+      "text": "when the men and women who carved their names in history",
+      "confidence": 0.7777
+    },
+    {
+      "start": 318.9,
+      "end": 320.9,
+      "text": "as members of Australia's fighting battalions,",
+      "confidence": 0.7777
+    },
+    {
+      "start": 320.9,
+      "end": 323.9,
+      "text": "as members of her Navy, her Air Force,",
+      "confidence": 0.7777
+    },
+    {
+      "start": 323.9,
+      "end": 330.1,
+      "text": "merchant navy and women's services, all meet again on common ground to pay homage",
+      "confidence": 0.658
+    },
+    {
+      "start": 330.1,
+      "end": 337.7,
+      "text": "and to celebrate the spirit of Amzek. The sponsors of the Parmoliv show dedicate this",
+      "confidence": 0.658
+    },
+    {
+      "start": 337.7,
+      "end": 344.7,
+      "text": "program to that spirit.",
+      "confidence": 0.4653
+    },
+    {
+      "start": 367.7,
+      "end": 375.92,
+      "text": "And what could be a more appropriate tribute to the forces than the list of sisters singing",
+      "confidence": 0.6402
+    },
+    {
+      "start": 375.92,
+      "end": 378.92,
+      "text": "the Army, the Navy, and the Air Force?",
+      "confidence": 0.6402
+    },
+    {
+      "start": 378.92,
+      "end": 394.24,
+      "text": "The Army, the Navy, and the Air Force have made our spacious name, and soldiers of sailors",
+      "confidence": 0.6402
+    },
+    {
+      "start": 394.24,
+      "end": 400.24,
+      "text": "that our emin' have always made the game.",
+      "confidence": 0.5819
+    },
+    {
+      "start": 400.24,
+      "end": 407.74,
+      "text": "Daddy and Drew and Strong and Reddy to do our dialogue.",
+      "confidence": 0.5819
+    },
+    {
+      "start": 407.74,
+      "end": 411.24,
+      "text": "The Army, the Navy and the Air Force,",
+      "confidence": 0.5819
+    },
+    {
+      "start": 411.24,
+      "end": 415.24,
+      "text": "when the Force comes they'll be there,",
+      "confidence": 0.5819
+    },
+    {
+      "start": 415.24,
+      "end": 420.24,
+      "text": "when the Force comes they'll be there.",
+      "confidence": 0.5819
+    },
+    {
+      "start": 420.24,
+      "end": 432.04,
+      "text": "I'll bring the Jagger Australian tenor Paul Miskell comes to the palm on a microphone",
+      "confidence": 0.6971
+    },
+    {
+      "start": 432.04,
+      "end": 434.84,
+      "text": "in this special Anzac Bay program.",
+      "confidence": 0.6971
+    },
+    {
+      "start": 434.84,
+      "end": 438.92,
+      "text": "He sings a song which threw the world over 30 years ago.",
+      "confidence": 0.6971
+    },
+    {
+      "start": 438.92,
+      "end": 444.2,
+      "text": "The number tells its own story and is offered as a tribute to those heroic women who formed",
+      "confidence": 0.6971
+    },
+    {
+      "start": 444.2,
+      "end": 446.2,
+      "text": "our nursing service.",
+      "confidence": 0.6971
+    },
+    {
+      "start": 446.2,
+      "end": 448.52,
+      "text": "The Rose of No Man's Land.",
+      "confidence": 0.6971
+    },
+    {
+      "start": 448.52,
+      "end": 450.52,
+      "text": "The narration is by Howard Craven.",
+      "confidence": 0.5867
+    },
+    {
+      "start": 478.52,
+      "end": 491.52,
+      "text": "In my corner of my roomy, It's the one with most, most so-dianneuse",
+      "confidence": 0.5048
+    },
+    {
+      "start": 491.52,
+      "end": 497.52,
+      "text": "It's the work of the master's hand.",
+      "confidence": 0.5048
+    },
+    {
+      "start": 497.52,
+      "end": 505.52,
+      "text": "In the most waitress, stands the rest of us.",
+      "confidence": 0.5048
+    },
+    {
+      "start": 505.52,
+      "end": 513.52,
+      "text": "She's the one for my one's land.",
+      "confidence": 0.6131
+    },
+    {
+      "start": 519.52,
+      "end": 522.52,
+      "text": "1854, Crimea.",
+      "confidence": 0.6131
+    },
+    {
+      "start": 523.52,
+      "end": 531.52,
+      "text": "On October 21st, 1854, Florence Nightingale left England with a staff of 38 nurses.",
+      "confidence": 0.6131
+    },
+    {
+      "start": 531.52,
+      "end": 538.6,
+      "text": "On November 4th, they reached Scutari and time to receive the wounded from Balaklava.",
+      "confidence": 0.8081
+    },
+    {
+      "start": 538.6,
+      "end": 544.76,
+      "text": "Here began the story of Florence Nightingale, a story which became a legend throughout",
+      "confidence": 0.8081
+    },
+    {
+      "start": 544.76,
+      "end": 547.44,
+      "text": "the English-speaking world.",
+      "confidence": 0.8081
+    },
+    {
+      "start": 547.44,
+      "end": 552.96,
+      "text": "She gave herself body and soul to her work, standing for 20 hours at a stretch to see",
+      "confidence": 0.8081
+    },
+    {
+      "start": 552.96,
+      "end": 555.04,
+      "text": "the wounded attendant.",
+      "confidence": 0.8081
+    },
+    {
+      "start": 555.04,
+      "end": 561.2,
+      "text": "She worked unceasingly in the field in the operating theatre, and at night, lamp in",
+      "confidence": 0.8081
+    },
+    {
+      "start": 561.2,
+      "end": 567.24,
+      "text": "In hand, she would make her solitary round of the wards, here and there offering a kindly",
+      "confidence": 0.8439
+    },
+    {
+      "start": 567.24,
+      "end": 571.5,
+      "text": "word to the sick and the suffering.",
+      "confidence": 0.8439
+    },
+    {
+      "start": 571.5,
+      "end": 581.5,
+      "text": "The lady with the lamp, Florence Nightingale, she indeed was the founder of the nursing service.",
+      "confidence": 0.8439
+    },
+    {
+      "start": 581.5,
+      "end": 586.1,
+      "text": "In the century that has passed since then, hundreds of heroic women have given the same",
+      "confidence": 0.8439
+    },
+    {
+      "start": 586.1,
+      "end": 593.26,
+      "text": "and tiring service have shown the same devotion to duty as Florence Nightingale, the woman",
+      "confidence": 0.6699
+    },
+    {
+      "start": 593.26,
+      "end": 597.1,
+      "text": "whose name established a tradition.",
+      "confidence": 0.6699
+    },
+    {
+      "start": 597.1,
+      "end": 605.58,
+      "text": "October the 12th, 1950.",
+      "confidence": 0.6699
+    },
+    {
+      "start": 605.58,
+      "end": 610.26,
+      "text": "On this day, Nurse Eda Kabel faced a firing squad.",
+      "confidence": 0.6699
+    },
+    {
+      "start": 610.26,
+      "end": 613.06,
+      "text": "She too made history.",
+      "confidence": 0.6699
+    },
+    {
+      "start": 613.06,
+      "end": 625.94,
+      "text": "the 14th, 1943. Of the Australian coast, the Centaur was torpedoed and sank. Of the 12",
+      "confidence": 0.7499
+    },
+    {
+      "start": 625.94,
+      "end": 634.94,
+      "text": "nurses on board, eleven perished. Another page in history was written. Through the",
+      "confidence": 0.7499
+    },
+    {
+      "start": 634.94,
+      "end": 641.9,
+      "text": "century, these gallant women have inspired the world with their courage and heroism.",
+      "confidence": 0.7499
+    },
+    {
+      "start": 641.9,
+      "end": 646.76,
+      "text": "They too symbolize the spirit of Amzek.",
+      "confidence": 0.5089
+    },
+    {
+      "start": 646.76,
+      "end": 653.66,
+      "text": "It's the one red rose for the slow piano.",
+      "confidence": 0.5089
+    },
+    {
+      "start": 653.66,
+      "end": 663.9,
+      "text": "It's the work of the master fan in the most great mess.",
+      "confidence": 0.5089
+    },
+    {
+      "start": 663.9,
+      "end": 667.9,
+      "text": "Stung from death, from death,",
+      "confidence": 0.338
+    },
+    {
+      "start": 667.9,
+      "end": 670.86,
+      "text": "She's a man of God,",
+      "confidence": 0.338
+    },
+    {
+      "start": 670.86,
+      "end": 679.86,
+      "text": "No man's love.",
+      "confidence": 0.338
+    },
+    {
+      "start": 691.34,
+      "end": 692.94,
+      "text": "We continue the farmer, if you'll,",
+      "confidence": 0.338
+    },
+    {
+      "start": 692.94,
+      "end": 696.7,
+      "text": "with a medley of popular hits, which was sung and whistle by the members of the",
+      "confidence": 0.7291
+    },
+    {
+      "start": 696.7,
+      "end": 701.16,
+      "text": "services during the last war. Started with Joan Wilson singing, there's a boy",
+      "confidence": 0.7291
+    },
+    {
+      "start": 701.16,
+      "end": 709.14,
+      "text": "coming home on leave. There's a boy coming home on leave. There's a girl",
+      "confidence": 0.7291
+    },
+    {
+      "start": 709.14,
+      "end": 719.3,
+      "text": "on him home on leave. She'll meet him right at the station and will she tell",
+      "confidence": 0.7291
+    },
+    {
+      "start": 719.3,
+      "end": 726.3,
+      "text": "On the nation, there's a boy coming home on leave.",
+      "confidence": 0.7148
+    },
+    {
+      "start": 726.3,
+      "end": 731.3,
+      "text": "And his heart won't be on his leave.",
+      "confidence": 0.7148
+    },
+    {
+      "start": 731.3,
+      "end": 741.3,
+      "text": "She'll give him ten days of heaven when he comes home on leave.",
+      "confidence": 0.7148
+    },
+    {
+      "start": 741.3,
+      "end": 745.3,
+      "text": "All the boys who are in the Middle East will remember this one.",
+      "confidence": 0.7148
+    },
+    {
+      "start": 749.3,
+      "end": 775.06,
+      "text": "And here's one that was very popular with the boys on truth ships.",
+      "confidence": 0.7039
+    },
+    {
+      "start": 775.06,
+      "end": 777.86,
+      "text": "The lest-assister's sing, bless them all.",
+      "confidence": 0.3888
+    },
+    {
+      "start": 805.06,
+      "end": 809.56,
+      "text": "You'll get no promotion this side of the ocean.",
+      "confidence": 0.6565
+    },
+    {
+      "start": 809.56,
+      "end": 814.06,
+      "text": "So cheer up my lads with the morn.",
+      "confidence": 0.6565
+    },
+    {
+      "start": 816.06,
+      "end": 820.06,
+      "text": "Brian Lauren sings Kiss Me Good Night Sergeant Major.",
+      "confidence": 0.6565
+    },
+    {
+      "start": 822.06,
+      "end": 826.06,
+      "text": "Kiss Me Good Night Sergeant Major.",
+      "confidence": 0.6565
+    },
+    {
+      "start": 826.06,
+      "end": 830.06,
+      "text": "Tuck me in when little wouldn't bed.",
+      "confidence": 0.6565
+    },
+    {
+      "start": 830.06,
+      "end": 834.06,
+      "text": "We all love you Sergeant Major.",
+      "confidence": 0.6565
+    },
+    {
+      "start": 834.06,
+      "end": 838.06,
+      "text": "When we are falling, darling!",
+      "confidence": 0.6965
+    },
+    {
+      "start": 838.06,
+      "end": 842.06,
+      "text": "Don't forget to wake us in the morning",
+      "confidence": 0.6965
+    },
+    {
+      "start": 842.06,
+      "end": 846.06,
+      "text": "And bring me up a nice on cup of tea!",
+      "confidence": 0.6965
+    },
+    {
+      "start": 846.06,
+      "end": 850.06,
+      "text": "Kiss me good night, Sergeant Major!",
+      "confidence": 0.6965
+    },
+    {
+      "start": 850.06,
+      "end": 856.06,
+      "text": "Sergeant Major, be a mother to me!",
+      "confidence": 0.6965
+    },
+    {
+      "start": 856.06,
+      "end": 858.06,
+      "text": "And out of finish this, medley,",
+      "confidence": 0.6965
+    },
+    {
+      "start": 858.06,
+      "end": 862.06,
+      "text": "I would like to sing a song that was well known by the boys in the Navy.",
+      "confidence": 0.6965
+    },
+    {
+      "start": 862.06,
+      "end": 864.06,
+      "text": "Well-bottom trousers.",
+      "confidence": 0.7009
+    },
+    {
+      "start": 868.56,
+      "end": 872.86,
+      "text": "Once there was a little girl who lived next to me",
+      "confidence": 0.7009
+    },
+    {
+      "start": 872.86,
+      "end": 875.06,
+      "text": "and she loved a sailor boy.",
+      "confidence": 0.7009
+    },
+    {
+      "start": 875.06,
+      "end": 877.26,
+      "text": "He was only three.",
+      "confidence": 0.7009
+    },
+    {
+      "start": 877.26,
+      "end": 881.46,
+      "text": "Now he's on a battleship in his sailor suit.",
+      "confidence": 0.7009
+    },
+    {
+      "start": 881.46,
+      "end": 885.96,
+      "text": "Just a great big sailor man, but he's just as cute.",
+      "confidence": 0.7009
+    },
+    {
+      "start": 885.96,
+      "end": 890.26,
+      "text": "Well-bottom trousers, poker baby boo.",
+      "confidence": 0.7009
+    },
+    {
+      "start": 890.26,
+      "end": 893.98,
+      "text": "She loves to sail and he loves to do.",
+      "confidence": 0.4405
+    },
+    {
+      "start": 893.98,
+      "end": 896.74,
+      "text": "I think it'll build out of Kansas.",
+      "confidence": 0.4405
+    },
+    {
+      "start": 896.74,
+      "end": 898.78,
+      "text": "Come to Baby Blue.",
+      "confidence": 0.4405
+    },
+    {
+      "start": 898.78,
+      "end": 902.62,
+      "text": "She loves to sail and he loves to do.",
+      "confidence": 0.4405
+    },
+    {
+      "start": 902.62,
+      "end": 921.7,
+      "text": "When I talk about it, present Roy Reen in a new guy's, without make-up and without script,",
+      "confidence": 0.6729
+    },
+    {
+      "start": 921.7,
+      "end": 926.58,
+      "text": "he offers, in all sincerity, his tribute to the spirit of Anzac.",
+      "confidence": 0.6729
+    },
+    {
+      "start": 926.58,
+      "end": 941.58,
+      "text": "Ladies and gentlemen, we present Roy Rien with Hal Ashwood in the Difference.",
+      "confidence": 0.7216
+    },
+    {
+      "start": 941.58,
+      "end": 949.58,
+      "text": "The scene is a park, and the time is not so very long after the war.",
+      "confidence": 0.7216
+    },
+    {
+      "start": 949.58,
+      "end": 955.58,
+      "text": "A young man is sitting on the park bench, a well dressed, almost fuffish-looking young man.",
+      "confidence": 0.7216
+    },
+    {
+      "start": 955.58,
+      "end": 961.82,
+      "text": "Towards him comes another man, one of the cities many down and out.",
+      "confidence": 0.6725
+    },
+    {
+      "start": 961.82,
+      "end": 966.7,
+      "text": "He hesitates for a moment, then makes up his mind, and sits down beside the prosperous",
+      "confidence": 0.6725
+    },
+    {
+      "start": 966.7,
+      "end": 968.9,
+      "text": "looking stranger.",
+      "confidence": 0.6725
+    },
+    {
+      "start": 968.9,
+      "end": 979.14,
+      "text": "You excuse me, Mr. Laddida, if I succumb next to you, no, I shall contaminate you with",
+      "confidence": 0.6725
+    },
+    {
+      "start": 979.14,
+      "end": 987.52,
+      "text": "me close. When I'm very well particular, just what I say and do, and I don't belong to",
+      "confidence": 0.6031
+    },
+    {
+      "start": 987.52,
+      "end": 997.52,
+      "text": "society in law-knows. But if I were, you are a top, morning soon to not complete. I",
+      "confidence": 0.6031
+    },
+    {
+      "start": 997.52,
+      "end": 1002.68,
+      "text": "wonder what it's like to be an act, to do just what you want to do, and eat just much",
+      "confidence": 0.6031
+    },
+    {
+      "start": 1002.68,
+      "end": 1010.12,
+      "text": "like and to keep them blinking flunky on the strut. To see those lovely bellicles,",
+      "confidence": 0.5904
+    },
+    {
+      "start": 1010.12,
+      "end": 1017.56,
+      "text": "what dancing those rupuses, to take them out to supplement the diamond. Look! If I could",
+      "confidence": 0.5904
+    },
+    {
+      "start": 1017.56,
+      "end": 1026.44,
+      "text": "only live like that, I'd never get the blues. I'd think it might be good to be alive.",
+      "confidence": 0.5904
+    },
+    {
+      "start": 1026.44,
+      "end": 1035.0,
+      "text": "Oh, you needn't get the wind up, I was helpless as a cat, and you would be a goat to",
+      "confidence": 0.6814
+    },
+    {
+      "start": 1035.0,
+      "end": 1045.4,
+      "text": "have a round, but I just felt kind of lonely, I thought I'd like to have a jet, I thought",
+      "confidence": 0.6814
+    },
+    {
+      "start": 1045.4,
+      "end": 1052.68,
+      "text": "I'd like to speak to you somehow, but it's very plain to see that you're a merchant of",
+      "confidence": 0.6814
+    },
+    {
+      "start": 1052.68,
+      "end": 1061.6,
+      "text": "the sweat. You're dressed if you look like Lord Debian, but there's something about",
+      "confidence": 0.6369
+    },
+    {
+      "start": 1061.6,
+      "end": 1074.6,
+      "text": "your cover. It tells me you are the sweat. It's something that I think they call sincere.",
+      "confidence": 0.6369
+    },
+    {
+      "start": 1074.6,
+      "end": 1081.54,
+      "text": "But perhaps I'm a bit too salty. And I shouldn't speak to you. It might have sought a bigger",
+      "confidence": 0.6369
+    },
+    {
+      "start": 1081.54,
+      "end": 1085.38,
+      "text": "to disgrace, but in that little battle, we had a dunker",
+      "confidence": 0.605
+    },
+    {
+      "start": 1085.38,
+      "end": 1089.54,
+      "text": "course to see, and finish home, but see me ugly face.",
+      "confidence": 0.605
+    },
+    {
+      "start": 1089.54,
+      "end": 1096.86,
+      "text": "My dear, my dear, I wear no beauty until they mess me mind.",
+      "confidence": 0.605
+    },
+    {
+      "start": 1096.86,
+      "end": 1102.34,
+      "text": "But you and me, that we don't hardly seem to pair.",
+      "confidence": 0.605
+    },
+    {
+      "start": 1102.34,
+      "end": 1106.14,
+      "text": "So I'm sorry that I spoke to you.",
+      "confidence": 0.605
+    },
+    {
+      "start": 1106.14,
+      "end": 1116.14,
+      "text": "Heber, I bet it clear away before some nosy parkers start to steal.",
+      "confidence": 0.6804
+    },
+    {
+      "start": 1116.14,
+      "end": 1122.64,
+      "text": "I say, O chapi, don't go yet, for I am feeling lonely too.",
+      "confidence": 0.6804
+    },
+    {
+      "start": 1122.64,
+      "end": 1126.34,
+      "text": "So never mind the nosy parkers here.",
+      "confidence": 0.6804
+    },
+    {
+      "start": 1126.34,
+      "end": 1131.74,
+      "text": "I fancy that I heard you say that you were feeling blue.",
+      "confidence": 0.6804
+    },
+    {
+      "start": 1131.74,
+      "end": 1136.74,
+      "text": "Well, I'm not exactly bubbling with good cheer.",
+      "confidence": 0.7988
+    },
+    {
+      "start": 1136.74,
+      "end": 1141.74,
+      "text": "My chauffeur will be shortly here to take me for a drive.",
+      "confidence": 0.7988
+    },
+    {
+      "start": 1141.74,
+      "end": 1145.74,
+      "text": "Then I motor to my club and there I die.",
+      "confidence": 0.7988
+    },
+    {
+      "start": 1145.74,
+      "end": 1149.74,
+      "text": "And then perhaps the opera to hear my favorite star.",
+      "confidence": 0.7988
+    },
+    {
+      "start": 1149.74,
+      "end": 1155.74,
+      "text": "And after that, a glass ought to a wine.",
+      "confidence": 0.7988
+    },
+    {
+      "start": 1155.74,
+      "end": 1160.74,
+      "text": "But my dear chap, you won't believe I'm feeling out of date.",
+      "confidence": 0.7988
+    },
+    {
+      "start": 1160.74,
+      "end": 1165.74,
+      "text": "And really, can't join in with all the rest.",
+      "confidence": 0.8058
+    },
+    {
+      "start": 1165.74,
+      "end": 1169.74,
+      "text": "And though to all appearances, it must seem really great.",
+      "confidence": 0.8058
+    },
+    {
+      "start": 1169.74,
+      "end": 1175.74,
+      "text": "I assure you, you enjoy yourself the best.",
+      "confidence": 0.8058
+    },
+    {
+      "start": 1175.74,
+      "end": 1179.74,
+      "text": "You tell me of the beachhead scrap at Duncurk you were in",
+      "confidence": 0.8058
+    },
+    {
+      "start": 1179.74,
+      "end": 1184.74,
+      "text": "and where you left your pretty looks behind.",
+      "confidence": 0.8058
+    },
+    {
+      "start": 1184.74,
+      "end": 1194.74,
+      "text": "I too was in that scrap a most extraordinary thing you see my friend you're",
+      "confidence": 0.6963
+    },
+    {
+      "start": 1194.74,
+      "end": 1205.98,
+      "text": "better off I'm blind I'm sorry I never knew I could see now that we both",
+      "confidence": 0.6963
+    },
+    {
+      "start": 1205.98,
+      "end": 1211.5,
+      "text": "have our troubles but I'm better off for you are our power because my troubles",
+      "confidence": 0.6963
+    },
+    {
+      "start": 1211.5,
+      "end": 1215.5,
+      "text": "and I was like, do somebody work their troubles?",
+      "confidence": 0.6506
+    },
+    {
+      "start": 1215.5,
+      "end": 1220.5,
+      "text": "So everything has been different since I came back from over there.",
+      "confidence": 0.6506
+    },
+    {
+      "start": 1220.5,
+      "end": 1225.5,
+      "text": "You see, nobody seems to want me now.",
+      "confidence": 0.6506
+    },
+    {
+      "start": 1228.5,
+      "end": 1233.5,
+      "text": "I can't get to the old job.",
+      "confidence": 0.6506
+    },
+    {
+      "start": 1233.5,
+      "end": 1238.5,
+      "text": "I can't get to the new.",
+      "confidence": 0.6506
+    },
+    {
+      "start": 1238.5,
+      "end": 1248.5,
+      "text": "I called carry on like I used to do.",
+      "confidence": 0.6359
+    },
+    {
+      "start": 1248.5,
+      "end": 1259.5,
+      "text": "I look around me and gave me a scene.",
+      "confidence": 0.6359
+    },
+    {
+      "start": 1259.5,
+      "end": 1270.5,
+      "text": "Thousands, a thousand of fellows, a lot was all for them me.",
+      "confidence": 0.5281
+    },
+    {
+      "start": 1270.5,
+      "end": 1279.5,
+      "text": "Yeah, pick a deal and my friends pass me by.",
+      "confidence": 0.5281
+    },
+    {
+      "start": 1279.5,
+      "end": 1289.5,
+      "text": "I'm absolutely shredded in the shred",
+      "confidence": 0.5191
+    },
+    {
+      "start": 1289.5,
+      "end": 1299.5,
+      "text": "Who but I'll confess I was convicted but all less",
+      "confidence": 0.5191
+    },
+    {
+      "start": 1299.5,
+      "end": 1311.5,
+      "text": "When I was only broke in no man's land.",
+      "confidence": 0.4911
+    },
+    {
+      "start": 1329.5,
+      "end": 1335.5,
+      "text": "One of the greatest amenities in the life of the servicemen was entertainment.",
+      "confidence": 0.7726
+    },
+    {
+      "start": 1335.5,
+      "end": 1339.58,
+      "text": "The concert parties of both World Wars did a great job to help maintain the morale of",
+      "confidence": 0.7726
+    },
+    {
+      "start": 1339.58,
+      "end": 1341.26,
+      "text": "the fighting forces.",
+      "confidence": 0.7726
+    },
+    {
+      "start": 1341.26,
+      "end": 1345.34,
+      "text": "Colgate-Palmolley proprietary limited, who with their radio unit were leaders in entertaining",
+      "confidence": 0.7726
+    },
+    {
+      "start": 1345.34,
+      "end": 1350.54,
+      "text": "the troops, are proud to present an artist who was a popular performer in the music halls",
+      "confidence": 0.7726
+    },
+    {
+      "start": 1350.54,
+      "end": 1356.86,
+      "text": "of London during World War I, and a never-tiring entertainer in the Australian camps during World",
+      "confidence": 0.7726
+    },
+    {
+      "start": 1356.86,
+      "end": 1358.34,
+      "text": "War II.",
+      "confidence": 0.7726
+    },
+    {
+      "start": 1358.34,
+      "end": 1362.34,
+      "text": "Australia's number one mail-in personator, Ms. Nellie Colley.",
+      "confidence": 0.5636
+    },
+    {
+      "start": 1377.34,
+      "end": 1382.34,
+      "text": "If a grey head lady sends a house your father",
+      "confidence": 0.5636
+    },
+    {
+      "start": 1382.34,
+      "end": 1387.34,
+      "text": "She will be maddened, myself.",
+      "confidence": 0.6766
+    },
+    {
+      "start": 1387.34,
+      "end": 1392.34,
+      "text": "If she smiles, then how's your father?",
+      "confidence": 0.6766
+    },
+    {
+      "start": 1392.34,
+      "end": 1397.34,
+      "text": "She will be maddened, myself.",
+      "confidence": 0.6766
+    },
+    {
+      "start": 1397.34,
+      "end": 1402.34,
+      "text": "If she says, all of you, what should we tell me to?",
+      "confidence": 0.6766
+    },
+    {
+      "start": 1402.34,
+      "end": 1407.34,
+      "text": "How is he, after all, at least he is?",
+      "confidence": 0.6766
+    },
+    {
+      "start": 1407.34,
+      "end": 1412.7,
+      "text": "If a brave pair of ladies has a house, your father,",
+      "confidence": 0.4899
+    },
+    {
+      "start": 1412.7,
+      "end": 1418.54,
+      "text": "she's mad and mad and mad and from our teeth.",
+      "confidence": 0.4899
+    },
+    {
+      "start": 1421.74,
+      "end": 1430.94,
+      "text": "We'll meet again, don't know where, don't know when,",
+      "confidence": 0.4899
+    },
+    {
+      "start": 1430.94,
+      "end": 1435.54,
+      "text": "but I know we'll meet again.",
+      "confidence": 0.4899
+    },
+    {
+      "start": 1435.54,
+      "end": 1442.54,
+      "text": "and I know the blue skies never will turn gray.",
+      "confidence": 0.4377
+    },
+    {
+      "start": 1465.54,
+      "end": 1475.54,
+      "text": "Back again to temporary days, living on the days you all call.",
+      "confidence": 0.7006
+    },
+    {
+      "start": 1475.54,
+      "end": 1484.54,
+      "text": "They were good times, bad times, and your hand time wouldn't have missed for anything at all.",
+      "confidence": 0.7006
+    },
+    {
+      "start": 1484.54,
+      "end": 1489.54,
+      "text": "How's your maid in temporary days?",
+      "confidence": 0.7006
+    },
+    {
+      "start": 1489.54,
+      "end": 1512.54,
+      "text": "But I'll take a bit, there's no ticket yet, hasn't this more than two, in the long time, to remember, but no fine, we're back in, if we're rarry, yeah!",
+      "confidence": 0.4447
+    },
+    {
+      "start": 1519.54,
+      "end": 1538.54,
+      "text": "And I'll guarantee you will be sung by all Dickers' reunions throughout Australia tonight.",
+      "confidence": 0.6211
+    },
+    {
+      "start": 1538.54,
+      "end": 1540.54,
+      "text": "Pack up your troubles in your old kid bag.",
+      "confidence": 0.6211
+    },
+    {
+      "start": 1540.54,
+      "end": 1541.54,
+      "text": "Why, Jack, I'd love to.",
+      "confidence": 0.6211
+    },
+    {
+      "start": 1541.54,
+      "end": 1542.54,
+      "text": "Good girl.",
+      "confidence": 0.6211
+    },
+    {
+      "start": 1542.54,
+      "end": 1549.9,
+      "text": "A pack of your troubles in your own,",
+      "confidence": 0.5112
+    },
+    {
+      "start": 1549.9,
+      "end": 1555.9,
+      "text": "He'd beg and smile, smile, smile,",
+      "confidence": 0.5112
+    },
+    {
+      "start": 1555.9,
+      "end": 1558.7,
+      "text": "While you've ballooned the fertile light,",
+      "confidence": 0.5112
+    },
+    {
+      "start": 1558.7,
+      "end": 1564.5,
+      "text": "You're a peg, my boy, that's the style.",
+      "confidence": 0.5112
+    },
+    {
+      "start": 1564.5,
+      "end": 1568.94,
+      "text": "What's the use of worrying?",
+      "confidence": 0.5112
+    },
+    {
+      "start": 1568.94,
+      "end": 1573.66,
+      "text": "It never won't work for us, no.",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1573.66,
+      "end": 1576.52,
+      "text": "Heck, I'm just rumbling in your own.",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1576.52,
+      "end": 1582.36,
+      "text": "Keep making fun of mine, mine of mine.",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1582.36,
+      "end": 1583.46,
+      "text": "Roy, where are you?",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1583.46,
+      "end": 1585.26,
+      "text": "Oh, there you are. Roy, come here.",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1585.26,
+      "end": 1588.1,
+      "text": "I'd like you just to sing this chorus with me.",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1588.1,
+      "end": 1590.18,
+      "text": "I want you to sing this song with me.",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1590.18,
+      "end": 1592.82,
+      "text": "That's a very lovely couple of men there need to,",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1592.82,
+      "end": 1595.86,
+      "text": "to amend my pixie castle.",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1595.86,
+      "end": 1596.98,
+      "text": "Hey, can I add the voice?",
+      "confidence": 0.5712
+    },
+    {
+      "start": 1596.98,
+      "end": 1599.98,
+      "text": "Honourful, last show, come on, young Erie.",
+      "confidence": 0.5367
+    },
+    {
+      "start": 1599.98,
+      "end": 1602.98,
+      "text": "Now, effect everybody, what do you want to all of it, Erie?",
+      "confidence": 0.5367
+    },
+    {
+      "start": 1602.98,
+      "end": 1604.98,
+      "text": "That's a good idea, Roy, all together.",
+      "confidence": 0.5367
+    },
+    {
+      "start": 1604.98,
+      "end": 1606.98,
+      "text": "Now, we're in everybody.",
+      "confidence": 0.5367
+    },
+    {
+      "start": 1611.98,
+      "end": 1614.98,
+      "text": "Take all your troubles in your own.",
+      "confidence": 0.5367
+    },
+    {
+      "start": 1614.98,
+      "end": 1620.98,
+      "text": "In day, day, day, smile, smile, smile.",
+      "confidence": 0.5367
+    },
+    {
+      "start": 1620.98,
+      "end": 1626.18,
+      "text": "Why is there so much of life going by?",
+      "confidence": 0.2259
+    },
+    {
+      "start": 1626.18,
+      "end": 1630.0,
+      "text": "Why is there so much of life going by?",
+      "confidence": 0.2259
+    },
+    {
+      "start": 1630.0,
+      "end": 1633.54,
+      "text": "Why is there so much of life going by?",
+      "confidence": 0.2259
+    },
+    {
+      "start": 1633.54,
+      "end": 1636.68,
+      "text": "In case of the water why?",
+      "confidence": 0.2259
+    },
+    {
+      "start": 1636.68,
+      "end": 1662.16,
+      "text": "And for the curtain falls on tonight's special edition of the Parmolips show, this special",
+      "confidence": 0.542
+    },
+    {
+      "start": 1662.16,
+      "end": 1670.16,
+      "text": "The Panzec Bay presentation was made possible by Colgate-Parmali proprietary limited, as a dedication to the spirit of Anzec.",
+      "confidence": 0.6518
+    },
+    {
+      "start": 1677.16,
+      "end": 1683.16,
+      "text": "This is Jack Burgess saying goodnight to you on behalf of the stars in the night show and reminding you to be listening again next week,",
+      "confidence": 0.6518
+    },
+    {
+      "start": 1683.16,
+      "end": 1687.16,
+      "text": "same time, same station, or another edition of Calling the Stars.",
+      "confidence": 0.6518
+    },
+    {
+      "start": 1687.16,
+      "end": 1689.44,
+      "text": "The musical direction is by Dennis Collinson,",
+      "confidence": 0.5893
+    },
+    {
+      "start": 1689.44,
+      "end": 1692.72,
+      "text": "and calling the stars is produced by Rex Dorr.",
+      "confidence": 0.5893
+    },
+    {
+      "start": 1692.72,
+      "end": 1702.12,
+      "text": "What did I build up?",
+      "confidence": 0.0863
+    },
+    {
+      "start": 1732.12,
+      "end": 1739.12,
+      "text": "The one we are today, the one we really love.",
+      "confidence": 0.3345
+    }
+  ]
+}

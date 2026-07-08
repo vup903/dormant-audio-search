@@ -1,0 +1,711 @@
+{
+  "id": "1945-08-14-cbs-live-streets-of-hollywood",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 217.2,
+  "confidence": 0.7359,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Ladies and gentlemen, if it's color you want, Hollywood has got it.",
+      "confidence": 0.8262
+    },
+    {
+      "start": 3.5,
+      "end": 7.0,
+      "text": "This is Jimmy Matthews reporting from in front of the CBS Playhouse in Hollywood,",
+      "confidence": 0.8262
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "just off the corner of Hollywood and Vine.",
+      "confidence": 0.8262
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "And believe me, you can hear the horns, the traffic in the background.",
+      "confidence": 0.8262
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Hollywood is absolutely going mad.",
+      "confidence": 0.8262
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "There's nothing traffic hasn't moved out in front of our playhouse here for the last five minutes.",
+      "confidence": 0.8262
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "We're crowded with soldier sailors, civilians, everybody is out here.",
+      "confidence": 0.8262
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "And right here at my side is a representative of our armed forces,",
+      "confidence": 0.8262
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "a man in the uniform of the United States Navy, how do you do what your name?",
+      "confidence": 0.8262
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "text": "Rip Van Rockle.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "text": "Howdy, dude.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "text": "What's your name?",
+      "confidence": 0.7885
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "text": "What's your, um, let me see on you.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "text": "I have special effects.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "text": "Special effects.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "text": "Radio man, yeah.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "text": "Radio man.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "text": "Radio service.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "text": "And, uh, what are your immediate plans?",
+      "confidence": 0.7885
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "text": "I know you have to have some.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "I want to get back in a nice tweed suit.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 42.0,
+      "end": 44.0,
+      "text": "Very loud with a loud tie.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "text": "That's a wonderful ambition.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "text": "I don't blame you of it.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "text": "I know.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "text": "Let's move my microphone a little bit around here.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "text": "And I'll hear another member of our own forces.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "text": "A soldier.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "text": "What's your name?",
+      "confidence": 0.7885
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "text": "Uh, Private Mart Werner.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "text": "Private Mart Werner.",
+      "confidence": 0.7885
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "text": "Mart?",
+      "confidence": 0.7885
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "text": "What are your plans?",
+      "confidence": 0.7885
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "text": "Well, uh, just as soon as I can,",
+      "confidence": 0.7885
+    },
+    {
+      "start": 57.0,
+      "end": 60.32,
+      "text": "to get back in one of those tweed suits and go after one of those radio announcing jobs",
+      "confidence": 0.7352
+    },
+    {
+      "start": 60.32,
+      "end": 61.32,
+      "text": "like you have.",
+      "confidence": 0.7352
+    },
+    {
+      "start": 61.32,
+      "end": 63.04,
+      "text": "Oh, you like this radio announcing job.",
+      "confidence": 0.7352
+    },
+    {
+      "start": 63.04,
+      "end": 66.68,
+      "text": "Well, one of our reporters, Dave Vail, has been up at the corner of Hollywood and Vine",
+      "confidence": 0.7352
+    },
+    {
+      "start": 66.68,
+      "end": 70.6,
+      "text": "where our microphone won't quite reach and seen some of the color up there.",
+      "confidence": 0.7352
+    },
+    {
+      "start": 70.6,
+      "end": 72.24,
+      "text": "Dave, what have you got to report?",
+      "confidence": 0.7352
+    },
+    {
+      "start": 72.24,
+      "end": 74.08,
+      "text": "Well, it's New Year's Eve at Hollywood and Vineage.",
+      "confidence": 0.7352
+    },
+    {
+      "start": 74.08,
+      "end": 79.28,
+      "text": "You can tell by the noise a bright sun with afternoon at 5.24 in the afternoon.",
+      "confidence": 0.7352
+    },
+    {
+      "start": 79.28,
+      "end": 83.2,
+      "text": "And with me, I brought back a gentleman in an Australian uniform, will you tell us your",
+      "confidence": 0.7352
+    },
+    {
+      "start": 83.2,
+      "end": 84.2,
+      "text": "name, sir.",
+      "confidence": 0.7352
+    },
+    {
+      "start": 84.2,
+      "end": 85.2,
+      "text": "Sit in Hanuman.",
+      "confidence": 0.7352
+    },
+    {
+      "start": 85.2,
+      "end": 86.2,
+      "text": "Sit in Hanuman.",
+      "confidence": 0.7352
+    },
+    {
+      "start": 86.2,
+      "end": 89.24,
+      "text": "Australia front. Come from Sydney. And what are you doing over here in this country?",
+      "confidence": 0.6765
+    },
+    {
+      "start": 89.24,
+      "end": 92.52,
+      "text": "I have a hand-faring gitties. I have a hand-faring gitties.",
+      "confidence": 0.6765
+    },
+    {
+      "start": 92.52,
+      "end": 97.24,
+      "text": "Oh, I think we're going to have to get back for that here. Any sentiment you'd like to express on the news today?",
+      "confidence": 0.6765
+    },
+    {
+      "start": 97.24,
+      "end": 104.44,
+      "text": "I think it's a great that we're here today. We're very lucky to be here today.",
+      "confidence": 0.6765
+    },
+    {
+      "start": 104.44,
+      "end": 108.6,
+      "text": "We think it's a great day. Fine. Well, I know all of us do. Well, let's see. We've had",
+      "confidence": 0.6765
+    },
+    {
+      "start": 108.6,
+      "end": 113.24,
+      "text": "the lost Australian. We've had a soldier and a sailor right back here through the crowd of sea marine.",
+      "confidence": 0.6765
+    },
+    {
+      "start": 113.24,
+      "end": 114.88,
+      "text": "Plenty of young men. What's your name?",
+      "confidence": 0.6624
+    },
+    {
+      "start": 114.88,
+      "end": 116.0,
+      "text": "Private Duke Stoner.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 116.0,
+      "end": 117.08,
+      "text": "Where's your home, Duke?",
+      "confidence": 0.6624
+    },
+    {
+      "start": 117.08,
+      "end": 118.0,
+      "text": "How was it the hour?",
+      "confidence": 0.6624
+    },
+    {
+      "start": 118.0,
+      "end": 119.2,
+      "text": "Iowa City.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 119.2,
+      "end": 121.8,
+      "text": "Well, you're right among a lot of Iowans out here in California.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 121.8,
+      "end": 123.36,
+      "text": "Any of your relatives living out here?",
+      "confidence": 0.6624
+    },
+    {
+      "start": 123.36,
+      "end": 124.64,
+      "text": "You're not at the best of my knowledge.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 124.64,
+      "end": 126.2,
+      "text": "They're not your spare wives.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 126.2,
+      "end": 127.36,
+      "text": "I see.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 127.36,
+      "end": 129.0,
+      "text": "And where are you stationed?",
+      "confidence": 0.6624
+    },
+    {
+      "start": 129.0,
+      "end": 129.72,
+      "text": "Camp Pendleton.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 129.72,
+      "end": 130.48,
+      "text": "Camp Pendleton.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 130.48,
+      "end": 132.12,
+      "text": "What are you going to do when you get out of the service?",
+      "confidence": 0.6624
+    },
+    {
+      "start": 132.12,
+      "end": 133.84,
+      "text": "Oh, what a life I'm going to lead.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 133.84,
+      "end": 135.04,
+      "text": "What a life you're going to lead.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 135.04,
+      "end": 136.76,
+      "text": "All that and lots of luck to you.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 136.76,
+      "end": 137.76,
+      "text": "Thank you.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 137.76,
+      "end": 139.32,
+      "text": "There's a young Canadian soldier,",
+      "confidence": 0.6624
+    },
+    {
+      "start": 139.32,
+      "end": 140.52,
+      "text": "much to be decked with.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 140.52,
+      "end": 141.28,
+      "text": "Thank you.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 141.28,
+      "end": 142.4,
+      "text": "I am not a soldier.",
+      "confidence": 0.6624
+    },
+    {
+      "start": 142.4,
+      "end": 143.4,
+      "text": "Please, please, please.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 143.4,
+      "end": 144.4,
+      "text": "Oh, I beg your pardon.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 144.4,
+      "end": 145.4,
+      "text": "All right, ask me a question.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 145.4,
+      "end": 146.4,
+      "text": "What are you, sir?",
+      "confidence": 0.7839
+    },
+    {
+      "start": 146.4,
+      "end": 147.4,
+      "text": "I'm an airman.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 147.4,
+      "end": 148.4,
+      "text": "An airman.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 148.4,
+      "end": 149.4,
+      "text": "Oh, that's a different, isn't it?",
+      "confidence": 0.7839
+    },
+    {
+      "start": 149.4,
+      "end": 150.4,
+      "text": "Thank you for telling us.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 150.4,
+      "end": 151.4,
+      "text": "And much to be decked with lipstick,",
+      "confidence": 0.7839
+    },
+    {
+      "start": 151.4,
+      "end": 153.4,
+      "text": "much celebration in the Alping, I think.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 153.4,
+      "end": 154.4,
+      "text": "Very fancy red scarf.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 154.4,
+      "end": 156.4,
+      "text": "I didn't know the red scarf was there.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 156.4,
+      "end": 157.4,
+      "text": "We over here now.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 157.4,
+      "end": 158.4,
+      "text": "I didn't know the red scarf was there.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 158.4,
+      "end": 159.4,
+      "text": "Somebody draped it around me,",
+      "confidence": 0.7839
+    },
+    {
+      "start": 159.4,
+      "end": 160.4,
+      "text": "but I loved the kissing",
+      "confidence": 0.7839
+    },
+    {
+      "start": 160.4,
+      "end": 162.4,
+      "text": "and I'm looking for lipstick impressions",
+      "confidence": 0.7839
+    },
+    {
+      "start": 162.4,
+      "end": 163.4,
+      "text": "at Sylvania's place.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 163.4,
+      "end": 164.4,
+      "text": "Wonderful.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 164.4,
+      "end": 165.4,
+      "text": "I'm doing very well.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 165.4,
+      "end": 166.4,
+      "text": "I'm doing very well.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 166.4,
+      "end": 167.4,
+      "text": "I have, I mean,",
+      "confidence": 0.7839
+    },
+    {
+      "start": 167.4,
+      "end": 168.4,
+      "text": "there's more girls here",
+      "confidence": 0.7839
+    },
+    {
+      "start": 168.4,
+      "end": 170.4,
+      "text": "are wanting to kiss promiscuously.",
+      "confidence": 0.7839
+    },
+    {
+      "start": 170.4,
+      "end": 174.12,
+      "text": "How they wouldn't find a place to get",
+      "confidence": 0.6957
+    },
+    {
+      "start": 174.12,
+      "end": 176.28,
+      "text": "Spanish civil warmen will right back here, sir.",
+      "confidence": 0.6957
+    },
+    {
+      "start": 176.28,
+      "end": 178.16,
+      "text": "What are your sentiments on this day?",
+      "confidence": 0.6957
+    },
+    {
+      "start": 178.16,
+      "end": 179.32,
+      "text": "I was in 17th.",
+      "confidence": 0.6957
+    },
+    {
+      "start": 179.32,
+      "end": 181.08,
+      "text": "It's now that the Japs have given up",
+      "confidence": 0.6957
+    },
+    {
+      "start": 181.08,
+      "end": 183.48,
+      "text": "and we're a time that Franco gave up, too,",
+      "confidence": 0.6957
+    },
+    {
+      "start": 183.48,
+      "end": 185.92,
+      "text": "and gave freedom to Spanish people.",
+      "confidence": 0.6957
+    },
+    {
+      "start": 185.92,
+      "end": 187.4,
+      "text": "Well, thank you very much, sir.",
+      "confidence": 0.6957
+    },
+    {
+      "start": 187.4,
+      "end": 189.72,
+      "text": "We're getting sentiments from all sides here.",
+      "confidence": 0.6957
+    },
+    {
+      "start": 189.72,
+      "end": 192.6,
+      "text": "Did you see that car that just went by about 30 people",
+      "confidence": 0.6957
+    },
+    {
+      "start": 192.6,
+      "end": 195.12,
+      "text": "by a long time of a convertible just a few minutes ago?",
+      "confidence": 0.6957
+    },
+    {
+      "start": 195.12,
+      "end": 197.2,
+      "text": "We're just about in time to pick up a van",
+      "confidence": 0.6957
+    },
+    {
+      "start": 197.2,
+      "end": 198.96,
+      "text": "but it's coming up the street here.",
+      "confidence": 0.6957
+    },
+    {
+      "start": 198.96,
+      "end": 199.96,
+      "text": "Nice, fat parade.",
+      "confidence": 0.6957
+    },
+    {
+      "start": 199.96,
+      "end": 200.96,
+      "text": "at the street.",
+      "confidence": 0.7058
+    },
+    {
+      "start": 200.96,
+      "end": 206.0,
+      "text": "Right, but I know that our CBS reporter in San Francisco Don Mosley is waiting, so all",
+      "confidence": 0.7058
+    },
+    {
+      "start": 206.0,
+      "end": 210.36,
+      "text": "this has been Dave Vail and Jimmy Matthews reporting from in front of the CBS Playhouse",
+      "confidence": 0.7058
+    },
+    {
+      "start": 210.36,
+      "end": 213.2,
+      "text": "at Hollywood and Vine in the heart of the nation's film capital.",
+      "confidence": 0.7058
+    },
+    {
+      "start": 213.2,
+      "end": 215.88,
+      "text": "We take you now to San Francisco Don Mosley reporting.",
+      "confidence": 0.7058
+    }
+  ]
+}

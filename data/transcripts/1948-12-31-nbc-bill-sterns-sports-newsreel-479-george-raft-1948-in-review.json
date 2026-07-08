@@ -1,0 +1,1413 @@
+{
+  "id": "1948-12-31-nbc-bill-sterns-sports-newsreel-479-george-raft-1948-in-review",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 855.0,
+  "confidence": 0.7231,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Greetings, ladies and gentlemen, Mr. Phil Stern speaking to you tonight from Hollywood, California.",
+      "confidence": 0.658
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Phil Stern, the Colgate shape remains on the air.",
+      "confidence": 0.658
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "The Stern, the Colgate shape remains on the floor.",
+      "confidence": 0.658
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "He's there.",
+      "confidence": 0.658
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Take his advice and you'll get the shape.",
+      "confidence": 0.658
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "It's really clean.",
+      "confidence": 0.658
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "You'll be economy fresh.",
+      "confidence": 0.658
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "Let's fan the 479th edition of the Colgate shape cream sports newsreel.",
+      "confidence": 0.658
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "Featuring America's most famous collector of yarns and sorries.",
+      "confidence": 0.658
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": "Radio's number one sports reporter, Phil Stern.",
+      "confidence": 0.658
+    },
+    {
+      "start": 27.0,
+      "end": 28.9,
+      "text": "D fears some ladies say but also interesting.",
+      "confidence": 0.1981
+    },
+    {
+      "start": 29.0,
+      "end": 30.4,
+      "text": "We'd like to pass him along to you.",
+      "confidence": 0.1981
+    },
+    {
+      "start": 30.5,
+      "end": 33.0,
+      "text": "We're broadcasting tonight from Hollywood California",
+      "confidence": 0.1981
+    },
+    {
+      "start": 33.1,
+      "end": 34.5,
+      "text": "and we're in Hollywood getting ready",
+      "confidence": 0.1981
+    },
+    {
+      "start": 34.6,
+      "end": 36.16,
+      "text": "to broadcast tomorrow's heavy football",
+      "confidence": 0.1981
+    },
+    {
+      "start": 36.28,
+      "end": 38.3,
+      "text": "game between Nevada and Villanova.",
+      "confidence": 0.1981
+    },
+    {
+      "start": 38.4,
+      "end": 40.28,
+      "text": "Our guest tonight is the famous",
+      "confidence": 0.1981
+    },
+    {
+      "start": 40.38,
+      "end": 42.68,
+      "text": "motion picture star Mr. George raft.",
+      "confidence": 0.1981
+    },
+    {
+      "start": 42.78,
+      "end": 44.44,
+      "text": "But before you meet George nastie in person,",
+      "confidence": 0.1981
+    },
+    {
+      "start": 44.54,
+      "end": 47.04,
+      "text": "here is real one tonight even though I'm in Hollywood.",
+      "confidence": 0.1981
+    },
+    {
+      "start": 47.14,
+      "end": 49.38,
+      "text": "The land of broken promises.",
+      "confidence": 0.1981
+    },
+    {
+      "start": 49.48,
+      "end": 49.62,
+      "text": "Hear one new Yours resolution",
+      "confidence": 0.1981
+    },
+    {
+      "start": 49.72,
+      "end": 52.36,
+      "text": "that any man can\u7cd6, that is to treat your face",
+      "confidence": 0.1981
+    },
+    {
+      "start": 52.46,
+      "end": 56.86,
+      "text": "to shave forth that noise.",
+      "confidence": 0.1981
+    },
+    {
+      "start": 56.86,
+      "end": 59.3,
+      "text": "that leave your face feeling really comfortable afterwards.",
+      "confidence": 0.8059
+    },
+    {
+      "start": 59.3,
+      "end": 60.3,
+      "text": "How do you do it?",
+      "confidence": 0.8059
+    },
+    {
+      "start": 60.3,
+      "end": 62.1,
+      "text": "By using co-gate brushless shaving cream.",
+      "confidence": 0.8059
+    },
+    {
+      "start": 62.1,
+      "end": 64.66,
+      "text": "Try it now on this swell proposition.",
+      "confidence": 0.8059
+    },
+    {
+      "start": 64.66,
+      "end": 67.78,
+      "text": "There is one butt cache that says co-gate brushless",
+      "confidence": 0.8059
+    },
+    {
+      "start": 67.78,
+      "end": 70.46,
+      "text": "will win you in a flash, and here's why.",
+      "confidence": 0.8059
+    },
+    {
+      "start": 70.46,
+      "end": 72.38,
+      "text": "Because it's light and fine textured,",
+      "confidence": 0.8059
+    },
+    {
+      "start": 72.38,
+      "end": 74.78,
+      "text": "co-gate brushless completely surrounds, softens,",
+      "confidence": 0.8059
+    },
+    {
+      "start": 74.78,
+      "end": 77.98,
+      "text": "and supports each bristle better than greasy, heavy cream.",
+      "confidence": 0.8059
+    },
+    {
+      "start": 77.98,
+      "end": 79.74,
+      "text": "No matting down, no clogging.",
+      "confidence": 0.8059
+    },
+    {
+      "start": 79.74,
+      "end": 82.62,
+      "text": "Your razor doesn't skid a skip when you use co-gate brushless,",
+      "confidence": 0.8059
+    },
+    {
+      "start": 82.62,
+      "end": 84.54,
+      "text": "but cuts through clean and smooth.",
+      "confidence": 0.8059
+    },
+    {
+      "start": 84.54,
+      "end": 86.82,
+      "text": "You'll see the difference that light fine texture",
+      "confidence": 0.7794
+    },
+    {
+      "start": 86.82,
+      "end": 88.74,
+      "text": "a cold gate brushless shaving cream makes.",
+      "confidence": 0.7794
+    },
+    {
+      "start": 88.74,
+      "end": 90.54,
+      "text": "Cold gate brushless gets whiskers so soft",
+      "confidence": 0.7794
+    },
+    {
+      "start": 90.54,
+      "end": 93.02,
+      "text": "there's no razor pull, no aftershave tenderness.",
+      "confidence": 0.7794
+    },
+    {
+      "start": 93.02,
+      "end": 94.78,
+      "text": "Your beard comes off slick and smooth",
+      "confidence": 0.7794
+    },
+    {
+      "start": 94.78,
+      "end": 97.1,
+      "text": "and your face feels cool and refreshed afterward.",
+      "confidence": 0.7794
+    },
+    {
+      "start": 97.1,
+      "end": 98.74,
+      "text": "Yes sir, for a face happy new year,",
+      "confidence": 0.7794
+    },
+    {
+      "start": 98.74,
+      "end": 101.3,
+      "text": "get a large or giant size tube or jar",
+      "confidence": 0.7794
+    },
+    {
+      "start": 101.3,
+      "end": 103.5,
+      "text": "of cold gate brushless shaving cream.",
+      "confidence": 0.7794
+    },
+    {
+      "start": 103.5,
+      "end": 104.64,
+      "text": "Use it one week.",
+      "confidence": 0.7794
+    },
+    {
+      "start": 104.64,
+      "end": 105.94,
+      "text": "If that doesn't convince you,",
+      "confidence": 0.7794
+    },
+    {
+      "start": 105.94,
+      "end": 108.42,
+      "text": "the cold gate brushless is tops and shaves,",
+      "confidence": 0.7794
+    },
+    {
+      "start": 108.42,
+      "end": 110.06,
+      "text": "just send the carton top back to me,",
+      "confidence": 0.7794
+    },
+    {
+      "start": 110.06,
+      "end": 113.06,
+      "text": "Bill Stern, Kerr, cold gate jersey city zone two, New Jersey.",
+      "confidence": 0.7794
+    },
+    {
+      "start": 113.06,
+      "end": 115.38,
+      "text": "and you'll get one dollar back but quick.",
+      "confidence": 0.7644
+    },
+    {
+      "start": 115.38,
+      "end": 116.38,
+      "text": "Now, how's it about it?",
+      "confidence": 0.7644
+    },
+    {
+      "start": 116.38,
+      "end": 118.06,
+      "text": "There's one clock cash,",
+      "confidence": 0.7644
+    },
+    {
+      "start": 118.06,
+      "end": 121.86,
+      "text": "says Colgate Presslist wins you in a flash.",
+      "confidence": 0.7644
+    },
+    {
+      "start": 121.86,
+      "end": 123.42,
+      "text": "Rail two,",
+      "confidence": 0.7644
+    },
+    {
+      "start": 123.42,
+      "end": 126.9,
+      "text": "1948 in review.",
+      "confidence": 0.7644
+    },
+    {
+      "start": 126.9,
+      "end": 128.1,
+      "text": "Ladies and gentlemen,",
+      "confidence": 0.7644
+    },
+    {
+      "start": 128.1,
+      "end": 130.58,
+      "text": "tonight we're broadcasting from Hollywood, California.",
+      "confidence": 0.7644
+    },
+    {
+      "start": 130.58,
+      "end": 133.26,
+      "text": "On this, the last evening of 1948,",
+      "confidence": 0.7644
+    },
+    {
+      "start": 133.26,
+      "end": 135.02,
+      "text": "this is New Year's Eve.",
+      "confidence": 0.7644
+    },
+    {
+      "start": 135.02,
+      "end": 138.02,
+      "text": "In a few moments, 1948 will be just a month.",
+      "confidence": 0.7644
+    },
+    {
+      "start": 138.02,
+      "end": 140.66,
+      "text": "But before this year does become history,",
+      "confidence": 0.7644
+    },
+    {
+      "start": 140.66,
+      "end": 143.54,
+      "text": "Let's go back and review the great sports stories",
+      "confidence": 0.7147
+    },
+    {
+      "start": 143.54,
+      "end": 144.7,
+      "text": "of the past year.",
+      "confidence": 0.7147
+    },
+    {
+      "start": 144.7,
+      "end": 147.34,
+      "text": "Remember some of these are lessons others hearsay.",
+      "confidence": 0.7147
+    },
+    {
+      "start": 147.34,
+      "end": 148.38,
+      "text": "Here they are.",
+      "confidence": 0.7147
+    },
+    {
+      "start": 148.38,
+      "end": 151.42,
+      "text": "Stories that you may have heard during this past year.",
+      "confidence": 0.7147
+    },
+    {
+      "start": 151.42,
+      "end": 153.82,
+      "text": "Memories that must not be forgotten",
+      "confidence": 0.7147
+    },
+    {
+      "start": 153.82,
+      "end": 158.3,
+      "text": "on this, the last night of 1948.",
+      "confidence": 0.7147
+    },
+    {
+      "start": 162.46,
+      "end": 165.06,
+      "text": "1948, passes and reviews.",
+      "confidence": 0.7147
+    },
+    {
+      "start": 165.06,
+      "end": 166.98,
+      "text": "The biggest story of this passing year",
+      "confidence": 0.7147
+    },
+    {
+      "start": 166.98,
+      "end": 168.86,
+      "text": "was the death of Babe Ruth.",
+      "confidence": 0.7147
+    },
+    {
+      "start": 168.86,
+      "end": 169.98,
+      "text": "Babe Ruth, the orphan boy,",
+      "confidence": 0.7147
+    },
+    {
+      "start": 169.98,
+      "end": 172.62,
+      "text": "became the idol of every child, the hero of a nation,",
+      "confidence": 0.7721
+    },
+    {
+      "start": 172.62,
+      "end": 176.06,
+      "text": "the greatest baseball player of all time.",
+      "confidence": 0.7721
+    },
+    {
+      "start": 176.06,
+      "end": 179.9,
+      "text": "Yet, yet you know whenever I mention the name of Babe Ruth,",
+      "confidence": 0.7721
+    },
+    {
+      "start": 179.9,
+      "end": 182.66,
+      "text": "I think of a strange story that we told this year,",
+      "confidence": 0.7721
+    },
+    {
+      "start": 182.66,
+      "end": 185.86,
+      "text": "even though actually it was a story that began many years ago.",
+      "confidence": 0.7721
+    },
+    {
+      "start": 185.86,
+      "end": 188.94,
+      "text": "A story that began one day when news boys were shouting.",
+      "confidence": 0.7721
+    },
+    {
+      "start": 188.94,
+      "end": 201.94,
+      "text": "Take care, get your paper, pay through six, pay through nine in the rest of the room, read all of the news.",
+      "confidence": 0.6809
+    },
+    {
+      "start": 201.94,
+      "end": 209.94,
+      "text": "Babe Ruth was a mighty sick man that day. He was sick because he'd eaten thirty hot dogs and because he'd drank twelve bottles of soda pop.",
+      "confidence": 0.6809
+    },
+    {
+      "start": 209.94,
+      "end": 215.94,
+      "text": "Strangely enough, the man who fed Babe Ruth those thirty hot dogs and those twelve bottles of pop was then the Yankee Fatboy.",
+      "confidence": 0.6809
+    },
+    {
+      "start": 215.94,
+      "end": 219.64,
+      "text": "But the strangest part of this story is that the boy who was responsible for",
+      "confidence": 0.7586
+    },
+    {
+      "start": 219.64,
+      "end": 221.94,
+      "text": "Babe Ruth's illness, man.",
+      "confidence": 0.7586
+    },
+    {
+      "start": 221.94,
+      "end": 226.94,
+      "text": "That boy is today playing Babe Ruth's life on the screen.",
+      "confidence": 0.7586
+    },
+    {
+      "start": 226.94,
+      "end": 230.94,
+      "text": "But his name is Bill Bendix.",
+      "confidence": 0.7586
+    },
+    {
+      "start": 235.44,
+      "end": 239.44,
+      "text": "The next story we told in 1948 took place on February 20th.",
+      "confidence": 0.7586
+    },
+    {
+      "start": 239.44,
+      "end": 242.44,
+      "text": "This was the story of a great wrestler who came out of the University of Pennsylvania.",
+      "confidence": 0.7586
+    },
+    {
+      "start": 242.44,
+      "end": 247.4,
+      "text": "a wrestler named Bob Olman. Bob Olman went on to become a great sports announcer",
+      "confidence": 0.7677
+    },
+    {
+      "start": 247.4,
+      "end": 254.16,
+      "text": "and as he said on this program last February yes I'm a sports announcer I broadcast",
+      "confidence": 0.7677
+    },
+    {
+      "start": 254.16,
+      "end": 258.48,
+      "text": "wrestling matches, track meets and football game. That's the story. The story of a",
+      "confidence": 0.7677
+    },
+    {
+      "start": 258.48,
+      "end": 264.28,
+      "text": "great wrestler became a great sports announcer. Today as he said he broadcasts all",
+      "confidence": 0.7677
+    },
+    {
+      "start": 264.28,
+      "end": 271.28,
+      "text": "all the kinds of sports events, despite the fact that he is blind.",
+      "confidence": 0.7183
+    },
+    {
+      "start": 274.96,
+      "end": 277.8,
+      "text": "Let's continue with our memories of the great sports stories of this passing year.",
+      "confidence": 0.7183
+    },
+    {
+      "start": 277.8,
+      "end": 284.64,
+      "text": "On this our last broadcast on 1848, do you remember the story we told on August the 6th?",
+      "confidence": 0.7183
+    },
+    {
+      "start": 284.64,
+      "end": 290.28,
+      "text": "Then we were in Londoning, broadcasting the 1948 Olympic game in London at that time,",
+      "confidence": 0.7183
+    },
+    {
+      "start": 290.28,
+      "end": 295.64,
+      "text": "British prize fighters Herbert Bailey and George Pauson were scheduled to fight but what the crowd did not know",
+      "confidence": 0.7912
+    },
+    {
+      "start": 295.64,
+      "end": 300.8,
+      "text": "Was that George Pauson had agreed to take a dive in the second round the fight was a fake in the second round",
+      "confidence": 0.7912
+    },
+    {
+      "start": 300.8,
+      "end": 306.08,
+      "text": "George Pauson did fall to the canvas just as he agreed to do that a blow had been struck a ball and fighter lay on the floor",
+      "confidence": 0.7912
+    },
+    {
+      "start": 306.08,
+      "end": 311.56,
+      "text": "And while he was being counted out he winked up at the referee to show that he was all right",
+      "confidence": 0.7912
+    },
+    {
+      "start": 311.56,
+      "end": 316.0,
+      "text": "And yet when the referee finished the count and went to help this fallen fighter back to his feet",
+      "confidence": 0.7912
+    },
+    {
+      "start": 316.0,
+      "end": 321.4,
+      "text": "This fighter who was not hurt, it was only lying on the floor only because he",
+      "confidence": 0.69
+    },
+    {
+      "start": 321.4,
+      "end": 324.0,
+      "text": "agreed to throw that fight and would fall into that floor without a single",
+      "confidence": 0.69
+    },
+    {
+      "start": 324.0,
+      "end": 327.0,
+      "text": "blow being struck, was dead.",
+      "confidence": 0.69
+    },
+    {
+      "start": 332.0,
+      "end": 335.0,
+      "text": "Our nineteen forty-eightth parade of memories is passing in with you.",
+      "confidence": 0.69
+    },
+    {
+      "start": 335.0,
+      "end": 338.0,
+      "text": "The next great story we told this year happened on...",
+      "confidence": 0.69
+    },
+    {
+      "start": 338.0,
+      "end": 340.0,
+      "text": "The Temporary of a Faire!",
+      "confidence": 0.69
+    },
+    {
+      "start": 340.0,
+      "end": 342.0,
+      "text": "We can never forget the story we told it.",
+      "confidence": 0.69
+    },
+    {
+      "start": 342.0,
+      "end": 344.0,
+      "text": "The story of a big game.",
+      "confidence": 0.69
+    },
+    {
+      "start": 344.0,
+      "end": 348.58,
+      "text": "A hunter named Shorty, a hunter who left here in Africa, shot him killed...",
+      "confidence": 0.6362
+    },
+    {
+      "start": 348.58,
+      "end": 355.0,
+      "text": "...Halayan, a wild buffalo, my crocodile, I am a part of it, I heard it all of them.",
+      "confidence": 0.6362
+    },
+    {
+      "start": 358.0,
+      "end": 364.0,
+      "text": "Yeah, this hunter named Shorty, shot the most dangerous big game animals in Africa.",
+      "confidence": 0.6362
+    },
+    {
+      "start": 364.0,
+      "end": 371.0,
+      "text": "Yet the incredible part of the story, is the fact that this big game hunter is a girl.",
+      "confidence": 0.6362
+    },
+    {
+      "start": 371.0,
+      "end": 380.0,
+      "text": "A girl who shot all of these animals despite the fact that she was only 12 years old.",
+      "confidence": 0.8037
+    },
+    {
+      "start": 384.0,
+      "end": 388.5,
+      "text": "Tonight on this last day in 1948, we're retelling the best sports stories we've told her in this year.",
+      "confidence": 0.8037
+    },
+    {
+      "start": 388.5,
+      "end": 392.0,
+      "text": "Memories are great sports stars that must never be forgotten.",
+      "confidence": 0.8037
+    },
+    {
+      "start": 393.0,
+      "end": 397.0,
+      "text": "Perhaps the next great sports story of 1948 we told on...",
+      "confidence": 0.8037
+    },
+    {
+      "start": 397.0,
+      "end": 399.16,
+      "text": "November the fifth.",
+      "confidence": 0.7331
+    },
+    {
+      "start": 399.16,
+      "end": 402.28,
+      "text": "This was one of the most incredible stories that we told this year.",
+      "confidence": 0.7331
+    },
+    {
+      "start": 402.28,
+      "end": 404.84,
+      "text": "A story that reached its climax on the last November.",
+      "confidence": 0.7331
+    },
+    {
+      "start": 404.84,
+      "end": 408.28,
+      "text": "However, the story began several years ago back in the town of Lander, Wyoming.",
+      "confidence": 0.7331
+    },
+    {
+      "start": 411.0,
+      "end": 414.2,
+      "text": "Lander, Wyoming, then, had a baseball team.",
+      "confidence": 0.7331
+    },
+    {
+      "start": 414.2,
+      "end": 416.84,
+      "text": "And everybody in Lander was proud of their team.",
+      "confidence": 0.7331
+    },
+    {
+      "start": 416.84,
+      "end": 419.72,
+      "text": "Yet the week before the team was scheduled a play for the state championship,",
+      "confidence": 0.7331
+    },
+    {
+      "start": 419.72,
+      "end": 420.92,
+      "text": "tragedy struck.",
+      "confidence": 0.7331
+    },
+    {
+      "start": 420.92,
+      "end": 423.48,
+      "text": "Their star pitcher was kidnapped by a rival team.",
+      "confidence": 0.7331
+    },
+    {
+      "start": 423.48,
+      "end": 425.48,
+      "text": "I need to be the team manager hired another pitcher.",
+      "confidence": 0.8033
+    },
+    {
+      "start": 425.48,
+      "end": 426.98,
+      "text": "A youngster named Lester Hunt,",
+      "confidence": 0.8033
+    },
+    {
+      "start": 426.98,
+      "end": 429.98,
+      "text": "that he had to bring two Wyoming from Illinois.",
+      "confidence": 0.8033
+    },
+    {
+      "start": 429.98,
+      "end": 431.48,
+      "text": "And the youngster named Lester Hunt",
+      "confidence": 0.8033
+    },
+    {
+      "start": 431.48,
+      "end": 432.98,
+      "text": "from Illinois, pitched a wonderful game.",
+      "confidence": 0.8033
+    },
+    {
+      "start": 432.98,
+      "end": 434.98,
+      "text": "In fact, he won the baseball championship",
+      "confidence": 0.8033
+    },
+    {
+      "start": 434.98,
+      "end": 435.98,
+      "text": "of the State of Wyoming.",
+      "confidence": 0.8033
+    },
+    {
+      "start": 437.98,
+      "end": 439.98,
+      "text": "Well, that's the story.",
+      "confidence": 0.8033
+    },
+    {
+      "start": 439.98,
+      "end": 442.48,
+      "text": "The story of a baseball pitcher named Lester Hunt,",
+      "confidence": 0.8033
+    },
+    {
+      "start": 442.48,
+      "end": 444.98,
+      "text": "who was brought from Illinois to Wyoming",
+      "confidence": 0.8033
+    },
+    {
+      "start": 444.98,
+      "end": 446.98,
+      "text": "to pitch a game of baseball.",
+      "confidence": 0.8033
+    },
+    {
+      "start": 446.98,
+      "end": 448.98,
+      "text": "But the strangest part of the story",
+      "confidence": 0.8033
+    },
+    {
+      "start": 450.48,
+      "end": 452.48,
+      "text": "the strangest part of the story",
+      "confidence": 0.8033
+    },
+    {
+      "start": 452.48,
+      "end": 459.48,
+      "text": "is that this man named Lester Hunt, who never would have come to Wyoming except for his abilities of a state.",
+      "confidence": 0.8352
+    },
+    {
+      "start": 463.48,
+      "end": 466.48,
+      "text": "However, in remembering the great sports stories that we told during 1948,",
+      "confidence": 0.8352
+    },
+    {
+      "start": 466.48,
+      "end": 470.48,
+      "text": "we must not forget the story of a man who died in jail during the past year.",
+      "confidence": 0.8352
+    },
+    {
+      "start": 470.48,
+      "end": 477.48,
+      "text": "His name was Cyril Walker, and we told this story on September the 17th.",
+      "confidence": 0.8352
+    },
+    {
+      "start": 477.48,
+      "end": 479.98,
+      "text": "Cyril Walker had been a golf caddy.",
+      "confidence": 0.7776
+    },
+    {
+      "start": 479.98,
+      "end": 482.48,
+      "text": "He carried anybody's golf bags for a few pennies.",
+      "confidence": 0.7776
+    },
+    {
+      "start": 482.48,
+      "end": 486.98,
+      "text": "Strings that Cyril Walker should carry anyone's golf bags for a few pennies.",
+      "confidence": 0.7776
+    },
+    {
+      "start": 486.98,
+      "end": 494.48,
+      "text": "Because not so long ago, he was the golf champion of the United States.",
+      "confidence": 0.7776
+    },
+    {
+      "start": 494.48,
+      "end": 495.98,
+      "text": "Just a minute, Philstein.",
+      "confidence": 0.7776
+    },
+    {
+      "start": 495.98,
+      "end": 497.48,
+      "text": "May I interrupt you for a moment?",
+      "confidence": 0.7776
+    },
+    {
+      "start": 497.48,
+      "end": 498.98,
+      "text": "You certainly may, George.",
+      "confidence": 0.7776
+    },
+    {
+      "start": 498.98,
+      "end": 499.98,
+      "text": "Ladies and gentlemen,",
+      "confidence": 0.7776
+    },
+    {
+      "start": 499.98,
+      "end": 505.98,
+      "text": "may I introduce the famous motion fixture star, George Graff.",
+      "confidence": 0.7776
+    },
+    {
+      "start": 505.98,
+      "end": 510.78,
+      "text": "Bill, you've talked a lot tonight about your memories of the past year, the year of 1948,",
+      "confidence": 0.7356
+    },
+    {
+      "start": 510.78,
+      "end": 516.06,
+      "text": "until I had my memories too. Memories not only of this year, but of many other years,",
+      "confidence": 0.7356
+    },
+    {
+      "start": 516.06,
+      "end": 520.22,
+      "text": "years in which I've watched the greatest sports figures passing reviews. Such as who, George?",
+      "confidence": 0.7356
+    },
+    {
+      "start": 520.94,
+      "end": 527.9,
+      "text": "I remember Mickey Walker, Tony Cansonery, Philly Patrol, Benny Leonard, Bonnie Ross, Lou Gary,",
+      "confidence": 0.7356
+    },
+    {
+      "start": 527.9,
+      "end": 534.14,
+      "text": "Christy Matheson, Walla Johnson, Ty Cobb, Trist Speaker, Red Grange, Bronco Neguski,",
+      "confidence": 0.7263
+    },
+    {
+      "start": 534.14,
+      "end": 537.82,
+      "text": "the poor horseman, Ernie Neathers, Benny Friedman, Bill Tilden,",
+      "confidence": 0.7263
+    },
+    {
+      "start": 537.82,
+      "end": 540.62,
+      "text": "Bobby Jones, Earl Sandy, George M. Cohen!",
+      "confidence": 0.7263
+    },
+    {
+      "start": 543.02,
+      "end": 545.5,
+      "text": "George M. Cohen, why he was a songwriter?",
+      "confidence": 0.7263
+    },
+    {
+      "start": 545.5,
+      "end": 548.7,
+      "text": "Sure he was, Bill, but George M. Cohen did a lot of sports.",
+      "confidence": 0.7263
+    },
+    {
+      "start": 549.34,
+      "end": 551.98,
+      "text": "You know the story, Bill. Why don't you tell it?",
+      "confidence": 0.7263
+    },
+    {
+      "start": 551.98,
+      "end": 554.7,
+      "text": "I will, George. Thanks a lot for reminding you of it.",
+      "confidence": 0.7263
+    },
+    {
+      "start": 557.9,
+      "end": 562.9,
+      "text": "Several years ago there was a great athlete named John Shea out at the University of Notre Dame.",
+      "confidence": 0.8421
+    },
+    {
+      "start": 562.9,
+      "end": 566.9,
+      "text": "He was such a great athlete that finally a dinner was given in his honor.",
+      "confidence": 0.8421
+    },
+    {
+      "start": 566.9,
+      "end": 569.9,
+      "text": "A dinner at which the Toastmaster was the famous George M. Cohan.",
+      "confidence": 0.8421
+    },
+    {
+      "start": 569.9,
+      "end": 573.9,
+      "text": "That night his George M. Cohan got up to speak, he said.",
+      "confidence": 0.8421
+    },
+    {
+      "start": 573.9,
+      "end": 578.9,
+      "text": "Ladies and gentlemen, we here to pay tribute to John Shea of Notre Dame.",
+      "confidence": 0.8421
+    },
+    {
+      "start": 578.9,
+      "end": 583.9,
+      "text": "I wish I could say that his great athletic records will last forever, but they won't.",
+      "confidence": 0.8421
+    },
+    {
+      "start": 583.9,
+      "end": 586.9,
+      "text": "Some day someone will come along and beat these records.",
+      "confidence": 0.838
+    },
+    {
+      "start": 586.9,
+      "end": 589.9,
+      "text": "That's true in sports, but it's not true in my business.",
+      "confidence": 0.838
+    },
+    {
+      "start": 589.9,
+      "end": 593.9,
+      "text": "I'm a songwriter, and if I write a great song, it does last.",
+      "confidence": 0.838
+    },
+    {
+      "start": 593.9,
+      "end": 599.9,
+      "text": "Since John Shea is musically inclined, I'd like to suggest that he devote himself to creating music that might last,",
+      "confidence": 0.838
+    },
+    {
+      "start": 599.9,
+      "end": 602.9,
+      "text": "rather than athletic records that will not last.",
+      "confidence": 0.838
+    },
+    {
+      "start": 605.9,
+      "end": 609.9,
+      "text": "John Shea an Notre Dame was impressed with what George M. Cohen had said then.",
+      "confidence": 0.838
+    },
+    {
+      "start": 609.9,
+      "end": 612.9,
+      "text": "That's why later on back in George M. Cohen's apartment.",
+      "confidence": 0.838
+    },
+    {
+      "start": 612.9,
+      "end": 616.9,
+      "text": "He and Mr. Colham stood around the piano talking a music.",
+      "confidence": 0.7755
+    },
+    {
+      "start": 616.9,
+      "end": 621.9,
+      "text": "In that room that night, under George M. Colham's guidance, Jan Shea began a song.",
+      "confidence": 0.7755
+    },
+    {
+      "start": 621.9,
+      "end": 624.9,
+      "text": "A song that was destined to become America's best known college march.",
+      "confidence": 0.7755
+    },
+    {
+      "start": 624.9,
+      "end": 628.9,
+      "text": "For it was this night that Jan Shea wrote the song that inspired the men on Notre Dame.",
+      "confidence": 0.7755
+    },
+    {
+      "start": 628.9,
+      "end": 648.54,
+      "text": "day. The next time you hear that great song of the University of Notre Dame, remember,",
+      "confidence": 0.6914
+    },
+    {
+      "start": 648.54,
+      "end": 652.82,
+      "text": "that it might never have been written. But for the next some years ago, when a young composer",
+      "confidence": 0.6914
+    },
+    {
+      "start": 652.82,
+      "end": 657.54,
+      "text": "Jan Shea of Notre Dame was introduced to the famous George M. Cohen, who showed him",
+      "confidence": 0.6914
+    },
+    {
+      "start": 657.54,
+      "end": 663.32,
+      "text": "a song showed him how by writing a song himself that same night a song that's",
+      "confidence": 0.695
+    },
+    {
+      "start": 663.32,
+      "end": 666.44,
+      "text": "lasted just as long as Notre Dame's victory march but was on the same night in",
+      "confidence": 0.695
+    },
+    {
+      "start": 666.44,
+      "end": 670.86,
+      "text": "that same room that Notre Dame's song was written that George M. Cohan wrote his",
+      "confidence": 0.695
+    },
+    {
+      "start": 670.86,
+      "end": 674.02,
+      "text": "immortal song it's a grand old flag",
+      "confidence": 0.695
+    },
+    {
+      "start": 687.54,
+      "end": 695.54,
+      "text": "ever brought to mind.",
+      "confidence": 0.7386
+    },
+    {
+      "start": 695.54,
+      "end": 699.54,
+      "text": "Well, that's it, ladies and gentlemen.",
+      "confidence": 0.7386
+    },
+    {
+      "start": 699.54,
+      "end": 704.54,
+      "text": "From Hollywood, California, on this, the last night of the old year, 1948, we brought you",
+      "confidence": 0.7386
+    },
+    {
+      "start": 704.54,
+      "end": 706.54,
+      "text": "the best stories that we told over.",
+      "confidence": 0.7386
+    },
+    {
+      "start": 706.54,
+      "end": 711.54,
+      "text": "During this past year, stories that must not be forgotten.",
+      "confidence": 0.7386
+    },
+    {
+      "start": 711.54,
+      "end": 720.54,
+      "text": "Stories from out of the past that have made up our profiles and portraits for posterity.",
+      "confidence": 0.6438
+    },
+    {
+      "start": 734.54,
+      "end": 738.54,
+      "text": "Railfree, since we're broadcasting from Hollywood and I hear it's the best in the far west downstairs.",
+      "confidence": 0.6438
+    },
+    {
+      "start": 738.54,
+      "end": 740.98,
+      "text": "Men, a shaving cream has to be a mighty good",
+      "confidence": 0.7627
+    },
+    {
+      "start": 740.98,
+      "end": 742.7,
+      "text": "to make a proposition like this.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 742.7,
+      "end": 746.5,
+      "text": "There's one buck cash, says Colgate Brushless wins you and a flag.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 746.5,
+      "end": 747.9,
+      "text": "Try it and see for yourself.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 747.9,
+      "end": 750.18,
+      "text": "You'll discover this because it's light and fine texture.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 750.18,
+      "end": 753.34,
+      "text": "Colgate brushless completely surrounds, soft and supports each bristle.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 753.34,
+      "end": 756.54,
+      "text": "Better than greasy heavy creams, there's no manning down, there's no clogging.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 756.54,
+      "end": 759.78,
+      "text": "The razor doesn't skid or skip when you use Colgate brushless.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 759.78,
+      "end": 761.74,
+      "text": "It cuts through clean and smooth.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 761.74,
+      "end": 765.54,
+      "text": "Yes, that light fine texture, Colgate brushless really affects this tough whiskers.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 765.54,
+      "end": 768.22,
+      "text": "Makes shaving wonderfully fast, slick and easy.",
+      "confidence": 0.7627
+    },
+    {
+      "start": 768.22,
+      "end": 771.58,
+      "text": "and leaves your face feeling delightfully relaxed and comfortable.",
+      "confidence": 0.7199
+    },
+    {
+      "start": 771.58,
+      "end": 776.94,
+      "text": "Tomorrow, by a large or giant size tube or jar of cold gate brushless shaving cream,",
+      "confidence": 0.7199
+    },
+    {
+      "start": 776.94,
+      "end": 782.14,
+      "text": "use it a week. If you are not convinced, the cold gate brushless makes shaving right for you,",
+      "confidence": 0.7199
+    },
+    {
+      "start": 782.14,
+      "end": 785.5,
+      "text": "then I'll send you one dollar. Just mail a clock and tap back to me. Bill Stern,",
+      "confidence": 0.7199
+    },
+    {
+      "start": 785.5,
+      "end": 789.1,
+      "text": "Kerala cold gate jersey city zone two, New Jersey. Now, how's about it?",
+      "confidence": 0.7199
+    },
+    {
+      "start": 789.1,
+      "end": 794.3,
+      "text": "There is one fuck cash, says cold gate brushless wind you in a flash. That",
+      "confidence": 0.7199
+    },
+    {
+      "start": 794.3,
+      "end": 796.8,
+      "text": "That plate is in development is the three-year mark for tonight.",
+      "confidence": 0.7159
+    },
+    {
+      "start": 796.8,
+      "end": 799.3,
+      "text": "We've been broadcasting tonight from Hollywood, California.",
+      "confidence": 0.7159
+    },
+    {
+      "start": 799.3,
+      "end": 801.3,
+      "text": "Next week we'll be back, same time, same stations,",
+      "confidence": 0.7159
+    },
+    {
+      "start": 801.3,
+      "end": 804.3,
+      "text": "also from Hollywood, when our guests will be Eddie Cantor.",
+      "confidence": 0.7159
+    },
+    {
+      "start": 804.3,
+      "end": 806.3,
+      "text": "See you then, and until then, I'll be seeing you on the screen",
+      "confidence": 0.7159
+    },
+    {
+      "start": 806.3,
+      "end": 807.8,
+      "text": "in the news of the day, newsreels,",
+      "confidence": 0.7159
+    },
+    {
+      "start": 807.8,
+      "end": 809.8,
+      "text": "at your favorite Loser Associated theaters.",
+      "confidence": 0.7159
+    },
+    {
+      "start": 809.8,
+      "end": 811.3,
+      "text": "Now, I'll next Friday night at the same time,",
+      "confidence": 0.7159
+    },
+    {
+      "start": 811.3,
+      "end": 812.8,
+      "text": "when our guests will be Eddie Cantor.",
+      "confidence": 0.7159
+    },
+    {
+      "start": 812.8,
+      "end": 815.3,
+      "text": "This is Phil Stern, wishing you all a good, good night from Hollywood.",
+      "confidence": 0.7159
+    },
+    {
+      "start": 815.3,
+      "end": 818.3,
+      "text": "Phil Stern, the polka-chapy man, is on his way.",
+      "confidence": 0.7159
+    },
+    {
+      "start": 818.3,
+      "end": 821.3,
+      "text": "The sternly polka-chapy man had lost to say.",
+      "confidence": 0.7159
+    },
+    {
+      "start": 821.3,
+      "end": 823.34,
+      "text": "He told you there's a spark here on the inside,",
+      "confidence": 0.6274
+    },
+    {
+      "start": 823.34,
+      "end": 826.66,
+      "text": "don't be really not so listen and make Friday night.",
+      "confidence": 0.6274
+    },
+    {
+      "start": 826.66,
+      "end": 828.5,
+      "text": "People out here thank you.",
+      "confidence": 0.6274
+    },
+    {
+      "start": 828.5,
+      "end": 831.26,
+      "text": "From our night over NBC, here co-gets our fun.",
+      "confidence": 0.6274
+    },
+    {
+      "start": 831.26,
+      "end": 833.14,
+      "text": "Hilarious duty can over, followed immediately",
+      "confidence": 0.6274
+    },
+    {
+      "start": 833.14,
+      "end": 835.58,
+      "text": "by a day in the life of Dennis Day.",
+      "confidence": 0.6274
+    },
+    {
+      "start": 835.58,
+      "end": 837.7,
+      "text": "George Rath, who appeared in this program tonight,",
+      "confidence": 0.6274
+    },
+    {
+      "start": 837.7,
+      "end": 840.3,
+      "text": "may soon be seen starring in his latest picture outpost",
+      "confidence": 0.6274
+    },
+    {
+      "start": 840.3,
+      "end": 841.38,
+      "text": "in Morocco.",
+      "confidence": 0.6274
+    },
+    {
+      "start": 841.38,
+      "end": 844.22,
+      "text": "The bill's turned show tonight came from Hollywood, California.",
+      "confidence": 0.6274
+    },
+    {
+      "start": 844.22,
+      "end": 846.98,
+      "text": "This is NBC, the national broadcasting company.",
+      "confidence": 0.6274
+    }
+  ]
+}

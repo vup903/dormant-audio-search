@@ -1,0 +1,1251 @@
+{
+  "id": "1950-06-03-afrts-air-force-hour-triumph-of-old-glory",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 1785.0,
+  "confidence": 0.5993,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "From St. Joseph's Missouri, mutual present, the Air Force Hour.",
+      "confidence": 0.5934
+    },
+    {
+      "start": 7.0,
+      "end": 21.0,
+      "text": "Flammable board, the Air Force Hour, prepare to take off in song.",
+      "confidence": 0.5934
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "Switch on.",
+      "confidence": 0.5934
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": "We're all right.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 37.0,
+      "end": 42.0,
+      "text": "Our instruction is made.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": "Announcing your crew for the Air Force Hour, the all-airmen show up at Department of Defence.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 46.0,
+      "end": 50.0,
+      "text": "Lieutenant Colonel George S. Howard conducting the United States Air Force Band,",
+      "confidence": 0.6486
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": "Fireteln soloist Sergeant Glenn Darwin.",
+      "confidence": 0.6486
+    },
+    {
+      "start": 52.0,
+      "end": 60.0,
+      "text": "The singing sergeant's under the direction of ward office for Robert Landers and your reporter Major West McFarred and I'm your navigator Lieutenant-Tasfield",
+      "confidence": 0.5303
+    },
+    {
+      "start": 60.0,
+      "end": 67.0,
+      "text": "advising you to pass the safety belt and prepare to take off.",
+      "confidence": 0.5303
+    },
+    {
+      "start": 67.0,
+      "end": 84.0,
+      "text": "And now here's the band that's flying tonight to take off power with a spirited march triumphant of old glory.",
+      "confidence": 0.5794
+    },
+    {
+      "start": 97.0,
+      "end": 104.0,
+      "text": ".",
+      "confidence": 0.516
+    },
+    {
+      "start": 104.0,
+      "end": 111.0,
+      "text": ".",
+      "confidence": 0.516
+    },
+    {
+      "start": 111.0,
+      "end": 118.0,
+      "text": ".",
+      "confidence": 0.516
+    },
+    {
+      "start": 118.0,
+      "end": 125.0,
+      "text": ".",
+      "confidence": 0.516
+    },
+    {
+      "start": 125.0,
+      "end": 132.0,
+      "text": ".",
+      "confidence": 0.4813
+    },
+    {
+      "start": 132.0,
+      "end": 139.0,
+      "text": ".",
+      "confidence": 0.4813
+    },
+    {
+      "start": 139.0,
+      "end": 146.0,
+      "text": ".",
+      "confidence": 0.4813
+    },
+    {
+      "start": 146.0,
+      "end": 153.0,
+      "text": ".",
+      "confidence": 0.4813
+    },
+    {
+      "start": 153.0,
+      "end": 160.0,
+      "text": ".",
+      "confidence": 0.4808
+    },
+    {
+      "start": 160.0,
+      "end": 167.0,
+      "text": ".",
+      "confidence": 0.4808
+    },
+    {
+      "start": 167.0,
+      "end": 174.0,
+      "text": ".",
+      "confidence": 0.4808
+    },
+    {
+      "start": 174.0,
+      "end": 181.0,
+      "text": ".",
+      "confidence": 0.4808
+    },
+    {
+      "start": 181.0,
+      "end": 205.28,
+      "text": "There's a notation by the next entry in tonight's Air Force hour log that reads, an original",
+      "confidence": 0.7215
+    },
+    {
+      "start": 205.28,
+      "end": 210.12,
+      "text": "composition by our conductor, Lieutenant Colonel George S. Howard, the interview to the people",
+      "confidence": 0.7215
+    },
+    {
+      "start": 210.12,
+      "end": 213.32,
+      "text": "of the state of Missouri, our crew chief Sergeant Flendar",
+      "confidence": 0.5617
+    },
+    {
+      "start": 213.32,
+      "end": 215.12,
+      "text": "One sings, my Missouri.",
+      "confidence": 0.5617
+    },
+    {
+      "start": 230.72,
+      "end": 234.92,
+      "text": "I'm coast to coast from north to south.",
+      "confidence": 0.5617
+    },
+    {
+      "start": 234.92,
+      "end": 246.9,
+      "text": "The Midwest is the heart in peace of all the great Midwest has always done its part.",
+      "confidence": 0.6064
+    },
+    {
+      "start": 246.9,
+      "end": 254.56,
+      "text": "Above all the states of the Westland, Missouri is the core.",
+      "confidence": 0.6064
+    },
+    {
+      "start": 254.56,
+      "end": 265.06,
+      "text": "My heart is in misery, to remain forever.",
+      "confidence": 0.4972
+    },
+    {
+      "start": 265.56,
+      "end": 273.56,
+      "text": "My misery, my misery.",
+      "confidence": 0.4972
+    },
+    {
+      "start": 273.56,
+      "end": 280.04,
+      "text": "From a heartless, principled wall,",
+      "confidence": 0.4006
+    },
+    {
+      "start": 280.04,
+      "end": 285.84,
+      "text": "Denied by the presoil and her people,",
+      "confidence": 0.4006
+    },
+    {
+      "start": 285.84,
+      "end": 291.96,
+      "text": "Is a strength that has answered its call.",
+      "confidence": 0.4006
+    },
+    {
+      "start": 291.96,
+      "end": 298.12,
+      "text": "From the city, upon a pathchef,",
+      "confidence": 0.4006
+    },
+    {
+      "start": 298.12,
+      "end": 304.12,
+      "text": "Hands of one to the friend of his two.",
+      "confidence": 0.4698
+    },
+    {
+      "start": 305.12,
+      "end": 308.12,
+      "text": "I'm sorry.",
+      "confidence": 0.4698
+    },
+    {
+      "start": 308.12,
+      "end": 311.12,
+      "text": "I'm sorry.",
+      "confidence": 0.4698
+    },
+    {
+      "start": 311.12,
+      "end": 319.12,
+      "text": "She says all of them are better than two.",
+      "confidence": 0.4698
+    },
+    {
+      "start": 358.12,
+      "end": 367.12,
+      "text": "What's to me, there's more I'd like to say.",
+      "confidence": 0.5542
+    },
+    {
+      "start": 367.12,
+      "end": 375.36,
+      "text": "My misery, my misery.",
+      "confidence": 0.5542
+    },
+    {
+      "start": 375.36,
+      "end": 381.68,
+      "text": "From a heartful as friendship to all.",
+      "confidence": 0.5542
+    },
+    {
+      "start": 381.68,
+      "end": 386.96,
+      "text": "In her deep red soil and her people.",
+      "confidence": 0.5542
+    },
+    {
+      "start": 386.96,
+      "end": 392.68,
+      "text": "There's a story in Kareza and Saricol.",
+      "confidence": 0.3818
+    },
+    {
+      "start": 392.68,
+      "end": 398.4,
+      "text": "From the Sarivano facie,",
+      "confidence": 0.3818
+    },
+    {
+      "start": 398.4,
+      "end": 404.92,
+      "text": "Kamsa won't have a friend, how is true?",
+      "confidence": 0.3818
+    },
+    {
+      "start": 404.92,
+      "end": 412.2,
+      "text": "My mesurri, my mesurri.",
+      "confidence": 0.3818
+    },
+    {
+      "start": 412.2,
+      "end": 420.2,
+      "text": "She's the son of the rich, wide-eyed of love.",
+      "confidence": 0.6188
+    },
+    {
+      "start": 421.2,
+      "end": 425.2,
+      "text": "Music now from the pen of one of America's greatest composers, Stephen Foster.",
+      "confidence": 0.6188
+    },
+    {
+      "start": 425.7,
+      "end": 429.2,
+      "text": "The singing sergeant, Swardoff Sir Robert Landers directing, step front and center,",
+      "confidence": 0.6188
+    },
+    {
+      "start": 429.2,
+      "end": 433.2,
+      "text": "to sing what was probably the last of the great Foster songs.",
+      "confidence": 0.6188
+    },
+    {
+      "start": 433.2,
+      "end": 435.2,
+      "text": "Old Black Joe.",
+      "confidence": 0.6188
+    },
+    {
+      "start": 435.2,
+      "end": 447.2,
+      "text": "Don't have a day when my heart was young and gay.",
+      "confidence": 0.6338
+    },
+    {
+      "start": 447.2,
+      "end": 460.2,
+      "text": "Don't have my friends from the garden feels away.",
+      "confidence": 0.6338
+    },
+    {
+      "start": 460.2,
+      "end": 473.2,
+      "text": "And from the earth to a better land I know,",
+      "confidence": 0.525
+    },
+    {
+      "start": 473.2,
+      "end": 484.2,
+      "text": "I hear a gentle voices calling.",
+      "confidence": 0.525
+    },
+    {
+      "start": 484.2,
+      "end": 493.2,
+      "text": "Oh, God, Lord,",
+      "confidence": 0.3578
+    },
+    {
+      "start": 494.2,
+      "end": 501.2,
+      "text": "I am coming.",
+      "confidence": 0.3578
+    },
+    {
+      "start": 501.2,
+      "end": 516.2,
+      "text": "I am coming, for my head is bending low.",
+      "confidence": 0.4689
+    },
+    {
+      "start": 516.2,
+      "end": 528.2,
+      "text": "I hear the gentle voices calling.",
+      "confidence": 0.4689
+    },
+    {
+      "start": 528.2,
+      "end": 537.2,
+      "text": "Lord, bless you.",
+      "confidence": 0.5535
+    },
+    {
+      "start": 543.2,
+      "end": 546.2,
+      "text": "There's time on your air for Sauer.",
+      "confidence": 0.5535
+    },
+    {
+      "start": 547.2,
+      "end": 550.2,
+      "text": "Time to call into the tower.",
+      "confidence": 0.5535
+    },
+    {
+      "start": 550.2,
+      "end": 571.62,
+      "text": "This is Major West McFarron. If you were in Texas, as I was recently, and tuned in your",
+      "confidence": 0.7588
+    },
+    {
+      "start": 571.62,
+      "end": 577.56,
+      "text": "shortwave radio on the right frequency, you might hear some very, very strange melodies",
+      "confidence": 0.7588
+    },
+    {
+      "start": 577.56,
+      "end": 583.08,
+      "text": "coming from the skies of that lone star state near San Antonio, home of the historic",
+      "confidence": 0.7258
+    },
+    {
+      "start": 583.08,
+      "end": 584.56,
+      "text": "Alamo.",
+      "confidence": 0.7258
+    },
+    {
+      "start": 584.56,
+      "end": 602.8,
+      "text": "No, you wouldn't be picking up Paris. Your transmitting station would be much closer than that.",
+      "confidence": 0.7258
+    },
+    {
+      "start": 602.8,
+      "end": 608.72,
+      "text": "As a matter of fact, probably in one of those big Texas clouds directly overhead, where",
+      "confidence": 0.8537
+    },
+    {
+      "start": 608.72,
+      "end": 614.92,
+      "text": "some lusty young French air cadet from Randolph Air Force Base, with his radio switch inadvertently",
+      "confidence": 0.8537
+    },
+    {
+      "start": 614.92,
+      "end": 618.96,
+      "text": "turned on, is happily greeting the morning sun.",
+      "confidence": 0.8537
+    },
+    {
+      "start": 618.96,
+      "end": 621.6,
+      "text": "What are French cadets doing at Randolph?",
+      "confidence": 0.8537
+    },
+    {
+      "start": 621.6,
+      "end": 626.96,
+      "text": "They're the first contingent of the some 1,300 foreign military personnel who will be training",
+      "confidence": 0.8537
+    },
+    {
+      "start": 626.96,
+      "end": 632.52,
+      "text": "in this country by the end of June under the Mutual Defense Assistance Program.",
+      "confidence": 0.8537
+    },
+    {
+      "start": 632.52,
+      "end": 638.28,
+      "text": "that program designed to bolster the defenses of the North Atlantic Treaty nations.",
+      "confidence": 0.8186
+    },
+    {
+      "start": 638.28,
+      "end": 644.32,
+      "text": "There are 75 of these cadets, bright-eyed, eager, and fresh from their beloved France for",
+      "confidence": 0.8186
+    },
+    {
+      "start": 644.32,
+      "end": 649.6,
+      "text": "the first time, almost none of them speaking any but their own tongue.",
+      "confidence": 0.8186
+    },
+    {
+      "start": 649.6,
+      "end": 655.68,
+      "text": "Now this posed quite a problem for our instructors at Randall, almost none of whom spoke any",
+      "confidence": 0.8186
+    },
+    {
+      "start": 655.68,
+      "end": 662.8,
+      "text": "but English, all of which led to some very fast French classes for the majors, captains",
+      "confidence": 0.838
+    },
+    {
+      "start": 662.8,
+      "end": 666.08,
+      "text": "and lieutenants of the faculty staff.",
+      "confidence": 0.838
+    },
+    {
+      "start": 666.08,
+      "end": 671.52,
+      "text": "To their own surprise, by the time their young French charges arrived a month ago, the",
+      "confidence": 0.838
+    },
+    {
+      "start": 671.52,
+      "end": 673.64,
+      "text": "instructors were ready.",
+      "confidence": 0.838
+    },
+    {
+      "start": 673.64,
+      "end": 679.48,
+      "text": "Now Americans being nomads at heart are pretty much at home after a while almost anywhere",
+      "confidence": 0.838
+    },
+    {
+      "start": 679.48,
+      "end": 685.6,
+      "text": "they go, but a Frenchman out of France, and especially a young Frenchman.",
+      "confidence": 0.838
+    },
+    {
+      "start": 685.6,
+      "end": 690.32,
+      "text": "In our country, he finds many things strange to him.",
+      "confidence": 0.7588
+    },
+    {
+      "start": 690.32,
+      "end": 693.12,
+      "text": "Some not so easy to become accustomed to.",
+      "confidence": 0.7588
+    },
+    {
+      "start": 693.12,
+      "end": 698.2,
+      "text": "For example, their first meal at Randolph was quite a shock to the ruddy cheek young",
+      "confidence": 0.7588
+    },
+    {
+      "start": 698.2,
+      "end": 699.44,
+      "text": "galeaks.",
+      "confidence": 0.7588
+    },
+    {
+      "start": 699.44,
+      "end": 701.04,
+      "text": "No wine.",
+      "confidence": 0.7588
+    },
+    {
+      "start": 701.04,
+      "end": 705.72,
+      "text": "The equivalent to an American would be no coffee at his table.",
+      "confidence": 0.7588
+    },
+    {
+      "start": 705.72,
+      "end": 713.12,
+      "text": "However, they eventually became used to, and finally very farmed up, an excellent substitute.",
+      "confidence": 0.7588
+    },
+    {
+      "start": 713.12,
+      "end": 720.44,
+      "text": "The GI haircut, to which all cadets must submit, also caused considerable concern among",
+      "confidence": 0.8483
+    },
+    {
+      "start": 720.44,
+      "end": 726.08,
+      "text": "these guests from France, where the closer the hair is crap, well, where they just don't",
+      "confidence": 0.8483
+    },
+    {
+      "start": 726.08,
+      "end": 728.68,
+      "text": "like short haircuts.",
+      "confidence": 0.8483
+    },
+    {
+      "start": 728.68,
+      "end": 733.76,
+      "text": "But crew cuts, like all other dissimilarities, were well on the way toward being resolved",
+      "confidence": 0.8483
+    },
+    {
+      "start": 733.76,
+      "end": 739.96,
+      "text": "by the time the young cadets began their pre-flight training in the classrooms at Randall.",
+      "confidence": 0.8483
+    },
+    {
+      "start": 739.96,
+      "end": 746.12,
+      "text": "And by this past midweek, Colonel John G. Fowler, commanding officer of the base, was able",
+      "confidence": 0.8023
+    },
+    {
+      "start": 746.12,
+      "end": 747.12,
+      "text": "to report.",
+      "confidence": 0.8023
+    },
+    {
+      "start": 747.12,
+      "end": 752.72,
+      "text": "In spite of language difficulties, the integration of the French students into the basic pilot",
+      "confidence": 0.8023
+    },
+    {
+      "start": 752.72,
+      "end": 758.36,
+      "text": "training program here at Randolph Air Force Base is progressing rapidly and smoothly.",
+      "confidence": 0.8023
+    },
+    {
+      "start": 758.36,
+      "end": 764.84,
+      "text": "Their willingness to learn from their American instructors is proving greatly instrumental",
+      "confidence": 0.8023
+    },
+    {
+      "start": 764.84,
+      "end": 768.56,
+      "text": "in accelerating the French training project.",
+      "confidence": 0.8023
+    },
+    {
+      "start": 768.56,
+      "end": 773.92,
+      "text": "of operational and training methods as one of the aims of the French cadet program at Randall",
+      "confidence": 0.7998
+    },
+    {
+      "start": 773.92,
+      "end": 780.92,
+      "text": "Fair Forest Base, a goal toward which ever more progress is made with each passing day.",
+      "confidence": 0.7998
+    },
+    {
+      "start": 780.92,
+      "end": 786.92,
+      "text": "Another less formal, though no less important amalgamation, is the growing oneness between",
+      "confidence": 0.7998
+    },
+    {
+      "start": 786.92,
+      "end": 791.88,
+      "text": "the American and French cadets as they work, play and eat together.",
+      "confidence": 0.7998
+    },
+    {
+      "start": 791.88,
+      "end": 816.88,
+      "text": "The French air cadets at Randolph Air Force Base are taking things that they can't do.",
+      "confidence": 0.3761
+    },
+    {
+      "start": 816.88,
+      "end": 823.44,
+      "text": "The French air cadets at Randolph Air Force Base are taking things well and stride,",
+      "confidence": 0.7605
+    },
+    {
+      "start": 823.44,
+      "end": 829.88,
+      "text": "assimilating not only our theories on training, but also a certain amount of local ideology",
+      "confidence": 0.7605
+    },
+    {
+      "start": 829.88,
+      "end": 833.88,
+      "text": "as I discovered in a hallway discussion among a group of them.",
+      "confidence": 0.7605
+    },
+    {
+      "start": 833.88,
+      "end": 836.88,
+      "text": "Oh, no, there are 48 states.",
+      "confidence": 0.7605
+    },
+    {
+      "start": 836.88,
+      "end": 838.88,
+      "text": "Yes, of course, 48.",
+      "confidence": 0.7605
+    },
+    {
+      "start": 838.88,
+      "end": 841.88,
+      "text": "No, what do you think about you?",
+      "confidence": 0.7605
+    },
+    {
+      "start": 841.88,
+      "end": 848.88,
+      "text": "No, my American friend, Kenneth Hausmann, who is from Dallas in Texas, has saved me that",
+      "confidence": 0.712
+    },
+    {
+      "start": 848.88,
+      "end": 858.88,
+      "text": "America is composed mainly of one state, Texas, and maybe to one or two other states.",
+      "confidence": 0.712
+    },
+    {
+      "start": 858.88,
+      "end": 864.88,
+      "text": "So it cannot be 48.",
+      "confidence": 0.712
+    },
+    {
+      "start": 864.88,
+      "end": 871.38,
+      "text": "And today in Texas, should you tune in your shortwave radio on an Air Force frequency,",
+      "confidence": 0.712
+    },
+    {
+      "start": 871.38,
+      "end": 878.38,
+      "text": "This in a, well, a sort of Texanized French accent is what you might well hear.",
+      "confidence": 0.7657
+    },
+    {
+      "start": 878.38,
+      "end": 882.38,
+      "text": "The eyes of Texas are upon you.",
+      "confidence": 0.7657
+    },
+    {
+      "start": 882.38,
+      "end": 886.38,
+      "text": "All the live long days.",
+      "confidence": 0.7657
+    },
+    {
+      "start": 886.38,
+      "end": 890.38,
+      "text": "The eyes of Texas are upon you.",
+      "confidence": 0.7657
+    },
+    {
+      "start": 890.38,
+      "end": 893.38,
+      "text": "You cannot get away.",
+      "confidence": 0.7657
+    },
+    {
+      "start": 893.38,
+      "end": 900.38,
+      "text": "And that's how it is with the French Air cadet training program at Randolph Air Force Base in Texas.",
+      "confidence": 0.7657
+    },
+    {
+      "start": 900.38,
+      "end": 910.38,
+      "text": "Texas. This is Major West McFarron returning you to the Air Force Hour in St. Joseph, Missouri.",
+      "confidence": 0.7228
+    },
+    {
+      "start": 919.38,
+      "end": 925.38,
+      "text": "We continue the Air Force Hour from St. Joseph, Missouri. St. Joseph can boast among other things.",
+      "confidence": 0.7228
+    },
+    {
+      "start": 925.38,
+      "end": 930.38,
+      "text": "The birthplace of one of America's great band leaders and composers are the prior.",
+      "confidence": 0.6992
+    },
+    {
+      "start": 930.38,
+      "end": 934.38,
+      "text": "Now here is the Air Force band in one of the priors better known tunes.",
+      "confidence": 0.6992
+    },
+    {
+      "start": 934.38,
+      "end": 937.38,
+      "text": "The novelty, Quest learned his dog.",
+      "confidence": 0.6992
+    },
+    {
+      "start": 1015.38,
+      "end": 1022.38,
+      "text": ".",
+      "confidence": 0.528
+    },
+    {
+      "start": 1022.38,
+      "end": 1029.38,
+      "text": ".",
+      "confidence": 0.528
+    },
+    {
+      "start": 1029.38,
+      "end": 1036.38,
+      "text": ".",
+      "confidence": 0.528
+    },
+    {
+      "start": 1036.38,
+      "end": 1043.38,
+      "text": ".",
+      "confidence": 0.528
+    },
+    {
+      "start": 1043.38,
+      "end": 1050.38,
+      "text": ".",
+      "confidence": 0.4324
+    },
+    {
+      "start": 1050.38,
+      "end": 1057.38,
+      "text": ".",
+      "confidence": 0.4324
+    },
+    {
+      "start": 1057.38,
+      "end": 1064.38,
+      "text": ".",
+      "confidence": 0.4324
+    },
+    {
+      "start": 1064.38,
+      "end": 1071.38,
+      "text": ".",
+      "confidence": 0.4324
+    },
+    {
+      "start": 1071.38,
+      "end": 1088.38,
+      "text": "Every nation has a page of history. It can call its own. A bit of color from the past. It becomes a part of the national idiom.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 1088.38,
+      "end": 1092.38,
+      "text": "Here in America, we are justly proud of our heritage of pioneering.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 1092.38,
+      "end": 1096.38,
+      "text": "The great westward movement that has become a favorite theme of America's composers.",
+      "confidence": 0.7925
+    },
+    {
+      "start": 1096.38,
+      "end": 1101.38,
+      "text": "Listen now as the Air Force Band takes us on a musical tour of the wide open spaces.",
+      "confidence": 0.7301
+    },
+    {
+      "start": 1126.38,
+      "end": 1142.46,
+      "text": "From out of the prairies in the grasslands has come a figure that is a legend in America,",
+      "confidence": 0.7125
+    },
+    {
+      "start": 1142.46,
+      "end": 1143.46,
+      "text": "the cowboy.",
+      "confidence": 0.7125
+    },
+    {
+      "start": 1143.46,
+      "end": 1149.54,
+      "text": "His life and the limitless outdoors has inspired many a song of solitude, such as the tranquil",
+      "confidence": 0.7125
+    },
+    {
+      "start": 1149.54,
+      "end": 1151.54,
+      "text": "cowboy serenade.",
+      "confidence": 0.7125
+    },
+    {
+      "start": 1151.54,
+      "end": 1163.54,
+      "text": "While I'm smoking, my last cigarette.",
+      "confidence": 0.525
+    },
+    {
+      "start": 1163.54,
+      "end": 1174.04,
+      "text": "Sing that cowboy song, I never will forget.",
+      "confidence": 0.525
+    },
+    {
+      "start": 1174.04,
+      "end": 1185.52,
+      "text": "If you cry, the sun's almost there.",
+      "confidence": 0.4881
+    },
+    {
+      "start": 1185.52,
+      "end": 1200.76,
+      "text": "And I'm smoking, malacigrant to the sea's brush.",
+      "confidence": 0.4881
+    },
+    {
+      "start": 1200.76,
+      "end": 1218.16,
+      "text": "When living is near, comes a melody, a cowboy air who's so dear.",
+      "confidence": 0.4001
+    },
+    {
+      "start": 1218.16,
+      "end": 1229.2,
+      "text": "Deeply cry, the sun's almost set",
+      "confidence": 0.4627
+    },
+    {
+      "start": 1229.96,
+      "end": 1241.16,
+      "text": "And I'm smoking, not a cigarette",
+      "confidence": 0.4627
+    },
+    {
+      "start": 1241.16,
+      "end": 1251.16,
+      "text": "Come on, old fate, this heart will travel in a loon.",
+      "confidence": 0.5121
+    },
+    {
+      "start": 1251.16,
+      "end": 1261.16,
+      "text": "On a meter, where the good green pastures are good.",
+      "confidence": 0.5121
+    },
+    {
+      "start": 1261.16,
+      "end": 1272.16,
+      "text": "So while twilight and purple he'll sing",
+      "confidence": 0.4861
+    },
+    {
+      "start": 1272.16,
+      "end": 1282.16,
+      "text": "From a camp on comes a cowboy ceremony",
+      "confidence": 0.4861
+    },
+    {
+      "start": 1282.16,
+      "end": 1298.16,
+      "text": "The epi-caya, the sun's almost set, and I'm smoking.",
+      "confidence": 0.4174
+    },
+    {
+      "start": 1298.16,
+      "end": 1315.16,
+      "text": "My last cigarette, my last cigarette.",
+      "confidence": 0.7062
+    },
+    {
+      "start": 1318.16,
+      "end": 1320.16,
+      "text": "After the trails were blazed across America,",
+      "confidence": 0.7062
+    },
+    {
+      "start": 1320.16,
+      "end": 1322.16,
+      "text": "great numbers of homesteaders rushed westward",
+      "confidence": 0.7062
+    },
+    {
+      "start": 1322.16,
+      "end": 1324.16,
+      "text": "to find new homes in the rich land",
+      "confidence": 0.7062
+    },
+    {
+      "start": 1324.16,
+      "end": 1326.16,
+      "text": "that was theirs for the claiming.",
+      "confidence": 0.7062
+    },
+    {
+      "start": 1326.16,
+      "end": 1333.16,
+      "text": "The Indian Trail soon became roads under the way of thousands of wagons for you.",
+      "confidence": 0.6905
+    },
+    {
+      "start": 1446.16,
+      "end": 1456.36,
+      "text": "This is the Air Force Hour. Our course is in northeasterly one now as we take up a heading",
+      "confidence": 0.7553
+    },
+    {
+      "start": 1456.36,
+      "end": 1460.36,
+      "text": "for the home field in the completion of another mission. As our crewmen return to their",
+      "confidence": 0.7553
+    },
+    {
+      "start": 1460.36,
+      "end": 1465.04,
+      "text": "stations and preparations are made to land, Colonel Howard and the band climaxed tonight's",
+      "confidence": 0.7553
+    },
+    {
+      "start": 1465.04,
+      "end": 1468.04,
+      "text": "their foreseller with the fire dance.",
+      "confidence": 0.4741
+    },
+    {
+      "start": 1495.04,
+      "end": 1502.04,
+      "text": ".",
+      "confidence": 0.4472
+    },
+    {
+      "start": 1502.04,
+      "end": 1509.04,
+      "text": ".",
+      "confidence": 0.4472
+    },
+    {
+      "start": 1509.04,
+      "end": 1516.04,
+      "text": ".",
+      "confidence": 0.4472
+    },
+    {
+      "start": 1516.04,
+      "end": 1523.04,
+      "text": ".",
+      "confidence": 0.4472
+    },
+    {
+      "start": 1523.04,
+      "end": 1530.04,
+      "text": ".",
+      "confidence": 0.4895
+    },
+    {
+      "start": 1530.04,
+      "end": 1537.04,
+      "text": ".",
+      "confidence": 0.4895
+    },
+    {
+      "start": 1537.04,
+      "end": 1543.04,
+      "text": ".",
+      "confidence": 0.4895
+    },
+    {
+      "start": 1543.04,
+      "end": 1548.04,
+      "text": ".",
+      "confidence": 0.4895
+    },
+    {
+      "start": 1548.04,
+      "end": 1552.04,
+      "text": ".",
+      "confidence": 0.4895
+    },
+    {
+      "start": 1612.04,
+      "end": 1619.04,
+      "text": ".",
+      "confidence": 0.4489
+    },
+    {
+      "start": 1619.04,
+      "end": 1626.04,
+      "text": ".",
+      "confidence": 0.4489
+    },
+    {
+      "start": 1626.04,
+      "end": 1633.04,
+      "text": ".",
+      "confidence": 0.4489
+    },
+    {
+      "start": 1633.04,
+      "end": 1640.04,
+      "text": ".",
+      "confidence": 0.4489
+    },
+    {
+      "start": 1640.04,
+      "end": 1647.04,
+      "text": ".",
+      "confidence": 0.4849
+    },
+    {
+      "start": 1647.04,
+      "end": 1652.04,
+      "text": ".",
+      "confidence": 0.4849
+    },
+    {
+      "start": 1652.04,
+      "end": 1658.04,
+      "text": ".",
+      "confidence": 0.4849
+    },
+    {
+      "start": 1658.04,
+      "end": 1664.04,
+      "text": ".",
+      "confidence": 0.4849
+    },
+    {
+      "start": 1664.04,
+      "end": 1669.04,
+      "text": ".",
+      "confidence": 0.4849
+    },
+    {
+      "start": 1669.04,
+      "end": 1675.28,
+      "text": "From St. Joseph, Missouri, the Department of Defense has presented the Air Force Hour",
+      "confidence": 0.6699
+    },
+    {
+      "start": 1675.28,
+      "end": 1679.8,
+      "text": "featuring the United States Air Force fan Lieutenant Colonel George S. Howard Conductor",
+      "confidence": 0.6699
+    },
+    {
+      "start": 1679.8,
+      "end": 1683.84,
+      "text": "and the singing sergeants under the direction of ward office of Robert Landers, music arrangements",
+      "confidence": 0.6699
+    },
+    {
+      "start": 1683.84,
+      "end": 1686.16,
+      "text": "by Sergeant Fred Kepner.",
+      "confidence": 0.6699
+    },
+    {
+      "start": 1686.16,
+      "end": 1690.32,
+      "text": "The Air Force Hour is produced, written and directed by Captain Mark Thee Miranda, assisted",
+      "confidence": 0.6699
+    },
+    {
+      "start": 1690.32,
+      "end": 1694.2,
+      "text": "by ward off the Johnny O'Sullietus, and is heard overseas through the Armed Forces Radio",
+      "confidence": 0.6699
+    },
+    {
+      "start": 1694.2,
+      "end": 1695.2,
+      "text": "Service.",
+      "confidence": 0.6699
+    },
+    {
+      "start": 1695.2,
+      "end": 1699.44,
+      "text": "This is your Air Force Navigator Lieutenant Cass Bielski speaking.",
+      "confidence": 0.5632
+    },
+    {
+      "start": 1725.2,
+      "end": 1732.2,
+      "text": ".",
+      "confidence": 0.4433
+    },
+    {
+      "start": 1732.2,
+      "end": 1739.2,
+      "text": ".",
+      "confidence": 0.4433
+    },
+    {
+      "start": 1739.2,
+      "end": 1746.2,
+      "text": ".",
+      "confidence": 0.4433
+    },
+    {
+      "start": 1746.2,
+      "end": 1753.2,
+      "text": ".",
+      "confidence": 0.4433
+    }
+  ]
+}

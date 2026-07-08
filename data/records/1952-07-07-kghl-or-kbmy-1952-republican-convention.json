@@ -1,0 +1,308 @@
+{
+  "id": "1952-07-07-kghl-or-kbmy-1952-republican-convention",
+  "title": "or KBMY 1952 Republican Convention",
+  "program": "KGHL",
+  "date": "1952-07-07",
+  "decade": "1950s",
+  "source_url": "https://archive.org/details/1950-1959RadioNews",
+  "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+  "audio_file": "1952-07-07-kghl-or-kbmy-1952-republican-convention.mp3",
+  "language": "en",
+  "duration_s": 203.0,
+  "asr": {
+    "model": "faster-whisper-base",
+    "confidence": 0.7784,
+    "ai_generated": true
+  },
+  "transcript": "With Eisenhower today might vote with the DAF clauses if they should try to press for more Floor reaction and more floor votes tomorrow. Yes, it's possible, but we must always keep in mind at three this point That the victory today was the concern only the voting in the temporary Organization of the Republican National Convention now now after this. This is permanent permanent organization that goes in and you have a brand new situation and if the tap forces try to recoup the loss then the situation is going to be exactly as it was before you see both sides are in a position the tap people to give a little bit here and there and the Eisenhower people to push a little bit here and there and each one will push or give according to his estimate of whether he can gain by that the tap people may give enough to prevent another floor fight and you're certainly right about that Of course, it's true that the TAF forces won another victory in the credentials committee when they succeeded in getting the appointment of a Broad TAF chairman by a vote of 25-20. Exactly, sir. That's it? That's an important factor. Well, all told, then, we have had a day that favors Eisenhower. Yesterday, we had a day that favored TAF because his press conference was very effective. Now that balances it. What tomorrow will bring George Hicks? You better tell us. Well, before I do that, I think for Phil Cole, a final word from Bob Murphy. The George Hicks speaking from the NBC Broadcasting booth above the convention floor at the International Amphitheater in the Stockyard section of Chicago. The first evening session and the first day of the Republican National Convention is coming to a close. The delegates have nearly all left the floor. The reporters have emptied their seats, which are, which number a thousand, around the speakers rostrum, and the speakers, and the party leaders themselves have left that important platform behind the long walk that they take out to the microphones. We've had a first session which is now drawing to a close. It is the feeling of the end of the day because the great hall now emptied of its public spectators as well in the galleries is dimmed down, and it's like twilight coming into a scene, a natural twilight, but still within doors here as we look down. The floor itself is scattered with papers of all kinds. The standards of the states twisted in the skew. We see the names that roll so eloquently across our land of Washington State and New Jersey and Delaware and Maine and Arkansas. They're standing there dark now in blank and waiting for the 1200 and six to vote tomorrow and to listen to the strategies and the tug of war which may bring this convention to its feet again in another exciting day. Tomorrow we're going to return to the air at 1130 Chicago's time that the central daylight time to bring you the second session and an important one it will be with a credentials committee reporting to the floor. We'll bring you the entire session and all the action and all the meaning of it that we can possibly function and bring to our microphones. It's good night now from Convention Hall in Chicago and NBC's booth. We return you now to New York.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.56,
+      "text": "With Eisenhower today might vote with the DAF clauses if they should try to press for more",
+      "confidence": 0.678
+    },
+    {
+      "start": 7.0,
+      "end": 13.4,
+      "text": "Floor reaction and more floor votes tomorrow. Yes, it's possible, but we must always keep in mind at three this point",
+      "confidence": 0.678
+    },
+    {
+      "start": 13.6,
+      "end": 17.36,
+      "text": "That the victory today was the concern only the voting in the temporary",
+      "confidence": 0.678
+    },
+    {
+      "start": 19.32,
+      "end": 24.64,
+      "text": "Organization of the Republican National Convention now now after this. This is permanent",
+      "confidence": 0.678
+    },
+    {
+      "start": 24.64,
+      "end": 31.64,
+      "text": "permanent organization that goes in and you have a brand new situation and if the tap forces try to recoup the loss",
+      "confidence": 0.8316
+    },
+    {
+      "start": 31.64,
+      "end": 37.64,
+      "text": "then the situation is going to be exactly as it was before you see both sides are in a position",
+      "confidence": 0.8316
+    },
+    {
+      "start": 37.64,
+      "end": 42.64,
+      "text": "the tap people to give a little bit here and there and the Eisenhower people to push a little bit here and there",
+      "confidence": 0.8316
+    },
+    {
+      "start": 42.64,
+      "end": 48.64,
+      "text": "and each one will push or give according to his estimate of whether he can gain by that",
+      "confidence": 0.8316
+    },
+    {
+      "start": 48.64,
+      "end": 53.64,
+      "text": "the tap people may give enough to prevent another floor fight and you're certainly right about that",
+      "confidence": 0.8316
+    },
+    {
+      "start": 53.64,
+      "end": 60.0,
+      "text": "Of course, it's true that the TAF forces won another victory in the credentials committee",
+      "confidence": 0.7482
+    },
+    {
+      "start": 60.0,
+      "end": 65.04,
+      "text": "when they succeeded in getting the appointment of a Broad TAF chairman by a vote of 25-20.",
+      "confidence": 0.7482
+    },
+    {
+      "start": 65.04,
+      "end": 66.04,
+      "text": "Exactly, sir.",
+      "confidence": 0.7482
+    },
+    {
+      "start": 66.04,
+      "end": 67.04,
+      "text": "That's it?",
+      "confidence": 0.7482
+    },
+    {
+      "start": 67.04,
+      "end": 68.88,
+      "text": "That's an important factor.",
+      "confidence": 0.7482
+    },
+    {
+      "start": 68.88,
+      "end": 73.76,
+      "text": "Well, all told, then, we have had a day that favors Eisenhower.",
+      "confidence": 0.7482
+    },
+    {
+      "start": 73.76,
+      "end": 80.76,
+      "text": "Yesterday, we had a day that favored TAF because his press conference was very effective.",
+      "confidence": 0.7482
+    },
+    {
+      "start": 80.76,
+      "end": 81.76,
+      "text": "Now that balances it.",
+      "confidence": 0.7482
+    },
+    {
+      "start": 81.76,
+      "end": 85.36,
+      "text": "What tomorrow will bring George Hicks? You better tell us.",
+      "confidence": 0.7632
+    },
+    {
+      "start": 85.36,
+      "end": 88.52,
+      "text": "Well, before I do that, I think for Phil Cole,",
+      "confidence": 0.7632
+    },
+    {
+      "start": 88.52,
+      "end": 90.88,
+      "text": "a final word from Bob Murphy.",
+      "confidence": 0.7632
+    },
+    {
+      "start": 90.88,
+      "end": 93.96,
+      "text": "The George Hicks speaking from the NBC Broadcasting booth",
+      "confidence": 0.7632
+    },
+    {
+      "start": 93.96,
+      "end": 97.32,
+      "text": "above the convention floor at the International Amphitheater",
+      "confidence": 0.7632
+    },
+    {
+      "start": 97.32,
+      "end": 99.48,
+      "text": "in the Stockyard section of Chicago.",
+      "confidence": 0.7632
+    },
+    {
+      "start": 99.48,
+      "end": 101.84,
+      "text": "The first evening session and the first day",
+      "confidence": 0.7632
+    },
+    {
+      "start": 101.84,
+      "end": 103.68,
+      "text": "of the Republican National Convention",
+      "confidence": 0.7632
+    },
+    {
+      "start": 103.68,
+      "end": 105.36,
+      "text": "is coming to a close.",
+      "confidence": 0.7632
+    },
+    {
+      "start": 105.36,
+      "end": 107.76,
+      "text": "The delegates have nearly all left the floor.",
+      "confidence": 0.7632
+    },
+    {
+      "start": 107.76,
+      "end": 109.72,
+      "text": "The reporters have emptied their seats,",
+      "confidence": 0.7632
+    },
+    {
+      "start": 109.72,
+      "end": 114.44,
+      "text": "which are, which number a thousand, around the speakers rostrum, and the speakers, and",
+      "confidence": 0.796
+    },
+    {
+      "start": 114.44,
+      "end": 119.68,
+      "text": "the party leaders themselves have left that important platform behind the long walk",
+      "confidence": 0.796
+    },
+    {
+      "start": 119.68,
+      "end": 124.72,
+      "text": "that they take out to the microphones. We've had a first session which is now drawing",
+      "confidence": 0.796
+    },
+    {
+      "start": 124.72,
+      "end": 132.36,
+      "text": "to a close. It is the feeling of the end of the day because the great hall now emptied",
+      "confidence": 0.796
+    },
+    {
+      "start": 132.36,
+      "end": 138.24,
+      "text": "of its public spectators as well in the galleries is dimmed down, and it's like twilight coming",
+      "confidence": 0.796
+    },
+    {
+      "start": 138.24,
+      "end": 143.76,
+      "text": "into a scene, a natural twilight, but still within doors here as we look down.",
+      "confidence": 0.7926
+    },
+    {
+      "start": 143.76,
+      "end": 147.12,
+      "text": "The floor itself is scattered with papers of all kinds.",
+      "confidence": 0.7926
+    },
+    {
+      "start": 147.12,
+      "end": 150.12,
+      "text": "The standards of the states twisted in the skew.",
+      "confidence": 0.7926
+    },
+    {
+      "start": 150.12,
+      "end": 157.24,
+      "text": "We see the names that roll so eloquently across our land of Washington State and New Jersey",
+      "confidence": 0.7926
+    },
+    {
+      "start": 157.24,
+      "end": 160.72,
+      "text": "and Delaware and Maine and Arkansas.",
+      "confidence": 0.7926
+    },
+    {
+      "start": 160.72,
+      "end": 165.88,
+      "text": "They're standing there dark now in blank and waiting for the 1200 and six to vote tomorrow",
+      "confidence": 0.7926
+    },
+    {
+      "start": 165.88,
+      "end": 171.4,
+      "text": "and to listen to the strategies and the tug of war which may bring this convention to its",
+      "confidence": 0.8304
+    },
+    {
+      "start": 171.4,
+      "end": 177.96,
+      "text": "feet again in another exciting day. Tomorrow we're going to return to the air at 1130 Chicago's",
+      "confidence": 0.8304
+    },
+    {
+      "start": 177.96,
+      "end": 183.68,
+      "text": "time that the central daylight time to bring you the second session and an important one",
+      "confidence": 0.8304
+    },
+    {
+      "start": 183.68,
+      "end": 189.88,
+      "text": "it will be with a credentials committee reporting to the floor. We'll bring you the entire session",
+      "confidence": 0.8304
+    },
+    {
+      "start": 189.88,
+      "end": 194.56,
+      "text": "and all the action and all the meaning of it that we can possibly function and bring to",
+      "confidence": 0.8304
+    },
+    {
+      "start": 194.56,
+      "end": 200.0,
+      "text": "our microphones. It's good night now from Convention Hall in Chicago and NBC's booth.",
+      "confidence": 0.7263
+    },
+    {
+      "start": 200.0,
+      "end": 203.0,
+      "text": "We return you now to New York.",
+      "confidence": 0.7263
+    }
+  ],
+  "tags": [
+    {
+      "term": "entertainment",
+      "score": 0.3391,
+      "ai_generated": true
+    },
+    {
+      "term": "election",
+      "score": 0.3006,
+      "ai_generated": true
+    }
+  ]
+}

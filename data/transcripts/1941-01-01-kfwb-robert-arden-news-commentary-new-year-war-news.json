@@ -1,0 +1,1293 @@
+{
+  "id": "1941-01-01-kfwb-robert-arden-news-commentary-new-year-war-news",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 917.4,
+  "confidence": 0.7882,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.8,
+      "text": "America looks abroad with your foreign correspondent, Robert Arden, presented each weeknight over",
+      "confidence": 0.7186
+    },
+    {
+      "start": 7.8,
+      "end": 12.6,
+      "text": "these stations by the 12 Southern California offices of Dr. Cowan, the friendly credit",
+      "confidence": 0.7186
+    },
+    {
+      "start": 12.6,
+      "end": 18.0,
+      "text": "dentist, whose main Los Angeles office is over the Owl Grug fifths and broadway.",
+      "confidence": 0.7186
+    },
+    {
+      "start": 18.0,
+      "end": 22.44,
+      "text": "Tonight's broadcast is transcribed from an earlier program.",
+      "confidence": 0.7186
+    },
+    {
+      "start": 22.44,
+      "end": 24.2,
+      "text": "Good evening.",
+      "confidence": 0.7186
+    },
+    {
+      "start": 24.2,
+      "end": 29.16,
+      "text": "New Year's Day has come and gone, and while we are getting accustomed to writing",
+      "confidence": 0.7186
+    },
+    {
+      "start": 29.16,
+      "end": 38.0,
+      "text": "in 1941 in our date lines, 1940 A.D. is being entered into the records of history as a year",
+      "confidence": 0.8159
+    },
+    {
+      "start": 38.0,
+      "end": 43.24,
+      "text": "which saw the most important and perhaps the most far reaching ideological conflict of",
+      "confidence": 0.8159
+    },
+    {
+      "start": 43.24,
+      "end": 47.16,
+      "text": "modern history break out in open warfare.",
+      "confidence": 0.8159
+    },
+    {
+      "start": 47.16,
+      "end": 52.92,
+      "text": "The term ideological conflict is being used advisedly since it cannot be doubted any longer",
+      "confidence": 0.8159
+    },
+    {
+      "start": 52.92,
+      "end": 58.64,
+      "text": "that the war between Great Britain and Nazi Germany is not an armed contest between two powerful",
+      "confidence": 0.8159
+    },
+    {
+      "start": 58.64,
+      "end": 65.2,
+      "text": "nations disputing each other's possessions, for that it is actually a life and death struggle",
+      "confidence": 0.7475
+    },
+    {
+      "start": 65.2,
+      "end": 67.04,
+      "text": "between two ideologies.",
+      "confidence": 0.7475
+    },
+    {
+      "start": 67.04,
+      "end": 72.16,
+      "text": "Let us see if my contention stands up on the close scrutiny.",
+      "confidence": 0.7475
+    },
+    {
+      "start": 72.16,
+      "end": 76.88,
+      "text": "On one side we have great Britain, her ally and sympathizers.",
+      "confidence": 0.7475
+    },
+    {
+      "start": 76.88,
+      "end": 81.12,
+      "text": "They, obviously, stand for preservation and protection of their traditional belief in",
+      "confidence": 0.7475
+    },
+    {
+      "start": 81.12,
+      "end": 84.04,
+      "text": "human liberty and spiritual freedom.",
+      "confidence": 0.7475
+    },
+    {
+      "start": 84.04,
+      "end": 88.84,
+      "text": "On the opposing side, we have Nazi Germany, and her totalitarian axis.",
+      "confidence": 0.8133
+    },
+    {
+      "start": 88.84,
+      "end": 94.64,
+      "text": "The advocates of imposition by brute force of a dogma that teaches intolerance, subservience",
+      "confidence": 0.8133
+    },
+    {
+      "start": 94.64,
+      "end": 100.6,
+      "text": "of all to one individual, and which excuses aggression and bloody conquest as the rightful",
+      "confidence": 0.8133
+    },
+    {
+      "start": 100.6,
+      "end": 106.64,
+      "text": "means to their end employed by supposed members of a super-raise.",
+      "confidence": 0.8133
+    },
+    {
+      "start": 106.64,
+      "end": 109.84,
+      "text": "Those are unquestionably the facts in the case.",
+      "confidence": 0.8133
+    },
+    {
+      "start": 109.84,
+      "end": 114.96,
+      "text": "The bitterness which marks the current conflict, both on the battlefields and on the speaker's",
+      "confidence": 0.8343
+    },
+    {
+      "start": 114.96,
+      "end": 121.66,
+      "text": "platforms, the hateful use of treacherous espionage and insidious propaganda, then alone would",
+      "confidence": 0.8343
+    },
+    {
+      "start": 121.66,
+      "end": 127.62,
+      "text": "point to the existence of an ideological conflict rather than to a clash caused by more material",
+      "confidence": 0.8343
+    },
+    {
+      "start": 127.62,
+      "end": 128.62,
+      "text": "motives.",
+      "confidence": 0.8343
+    },
+    {
+      "start": 128.62,
+      "end": 134.42,
+      "text": "It is a well-known and perhaps somewhat unfortunate fact that human beings, when inspired",
+      "confidence": 0.8343
+    },
+    {
+      "start": 134.42,
+      "end": 140.86,
+      "text": "by inflexible ideas, and by that are meant all ideas who's inherent to weakness, disallow",
+      "confidence": 0.7765
+    },
+    {
+      "start": 140.86,
+      "end": 146.9,
+      "text": "us tolerance or any other form of peaceful conciliation, are apt to transgress beyond",
+      "confidence": 0.7765
+    },
+    {
+      "start": 146.9,
+      "end": 152.58,
+      "text": "the limits of humankindness, and resort to more or less bloody violence.",
+      "confidence": 0.7765
+    },
+    {
+      "start": 152.58,
+      "end": 158.02,
+      "text": "That psychological fact was proved by the ancient Romans during the times of early Christianity.",
+      "confidence": 0.7765
+    },
+    {
+      "start": 158.02,
+      "end": 163.34,
+      "text": "It was demonstrated by Muhammad, it was again brought into evidence by the holy inquisition",
+      "confidence": 0.7765
+    },
+    {
+      "start": 163.34,
+      "end": 166.46,
+      "text": "and it is being repeated in our times by communism,",
+      "confidence": 0.814
+    },
+    {
+      "start": 166.46,
+      "end": 168.06,
+      "text": "fascism, and Nazism.",
+      "confidence": 0.814
+    },
+    {
+      "start": 169.3,
+      "end": 173.18,
+      "text": "Philosophy teaches us that we can learn from our past.",
+      "confidence": 0.814
+    },
+    {
+      "start": 173.18,
+      "end": 177.62,
+      "text": "By establishing indisputable facts at certain intervals,",
+      "confidence": 0.814
+    },
+    {
+      "start": 177.62,
+      "end": 180.54,
+      "text": "we can discern directional lines which indicate",
+      "confidence": 0.814
+    },
+    {
+      "start": 180.54,
+      "end": 182.86,
+      "text": "at least a direction in which certain events",
+      "confidence": 0.814
+    },
+    {
+      "start": 182.86,
+      "end": 185.3,
+      "text": "under certain conditions will and must lead.",
+      "confidence": 0.814
+    },
+    {
+      "start": 186.3,
+      "end": 190.42,
+      "text": "The history of mankind shows that in certain circumstances,",
+      "confidence": 0.814
+    },
+    {
+      "start": 190.42,
+      "end": 195.0,
+      "text": "Usually, under great economic stress and the ensuing mental despair,",
+      "confidence": 0.818
+    },
+    {
+      "start": 195.0,
+      "end": 199.9,
+      "text": "human beings are willing to follow almost any leader who promises a better future.",
+      "confidence": 0.818
+    },
+    {
+      "start": 199.9,
+      "end": 205.06,
+      "text": "Whether that be paradise after this life, or nirvana, or the promised land,",
+      "confidence": 0.818
+    },
+    {
+      "start": 205.06,
+      "end": 209.74,
+      "text": "whether it be the Marxian utopia, or the Hitlerian Nazi domination,",
+      "confidence": 0.818
+    },
+    {
+      "start": 209.74,
+      "end": 211.94,
+      "text": "makes essentially no difference.",
+      "confidence": 0.818
+    },
+    {
+      "start": 211.94,
+      "end": 214.78,
+      "text": "When he needs human beings learn to pray.",
+      "confidence": 0.818
+    },
+    {
+      "start": 214.78,
+      "end": 218.78,
+      "text": "When in despair, they like to follow a strong mind.",
+      "confidence": 0.818
+    },
+    {
+      "start": 218.78,
+      "end": 223.5,
+      "text": "Taking these facts for granted, we must now look at Europe and seek out the material",
+      "confidence": 0.7781
+    },
+    {
+      "start": 223.5,
+      "end": 225.86,
+      "text": "confirmations.",
+      "confidence": 0.7781
+    },
+    {
+      "start": 225.86,
+      "end": 231.94,
+      "text": "After the last European war in 1918, there was great economics, distress, and great mental",
+      "confidence": 0.7781
+    },
+    {
+      "start": 231.94,
+      "end": 234.58,
+      "text": "despair all throughout Europe.",
+      "confidence": 0.7781
+    },
+    {
+      "start": 234.58,
+      "end": 239.42,
+      "text": "Russia, though the first nation to embrace, more or less willingly, the new religion",
+      "confidence": 0.7781
+    },
+    {
+      "start": 239.42,
+      "end": 245.74,
+      "text": "of communism, after 20 R.D. is a practical and unlimited experimenting, is still as far",
+      "confidence": 0.7781
+    },
+    {
+      "start": 245.74,
+      "end": 253.3,
+      "text": "away from the Marxian utopia or any other ideal condition for that matter as it ever was.",
+      "confidence": 0.8104
+    },
+    {
+      "start": 253.3,
+      "end": 257.76,
+      "text": "Then came the multitude of new states, created by strategists and the conference tables",
+      "confidence": 0.8104
+    },
+    {
+      "start": 257.76,
+      "end": 263.34,
+      "text": "of Versailles, in strict accordance with the proclaimed principle of self-determination",
+      "confidence": 0.8104
+    },
+    {
+      "start": 263.34,
+      "end": 267.22,
+      "text": "but without any regard for economic possibilities.",
+      "confidence": 0.8104
+    },
+    {
+      "start": 267.22,
+      "end": 271.66,
+      "text": "These states, of course, had nothing more than a different language and very often only",
+      "confidence": 0.8104
+    },
+    {
+      "start": 271.66,
+      "end": 277.26,
+      "text": "different dialect as a justification for their political existence. Small wonder then that",
+      "confidence": 0.7908
+    },
+    {
+      "start": 277.26,
+      "end": 282.94,
+      "text": "their political existence was a heavy economic burden and a continuous source of friction",
+      "confidence": 0.7908
+    },
+    {
+      "start": 282.94,
+      "end": 289.9,
+      "text": "with their neighbors and sponsors. Italy was second to attempt a change. When a renegade socialist",
+      "confidence": 0.7908
+    },
+    {
+      "start": 289.9,
+      "end": 296.62,
+      "text": "by name of Benito Mussolini double-crossed his spiritual and material leader Gabriela Danoncio",
+      "confidence": 0.7908
+    },
+    {
+      "start": 296.62,
+      "end": 299.82,
+      "text": "and set himself up as Ducche del Fashismo.",
+      "confidence": 0.748
+    },
+    {
+      "start": 299.82,
+      "end": 303.18,
+      "text": "The intolerance of that new political religion was demonstrated",
+      "confidence": 0.748
+    },
+    {
+      "start": 303.18,
+      "end": 307.74,
+      "text": "in, as we saw later, the comparatively mild form of beatings and",
+      "confidence": 0.748
+    },
+    {
+      "start": 307.74,
+      "end": 311.5,
+      "text": "caster oil treatments of dissenters.",
+      "confidence": 0.748
+    },
+    {
+      "start": 311.5,
+      "end": 314.22,
+      "text": "Germany, the strongest and most important of the European",
+      "confidence": 0.748
+    },
+    {
+      "start": 314.22,
+      "end": 318.06,
+      "text": "nations, went through every one of the disappointing experiences",
+      "confidence": 0.748
+    },
+    {
+      "start": 318.06,
+      "end": 320.3,
+      "text": "and neighbors had to muddle through.",
+      "confidence": 0.748
+    },
+    {
+      "start": 320.3,
+      "end": 323.58,
+      "text": "Post-war Germany had a communist putchess and fascist",
+      "confidence": 0.748
+    },
+    {
+      "start": 323.58,
+      "end": 329.74,
+      "text": "who's the tear under the social democratic governments which follow the collapsed imperial regime.",
+      "confidence": 0.7501
+    },
+    {
+      "start": 329.74,
+      "end": 335.14,
+      "text": "But while excellent as a position in a parliamentary monarchy, the social democrats proved themselves",
+      "confidence": 0.7501
+    },
+    {
+      "start": 335.14,
+      "end": 340.42,
+      "text": "utterly devoid of any ability to assume leadership of the new state.",
+      "confidence": 0.7501
+    },
+    {
+      "start": 340.42,
+      "end": 346.7,
+      "text": "In those circumstances under those conditions covered by comparative obscurity of former",
+      "confidence": 0.7501
+    },
+    {
+      "start": 346.7,
+      "end": 352.7,
+      "text": "paper-hanger, a hysterical egoist who had an axe to grind with everyone and everything",
+      "confidence": 0.7501
+    },
+    {
+      "start": 352.7,
+      "end": 358.64,
+      "text": "became the underground apostle of countless hungry and jobless Germans, whose worst suffering",
+      "confidence": 0.7889
+    },
+    {
+      "start": 358.64,
+      "end": 365.02,
+      "text": "came from their hurt pride, the German, or rather the Prussian, who has no racial affinity",
+      "confidence": 0.7889
+    },
+    {
+      "start": 365.02,
+      "end": 371.3,
+      "text": "with the tutonic German at all, since he is originally a slave, is deeply rooted in his",
+      "confidence": 0.7889
+    },
+    {
+      "start": 371.3,
+      "end": 375.18,
+      "text": "past, which shows his ancestors as conquering warriors.",
+      "confidence": 0.7889
+    },
+    {
+      "start": 375.18,
+      "end": 380.38,
+      "text": "Hitler's task was comparatively easy, in as much as the Germans were mentally and materially",
+      "confidence": 0.7889
+    },
+    {
+      "start": 380.38,
+      "end": 386.38,
+      "text": "ready to follow a new leader, provided he would lead them back to the glory that once was there.",
+      "confidence": 0.8429
+    },
+    {
+      "start": 387.26,
+      "end": 389.9,
+      "text": "Before going any further, let's have a word from Bill Fuller.",
+      "confidence": 0.8429
+    },
+    {
+      "start": 390.7,
+      "end": 396.3,
+      "text": "More than simply marking a date on the calendar, new years is traditionally a day in which",
+      "confidence": 0.8429
+    },
+    {
+      "start": 396.3,
+      "end": 401.98,
+      "text": "resolutions are made as we all know. So, if you have made a list of good intentions, a list of",
+      "confidence": 0.8429
+    },
+    {
+      "start": 401.98,
+      "end": 407.5,
+      "text": "the many things you plan to do this year and had intended to last year, suppose we check over",
+      "confidence": 0.8429
+    },
+    {
+      "start": 407.5,
+      "end": 411.18,
+      "text": "the items to see whether you have remembered one of the most important.",
+      "confidence": 0.7833
+    },
+    {
+      "start": 411.18,
+      "end": 415.66,
+      "text": "See if you have resolved to have your teeth cared for by Dr. Cowan,",
+      "confidence": 0.7833
+    },
+    {
+      "start": 415.66,
+      "end": 420.3,
+      "text": "their friendly credit dentist. Neglected teeth can cause great misery,",
+      "confidence": 0.7833
+    },
+    {
+      "start": 420.3,
+      "end": 424.86,
+      "text": "can cause ill health too. And Neglected teeth can be a source of discomfort,",
+      "confidence": 0.7833
+    },
+    {
+      "start": 424.86,
+      "end": 429.1,
+      "text": "both mental and physical. You can't represent yourself to your best advantage",
+      "confidence": 0.7833
+    },
+    {
+      "start": 429.1,
+      "end": 434.78,
+      "text": "if poor teeth misrepresent you. So why not resolve right now to start",
+      "confidence": 0.7833
+    },
+    {
+      "start": 434.78,
+      "end": 439.58,
+      "text": "1991 the right way by having your teeth property cared for.",
+      "confidence": 0.781
+    },
+    {
+      "start": 439.58,
+      "end": 443.28,
+      "text": "Such care is simple and conveniently obtained by calling on your nearest Dr.",
+      "confidence": 0.781
+    },
+    {
+      "start": 443.28,
+      "end": 445.68,
+      "text": "Cowan friendly credit dental office.",
+      "confidence": 0.781
+    },
+    {
+      "start": 445.68,
+      "end": 449.44,
+      "text": "You needn't delay further because of lack of cash or heavy Christmas",
+      "confidence": 0.781
+    },
+    {
+      "start": 449.44,
+      "end": 453.48,
+      "text": "expenditures because Dr. Cowan will not ask you to pay cash.",
+      "confidence": 0.781
+    },
+    {
+      "start": 453.48,
+      "end": 456.2,
+      "text": "You may arrange terms to suit your own budget and there is never an",
+      "confidence": 0.781
+    },
+    {
+      "start": 456.2,
+      "end": 458.44,
+      "text": "expert charge for Dr. Cowan credit.",
+      "confidence": 0.781
+    },
+    {
+      "start": 458.44,
+      "end": 462.14,
+      "text": "And speaking of terms, with approved credit, it is not necessary to have a",
+      "confidence": 0.781
+    },
+    {
+      "start": 462.14,
+      "end": 465.66,
+      "text": "down payment to have Dr. Cowan fit you with a set of the improved",
+      "confidence": 0.826
+    },
+    {
+      "start": 465.66,
+      "end": 470.3,
+      "text": "transparent material dentures. They still recent development of dental science",
+      "confidence": 0.826
+    },
+    {
+      "start": 470.3,
+      "end": 474.14,
+      "text": "that has brought untold relief and comfort to wearers of artificial teeth.",
+      "confidence": 0.826
+    },
+    {
+      "start": 474.14,
+      "end": 478.06,
+      "text": "If you haven't learned of the advantages of these new dentures, I'd suggest that you ask Dr.",
+      "confidence": 0.826
+    },
+    {
+      "start": 478.06,
+      "end": 484.22,
+      "text": "Cowan to show you samples on your next visit. And I suggest too that you make that dental visit early",
+      "confidence": 0.826
+    },
+    {
+      "start": 484.22,
+      "end": 489.66,
+      "text": "in 1941. How about seeing Dr. Cowan, the friend they credit dentist tomorrow?",
+      "confidence": 0.826
+    },
+    {
+      "start": 489.66,
+      "end": 496.66,
+      "text": "The main office over the Owl Grug bits and Broadway downtown Los Angeles, and now back to Robert Arden.",
+      "confidence": 0.7287
+    },
+    {
+      "start": 496.66,
+      "end": 505.66,
+      "text": "That was the way the theory of Nazi Superman was born and the idea of world conquest conceived.",
+      "confidence": 0.7287
+    },
+    {
+      "start": 505.66,
+      "end": 515.66,
+      "text": "The world does not acknowledge the glorious past of the Q-turn, and his inherited claim to greatness, so the Nazis argued the world must be taught by force.",
+      "confidence": 0.7287
+    },
+    {
+      "start": 515.66,
+      "end": 520.5,
+      "text": "And once in power, the Nazi doctrine became the most ruthless and intolerant of all.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 520.5,
+      "end": 525.44,
+      "text": "Human beings became the servants of the state and the serfs of their master.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 525.44,
+      "end": 529.28,
+      "text": "Religion of any denomination became outlawed and concentration camps,",
+      "confidence": 0.8257
+    },
+    {
+      "start": 529.28,
+      "end": 533.92,
+      "text": "or the far more merciful end of sudden death, became the destiny of all those",
+      "confidence": 0.8257
+    },
+    {
+      "start": 533.92,
+      "end": 539.88,
+      "text": "who were singled out as responsible for the depressed economic and political situation.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 539.88,
+      "end": 544.12,
+      "text": "Agreements and treaties were torn up, and since the rest of the world did not feel much",
+      "confidence": 0.8257
+    },
+    {
+      "start": 544.12,
+      "end": 550.08,
+      "text": "desire to embark upon another devastating war, the leader, therefore, became the hero in",
+      "confidence": 0.7838
+    },
+    {
+      "start": 550.08,
+      "end": 555.04,
+      "text": "the eyes of his hypnotized followers, and Nazism was on the march.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 555.04,
+      "end": 558.24,
+      "text": "First we see that the facts are there.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 558.24,
+      "end": 563.24,
+      "text": "Need, starvation, and mental despair are the components which created the monster of",
+      "confidence": 0.7838
+    },
+    {
+      "start": 563.24,
+      "end": 564.64,
+      "text": "Hitlerism.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 564.64,
+      "end": 569.12,
+      "text": "And from those facts we can determine those directional lines I mentioned before, and",
+      "confidence": 0.7838
+    },
+    {
+      "start": 569.12,
+      "end": 573.88,
+      "text": "they seem to point to ultimate destruction of Hitler and his Nazism.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 573.88,
+      "end": 579.5,
+      "text": "As essentially human beings want to be free to think, speak, and worship as they please.",
+      "confidence": 0.7888
+    },
+    {
+      "start": 579.5,
+      "end": 584.7,
+      "text": "They want to see their children grow up as free men, and not become products of mass industry",
+      "confidence": 0.7888
+    },
+    {
+      "start": 584.7,
+      "end": 589.14,
+      "text": "destined to serve as uniformed slaves in a military juggernaut.",
+      "confidence": 0.7888
+    },
+    {
+      "start": 589.14,
+      "end": 594.16,
+      "text": "A Washington report to Nair tells of an exchange of telegrams between the King of Italy",
+      "confidence": 0.7888
+    },
+    {
+      "start": 594.16,
+      "end": 596.78,
+      "text": "and President Roosevelt.",
+      "confidence": 0.7888
+    },
+    {
+      "start": 596.78,
+      "end": 601.62,
+      "text": "Most of the papers buried that item in their back pages, although in my opinion it is",
+      "confidence": 0.7888
+    },
+    {
+      "start": 601.62,
+      "end": 604.78,
+      "text": "is one of the most interesting, perhaps most revealing stories",
+      "confidence": 0.8307
+    },
+    {
+      "start": 604.78,
+      "end": 607.06,
+      "text": "that has come to our attention.",
+      "confidence": 0.8307
+    },
+    {
+      "start": 607.06,
+      "end": 610.06,
+      "text": "King Victoria Imanuele sent President Roosevelt",
+      "confidence": 0.8307
+    },
+    {
+      "start": 610.06,
+      "end": 613.58,
+      "text": "a message in which he extended his most cordial good wishes",
+      "confidence": 0.8307
+    },
+    {
+      "start": 613.58,
+      "end": 615.94,
+      "text": "for the people of the United States.",
+      "confidence": 0.8307
+    },
+    {
+      "start": 615.94,
+      "end": 618.14,
+      "text": "At the same time, the fascist press",
+      "confidence": 0.8307
+    },
+    {
+      "start": 618.14,
+      "end": 620.94,
+      "text": "was threatening a declaration of war upon the same people",
+      "confidence": 0.8307
+    },
+    {
+      "start": 620.94,
+      "end": 623.1,
+      "text": "by the totalitarian access.",
+      "confidence": 0.8307
+    },
+    {
+      "start": 623.1,
+      "end": 625.54,
+      "text": "Now the question arises, which one of the two",
+      "confidence": 0.8307
+    },
+    {
+      "start": 625.54,
+      "end": 628.94,
+      "text": "represents the public sentiment of the still fascist state",
+      "confidence": 0.8307
+    },
+    {
+      "start": 628.94,
+      "end": 630.38,
+      "text": "of Italy?",
+      "confidence": 0.8307
+    },
+    {
+      "start": 630.38,
+      "end": 634.46,
+      "text": "Mussolini has never been able successfully to overcome the great influence of the Italian",
+      "confidence": 0.8339
+    },
+    {
+      "start": 634.46,
+      "end": 639.7,
+      "text": "king upon the Italian people. He was forced to keep the king a virtual prisoner within the",
+      "confidence": 0.8339
+    },
+    {
+      "start": 639.7,
+      "end": 645.38,
+      "text": "walls of the Quirinale. Now suddenly, the king, apparently without the consent of his prime",
+      "confidence": 0.8339
+    },
+    {
+      "start": 645.38,
+      "end": 650.14,
+      "text": "minister, communicates with the president of a country which the official fascist press",
+      "confidence": 0.8339
+    },
+    {
+      "start": 650.14,
+      "end": 656.04,
+      "text": "accuses of trying to become essential in an attempt to defeat them and their political",
+      "confidence": 0.8339
+    },
+    {
+      "start": 656.04,
+      "end": 661.76,
+      "text": "allies. That would indicate that the vast majority of Italians stand behind their king and",
+      "confidence": 0.8435
+    },
+    {
+      "start": 661.76,
+      "end": 667.16,
+      "text": "not with Mussolini and his fascists, and that the so far terrifying domination of the Italian",
+      "confidence": 0.8435
+    },
+    {
+      "start": 667.16,
+      "end": 673.12,
+      "text": "people by the fascists is gradually diminishing in violence, and that would be a fact which",
+      "confidence": 0.8435
+    },
+    {
+      "start": 673.12,
+      "end": 679.24,
+      "text": "if true would foreshadow the possibility of an early collapse of fascism. The king who",
+      "confidence": 0.8435
+    },
+    {
+      "start": 679.24,
+      "end": 683.52,
+      "text": "would naturally become the leader of his people again would then have at least the",
+      "confidence": 0.8435
+    },
+    {
+      "start": 683.52,
+      "end": 688.4,
+      "text": "The full sympathies of this country with him, and that's not such a bad start for any",
+      "confidence": 0.8214
+    },
+    {
+      "start": 688.4,
+      "end": 690.16,
+      "text": "politician.",
+      "confidence": 0.8214
+    },
+    {
+      "start": 690.16,
+      "end": 694.6,
+      "text": "President Roosevelt in his fireside chat referred shortly to the fact that he believed",
+      "confidence": 0.8214
+    },
+    {
+      "start": 694.6,
+      "end": 700.48,
+      "text": "in the defeat of the Axis partly because he was in possession of excellent information.",
+      "confidence": 0.8214
+    },
+    {
+      "start": 700.48,
+      "end": 706.76,
+      "text": "It wouldn't be beyond all possibilities to assume that the same man who sends the President",
+      "confidence": 0.8214
+    },
+    {
+      "start": 706.76,
+      "end": 711.76,
+      "text": "the people of the United States of friendly New Year's wish could also be the source",
+      "confidence": 0.8214
+    },
+    {
+      "start": 711.76,
+      "end": 714.4,
+      "text": "of reliable and friendly information.",
+      "confidence": 0.7979
+    },
+    {
+      "start": 714.4,
+      "end": 719.56,
+      "text": "But be that how it may, it cannot be denied at the impression of fascism's growing weakness",
+      "confidence": 0.7979
+    },
+    {
+      "start": 719.56,
+      "end": 725.84,
+      "text": "is greatly underlined by the Italian King's unexpected entrance on the international stage.",
+      "confidence": 0.7979
+    },
+    {
+      "start": 725.84,
+      "end": 730.36,
+      "text": "While Robert Arden reviews a few final comments, may I remind you that for all dentistry at",
+      "confidence": 0.7979
+    },
+    {
+      "start": 730.36,
+      "end": 734.88,
+      "text": "any time with no charge for credit, the offices of Dr. Carwin, the friendly credit dentists",
+      "confidence": 0.7979
+    },
+    {
+      "start": 734.88,
+      "end": 740.04,
+      "text": "are located in 12 communities from Ventura to San Diego, including Long Beach, opposite",
+      "confidence": 0.7979
+    },
+    {
+      "start": 740.04,
+      "end": 744.84,
+      "text": "Buckham's Broadway at Pine, and East Los Angeles with here the corner of Kern.",
+      "confidence": 0.6932
+    },
+    {
+      "start": 744.84,
+      "end": 749.36,
+      "text": "The main Los Angeles office in the Metropolitan Building fifth and Broadway over the Owl",
+      "confidence": 0.6932
+    },
+    {
+      "start": 749.36,
+      "end": 750.36,
+      "text": "Drugs.",
+      "confidence": 0.6932
+    },
+    {
+      "start": 750.36,
+      "end": 755.24,
+      "text": "For approximate prices in advance telephone mutual 1191.",
+      "confidence": 0.6932
+    },
+    {
+      "start": 755.24,
+      "end": 758.12,
+      "text": "And here are more remarks by Robert Arden.",
+      "confidence": 0.6932
+    },
+    {
+      "start": 758.12,
+      "end": 763.32,
+      "text": "Another highly significant report came from Brisbane, the capital of Portugal tonight.",
+      "confidence": 0.6932
+    },
+    {
+      "start": 763.32,
+      "end": 767.44,
+      "text": "According to well-informed sources there, the diplomatic relations between Nazi Germany",
+      "confidence": 0.6932
+    },
+    {
+      "start": 767.44,
+      "end": 772.56,
+      "text": "and the Vichy government were close to former rupture as the negotiations over Laval's",
+      "confidence": 0.7384
+    },
+    {
+      "start": 772.56,
+      "end": 777.2,
+      "text": "reinstatement into the French government were suddenly broken up.",
+      "confidence": 0.7384
+    },
+    {
+      "start": 777.2,
+      "end": 781.52,
+      "text": "It is quite obvious that the Franco-Germany relations have grown steadily worse since the",
+      "confidence": 0.7384
+    },
+    {
+      "start": 781.52,
+      "end": 784.56,
+      "text": "break between Mashaar-Peter and Pial Laval.",
+      "confidence": 0.7384
+    },
+    {
+      "start": 784.56,
+      "end": 789.28,
+      "text": "Hitler was able to force the Patern government to release Laval from arrest, but he could",
+      "confidence": 0.7384
+    },
+    {
+      "start": 789.28,
+      "end": 793.76,
+      "text": "not make the aged French warrior take him back into the government.",
+      "confidence": 0.7384
+    },
+    {
+      "start": 793.76,
+      "end": 798.96,
+      "text": "Like an open break between Nazi Germany and France occurs, there are two results possible.",
+      "confidence": 0.7648
+    },
+    {
+      "start": 798.96,
+      "end": 804.2,
+      "text": "First, Peter may fly to North Africa and leave the rest of European France to Laval and Hitler.",
+      "confidence": 0.7648
+    },
+    {
+      "start": 804.2,
+      "end": 812.6,
+      "text": "Or secondly, he may stay and accept the consequences of a Hitler appointment of Laval as head of a totalitarian France.",
+      "confidence": 0.7648
+    },
+    {
+      "start": 812.6,
+      "end": 815.48,
+      "text": "In that latter case, they gone.",
+      "confidence": 0.7648
+    },
+    {
+      "start": 815.48,
+      "end": 818.84,
+      "text": "The Generalissimo in North Africa may have the last word.",
+      "confidence": 0.7648
+    },
+    {
+      "start": 818.84,
+      "end": 821.96,
+      "text": "and it can be assumed that he would not say hello",
+      "confidence": 0.8118
+    },
+    {
+      "start": 821.96,
+      "end": 823.84,
+      "text": "to either Hitler or Laval,",
+      "confidence": 0.8118
+    },
+    {
+      "start": 823.84,
+      "end": 825.68,
+      "text": "but perhaps prefer to greet the British",
+      "confidence": 0.8118
+    },
+    {
+      "start": 825.68,
+      "end": 828.04,
+      "text": "with a hearty beyond venue.",
+      "confidence": 0.8118
+    },
+    {
+      "start": 828.04,
+      "end": 831.84,
+      "text": "Vigor still controls France's most powerful North African army",
+      "confidence": 0.8118
+    },
+    {
+      "start": 831.84,
+      "end": 834.8,
+      "text": "and if he joins Britain, Italy's collapsing Libya",
+      "confidence": 0.8118
+    },
+    {
+      "start": 834.8,
+      "end": 837.4,
+      "text": "would become a matter of a few hours only.",
+      "confidence": 0.8118
+    },
+    {
+      "start": 837.4,
+      "end": 839.16,
+      "text": "And if Berlin breaks with Peter,",
+      "confidence": 0.8118
+    },
+    {
+      "start": 839.16,
+      "end": 841.4,
+      "text": "Vigor will have no other way.",
+      "confidence": 0.8118
+    },
+    {
+      "start": 841.4,
+      "end": 843.96,
+      "text": "At any rate, it becomes more and more apparent now",
+      "confidence": 0.8118
+    },
+    {
+      "start": 843.96,
+      "end": 847.44,
+      "text": "that Hitler is not quite at ease even conquered France.",
+      "confidence": 0.8118
+    },
+    {
+      "start": 847.44,
+      "end": 850.44,
+      "text": "And as long as that question remains unsolved,",
+      "confidence": 0.7519
+    },
+    {
+      "start": 850.44,
+      "end": 852.36,
+      "text": "it will remain highly dangerous for him",
+      "confidence": 0.7519
+    },
+    {
+      "start": 852.36,
+      "end": 856.4,
+      "text": "to venture any other military expedition on the Balkans.",
+      "confidence": 0.7519
+    },
+    {
+      "start": 856.4,
+      "end": 858.88,
+      "text": "It may be much more difficult than he or even Missile",
+      "confidence": 0.7519
+    },
+    {
+      "start": 858.88,
+      "end": 861.84,
+      "text": "of Al expects to impose the Nazi doctrine",
+      "confidence": 0.7519
+    },
+    {
+      "start": 861.84,
+      "end": 864.8,
+      "text": "upon the French people who, by their very nature,",
+      "confidence": 0.7519
+    },
+    {
+      "start": 864.8,
+      "end": 868.92,
+      "text": "would rather shout Vibla Libate, Egalite and Fraternite,",
+      "confidence": 0.7519
+    },
+    {
+      "start": 868.92,
+      "end": 871.04,
+      "text": "than Yale, Heil Hitler.",
+      "confidence": 0.7519
+    },
+    {
+      "start": 871.04,
+      "end": 874.36,
+      "text": "The ideological conflict between Nazism and democracy",
+      "confidence": 0.7519
+    },
+    {
+      "start": 874.36,
+      "end": 876.96,
+      "text": "will be hard and bitterly part.",
+      "confidence": 0.7519
+    },
+    {
+      "start": 876.96,
+      "end": 879.68,
+      "text": "but like the famous price fighter we all know,",
+      "confidence": 0.7757
+    },
+    {
+      "start": 879.68,
+      "end": 883.28,
+      "text": "that they will come when a free humanity will shout.",
+      "confidence": 0.7757
+    },
+    {
+      "start": 883.28,
+      "end": 886.6,
+      "text": "It was a tough battle, O Lord, what we won.",
+      "confidence": 0.7757
+    },
+    {
+      "start": 886.6,
+      "end": 887.76,
+      "text": "Or it was.",
+      "confidence": 0.7757
+    },
+    {
+      "start": 887.76,
+      "end": 889.72,
+      "text": "Each evening, Monday through Friday,",
+      "confidence": 0.7757
+    },
+    {
+      "start": 889.72,
+      "end": 892.32,
+      "text": "a moniker looks abroad with your fallen correspondent,",
+      "confidence": 0.7757
+    },
+    {
+      "start": 892.32,
+      "end": 895.0,
+      "text": "Robert Arden, a radio feature presented over these stations",
+      "confidence": 0.7757
+    },
+    {
+      "start": 895.0,
+      "end": 897.96,
+      "text": "by Dr. Cowan, their friendly credit netted.",
+      "confidence": 0.7757
+    },
+    {
+      "start": 897.96,
+      "end": 901.76,
+      "text": "Until tomorrow evening at our regular time, 745,",
+      "confidence": 0.7757
+    },
+    {
+      "start": 901.76,
+      "end": 904.52,
+      "text": "this is billful or reminding that you can never afford",
+      "confidence": 0.7757
+    },
+    {
+      "start": 904.52,
+      "end": 905.84,
+      "text": "to neglect your teeth.",
+      "confidence": 0.7757
+    },
+    {
+      "start": 905.84,
+      "end": 908.96,
+      "text": "when you can always afford to see Dr. Cowan.",
+      "confidence": 0.7634
+    },
+    {
+      "start": 908.96,
+      "end": 910.8,
+      "text": "The night's broadcast was a transcription",
+      "confidence": 0.7634
+    },
+    {
+      "start": 910.8,
+      "end": 913.04,
+      "text": "of a program heard earlier this evening.",
+      "confidence": 0.7634
+    },
+    {
+      "start": 913.04,
+      "end": 916.08,
+      "text": "This program originates in Warner Brothers Hollywood Studios.",
+      "confidence": 0.7634
+    }
+  ]
+}

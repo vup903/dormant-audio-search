@@ -1,0 +1,1209 @@
+{
+  "id": "1951-10-25-cbs-edward-r-murrow-news",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 870.0,
+  "confidence": 0.7849,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Stay tuned now for Edward R. Murrow with the news presented by Hams, the beer refreshing.",
+      "confidence": 0.8303
+    },
+    {
+      "start": 8.0,
+      "end": 19.0,
+      "text": "Hams is the beer that looks refreshing, dancing gold in your glass, tastes refreshing, crisp and clean cut with smoothness aged in.",
+      "confidence": 0.8303
+    },
+    {
+      "start": 19.0,
+      "end": 28.0,
+      "text": "Yes, Hams is the beer that captures for you the refreshing enchantment of the land it comes from, the land of sky blue waters.",
+      "confidence": 0.8303
+    },
+    {
+      "start": 28.0,
+      "end": 39.2,
+      "text": "When you're dry and thirsty, ask for hands, H, A, Double M, S, Hands, refreshingly yours",
+      "confidence": 0.7997
+    },
+    {
+      "start": 39.2,
+      "end": 46.86,
+      "text": "from the land of sky blue waters. Edward R. Murrow is now in Europe for an",
+      "confidence": 0.7997
+    },
+    {
+      "start": 46.86,
+      "end": 51.96,
+      "text": "on-the-spot survey of the leading capitals and interviews with the men and women",
+      "confidence": 0.7997
+    },
+    {
+      "start": 51.96,
+      "end": 57.4,
+      "text": "who make the news. In a few minutes we will hear Mr. Murrow's report, but first",
+      "confidence": 0.7997
+    },
+    {
+      "start": 57.4,
+      "end": 62.16,
+      "text": "years Bill Shadell with the summary of the news.",
+      "confidence": 0.773
+    },
+    {
+      "start": 62.16,
+      "end": 63.16,
+      "text": "Good evening.",
+      "confidence": 0.773
+    },
+    {
+      "start": 63.16,
+      "end": 67.6,
+      "text": "The big news tonight is, of course, in Britain, where returns are now coming in on the British",
+      "confidence": 0.773
+    },
+    {
+      "start": 67.6,
+      "end": 69.56,
+      "text": "national elections.",
+      "confidence": 0.773
+    },
+    {
+      "start": 69.56,
+      "end": 74.96,
+      "text": "Edward R. Murrow is standing by in London to bring you his report on this day's voting.",
+      "confidence": 0.773
+    },
+    {
+      "start": 74.96,
+      "end": 79.04,
+      "text": "We take you now direct to London and Edward R. Murrow.",
+      "confidence": 0.773
+    },
+    {
+      "start": 79.04,
+      "end": 81.84,
+      "text": "That is London.",
+      "confidence": 0.773
+    },
+    {
+      "start": 81.84,
+      "end": 85.72,
+      "text": "The polls closed and Britain's national election about four hours ago.",
+      "confidence": 0.773
+    },
+    {
+      "start": 85.72,
+      "end": 88.72,
+      "text": "Here is the way the party stand at the moment.",
+      "confidence": 0.7935
+    },
+    {
+      "start": 88.72,
+      "end": 92.72,
+      "text": "We have 100 results out of 625.",
+      "confidence": 0.7935
+    },
+    {
+      "start": 92.72,
+      "end": 95.72,
+      "text": "The labor party have 156.",
+      "confidence": 0.7935
+    },
+    {
+      "start": 95.72,
+      "end": 99.72,
+      "text": "The conservatives, 43 and the liberals won.",
+      "confidence": 0.7935
+    },
+    {
+      "start": 99.72,
+      "end": 107.72,
+      "text": "The refrain all evening as the reports have come in from the constituencies has been no change, no change.",
+      "confidence": 0.7935
+    },
+    {
+      "start": 107.72,
+      "end": 111.72,
+      "text": "So far the labor party has lost five seats in parliament,",
+      "confidence": 0.7935
+    },
+    {
+      "start": 111.72,
+      "end": 115.72,
+      "text": "four of them going to the conservative and one to the liberals.",
+      "confidence": 0.824
+    },
+    {
+      "start": 115.72,
+      "end": 122.72,
+      "text": "In terms of the total popular vote, there has been a swing of about 1.5% to the conservative.",
+      "confidence": 0.824
+    },
+    {
+      "start": 122.72,
+      "end": 130.72,
+      "text": "If this trend continues, it will probably mean a narrow majority of perhaps 20 for the conservatives in the new House of Commons.",
+      "confidence": 0.824
+    },
+    {
+      "start": 130.72,
+      "end": 134.72,
+      "text": "These early returns, of course, are in no sense conclusive.",
+      "confidence": 0.824
+    },
+    {
+      "start": 134.72,
+      "end": 138.72,
+      "text": "But it may be possible to draw certain conclusions from them.",
+      "confidence": 0.824
+    },
+    {
+      "start": 138.72,
+      "end": 143.72,
+      "text": "There is probably no man in Britain who has spent more time analyzing the past,",
+      "confidence": 0.7376
+    },
+    {
+      "start": 143.72,
+      "end": 146.72,
+      "text": "present on future status of British political opinion.",
+      "confidence": 0.7376
+    },
+    {
+      "start": 146.72,
+      "end": 149.72,
+      "text": "Then Dr. Henry Doran, the director of the Gellipoll,",
+      "confidence": 0.7376
+    },
+    {
+      "start": 149.72,
+      "end": 154.72,
+      "text": "is predictions in the past have had a consistent record of accuracy.",
+      "confidence": 0.7376
+    },
+    {
+      "start": 154.72,
+      "end": 158.72,
+      "text": "Dr. Doran, what's happening to the liberal vote in this election?",
+      "confidence": 0.7376
+    },
+    {
+      "start": 158.72,
+      "end": 166.72,
+      "text": "The present indication is that although the liberal can't see church as seat",
+      "confidence": 0.7376
+    },
+    {
+      "start": 166.72,
+      "end": 173.12,
+      "text": "and contested only just over 100 instead of nearly 500 as they did last time.",
+      "confidence": 0.7968
+    },
+    {
+      "start": 173.12,
+      "end": 179.52,
+      "text": "In spite of that careful selection, it seems that their vote is goffing in those 100 constituents.",
+      "confidence": 0.7968
+    },
+    {
+      "start": 179.52,
+      "end": 183.84,
+      "text": "Well, is it going in the constituencies where there is no liberal candidate?",
+      "confidence": 0.7968
+    },
+    {
+      "start": 183.84,
+      "end": 186.56,
+      "text": "Is it going more to the conservatives or more to labor?",
+      "confidence": 0.7968
+    },
+    {
+      "start": 186.56,
+      "end": 191.2,
+      "text": "Uh, I estimate that it's going to the conservatives about two to one.",
+      "confidence": 0.7968
+    },
+    {
+      "start": 191.2,
+      "end": 196.48,
+      "text": "Well, now before the election, you predicted that the conservatives would come in with a small majority.",
+      "confidence": 0.7968
+    },
+    {
+      "start": 196.48,
+      "end": 198.12,
+      "text": "Have you seen anything in the figures tonight",
+      "confidence": 0.7817
+    },
+    {
+      "start": 198.12,
+      "end": 200.44,
+      "text": "to cause you to change that opinion?",
+      "confidence": 0.7817
+    },
+    {
+      "start": 200.44,
+      "end": 203.24,
+      "text": "At the moment, it looks as though that will be the case.",
+      "confidence": 0.7817
+    },
+    {
+      "start": 203.24,
+      "end": 204.8,
+      "text": "You still feel that it will be perhaps",
+      "confidence": 0.7817
+    },
+    {
+      "start": 204.8,
+      "end": 206.96,
+      "text": "the majority of 20 for the conservatives.",
+      "confidence": 0.7817
+    },
+    {
+      "start": 206.96,
+      "end": 209.56,
+      "text": "I guess so at the present time yet.",
+      "confidence": 0.7817
+    },
+    {
+      "start": 209.56,
+      "end": 211.4,
+      "text": "Now, Dr. Durant, what's been happening",
+      "confidence": 0.7817
+    },
+    {
+      "start": 211.4,
+      "end": 214.12,
+      "text": "to the candidates who have been supported by an Iron Bevan,",
+      "confidence": 0.7817
+    },
+    {
+      "start": 214.12,
+      "end": 217.52,
+      "text": "the left-wing leader of the Labour Party?",
+      "confidence": 0.7817
+    },
+    {
+      "start": 217.52,
+      "end": 220.24,
+      "text": "They seem to have done at least as well",
+      "confidence": 0.7817
+    },
+    {
+      "start": 220.24,
+      "end": 222.24,
+      "text": "as the ordinary Labour candidates,",
+      "confidence": 0.7817
+    },
+    {
+      "start": 222.24,
+      "end": 223.96,
+      "text": "and in fact, there is some indication",
+      "confidence": 0.7817
+    },
+    {
+      "start": 223.96,
+      "end": 226.08,
+      "text": "that they have done better.",
+      "confidence": 0.7817
+    },
+    {
+      "start": 226.08,
+      "end": 231.0,
+      "text": "there were two seats in the same count where one labor and both held by labor",
+      "confidence": 0.7293
+    },
+    {
+      "start": 231.0,
+      "end": 235.84,
+      "text": "man one was a bevernite and with the other one wasn't the bevernite has",
+      "confidence": 0.7293
+    },
+    {
+      "start": 235.84,
+      "end": 239.92,
+      "text": "retained his seat the other man the official labor man has locked his seat now",
+      "confidence": 0.7293
+    },
+    {
+      "start": 239.92,
+      "end": 243.68,
+      "text": "you're drawing a conclusion so far about the communist vote and there hasn't",
+      "confidence": 0.7293
+    },
+    {
+      "start": 243.68,
+      "end": 248.28,
+      "text": "been any evidence at all because they are contesting only ten seats and so",
+      "confidence": 0.7293
+    },
+    {
+      "start": 248.28,
+      "end": 252.96,
+      "text": "far there have been no return concerning their seats what's happened to the",
+      "confidence": 0.7293
+    },
+    {
+      "start": 252.96,
+      "end": 257.92,
+      "text": "some total of the popular vote. I believe it was 84% in the last election. What does it look like",
+      "confidence": 0.8315
+    },
+    {
+      "start": 257.92,
+      "end": 262.72,
+      "text": "this time? It seems it's going to be very close to 84 again. On the basis of the return so far,",
+      "confidence": 0.8315
+    },
+    {
+      "start": 262.72,
+      "end": 269.52,
+      "text": "then, in your opinion, your original estimate still stands. I think so, yes. Yes. Do you feel that",
+      "confidence": 0.8315
+    },
+    {
+      "start": 269.52,
+      "end": 273.68,
+      "text": "in the course of the night, when they return to begin to come in from the north, that there is likely",
+      "confidence": 0.8315
+    },
+    {
+      "start": 273.68,
+      "end": 278.4,
+      "text": "to be any substantial change in this trend that has been established now? I doubt it. The trend",
+      "confidence": 0.8315
+    },
+    {
+      "start": 278.4,
+      "end": 281.36,
+      "text": "So far, as we can see, it was universal.",
+      "confidence": 0.7278
+    },
+    {
+      "start": 281.36,
+      "end": 285.2,
+      "text": "And it's your opinion that that will continue to after.",
+      "confidence": 0.7278
+    },
+    {
+      "start": 285.2,
+      "end": 287.44,
+      "text": "Is it dangerous to have such a guest,",
+      "confidence": 0.7278
+    },
+    {
+      "start": 287.44,
+      "end": 289.84,
+      "text": "but if I have to, I would say yes.",
+      "confidence": 0.7278
+    },
+    {
+      "start": 289.84,
+      "end": 293.52,
+      "text": "Well, thank you very much indeed, Dr. Durant.",
+      "confidence": 0.7278
+    },
+    {
+      "start": 293.52,
+      "end": 296.36,
+      "text": "I've never seen an election quite like this one.",
+      "confidence": 0.7278
+    },
+    {
+      "start": 296.36,
+      "end": 298.92,
+      "text": "It seems to me that the only neutrals in London today",
+      "confidence": 0.7278
+    },
+    {
+      "start": 298.92,
+      "end": 300.96,
+      "text": "were the pigeons in Travouder Square",
+      "confidence": 0.7278
+    },
+    {
+      "start": 300.96,
+      "end": 305.72,
+      "text": "and the leaves that were burning in the park here in London.",
+      "confidence": 0.7278
+    },
+    {
+      "start": 305.72,
+      "end": 311.72,
+      "text": "The crowds that were entering the polling booths from lands and to John Egrotes were quiet and orderly.",
+      "confidence": 0.8161
+    },
+    {
+      "start": 312.72,
+      "end": 316.72,
+      "text": "The British take their voting like they take their pleasure, very seriously.",
+      "confidence": 0.8161
+    },
+    {
+      "start": 317.72,
+      "end": 323.72,
+      "text": "Here in London, there was a grim seriousness to be seen on the faces of those who went in to mark their ballot.",
+      "confidence": 0.8161
+    },
+    {
+      "start": 324.72,
+      "end": 328.72,
+      "text": "Most of them looked as old they would like to vote three or four times if the law allowed it.",
+      "confidence": 0.8161
+    },
+    {
+      "start": 329.72,
+      "end": 331.72,
+      "text": "They stood patiently in line waiting their turn.",
+      "confidence": 0.8161
+    },
+    {
+      "start": 331.72,
+      "end": 333.72,
+      "text": "They are accustomed to standing in line.",
+      "confidence": 0.8556
+    },
+    {
+      "start": 333.72,
+      "end": 336.72,
+      "text": "They stand in line for their food, for their butters,",
+      "confidence": 0.8556
+    },
+    {
+      "start": 336.72,
+      "end": 338.72,
+      "text": "and for their paychecks.",
+      "confidence": 0.8556
+    },
+    {
+      "start": 338.72,
+      "end": 341.72,
+      "text": "But there was very little light-hearted banter",
+      "confidence": 0.8556
+    },
+    {
+      "start": 341.72,
+      "end": 343.72,
+      "text": "in this election here in London today.",
+      "confidence": 0.8556
+    },
+    {
+      "start": 343.72,
+      "end": 345.72,
+      "text": "It was a serious business.",
+      "confidence": 0.8556
+    },
+    {
+      "start": 345.72,
+      "end": 348.72,
+      "text": "There was what I would call a grim note about the whole thing.",
+      "confidence": 0.8556
+    },
+    {
+      "start": 348.72,
+      "end": 352.72,
+      "text": "Much more than last year or in the election of 1945.",
+      "confidence": 0.8556
+    },
+    {
+      "start": 352.72,
+      "end": 356.72,
+      "text": "This has been a fairly well-mannered election on the surface,",
+      "confidence": 0.8556
+    },
+    {
+      "start": 356.72,
+      "end": 359.72,
+      "text": "but the real bitterness underlying the whole thing",
+      "confidence": 0.8556
+    },
+    {
+      "start": 359.72,
+      "end": 362.32,
+      "text": "All things can't be concealed.",
+      "confidence": 0.7533
+    },
+    {
+      "start": 362.32,
+      "end": 364.26,
+      "text": "And the result, whatever it is,",
+      "confidence": 0.7533
+    },
+    {
+      "start": 364.26,
+      "end": 366.42,
+      "text": "will leave a great deal of hatred.",
+      "confidence": 0.7533
+    },
+    {
+      "start": 366.42,
+      "end": 369.34,
+      "text": "And much of that hatred will be based upon class.",
+      "confidence": 0.7533
+    },
+    {
+      "start": 370.54,
+      "end": 373.82,
+      "text": "The weather has been good throughout the island.",
+      "confidence": 0.7533
+    },
+    {
+      "start": 373.82,
+      "end": 375.74,
+      "text": "And the building has been heavy.",
+      "confidence": 0.7533
+    },
+    {
+      "start": 375.74,
+      "end": 377.42,
+      "text": "As Dr. Durant indicated a moment ago,",
+      "confidence": 0.7533
+    },
+    {
+      "start": 377.42,
+      "end": 381.74,
+      "text": "it may well go above the 84% registered in the last election.",
+      "confidence": 0.7533
+    },
+    {
+      "start": 383.18,
+      "end": 384.66,
+      "text": "Here in London tonight,",
+      "confidence": 0.7533
+    },
+    {
+      "start": 384.66,
+      "end": 386.42,
+      "text": "one of the favorite power games",
+      "confidence": 0.7533
+    },
+    {
+      "start": 386.42,
+      "end": 390.02,
+      "text": "is getting the composition of the new conservative cabinet.",
+      "confidence": 0.7975
+    },
+    {
+      "start": 390.02,
+      "end": 393.14,
+      "text": "But the feeling still persists that anything can happen,",
+      "confidence": 0.7975
+    },
+    {
+      "start": 393.14,
+      "end": 395.42,
+      "text": "although Dr. Durant, who has been right more often",
+      "confidence": 0.7975
+    },
+    {
+      "start": 395.42,
+      "end": 397.94,
+      "text": "than most of us, still feels that the conservatives",
+      "confidence": 0.7975
+    },
+    {
+      "start": 397.94,
+      "end": 402.66,
+      "text": "will come in with a majority of 20.",
+      "confidence": 0.7975
+    },
+    {
+      "start": 402.66,
+      "end": 404.7,
+      "text": "I think it would be fair to say that there",
+      "confidence": 0.7975
+    },
+    {
+      "start": 404.7,
+      "end": 407.1,
+      "text": "was almost a sense of quiet desperation",
+      "confidence": 0.7975
+    },
+    {
+      "start": 407.1,
+      "end": 409.5,
+      "text": "about the voting here in London today.",
+      "confidence": 0.7975
+    },
+    {
+      "start": 409.5,
+      "end": 411.62,
+      "text": "Watching the crowds, I had the feeling",
+      "confidence": 0.7975
+    },
+    {
+      "start": 411.62,
+      "end": 413.74,
+      "text": "that their minds had been made up.",
+      "confidence": 0.7975
+    },
+    {
+      "start": 413.74,
+      "end": 418.98,
+      "text": "But it hadn't been easy, what did their conviction with firm?",
+      "confidence": 0.8007
+    },
+    {
+      "start": 418.98,
+      "end": 422.22,
+      "text": "There are a lot of parties going on here in London tonight,",
+      "confidence": 0.8007
+    },
+    {
+      "start": 422.22,
+      "end": 425.74,
+      "text": "one for a couple of thousand notables at the Savoy Hotel,",
+      "confidence": 0.8007
+    },
+    {
+      "start": 425.74,
+      "end": 428.34,
+      "text": "given by a conservative publisher.",
+      "confidence": 0.8007
+    },
+    {
+      "start": 428.34,
+      "end": 431.22,
+      "text": "At last report, the conservatives in attendance",
+      "confidence": 0.8007
+    },
+    {
+      "start": 431.22,
+      "end": 433.66,
+      "text": "were not jubilant as a result.",
+      "confidence": 0.8007
+    },
+    {
+      "start": 433.66,
+      "end": 437.06,
+      "text": "But it's much too early for gloom or jubilation.",
+      "confidence": 0.8007
+    },
+    {
+      "start": 437.06,
+      "end": 438.86,
+      "text": "And everyone realizes, of course,",
+      "confidence": 0.8007
+    },
+    {
+      "start": 438.86,
+      "end": 442.06,
+      "text": "that if the conservatives come in with a majority of only 15",
+      "confidence": 0.8007
+    },
+    {
+      "start": 442.06,
+      "end": 447.06,
+      "text": "They will lead a very precarious existence as the government of the United Kingdom.",
+      "confidence": 0.7976
+    },
+    {
+      "start": 447.06,
+      "end": 453.06,
+      "text": "Mr. Churchill and a number of his shadow cabinets are listening to the results that is home in Hyde Park Gate.",
+      "confidence": 0.7976
+    },
+    {
+      "start": 453.06,
+      "end": 458.06,
+      "text": "And many places in London, people who have saved the Baja have broached it.",
+      "confidence": 0.7976
+    },
+    {
+      "start": 458.06,
+      "end": 463.06,
+      "text": "The toast to the future of their party, uncertain as that future may be at the moment.",
+      "confidence": 0.7976
+    },
+    {
+      "start": 463.06,
+      "end": 470.06,
+      "text": "Throughout this campaign, it has appeared that the two parties were grinding against each other on old issues",
+      "confidence": 0.7976
+    },
+    {
+      "start": 470.06,
+      "end": 479.06,
+      "text": "Without damaging each other substantially and the results reported so far do not indicate that either property has drowned very much off the other",
+      "confidence": 0.7284
+    },
+    {
+      "start": 480.06,
+      "end": 486.56,
+      "text": "The latest report just handed me show labor with 71 feet the conservatives with 54",
+      "confidence": 0.7284
+    },
+    {
+      "start": 487.06,
+      "end": 495.56,
+      "text": "The Liberals with one that means that labor has lost five feet that the conservatives have gained four and the Liberals have gained one",
+      "confidence": 0.7284
+    },
+    {
+      "start": 495.56,
+      "end": 504.16,
+      "text": "If you did, Morrow and London, I return you now to Bill Shaddell and New York.",
+      "confidence": 0.7559
+    },
+    {
+      "start": 504.16,
+      "end": 508.8,
+      "text": "The Allies has spelled out their proposals for a ceasefire line in Korea based roughly",
+      "confidence": 0.7559
+    },
+    {
+      "start": 508.8,
+      "end": 510.64,
+      "text": "on present battle lines.",
+      "confidence": 0.7559
+    },
+    {
+      "start": 510.64,
+      "end": 514.52,
+      "text": "The Reds counter proposals may come tonight in the second session of the New Armistice",
+      "confidence": 0.7559
+    },
+    {
+      "start": 514.52,
+      "end": 516.72,
+      "text": "talk scheduled within the hour.",
+      "confidence": 0.7559
+    },
+    {
+      "start": 516.72,
+      "end": 521.92,
+      "text": "Meanwhile, full-scale air war appears to be shaping up over Korea with the Reds for",
+      "confidence": 0.7559
+    },
+    {
+      "start": 521.92,
+      "end": 526.4,
+      "text": "the fifth straight day, making determined efforts to break up the Allied raids, which were",
+      "confidence": 0.795
+    },
+    {
+      "start": 526.4,
+      "end": 529.84,
+      "text": "concentrated today on communist supply lines.",
+      "confidence": 0.795
+    },
+    {
+      "start": 529.84,
+      "end": 536.2,
+      "text": "Our Air Force claims nine locomotives destroyed, 19 others damaged, and one red-plained damage.",
+      "confidence": 0.795
+    },
+    {
+      "start": 536.2,
+      "end": 541.64,
+      "text": "The Reds again sent up more than 80 jet fighters to challenge our fighter bombers.",
+      "confidence": 0.795
+    },
+    {
+      "start": 541.64,
+      "end": 545.88,
+      "text": "In Washington, the critical talks with Iranian Premier Mosadek, over the British Iranian",
+      "confidence": 0.795
+    },
+    {
+      "start": 545.88,
+      "end": 551.56,
+      "text": "oil dispute, shifted today from the Capitol to a far-mouted nearby Middleburg, Virginia,",
+      "confidence": 0.795
+    },
+    {
+      "start": 551.56,
+      "end": 556.24,
+      "text": "As Assistant Secretary of State George McGee entertained the visiting premier,",
+      "confidence": 0.7736
+    },
+    {
+      "start": 556.24,
+      "end": 560.98,
+      "text": "McGee took over the discussions since Secretary Atchison and the Party of Delegates to the",
+      "confidence": 0.7736
+    },
+    {
+      "start": 560.98,
+      "end": 564.2,
+      "text": "UN Assembly were leaving today for Paris.",
+      "confidence": 0.7736
+    },
+    {
+      "start": 564.2,
+      "end": 568.84,
+      "text": "President Truman says he feels some progress is being made in the discussions.",
+      "confidence": 0.7736
+    },
+    {
+      "start": 568.84,
+      "end": 574.48,
+      "text": "Iran signed a trade agreement with Russia today, giving Russia Iranian cotton an exchange",
+      "confidence": 0.7736
+    },
+    {
+      "start": 574.48,
+      "end": 580.48,
+      "text": "for sugar now denied Iran in the British retaliation over oil cancellations.",
+      "confidence": 0.7736
+    },
+    {
+      "start": 580.48,
+      "end": 585.9,
+      "text": "papers made much today over diplomatic talks between Egypt and Russia, overshadowing the",
+      "confidence": 0.7738
+    },
+    {
+      "start": 585.9,
+      "end": 589.26,
+      "text": "American ambassador's talks with King Faroo.",
+      "confidence": 0.7738
+    },
+    {
+      "start": 589.26,
+      "end": 593.46,
+      "text": "In Washington, the State Department denies any U.S. move to mediate the bitter dispute",
+      "confidence": 0.7738
+    },
+    {
+      "start": 593.46,
+      "end": 595.26,
+      "text": "between Egypt and Britain.",
+      "confidence": 0.7738
+    },
+    {
+      "start": 595.26,
+      "end": 600.92,
+      "text": "A British military spokesman admits the boycott by Egyptian labor is creating a critical",
+      "confidence": 0.7738
+    },
+    {
+      "start": 600.92,
+      "end": 604.46,
+      "text": "situation for the British in the Canal Zone.",
+      "confidence": 0.7738
+    },
+    {
+      "start": 604.46,
+      "end": 609.66,
+      "text": "France's Foreign Minister Shuman promised today that if Italy's request for UN membership",
+      "confidence": 0.7738
+    },
+    {
+      "start": 609.66,
+      "end": 615.04,
+      "text": "is vetoed in the Security Council, the question will be taken up in the General Assembly, where",
+      "confidence": 0.8017
+    },
+    {
+      "start": 615.04,
+      "end": 620.7,
+      "text": "a veto is ineffective. President Truman admitted to Newsman today that the controversy over",
+      "confidence": 0.8017
+    },
+    {
+      "start": 620.7,
+      "end": 625.94,
+      "text": "his nomination of General Mark Clark as ambassador to the Vatican, that was not as great as he",
+      "confidence": 0.8017
+    },
+    {
+      "start": 625.94,
+      "end": 631.74,
+      "text": "had expected. A strong redefended his action said there was still plenty of time for the criticism",
+      "confidence": 0.8017
+    },
+    {
+      "start": 631.74,
+      "end": 636.74,
+      "text": "to be aired before Congress takes up the nomination in January.",
+      "confidence": 0.8017
+    },
+    {
+      "start": 636.74,
+      "end": 641.14,
+      "text": "The Agriculture Department tonight predicts higher prices in dairy products.",
+      "confidence": 0.8288
+    },
+    {
+      "start": 641.14,
+      "end": 645.56,
+      "text": "Higher prices for clothing, rents, and food sent the government's cost of living index",
+      "confidence": 0.8288
+    },
+    {
+      "start": 645.56,
+      "end": 651.36,
+      "text": "today to a new record high, which means another round of wage increases for thousands of",
+      "confidence": 0.8288
+    },
+    {
+      "start": 651.36,
+      "end": 655.96,
+      "text": "workers covered by cost of living contracts.",
+      "confidence": 0.8288
+    },
+    {
+      "start": 655.96,
+      "end": 661.48,
+      "text": "Senator Taft has called for a recheck of military expenditures by a joint civilian military",
+      "confidence": 0.8288
+    },
+    {
+      "start": 661.48,
+      "end": 667.64,
+      "text": "commission, since we've just about reached the limit, he says, on taxes. The Senate Preparedness",
+      "confidence": 0.8552
+    },
+    {
+      "start": 667.64,
+      "end": 673.72,
+      "text": "Committee issued another report today criticizing waste of manpower at military bases of the Navy and",
+      "confidence": 0.8552
+    },
+    {
+      "start": 673.72,
+      "end": 680.28,
+      "text": "Marine Corps. A collector of taxes in Brooklyn who was asked to resign this week told House",
+      "confidence": 0.8552
+    },
+    {
+      "start": 680.28,
+      "end": 685.96,
+      "text": "investigators today he perhaps tried last February to get an investigation of his office",
+      "confidence": 0.8552
+    },
+    {
+      "start": 685.96,
+      "end": 691.88,
+      "text": "postpone. A federal grand jury, again indicted, former Commerce Department employee William",
+      "confidence": 0.8132
+    },
+    {
+      "start": 691.88,
+      "end": 698.28,
+      "text": "Remington, on five counts of perjury. Remington had just won an appeal to have a former perjury",
+      "confidence": 0.8132
+    },
+    {
+      "start": 698.28,
+      "end": 704.12,
+      "text": "conviction reversed. While 12 million people here in New York and in surrounding areas were",
+      "confidence": 0.8132
+    },
+    {
+      "start": 704.12,
+      "end": 709.56,
+      "text": "cut off from their normal delivery of milk today in a strike of AFL Teamsters, which is now settled.",
+      "confidence": 0.8132
+    },
+    {
+      "start": 710.12,
+      "end": 714.68,
+      "text": "Striking dockworkers throughout the port of New York agreed earlier today to move some cargoes",
+      "confidence": 0.8132
+    },
+    {
+      "start": 714.68,
+      "end": 720.68,
+      "text": "of military peers, then apparently change their minds as the strike is extended to other eastern",
+      "confidence": 0.8163
+    },
+    {
+      "start": 720.68,
+      "end": 726.6,
+      "text": "ports. This is Bill Siddell. Ed Murrow will be back in a moment with the word for today.",
+      "confidence": 0.8163
+    },
+    {
+      "start": 728.04,
+      "end": 733.72,
+      "text": "These are the days when a scent of burning leaves fills the air. Everywhere folks are busily",
+      "confidence": 0.8163
+    },
+    {
+      "start": 733.72,
+      "end": 739.08,
+      "text": "ricking their yards, planting tulip bulbs, cutting fireplace wood, and getting ready for old man",
+      "confidence": 0.8163
+    },
+    {
+      "start": 739.08,
+      "end": 745.56,
+      "text": "winter. And when it comes time for a break, that's when Ham's beer appears on the scene.",
+      "confidence": 0.8578
+    },
+    {
+      "start": 745.56,
+      "end": 751.22,
+      "text": "For every day, all over America, more and more people are claiming Ham's beer as their",
+      "confidence": 0.8578
+    },
+    {
+      "start": 751.22,
+      "end": 758.16,
+      "text": "kind of beer for real refreshment. Ham's alone, among the country's finest beers, captures",
+      "confidence": 0.8578
+    },
+    {
+      "start": 758.16,
+      "end": 764.44,
+      "text": "an exhilarating bit of the refreshing land where it's brewed, the land of sky blue waters.",
+      "confidence": 0.8578
+    },
+    {
+      "start": 764.44,
+      "end": 771.16,
+      "text": "No matter where you are, when real refreshments call for, that extra refreshing Northland zest",
+      "confidence": 0.8229
+    },
+    {
+      "start": 771.16,
+      "end": 773.12,
+      "text": "is yours to enjoy.",
+      "confidence": 0.8229
+    },
+    {
+      "start": 773.12,
+      "end": 776.28,
+      "text": "You see it in the golden autumn color of hams.",
+      "confidence": 0.8229
+    },
+    {
+      "start": 776.28,
+      "end": 781.68,
+      "text": "You enjoy it in the crisp, clean cut taste with smoothness aged in.",
+      "confidence": 0.8229
+    },
+    {
+      "start": 781.68,
+      "end": 786.72,
+      "text": "Whenever you want something really special in the way of refreshment these busy fall days,",
+      "confidence": 0.8229
+    },
+    {
+      "start": 786.72,
+      "end": 788.2,
+      "text": "just help yourself.",
+      "confidence": 0.8229
+    },
+    {
+      "start": 788.2,
+      "end": 798.44,
+      "text": "a frosty cold, ham's beer, refreshingly yours from the land of sky blue waters.",
+      "confidence": 0.6969
+    },
+    {
+      "start": 798.44,
+      "end": 801.44,
+      "text": "And now, Ed, what's the word for today?",
+      "confidence": 0.6969
+    },
+    {
+      "start": 801.44,
+      "end": 805.24,
+      "text": "Give them a second.",
+      "confidence": 0.6969
+    },
+    {
+      "start": 805.24,
+      "end": 810.6,
+      "text": "Instead of the word for today, I will give you the latest standing of the parties.",
+      "confidence": 0.6969
+    },
+    {
+      "start": 810.6,
+      "end": 816.52,
+      "text": "Labor has 181 seats, the Conservatives 68 and the Liberals 1.",
+      "confidence": 0.6969
+    },
+    {
+      "start": 816.52,
+      "end": 822.32,
+      "text": "And I think perhaps there is time and up, um, Bob Vickson to say that, uh, we may have",
+      "confidence": 0.6942
+    },
+    {
+      "start": 822.32,
+      "end": 828.0,
+      "text": "hoped that Mr. Will Rogers would write when he said, a politician is not as narrow-minded",
+      "confidence": 0.6942
+    },
+    {
+      "start": 828.0,
+      "end": 830.0,
+      "text": "as he forces himself to be.",
+      "confidence": 0.6942
+    },
+    {
+      "start": 830.0,
+      "end": 833.24,
+      "text": "Good night, and good luck.",
+      "confidence": 0.6942
+    },
+    {
+      "start": 833.24,
+      "end": 837.88,
+      "text": "Tune in again tomorrow night for Edward R. Murrow and the News, brought to you by the",
+      "confidence": 0.6942
+    },
+    {
+      "start": 837.88,
+      "end": 840.88,
+      "text": "Ham Brewing Company of St. Paul, Minnesota.",
+      "confidence": 0.6942
+    },
+    {
+      "start": 840.88,
+      "end": 846.88,
+      "text": "Tonight, reach for a bottle of Ham's beer, the beer with the crisp, clean cut flavor all",
+      "confidence": 0.7076
+    },
+    {
+      "start": 846.88,
+      "end": 847.88,
+      "text": "its own.",
+      "confidence": 0.7076
+    },
+    {
+      "start": 847.88,
+      "end": 854.16,
+      "text": "It's truly America's most refreshing beer, from the land of sky blue waters in Chatted",
+      "confidence": 0.7076
+    },
+    {
+      "start": 854.16,
+      "end": 856.88,
+      "text": "Land of Cool Refreshment.",
+      "confidence": 0.7076
+    },
+    {
+      "start": 856.88,
+      "end": 860.88,
+      "text": "Ask for Ham's beer tonight.",
+      "confidence": 0.7076
+    },
+    {
+      "start": 860.88,
+      "end": 863.88,
+      "text": "Listen tomorrow, tomorrow.",
+      "confidence": 0.7076
+    },
+    {
+      "start": 863.88,
+      "end": 865.8,
+      "text": "He Flynn speaking.",
+      "confidence": 0.4781
+    },
+    {
+      "start": 865.8,
+      "end": 868.28,
+      "text": "This is the CDS radio network.",
+      "confidence": 0.4781
+    }
+  ]
+}

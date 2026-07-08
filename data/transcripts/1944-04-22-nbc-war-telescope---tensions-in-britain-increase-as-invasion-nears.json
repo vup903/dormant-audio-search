@@ -1,0 +1,1293 @@
+{
+  "id": "1944-04-22-nbc-war-telescope---tensions-in-britain-increase-as-invasion-nears",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 867.0,
+  "confidence": 0.8068,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Good afternoon, ladies and gentlemen.",
+      "confidence": 0.8065
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Each Saturday afternoon at this time,",
+      "confidence": 0.8065
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "a national broadcasting company brings to the war telescope from London.",
+      "confidence": 0.8065
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "You will hear NBC's observer in the British Capitol, John McVain,",
+      "confidence": 0.8065
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "an interesting discussion of developments of the war.",
+      "confidence": 0.8065
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "So now to London to see what Mr. McVain has in store for us.",
+      "confidence": 0.8065
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Come in, John McVain and London.",
+      "confidence": 0.8065
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "This is John McVain and London.",
+      "confidence": 0.8065
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "As the hour and the day of invasion come closer,",
+      "confidence": 0.8065
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "signs of increased tension are becoming more visible in Britain.",
+      "confidence": 0.8065
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "The people are living on two planes.",
+      "confidence": 0.8065
+    },
+    {
+      "start": 27.0,
+      "end": 32.68,
+      "text": "visible in Britain. The people are living on two planes. One is the round of daily work.",
+      "confidence": 0.841
+    },
+    {
+      "start": 32.68,
+      "end": 37.96,
+      "text": "On that plane, nerves become irritated more quickly than usual. People do their jobs,",
+      "confidence": 0.841
+    },
+    {
+      "start": 37.96,
+      "end": 42.52,
+      "text": "work hard at them, but always with the feeling that everything from now on will be a kind of",
+      "confidence": 0.841
+    },
+    {
+      "start": 42.52,
+      "end": 47.8,
+      "text": "mocking time until the day when the assault begins. You might compare it to what a boxer does",
+      "confidence": 0.841
+    },
+    {
+      "start": 47.8,
+      "end": 52.44,
+      "text": "with his time on the day of a championship fight. He's done his training. Nothing will be really",
+      "confidence": 0.841
+    },
+    {
+      "start": 52.44,
+      "end": 57.16,
+      "text": "important now until he jumps from his chair under the arc lights when the bell sounds for the",
+      "confidence": 0.8518
+    },
+    {
+      "start": 57.16,
+      "end": 62.12,
+      "text": "first round. Meanwhile, he must spend the day going through the motions of eating, sleeping,",
+      "confidence": 0.8518
+    },
+    {
+      "start": 62.12,
+      "end": 67.24,
+      "text": "and diverting himself, but always he knows that life will again seem important to him, only when",
+      "confidence": 0.8518
+    },
+    {
+      "start": 67.24,
+      "end": 71.88,
+      "text": "the second step out of the ring can he stand spacing his opponent with his whole future at stake.",
+      "confidence": 0.8518
+    },
+    {
+      "start": 72.76,
+      "end": 77.08,
+      "text": "For the people of Britain, life on the second plane consisted looking forward to the coming",
+      "confidence": 0.8518
+    },
+    {
+      "start": 77.08,
+      "end": 83.32,
+      "text": "operations, wondering about them speculating, hoping confident that when the attack begins",
+      "confidence": 0.7948
+    },
+    {
+      "start": 83.32,
+      "end": 86.72,
+      "text": "daily life will again take on significance in me.",
+      "confidence": 0.7948
+    },
+    {
+      "start": 86.72,
+      "end": 92.2,
+      "text": "I think it's partly from this feeling of suspended existence that it's been responsible",
+      "confidence": 0.7948
+    },
+    {
+      "start": 92.2,
+      "end": 94.44,
+      "text": "for the wave of strikes in Britain.",
+      "confidence": 0.7948
+    },
+    {
+      "start": 94.44,
+      "end": 98.68,
+      "text": "Bus drivers and conductors in London declare their jangled nerves can't stand more trips",
+      "confidence": 0.7948
+    },
+    {
+      "start": 98.68,
+      "end": 104.16,
+      "text": "per day on the summer schedule, so they strike for a few days and drift back to work.",
+      "confidence": 0.7948
+    },
+    {
+      "start": 104.16,
+      "end": 108.72,
+      "text": "company employees on strike in Manchester, leave housewives with gas cookers",
+      "confidence": 0.7998
+    },
+    {
+      "start": 108.72,
+      "end": 114.3,
+      "text": "facing the prospect of no hot meals over the weekend. The coal strikes in recent",
+      "confidence": 0.7998
+    },
+    {
+      "start": 114.3,
+      "end": 118.68,
+      "text": "weeks, the reached serious proportions. The series of strikes can't be condoned at",
+      "confidence": 0.7998
+    },
+    {
+      "start": 118.68,
+      "end": 123.12,
+      "text": "such a time and isn't by any important body of opinion in Britain. But the fact",
+      "confidence": 0.7998
+    },
+    {
+      "start": 123.12,
+      "end": 128.12,
+      "text": "that they do occur is one manifestation of invasion nerves. From a certain amount",
+      "confidence": 0.7998
+    },
+    {
+      "start": 128.12,
+      "end": 131.72,
+      "text": "of knowledge of the British, I guess that when operations do begin there'll be",
+      "confidence": 0.7998
+    },
+    {
+      "start": 131.72,
+      "end": 133.98,
+      "text": "no strikes in this country.",
+      "confidence": 0.8044
+    },
+    {
+      "start": 133.98,
+      "end": 136.22,
+      "text": "Invasion is a descendable in the government's methods",
+      "confidence": 0.8044
+    },
+    {
+      "start": 136.22,
+      "end": 137.58,
+      "text": "of dealing with the problem.",
+      "confidence": 0.8044
+    },
+    {
+      "start": 137.58,
+      "end": 139.18,
+      "text": "Government spokesmen have been in fine",
+      "confidence": 0.8044
+    },
+    {
+      "start": 139.18,
+      "end": 141.46,
+      "text": "to blame it all on the sinister activities",
+      "confidence": 0.8044
+    },
+    {
+      "start": 141.46,
+      "end": 143.94,
+      "text": "of a few hundred British Trotskyites.",
+      "confidence": 0.8044
+    },
+    {
+      "start": 143.94,
+      "end": 146.38,
+      "text": "At present, there's a great hue and cry about them.",
+      "confidence": 0.8044
+    },
+    {
+      "start": 146.38,
+      "end": 148.5,
+      "text": "For a day or two, played up in the London papers",
+      "confidence": 0.8044
+    },
+    {
+      "start": 148.5,
+      "end": 152.12,
+      "text": "on strictly thriller lines, a new defense regulation",
+      "confidence": 0.8044
+    },
+    {
+      "start": 152.12,
+      "end": 154.26,
+      "text": "drawn up with the consent of the trade unions",
+      "confidence": 0.8044
+    },
+    {
+      "start": 154.26,
+      "end": 156.98,
+      "text": "has been aimed at the Trotskyite agitators.",
+      "confidence": 0.8044
+    },
+    {
+      "start": 156.98,
+      "end": 158.94,
+      "text": "Yet this is all a crude simplification,",
+      "confidence": 0.8044
+    },
+    {
+      "start": 158.94,
+      "end": 162.0,
+      "text": "the surface attempt at dealing with a deep problem.",
+      "confidence": 0.7312
+    },
+    {
+      "start": 162.0,
+      "end": 165.74,
+      "text": "The Trotskyites are undoubtedly guilty of doing as much as they can against the",
+      "confidence": 0.7312
+    },
+    {
+      "start": 165.74,
+      "end": 166.98,
+      "text": "bore effort.",
+      "confidence": 0.7312
+    },
+    {
+      "start": 166.98,
+      "end": 170.54,
+      "text": "But their efforts would be unavailing if second front nerves in the fact that",
+      "confidence": 0.7312
+    },
+    {
+      "start": 170.54,
+      "end": 174.0,
+      "text": "real grievances had been allowed by the government to trail along for years",
+      "confidence": 0.7312
+    },
+    {
+      "start": 174.0,
+      "end": 178.22,
+      "text": "without settlement didn't create the conditions favourable to such unofficial",
+      "confidence": 0.7312
+    },
+    {
+      "start": 178.22,
+      "end": 180.18,
+      "text": "strikes and stoppages.",
+      "confidence": 0.7312
+    },
+    {
+      "start": 180.18,
+      "end": 184.66,
+      "text": "Invasion nerves have shown up even in royal quarters here, only thus can be",
+      "confidence": 0.7312
+    },
+    {
+      "start": 184.66,
+      "end": 188.5,
+      "text": "explained the statement I heard young keen Peter of Yugoslavia make this week to",
+      "confidence": 0.7312
+    },
+    {
+      "start": 188.5,
+      "end": 191.46,
+      "text": "the effect that all the aid the Allies had sent his people",
+      "confidence": 0.79
+    },
+    {
+      "start": 191.46,
+      "end": 194.22,
+      "text": "wouldn't suffice to equip even one battalion.",
+      "confidence": 0.79
+    },
+    {
+      "start": 194.22,
+      "end": 195.98,
+      "text": "I can't recollect any time in history",
+      "confidence": 0.79
+    },
+    {
+      "start": 195.98,
+      "end": 197.82,
+      "text": "in which a monarch cooked his own goose",
+      "confidence": 0.79
+    },
+    {
+      "start": 197.82,
+      "end": 200.02,
+      "text": "so quickly in a single sentence.",
+      "confidence": 0.79
+    },
+    {
+      "start": 200.02,
+      "end": 202.82,
+      "text": "Peter evidently met only me high-loving in his sibs",
+      "confidence": 0.79
+    },
+    {
+      "start": 202.82,
+      "end": 204.78,
+      "text": "when he referred to my people.",
+      "confidence": 0.79
+    },
+    {
+      "start": 204.78,
+      "end": 207.02,
+      "text": "Well, thousands of tons of weapons and equipment",
+      "confidence": 0.79
+    },
+    {
+      "start": 207.02,
+      "end": 209.02,
+      "text": "have been sent to martial detail.",
+      "confidence": 0.79
+    },
+    {
+      "start": 209.02,
+      "end": 210.62,
+      "text": "It was the first time in public then",
+      "confidence": 0.79
+    },
+    {
+      "start": 210.62,
+      "end": 212.74,
+      "text": "that the king proclaimed himself as only the king",
+      "confidence": 0.79
+    },
+    {
+      "start": 212.74,
+      "end": 214.74,
+      "text": "of me high-loving is dwindling force",
+      "confidence": 0.79
+    },
+    {
+      "start": 214.74,
+      "end": 217.3,
+      "text": "instead of the king of all Yugoslavs.",
+      "confidence": 0.79
+    },
+    {
+      "start": 217.3,
+      "end": 221.42,
+      "text": "In fact, if you were betting on the future of the Yugoslav monarchy, something more than",
+      "confidence": 0.8007
+    },
+    {
+      "start": 221.42,
+      "end": 226.26,
+      "text": "a good outside chance might be given to the possibility of a tie-up between Tito and",
+      "confidence": 0.8007
+    },
+    {
+      "start": 226.26,
+      "end": 229.7,
+      "text": "the monarchy in the person of one of King Peter's younger brothers.",
+      "confidence": 0.8007
+    },
+    {
+      "start": 229.7,
+      "end": 234.18,
+      "text": "But even though Britain can give examples of all nerves, constructive work is being done",
+      "confidence": 0.8007
+    },
+    {
+      "start": 234.18,
+      "end": 237.42,
+      "text": "that will help international understanding and cooperation.",
+      "confidence": 0.8007
+    },
+    {
+      "start": 237.42,
+      "end": 243.02,
+      "text": "I heard Representative Fulbright yesterday explain the work that the Allied Educational Reconstruction",
+      "confidence": 0.8007
+    },
+    {
+      "start": 243.02,
+      "end": 247.92,
+      "text": "group is doing. Mr. Fulbright believes that in the cooperation of bodies like UNRA and",
+      "confidence": 0.7853
+    },
+    {
+      "start": 247.92,
+      "end": 253.26,
+      "text": "his committee are being laid, the foundations of political cooperation in the post-war years.",
+      "confidence": 0.7853
+    },
+    {
+      "start": 253.26,
+      "end": 257.9,
+      "text": "The education group will rebuild the wreckage of education in the occupied countries, get",
+      "confidence": 0.7853
+    },
+    {
+      "start": 257.9,
+      "end": 263.62,
+      "text": "classes going, provide teacher training, textbooks, paper, pencils, to make possible training",
+      "confidence": 0.7853
+    },
+    {
+      "start": 263.62,
+      "end": 269.14,
+      "text": "for citizenship of children of our lives after they've been liberated. Such schemes are",
+      "confidence": 0.7853
+    },
+    {
+      "start": 269.14,
+      "end": 274.1,
+      "text": "hopeful for cooperation possible in such varied types of activity as the",
+      "confidence": 0.806
+    },
+    {
+      "start": 274.1,
+      "end": 279.94,
+      "text": "second front education and yesterday's statement about international currency",
+      "confidence": 0.806
+    },
+    {
+      "start": 279.94,
+      "end": 285.54,
+      "text": "should point the way to cooperation and other fields after the war is over. On",
+      "confidence": 0.806
+    },
+    {
+      "start": 285.54,
+      "end": 289.66,
+      "text": "these war telescope broadcasts, you usually hear men with some special",
+      "confidence": 0.806
+    },
+    {
+      "start": 289.66,
+      "end": 294.06,
+      "text": "knowledge discuss some particular phase of the war. Today I'm going to do",
+      "confidence": 0.806
+    },
+    {
+      "start": 294.06,
+      "end": 298.78,
+      "text": "something new. Introduce two of the men who'll be part of NBC's European",
+      "confidence": 0.806
+    },
+    {
+      "start": 298.78,
+      "end": 304.18,
+      "text": "invasion team. They've just arrived in London from New York, Washington, and their first impressions",
+      "confidence": 0.8019
+    },
+    {
+      "start": 304.18,
+      "end": 308.66,
+      "text": "of life in Britain at this crucial moment would perhaps be your impressions if you'd had",
+      "confidence": 0.8019
+    },
+    {
+      "start": 308.66,
+      "end": 313.9,
+      "text": "the chance to make the trip. You'll hear both of these men many times in coming months.",
+      "confidence": 0.8019
+    },
+    {
+      "start": 313.9,
+      "end": 319.9,
+      "text": "One you've heard often in the past year broadcasting from New York. He is W.W. Chaplin, veteran",
+      "confidence": 0.8019
+    },
+    {
+      "start": 319.9,
+      "end": 325.54,
+      "text": "foreign correspondent, and author of the book, 70,000 miles of war. He's been to Russia,",
+      "confidence": 0.8019
+    },
+    {
+      "start": 325.54,
+      "end": 330.74,
+      "text": "near in Cairo, but this is the first time he's been to Britain since September 1939,",
+      "confidence": 0.8037
+    },
+    {
+      "start": 330.74,
+      "end": 336.06,
+      "text": "the first month of the war. The voice of the second will be new to you. He's NBC's",
+      "confidence": 0.8037
+    },
+    {
+      "start": 336.06,
+      "end": 341.42,
+      "text": "Walker correspondent accredited to the U.S. Navy, George Wheeler. He's been a broadcasting",
+      "confidence": 0.8037
+    },
+    {
+      "start": 341.42,
+      "end": 347.42,
+      "text": "executive in Washington, and this is his first trip to Britain in wartime. Now to begin,",
+      "confidence": 0.8037
+    },
+    {
+      "start": 347.42,
+      "end": 352.62,
+      "text": "what do you fellas get as a first impression of Britain in these pre-second front days?",
+      "confidence": 0.8037
+    },
+    {
+      "start": 352.62,
+      "end": 358.26,
+      "text": "You find it's different from September 39 Bill. Well, of course, John, the most obvious",
+      "confidence": 0.7959
+    },
+    {
+      "start": 358.26,
+      "end": 362.76,
+      "text": "difference is the number of Americans here. It's a little hard for me to realize even",
+      "confidence": 0.7959
+    },
+    {
+      "start": 362.76,
+      "end": 368.44,
+      "text": "yet that this is England. Because there are so many Americans here. That's the first",
+      "confidence": 0.7959
+    },
+    {
+      "start": 368.44,
+      "end": 373.96,
+      "text": "impression I had, the first change indexed. Well, the next change I noticed was the result",
+      "confidence": 0.7959
+    },
+    {
+      "start": 373.96,
+      "end": 380.36,
+      "text": "of the bombing, and that came to me only gradually. I got to London that night during an alert",
+      "confidence": 0.7959
+    },
+    {
+      "start": 380.36,
+      "end": 385.46,
+      "text": "incidentally and drove to a hotel through blackout streets deserted except for",
+      "confidence": 0.7861
+    },
+    {
+      "start": 385.46,
+      "end": 389.8,
+      "text": "people who have very special and very important duties at such times.",
+      "confidence": 0.7861
+    },
+    {
+      "start": 389.8,
+      "end": 395.32,
+      "text": "Next morning there seemed to be very few changes the city as a whole is just the",
+      "confidence": 0.7861
+    },
+    {
+      "start": 395.32,
+      "end": 401.32,
+      "text": "same the barrage balloons still look like great grace nails climbing slowly up",
+      "confidence": 0.7861
+    },
+    {
+      "start": 401.32,
+      "end": 405.64,
+      "text": "the wall of the sky and off of the old landmarks to give an impression of",
+      "confidence": 0.7861
+    },
+    {
+      "start": 405.64,
+      "end": 410.56,
+      "text": "business as usual. It was quite suddenly that it came to me that big gaps in",
+      "confidence": 0.8355
+    },
+    {
+      "start": 410.56,
+      "end": 416.2,
+      "text": "rows of buildings didn't indicate new construction. Planned and prepared for by",
+      "confidence": 0.8355
+    },
+    {
+      "start": 416.2,
+      "end": 421.64,
+      "text": "the intentional removal of old buildings. This was bomb damage. The debris",
+      "confidence": 0.8355
+    },
+    {
+      "start": 421.64,
+      "end": 427.6,
+      "text": "neatly swept away. When I was here last no bomb had yet fallen on London. As I've",
+      "confidence": 0.8355
+    },
+    {
+      "start": 427.6,
+      "end": 431.92,
+      "text": "walked around the streets in the past couple of days my eyes have already become",
+      "confidence": 0.8355
+    },
+    {
+      "start": 431.92,
+      "end": 439.28,
+      "text": "educated there are many changes in London does that job with your impression George yes it does John",
+      "confidence": 0.8153
+    },
+    {
+      "start": 439.28,
+      "end": 444.88,
+      "text": "from just a quick look you might get the impression that the bombing wasn't as severe as you'd",
+      "confidence": 0.8153
+    },
+    {
+      "start": 444.88,
+      "end": 452.32,
+      "text": "supposed but taking into account the ability to rebuild and repair the surest indication of the",
+      "confidence": 0.8153
+    },
+    {
+      "start": 452.32,
+      "end": 459.12,
+      "text": "beating that London has taken is the absence of window glass many many blocks have their sightless",
+      "confidence": 0.8153
+    },
+    {
+      "start": 459.12,
+      "end": 464.12,
+      "text": "For reminders, whereas in the other respects, they may appear completely untouched.",
+      "confidence": 0.8455
+    },
+    {
+      "start": 464.12,
+      "end": 469.12,
+      "text": "Well, what do you think of the most outstanding characteristics of life and London at the moment?",
+      "confidence": 0.8455
+    },
+    {
+      "start": 469.12,
+      "end": 475.12,
+      "text": "Well, I've been struck by the contrast between the very old and the very new tradition",
+      "confidence": 0.8455
+    },
+    {
+      "start": 475.12,
+      "end": 479.12,
+      "text": "existing beside advanced economic and sociological thinking,",
+      "confidence": 0.8455
+    },
+    {
+      "start": 479.12,
+      "end": 482.12,
+      "text": "final buildings beside modern architecture.",
+      "confidence": 0.8455
+    },
+    {
+      "start": 482.12,
+      "end": 488.12,
+      "text": "The thing that struck me first and the hardest is the general feeling of calm confidence.",
+      "confidence": 0.8455
+    },
+    {
+      "start": 488.12,
+      "end": 491.12,
+      "text": "It wasn't that way, in 39. It wasn't that way at all.",
+      "confidence": 0.8623
+    },
+    {
+      "start": 491.12,
+      "end": 493.12,
+      "text": "War had just been declared.",
+      "confidence": 0.8623
+    },
+    {
+      "start": 493.12,
+      "end": 497.12,
+      "text": "No one knew what was going to happen in any next minute.",
+      "confidence": 0.8623
+    },
+    {
+      "start": 497.12,
+      "end": 500.12,
+      "text": "But they were quite ready to believe it would be something awful.",
+      "confidence": 0.8623
+    },
+    {
+      "start": 500.12,
+      "end": 503.12,
+      "text": "Children were being evacuated from the big cities.",
+      "confidence": 0.8623
+    },
+    {
+      "start": 503.12,
+      "end": 506.12,
+      "text": "Everyone was carrying gas masks at all times.",
+      "confidence": 0.8623
+    },
+    {
+      "start": 506.12,
+      "end": 509.12,
+      "text": "Even waiters in restaurants wore them,",
+      "confidence": 0.8623
+    },
+    {
+      "start": 509.12,
+      "end": 512.12,
+      "text": "strapped on behind like a bustle while waiting on tables.",
+      "confidence": 0.8623
+    },
+    {
+      "start": 512.12,
+      "end": 514.12,
+      "text": "Well, it isn't like that now.",
+      "confidence": 0.8623
+    },
+    {
+      "start": 514.12,
+      "end": 519.82,
+      "text": "After all, this home front has been a very active war front for a long time.",
+      "confidence": 0.8288
+    },
+    {
+      "start": 519.82,
+      "end": 524.12,
+      "text": "You mean people don't have to wonder about what sort of things may happen?",
+      "confidence": 0.8288
+    },
+    {
+      "start": 524.12,
+      "end": 528.12,
+      "text": "That's it, John. They've been through everything that can happen to a home front",
+      "confidence": 0.8288
+    },
+    {
+      "start": 528.12,
+      "end": 530.12,
+      "text": "and they know all the answers.",
+      "confidence": 0.8288
+    },
+    {
+      "start": 530.12,
+      "end": 536.12,
+      "text": "So, they just go on about their business, calmly, confidently, completely unafraid.",
+      "confidence": 0.8288
+    },
+    {
+      "start": 536.12,
+      "end": 541.12,
+      "text": "To me, it's, well, it's more than reassuring. It's really inspiring.",
+      "confidence": 0.8288
+    },
+    {
+      "start": 541.12,
+      "end": 545.12,
+      "text": "Do you think this British attitude has had its effect on all our people here?",
+      "confidence": 0.8308
+    },
+    {
+      "start": 545.12,
+      "end": 547.12,
+      "text": "I think it must have had.",
+      "confidence": 0.8308
+    },
+    {
+      "start": 547.12,
+      "end": 553.12,
+      "text": "Competence and calm are just as contagious, just as catching as our hysteria, bewilderment",
+      "confidence": 0.8308
+    },
+    {
+      "start": 553.12,
+      "end": 555.12,
+      "text": "and the jitters of any kind.",
+      "confidence": 0.8308
+    },
+    {
+      "start": 555.12,
+      "end": 560.12,
+      "text": "Certainly even the little time I've been here has been long enough to show very plainly",
+      "confidence": 0.8308
+    },
+    {
+      "start": 560.12,
+      "end": 564.12,
+      "text": "that our folks here aren't suffering from any kind of jitters.",
+      "confidence": 0.8308
+    },
+    {
+      "start": 564.12,
+      "end": 569.12,
+      "text": "And I think the British attitudes must have been a big help to them when they were getting settled in.",
+      "confidence": 0.8308
+    },
+    {
+      "start": 569.12,
+      "end": 571.88,
+      "text": "I've been noticing a lot of little things.",
+      "confidence": 0.8039
+    },
+    {
+      "start": 571.88,
+      "end": 574.08,
+      "text": "For instance, a notice in the papers,",
+      "confidence": 0.8039
+    },
+    {
+      "start": 574.08,
+      "end": 577.36,
+      "text": "proposing a share of the ride scheme for taxi cabs.",
+      "confidence": 0.8039
+    },
+    {
+      "start": 577.36,
+      "end": 578.52,
+      "text": "That's a little amazing, you know,",
+      "confidence": 0.8039
+    },
+    {
+      "start": 578.52,
+      "end": 581.76,
+      "text": "because we've been doing that in many American cities",
+      "confidence": 0.8039
+    },
+    {
+      "start": 581.76,
+      "end": 583.64,
+      "text": "for a long time.",
+      "confidence": 0.8039
+    },
+    {
+      "start": 583.64,
+      "end": 587.32,
+      "text": "And I think rationing is much more complete here than at home.",
+      "confidence": 0.8039
+    },
+    {
+      "start": 587.32,
+      "end": 589.88,
+      "text": "The ordinary man doesn't seem to be as affected",
+      "confidence": 0.8039
+    },
+    {
+      "start": 589.88,
+      "end": 593.36,
+      "text": "by inflation as his counterpart in the States.",
+      "confidence": 0.8039
+    },
+    {
+      "start": 593.36,
+      "end": 597.16,
+      "text": "As long as he keeps living an ordinary life, he's all right.",
+      "confidence": 0.8039
+    },
+    {
+      "start": 597.16,
+      "end": 600.72,
+      "text": "It's when he wants to kick up his heel, but he feels the pinch.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 600.72,
+      "end": 603.2,
+      "text": "But even the ordinary man has to pay 50 cents",
+      "confidence": 0.7838
+    },
+    {
+      "start": 603.2,
+      "end": 605.44,
+      "text": "a pack for his cigarettes, George.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 605.44,
+      "end": 607.72,
+      "text": "And I think you'll get a shark when you go to the movies",
+      "confidence": 0.7838
+    },
+    {
+      "start": 607.72,
+      "end": 610.6,
+      "text": "and have to fork over a couple of dollars a seat.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 610.6,
+      "end": 612.84,
+      "text": "But Bill, were conditions here any different",
+      "confidence": 0.7838
+    },
+    {
+      "start": 612.84,
+      "end": 614.08,
+      "text": "from what you expected?",
+      "confidence": 0.7838
+    },
+    {
+      "start": 614.08,
+      "end": 615.4,
+      "text": "Yes, I worked on.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 615.4,
+      "end": 617.56,
+      "text": "I'd expect it to see things generally.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 617.56,
+      "end": 619.64,
+      "text": "It seems a lot more than they are.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 619.64,
+      "end": 621.64,
+      "text": "I thought the people would be changed more",
+      "confidence": 0.7838
+    },
+    {
+      "start": 621.64,
+      "end": 623.2,
+      "text": "by what they've gone through.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 623.2,
+      "end": 625.52,
+      "text": "I thought all the physical hardships.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 625.52,
+      "end": 628.44,
+      "text": "the law of taxation, the rationing, all that sort of thing.",
+      "confidence": 0.8022
+    },
+    {
+      "start": 628.44,
+      "end": 630.88,
+      "text": "I thought it would show more on the surface.",
+      "confidence": 0.8022
+    },
+    {
+      "start": 630.88,
+      "end": 633.24,
+      "text": "Actually, it hardly shows at all.",
+      "confidence": 0.8022
+    },
+    {
+      "start": 633.24,
+      "end": 634.4,
+      "text": "On the surface.",
+      "confidence": 0.8022
+    },
+    {
+      "start": 634.4,
+      "end": 637.84,
+      "text": "What's your first impression of the American army over here, Bill?",
+      "confidence": 0.8022
+    },
+    {
+      "start": 637.84,
+      "end": 640.08,
+      "text": "Well, of course, I really haven't had a chance",
+      "confidence": 0.8022
+    },
+    {
+      "start": 640.08,
+      "end": 641.44,
+      "text": "to see much of it.",
+      "confidence": 0.8022
+    },
+    {
+      "start": 641.44,
+      "end": 643.08,
+      "text": "Nothing of it in the field.",
+      "confidence": 0.8022
+    },
+    {
+      "start": 643.08,
+      "end": 645.96,
+      "text": "But the judge, just from what you can see in London,",
+      "confidence": 0.8022
+    },
+    {
+      "start": 645.96,
+      "end": 649.68,
+      "text": "I'd say that our army here is an army ready to go.",
+      "confidence": 0.8022
+    },
+    {
+      "start": 649.68,
+      "end": 651.72,
+      "text": "Certainly the morale is tops.",
+      "confidence": 0.8022
+    },
+    {
+      "start": 651.72,
+      "end": 655.72,
+      "text": "And I'm told that a degree, the perfection of training, is just as high.",
+      "confidence": 0.8237
+    },
+    {
+      "start": 655.72,
+      "end": 658.72,
+      "text": "You came over with a Navy George. What's that angle?",
+      "confidence": 0.8237
+    },
+    {
+      "start": 658.72,
+      "end": 667.72,
+      "text": "Well, I got a wonderful tick out of the way men who are once bankers and butchers and beer salesmen have pitched in with the regulars.",
+      "confidence": 0.8237
+    },
+    {
+      "start": 667.72,
+      "end": 676.72,
+      "text": "As an American, it made me pretty proud to see the way they're doing a terrifically complicated business of running convoys and fighting ships.",
+      "confidence": 0.8237
+    },
+    {
+      "start": 676.72,
+      "end": 678.72,
+      "text": "Any incidents you remember in particular?",
+      "confidence": 0.8237
+    },
+    {
+      "start": 678.72,
+      "end": 683.72,
+      "text": "Well, I can't say much, of course, but there was one story that I think is worth telling.",
+      "confidence": 0.8498
+    },
+    {
+      "start": 683.72,
+      "end": 686.72,
+      "text": "It was the story of a colored mess attendant.",
+      "confidence": 0.8498
+    },
+    {
+      "start": 686.72,
+      "end": 692.72,
+      "text": "He used to spend all his spare time studying up on plain recognition, silhouettes and that sort of thing.",
+      "confidence": 0.8498
+    },
+    {
+      "start": 692.72,
+      "end": 696.72,
+      "text": "One of the officers heard about him and decided to give him a test.",
+      "confidence": 0.8498
+    },
+    {
+      "start": 696.72,
+      "end": 700.72,
+      "text": "The final exam for experts consisted of identifying silhouettes,",
+      "confidence": 0.8498
+    },
+    {
+      "start": 700.72,
+      "end": 704.72,
+      "text": "shown on a screen in a darkened room for only a 50th of a second.",
+      "confidence": 0.8498
+    },
+    {
+      "start": 704.72,
+      "end": 709.72,
+      "text": "This colored mess attendant quietly identified 100 out of 100.",
+      "confidence": 0.8456
+    },
+    {
+      "start": 709.72,
+      "end": 713.72,
+      "text": "They set the machine to 100th of a second per flash.",
+      "confidence": 0.8456
+    },
+    {
+      "start": 713.72,
+      "end": 717.72,
+      "text": "The mess attendant's average fell to 95 out of 100.",
+      "confidence": 0.8456
+    },
+    {
+      "start": 717.72,
+      "end": 721.72,
+      "text": "Then half apologetically, he proceeded to give the nationalities",
+      "confidence": 0.8456
+    },
+    {
+      "start": 721.72,
+      "end": 724.72,
+      "text": "and general types of the remaining five planes.",
+      "confidence": 0.8456
+    },
+    {
+      "start": 724.72,
+      "end": 728.72,
+      "text": "And now when the bosons whistle sounds all hands to general quarters,",
+      "confidence": 0.8456
+    },
+    {
+      "start": 728.72,
+      "end": 733.72,
+      "text": "that slight shy steward's mate is not a mess attendant anymore.",
+      "confidence": 0.8456
+    },
+    {
+      "start": 733.72,
+      "end": 740.1,
+      "text": "He's assistant to the gunnery officer for the whole ship pretty good. He's the lucky man to have eyes like that",
+      "confidence": 0.764
+    },
+    {
+      "start": 740.66,
+      "end": 744.46,
+      "text": "Speaking of ships. What do you hope to do covering the Navy in the invasion George?",
+      "confidence": 0.764
+    },
+    {
+      "start": 744.46,
+      "end": 750.46,
+      "text": "Well, I hope to get wherever and whatever there is of naval action and recorded on the spot John at sea",
+      "confidence": 0.764
+    },
+    {
+      "start": 750.7,
+      "end": 756.14,
+      "text": "I've been experimenting with the up-to-the-minute recording device. We hope to rush these",
+      "confidence": 0.764
+    },
+    {
+      "start": 756.54,
+      "end": 762.76,
+      "text": "recordings away and broadcast them home as quickly as as humanly possible. What about your trip over here, Bill?",
+      "confidence": 0.764
+    },
+    {
+      "start": 762.76,
+      "end": 767.32,
+      "text": "So your first sight of Britain, an American air base, that sort of thing.",
+      "confidence": 0.7888
+    },
+    {
+      "start": 767.32,
+      "end": 771.92,
+      "text": "Well, John, I'm really not sure just how much I can say about things like that yet.",
+      "confidence": 0.7888
+    },
+    {
+      "start": 771.92,
+      "end": 775.52,
+      "text": "You always have to find out the ground rules in each new theater.",
+      "confidence": 0.7888
+    },
+    {
+      "start": 775.52,
+      "end": 780.76,
+      "text": "But certainly I can say that I came by air in one of the big planes of our air transport",
+      "confidence": 0.7888
+    },
+    {
+      "start": 780.76,
+      "end": 786.52,
+      "text": "command, and that it was a very nice trip, not so much as a bump all the way from Washington",
+      "confidence": 0.7888
+    },
+    {
+      "start": 786.52,
+      "end": 791.28,
+      "text": "to Wells and to the place we landed somewhere in the United Kingdom.",
+      "confidence": 0.7888
+    },
+    {
+      "start": 791.28,
+      "end": 796.6,
+      "text": "asked about an American airbase. The only one I've seen so far is that place we landed.",
+      "confidence": 0.8161
+    },
+    {
+      "start": 796.6,
+      "end": 802.4,
+      "text": "And I guess all I can say about that is that it was impressive, very impressive. If everything",
+      "confidence": 0.8161
+    },
+    {
+      "start": 802.4,
+      "end": 807.96,
+      "text": "over here is as smooth as that airbase. And I understand it is. Well, then I can understand",
+      "confidence": 0.8161
+    },
+    {
+      "start": 807.96,
+      "end": 813.88,
+      "text": "why the German radio is having such a case of high temperature invasion jitters as it",
+      "confidence": 0.8161
+    },
+    {
+      "start": 813.88,
+      "end": 818.84,
+      "text": "is right now. And I shouldn't be surprised if not the high temperature got higher still",
+      "confidence": 0.8161
+    },
+    {
+      "start": 818.84,
+      "end": 824.64,
+      "text": "before it's over. Thank you, Bill Chaplin and George Wheeler. This is John McVeigh returning",
+      "confidence": 0.7686
+    },
+    {
+      "start": 824.64,
+      "end": 832.76,
+      "text": "you to the NBC Newsroom in New York. And so ends another of NBC's War Telescope broadcast,",
+      "confidence": 0.7686
+    },
+    {
+      "start": 832.76,
+      "end": 837.96,
+      "text": "a regular weekly presentation from the NBC Newsroom in New York. During today's program, you'll",
+      "confidence": 0.7686
+    },
+    {
+      "start": 837.96,
+      "end": 843.2,
+      "text": "heard John McVeigh and NBC's Observer in London presenting WWW Chaplin and George Wheeler,",
+      "confidence": 0.7686
+    },
+    {
+      "start": 843.2,
+      "end": 850.2,
+      "text": "BC's newly arrived observers in London. This is the National Broadcasting Company.",
+      "confidence": 0.6421
+    }
+  ]
+}

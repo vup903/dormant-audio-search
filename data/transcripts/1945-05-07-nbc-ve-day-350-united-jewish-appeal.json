@@ -1,0 +1,1041 @@
+{
+  "id": "1945-05-07-nbc-ve-day-350-united-jewish-appeal",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 889.9,
+  "confidence": 0.7919,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 18.62,
+      "text": "The E-Day Plus 350 The National Broadcasting Company makes its facilities",
+      "confidence": 0.6519
+    },
+    {
+      "start": 18.62,
+      "end": 25.02,
+      "text": "available for a special program, the E-Day Plus 350 and the behalf of the United Jewish",
+      "confidence": 0.6519
+    },
+    {
+      "start": 25.02,
+      "end": 31.18,
+      "text": "appeal for refugees, overseas needs, and Palestine, featuring Quentin Reynolds, noted bar and",
+      "confidence": 0.7655
+    },
+    {
+      "start": 31.18,
+      "end": 36.94,
+      "text": "correspondent, and Lady Christians, is the English star of stage and screened in an original",
+      "confidence": 0.7655
+    },
+    {
+      "start": 36.94,
+      "end": 43.18,
+      "text": "radio play. The honorable Henry Morgan Ford Jr. will be heard in a brief address. The United",
+      "confidence": 0.7655
+    },
+    {
+      "start": 43.18,
+      "end": 48.78,
+      "text": "Jewish Appeal provides the funds for a worldwide program of relief, rehabilitation, and resettlement",
+      "confidence": 0.7655
+    },
+    {
+      "start": 48.78,
+      "end": 52.78,
+      "text": "of the 1,400,000 Jewish survivors of Hitlerism.",
+      "confidence": 0.8404
+    },
+    {
+      "start": 52.78,
+      "end": 55.78,
+      "text": "The constituent agencies of the United Jewish Appeal,",
+      "confidence": 0.8404
+    },
+    {
+      "start": 55.78,
+      "end": 57.78,
+      "text": "which carry on this humanitarian effort,",
+      "confidence": 0.8404
+    },
+    {
+      "start": 57.78,
+      "end": 59.78,
+      "text": "are the Joint Distribution Committee,",
+      "confidence": 0.8404
+    },
+    {
+      "start": 59.78,
+      "end": 61.78,
+      "text": "the United Palestine Appeal,",
+      "confidence": 0.8404
+    },
+    {
+      "start": 61.78,
+      "end": 63.78,
+      "text": "and the National Refugee Service.",
+      "confidence": 0.8404
+    },
+    {
+      "start": 70.78,
+      "end": 72.78,
+      "text": "Good evening. This is Quentin Reynolds reporting.",
+      "confidence": 0.8404
+    },
+    {
+      "start": 72.78,
+      "end": 76.78,
+      "text": "Today is V.E. Day plus 350.",
+      "confidence": 0.8404
+    },
+    {
+      "start": 76.78,
+      "end": 81.66,
+      "text": "350 days since we smashed the Nazis into submission.",
+      "confidence": 0.757
+    },
+    {
+      "start": 81.66,
+      "end": 86.94,
+      "text": "In those 350 days since the E-Day, peace has come to America.",
+      "confidence": 0.757
+    },
+    {
+      "start": 86.94,
+      "end": 90.46,
+      "text": "And with it the opportunity for a lasting peace this time.",
+      "confidence": 0.757
+    },
+    {
+      "start": 90.46,
+      "end": 94.78,
+      "text": "But as we look around the world, what do we find?",
+      "confidence": 0.757
+    },
+    {
+      "start": 94.78,
+      "end": 97.26,
+      "text": "The gaping wounds of war are still bleeding.",
+      "confidence": 0.757
+    },
+    {
+      "start": 97.26,
+      "end": 100.86,
+      "text": "Yes, and the casualties are still mounting.",
+      "confidence": 0.757
+    },
+    {
+      "start": 100.86,
+      "end": 105.7,
+      "text": "Europe has been ripped by a giant rake leaving wreckage and ruins everywhere.",
+      "confidence": 0.757
+    },
+    {
+      "start": 105.7,
+      "end": 114.7,
+      "text": "In the backwash of war came famine and pestilence, homelessness and new hates that made breathe the next war.",
+      "confidence": 0.7424
+    },
+    {
+      "start": 117.7,
+      "end": 121.7,
+      "text": "We do not read for the dead, they're beyond help.",
+      "confidence": 0.7424
+    },
+    {
+      "start": 122.7,
+      "end": 127.7,
+      "text": "We read for the living as the breath goes out of them before health reaches them.",
+      "confidence": 0.7424
+    },
+    {
+      "start": 127.7,
+      "end": 131.7,
+      "text": "At the rubble in the ruin that is Europe today,",
+      "confidence": 0.7856
+    },
+    {
+      "start": 131.7,
+      "end": 134.7,
+      "text": "I've seen Hubble together a handful of homeless,",
+      "confidence": 0.7856
+    },
+    {
+      "start": 134.7,
+      "end": 137.7,
+      "text": "ruthless, despairing Jews.",
+      "confidence": 0.7856
+    },
+    {
+      "start": 137.7,
+      "end": 141.7,
+      "text": "They were soldiers too, soldiers without weapons.",
+      "confidence": 0.7856
+    },
+    {
+      "start": 141.7,
+      "end": 144.7,
+      "text": "I walked through the muck in the mire of Hitler's inferno.",
+      "confidence": 0.7856
+    },
+    {
+      "start": 144.7,
+      "end": 147.7,
+      "text": "I saw the victims, the dead in the living dead.",
+      "confidence": 0.7856
+    },
+    {
+      "start": 147.7,
+      "end": 152.7,
+      "text": "And I smelled a foul and a scrapable stench of the death factories.",
+      "confidence": 0.7856
+    },
+    {
+      "start": 152.7,
+      "end": 154.7,
+      "text": "Here is the roll call.",
+      "confidence": 0.7856
+    },
+    {
+      "start": 154.7,
+      "end": 164.7,
+      "text": "My Daneck, Auschwitz, Dachau, Buchenwald,",
+      "confidence": 0.6566
+    },
+    {
+      "start": 164.7,
+      "end": 166.7,
+      "text": "Beg in Belsen.",
+      "confidence": 0.6566
+    },
+    {
+      "start": 169.7,
+      "end": 174.7,
+      "text": "The graveyards of six million Jews, soldiers of democracy.",
+      "confidence": 0.6566
+    },
+    {
+      "start": 174.7,
+      "end": 180.7,
+      "text": "Six out of seven Jews perished in Europe and more are still dying.",
+      "confidence": 0.6566
+    },
+    {
+      "start": 180.7,
+      "end": 187.7,
+      "text": "cut down by Hitler's rear guard, hunger, homelessness, despair, and disease.",
+      "confidence": 0.7788
+    },
+    {
+      "start": 187.7,
+      "end": 193.7,
+      "text": "On Beeday Plus 350, there is still the grim danger that our inaction",
+      "confidence": 0.7788
+    },
+    {
+      "start": 193.7,
+      "end": 199.7,
+      "text": "may finish Hitler's job of extermination. On Beeday Plus 350,",
+      "confidence": 0.7788
+    },
+    {
+      "start": 199.7,
+      "end": 204.7,
+      "text": "there are 100,000 Jews in displaced persons camps.",
+      "confidence": 0.7788
+    },
+    {
+      "start": 204.7,
+      "end": 208.7,
+      "text": "Prisons without bars.",
+      "confidence": 0.7788
+    },
+    {
+      "start": 208.7,
+      "end": 213.7,
+      "text": "I lived through the battle of the Warsaw ghetto. We fought them off for 53 days.",
+      "confidence": 0.8748
+    },
+    {
+      "start": 213.7,
+      "end": 217.7,
+      "text": "Finally they smashed us with tanks, with flamethrowers, with bombs.",
+      "confidence": 0.8748
+    },
+    {
+      "start": 217.7,
+      "end": 220.7,
+      "text": "A few of us escaped out of thousands.",
+      "confidence": 0.8748
+    },
+    {
+      "start": 220.7,
+      "end": 224.7,
+      "text": "And now I am here, a displaced person.",
+      "confidence": 0.8748
+    },
+    {
+      "start": 224.7,
+      "end": 229.7,
+      "text": "I tried to go back to my old home. When I got there they drove me out.",
+      "confidence": 0.8748
+    },
+    {
+      "start": 229.7,
+      "end": 236.7,
+      "text": "So here I am again. Is this camp the only place in the world where I can be safe?",
+      "confidence": 0.8748
+    },
+    {
+      "start": 236.7,
+      "end": 241.7,
+      "text": "As the world forgotten us, there only a few of us left.",
+      "confidence": 0.7475
+    },
+    {
+      "start": 241.7,
+      "end": 246.7,
+      "text": "But we too share the fate of our martyred brothers now that peace has come.",
+      "confidence": 0.7475
+    },
+    {
+      "start": 248.7,
+      "end": 256.7,
+      "text": "That is what I heard in Bergen-Belson, liberated one year ago on the day that Franklin Delano rose what was buried.",
+      "confidence": 0.7475
+    },
+    {
+      "start": 256.7,
+      "end": 265.7,
+      "text": "Today, V.E. Day plus 350, 10,000 homeless Jews remain in these barracks of grim memories.",
+      "confidence": 0.7475
+    },
+    {
+      "start": 266.7,
+      "end": 273.7,
+      "text": "My name is Rachel, once there were six of us.",
+      "confidence": 0.779
+    },
+    {
+      "start": 273.7,
+      "end": 276.7,
+      "text": "We lived in Vienna.",
+      "confidence": 0.779
+    },
+    {
+      "start": 276.7,
+      "end": 278.7,
+      "text": "My father was an engineer.",
+      "confidence": 0.779
+    },
+    {
+      "start": 278.7,
+      "end": 281.7,
+      "text": "My mother took care of our home.",
+      "confidence": 0.779
+    },
+    {
+      "start": 281.7,
+      "end": 285.7,
+      "text": "My older sister has been lived with us.",
+      "confidence": 0.779
+    },
+    {
+      "start": 285.7,
+      "end": 288.7,
+      "text": "I had a young brother.",
+      "confidence": 0.779
+    },
+    {
+      "start": 288.7,
+      "end": 292.7,
+      "text": "Have you ever dreamed of the tune of a Viennese voice?",
+      "confidence": 0.779
+    },
+    {
+      "start": 292.7,
+      "end": 296.7,
+      "text": "Is it possible that he once did such a thing?",
+      "confidence": 0.816
+    },
+    {
+      "start": 296.7,
+      "end": 300.7,
+      "text": "He had music in our concentration camp, too.",
+      "confidence": 0.816
+    },
+    {
+      "start": 300.7,
+      "end": 303.7,
+      "text": "The urge of death.",
+      "confidence": 0.816
+    },
+    {
+      "start": 303.7,
+      "end": 306.7,
+      "text": "What happened to my family, don't you know?",
+      "confidence": 0.816
+    },
+    {
+      "start": 306.7,
+      "end": 311.7,
+      "text": "They're all gone, murdered by the Nazi.",
+      "confidence": 0.816
+    },
+    {
+      "start": 311.7,
+      "end": 314.7,
+      "text": "The war is over.",
+      "confidence": 0.816
+    },
+    {
+      "start": 314.7,
+      "end": 317.7,
+      "text": "I'm the only one left.",
+      "confidence": 0.816
+    },
+    {
+      "start": 317.7,
+      "end": 321.7,
+      "text": "But I'm still in the same camp by the Nazis kept me.",
+      "confidence": 0.816
+    },
+    {
+      "start": 321.7,
+      "end": 325.7,
+      "text": "How long must I stay here?",
+      "confidence": 0.8439
+    },
+    {
+      "start": 325.7,
+      "end": 328.7,
+      "text": "I have no family, no home.",
+      "confidence": 0.8439
+    },
+    {
+      "start": 328.7,
+      "end": 333.7,
+      "text": "I cannot go back to the country where my people were murdered.",
+      "confidence": 0.8439
+    },
+    {
+      "start": 333.7,
+      "end": 335.7,
+      "text": "Where should I go?",
+      "confidence": 0.8439
+    },
+    {
+      "start": 335.7,
+      "end": 338.7,
+      "text": "Don't lose hope, Rachel. There are people who want you.",
+      "confidence": 0.8439
+    },
+    {
+      "start": 338.7,
+      "end": 340.7,
+      "text": "They will rescue you.",
+      "confidence": 0.8439
+    },
+    {
+      "start": 340.7,
+      "end": 343.7,
+      "text": "Help is coming from America to keep you and the others alive.",
+      "confidence": 0.8439
+    },
+    {
+      "start": 343.7,
+      "end": 346.7,
+      "text": "Food, clothing and shelter will reach you.",
+      "confidence": 0.8439
+    },
+    {
+      "start": 346.7,
+      "end": 350.7,
+      "text": "Let me take you to a JDC farm school in Holland",
+      "confidence": 0.8439
+    },
+    {
+      "start": 350.7,
+      "end": 355.7,
+      "text": "where thousands of young people like you are preparing for life in a free land.",
+      "confidence": 0.8151
+    },
+    {
+      "start": 359.7,
+      "end": 362.7,
+      "text": "We dance the horror to this tune.",
+      "confidence": 0.8151
+    },
+    {
+      "start": 362.7,
+      "end": 365.7,
+      "text": "It's the dance of the Palestine Pioneers.",
+      "confidence": 0.8151
+    },
+    {
+      "start": 365.7,
+      "end": 368.7,
+      "text": "We dance it after school, after work.",
+      "confidence": 0.8151
+    },
+    {
+      "start": 368.7,
+      "end": 370.7,
+      "text": "I'm living again.",
+      "confidence": 0.8151
+    },
+    {
+      "start": 370.7,
+      "end": 374.7,
+      "text": "There's health and there's hope.",
+      "confidence": 0.8151
+    },
+    {
+      "start": 374.7,
+      "end": 379.7,
+      "text": "I'm learning all about farming, gardens, vineyards, livestock, poultry.",
+      "confidence": 0.8151
+    },
+    {
+      "start": 379.7,
+      "end": 386.7,
+      "text": "There are many of us here from Austria, Romania, Poland, France, Hungary, Holland, and Belgium.",
+      "confidence": 0.8504
+    },
+    {
+      "start": 386.7,
+      "end": 390.7,
+      "text": "We are training to become pioneers in Palestine.",
+      "confidence": 0.8504
+    },
+    {
+      "start": 390.7,
+      "end": 393.7,
+      "text": "That is the land we are dreaming of.",
+      "confidence": 0.8504
+    },
+    {
+      "start": 393.7,
+      "end": 397.7,
+      "text": "The promised land of our ancestors.",
+      "confidence": 0.8504
+    },
+    {
+      "start": 397.7,
+      "end": 402.7,
+      "text": "There we'll be able to forget what our eyes have seen, what our bodies have suffered,",
+      "confidence": 0.8504
+    },
+    {
+      "start": 402.7,
+      "end": 411.34,
+      "text": "But what our souls have sorrowed, but it is too much hope for me.",
+      "confidence": 0.6824
+    },
+    {
+      "start": 411.34,
+      "end": 414.02,
+      "text": "All of us yearned to go there, but there are many obstacles,",
+      "confidence": 0.6824
+    },
+    {
+      "start": 414.02,
+      "end": 417.14,
+      "text": "and I'm not sure that I shall be one of the lucky ones.",
+      "confidence": 0.6824
+    },
+    {
+      "start": 417.14,
+      "end": 421.22,
+      "text": "Curricut, Rachel, your friends in America will not forsake you.",
+      "confidence": 0.6824
+    },
+    {
+      "start": 421.22,
+      "end": 424.82,
+      "text": "Tens of thousands have already been helped to go to Palestine.",
+      "confidence": 0.6824
+    },
+    {
+      "start": 428.82,
+      "end": 431.22,
+      "text": "Attention, land off the port bow.",
+      "confidence": 0.6824
+    },
+    {
+      "start": 432.7,
+      "end": 440.54,
+      "text": "It's really true. We are nearing the port of Haifa. I'm afraid I shall wake up and find myself",
+      "confidence": 0.7775
+    },
+    {
+      "start": 440.54,
+      "end": 449.7,
+      "text": "back in Bergen-Belden. But no, this is no dream. I can see the faint outlines of the hills",
+      "confidence": 0.7775
+    },
+    {
+      "start": 449.7,
+      "end": 457.02,
+      "text": "of Lebanon, and in my eyes I can see the crowds at the dock waiting to welcome us. Here",
+      "confidence": 0.7775
+    },
+    {
+      "start": 457.02,
+      "end": 461.02,
+      "text": "in this world, in this new land, as your work has never been fought,",
+      "confidence": 0.7676
+    },
+    {
+      "start": 461.02,
+      "end": 466.02,
+      "text": "we will till the soil, we will share the fruits of our labor",
+      "confidence": 0.7676
+    },
+    {
+      "start": 466.02,
+      "end": 470.02,
+      "text": "and our learning with all the peoples of the world.",
+      "confidence": 0.7676
+    },
+    {
+      "start": 470.02,
+      "end": 475.02,
+      "text": "But my heart thinks when I think of those who are not as lucky as I am.",
+      "confidence": 0.7676
+    },
+    {
+      "start": 481.02,
+      "end": 484.02,
+      "text": "It's true that many will be left behind,",
+      "confidence": 0.7676
+    },
+    {
+      "start": 484.02,
+      "end": 489.02,
+      "text": "would be our job to keep their hope alive and give them a new start in other lands.",
+      "confidence": 0.8753
+    },
+    {
+      "start": 489.02,
+      "end": 495.02,
+      "text": "For example, there will be a welcome for thousands right here in our own United States.",
+      "confidence": 0.8753
+    },
+    {
+      "start": 495.02,
+      "end": 501.02,
+      "text": "The first of these displaced persons will arrive next month under the regular immigration quotas.",
+      "confidence": 0.8753
+    },
+    {
+      "start": 501.02,
+      "end": 506.02,
+      "text": "Preparations have already been made to receive them and give them a new life here.",
+      "confidence": 0.8753
+    },
+    {
+      "start": 506.02,
+      "end": 510.02,
+      "text": "These are the day-to-day problems of the United Jewish appeal.",
+      "confidence": 0.8753
+    },
+    {
+      "start": 510.02,
+      "end": 514.02,
+      "text": "to care for those who find a haven in the United States,",
+      "confidence": 0.8493
+    },
+    {
+      "start": 514.02,
+      "end": 517.02,
+      "text": "to provide for those who go to Palestine,",
+      "confidence": 0.8493
+    },
+    {
+      "start": 517.02,
+      "end": 521.02,
+      "text": "to sustain the lives and hopes of those who remain in Europe.",
+      "confidence": 0.8493
+    },
+    {
+      "start": 521.02,
+      "end": 524.02,
+      "text": "Many thousands have been saved,",
+      "confidence": 0.8493
+    },
+    {
+      "start": 524.02,
+      "end": 527.02,
+      "text": "but one of the hundreds of thousands in Europe",
+      "confidence": 0.8493
+    },
+    {
+      "start": 527.02,
+      "end": 529.02,
+      "text": "that still have to be helped.",
+      "confidence": 0.8493
+    },
+    {
+      "start": 529.02,
+      "end": 534.02,
+      "text": "I can't forget the voice of the man in Bergen Belson.",
+      "confidence": 0.8493
+    },
+    {
+      "start": 534.02,
+      "end": 538.02,
+      "text": "Has the world forgotten us?",
+      "confidence": 0.8493
+    },
+    {
+      "start": 538.02,
+      "end": 545.02,
+      "text": "They're only a few of us left, but we too share the fate of our martyred brothers.",
+      "confidence": 0.7204
+    },
+    {
+      "start": 555.02,
+      "end": 561.02,
+      "text": "And now we present the Honorable Henry Morgan Thaw Jr., former Secretary of the Treasury.",
+      "confidence": 0.7204
+    },
+    {
+      "start": 561.02,
+      "end": 567.02,
+      "text": "In a few days we shall celebrate the first anniversary of the E Day.",
+      "confidence": 0.7204
+    },
+    {
+      "start": 567.02,
+      "end": 572.74,
+      "text": "To recapture some of the exaltation and joy which greeted the Allied victory over hate,",
+      "confidence": 0.7698
+    },
+    {
+      "start": 572.74,
+      "end": 579.26,
+      "text": "intolerance, cruelty, and all the other aspects of Nazism, there'll be many ceremonies,",
+      "confidence": 0.7698
+    },
+    {
+      "start": 579.26,
+      "end": 582.74,
+      "text": "parades, and I fear, bankwits.",
+      "confidence": 0.7698
+    },
+    {
+      "start": 582.74,
+      "end": 588.26,
+      "text": "We will recall with justifiable pride the decisive role which America played in saving",
+      "confidence": 0.7698
+    },
+    {
+      "start": 588.26,
+      "end": 592.46,
+      "text": "the world from slavery and destruction.",
+      "confidence": 0.7698
+    },
+    {
+      "start": 592.46,
+      "end": 599.34,
+      "text": "But before we congratulate ourselves, let us look across the Atlantic and see what victory",
+      "confidence": 0.84
+    },
+    {
+      "start": 599.34,
+      "end": 602.34,
+      "text": "has achieved for civilization.",
+      "confidence": 0.84
+    },
+    {
+      "start": 602.34,
+      "end": 608.1,
+      "text": "One year after victory, a war of survival is still being fought in Europe.",
+      "confidence": 0.84
+    },
+    {
+      "start": 608.1,
+      "end": 613.74,
+      "text": "The armies have left the battlefield, but in their place stand millions of human beings",
+      "confidence": 0.84
+    },
+    {
+      "start": 613.74,
+      "end": 621.42,
+      "text": "desperately seeking to defend themselves against the forces of hunger, disease, homelessness",
+      "confidence": 0.84
+    },
+    {
+      "start": 621.42,
+      "end": 629.58,
+      "text": "and hate. One year after victory, human beings are still dying of starvation. One year after",
+      "confidence": 0.8646
+    },
+    {
+      "start": 629.58,
+      "end": 636.34,
+      "text": "victory, human beings are still cringing in fear. One year after victory, human beings",
+      "confidence": 0.8646
+    },
+    {
+      "start": 636.34,
+      "end": 643.28,
+      "text": "are still struggling to escape the poison of Nazism that rises over Hitler's grave",
+      "confidence": 0.8646
+    },
+    {
+      "start": 643.28,
+      "end": 649.28,
+      "text": "to pollute the atmosphere and stain the good name of the world.",
+      "confidence": 0.8704
+    },
+    {
+      "start": 649.28,
+      "end": 653.28,
+      "text": "Millions died in Hitler's death house.",
+      "confidence": 0.8704
+    },
+    {
+      "start": 653.28,
+      "end": 656.28,
+      "text": "Millions suffered in his torture chambers,",
+      "confidence": 0.8704
+    },
+    {
+      "start": 656.28,
+      "end": 661.28,
+      "text": "but no people suffered so much as the Jews.",
+      "confidence": 0.8704
+    },
+    {
+      "start": 661.28,
+      "end": 665.28,
+      "text": "The six million who died in the crematories and gas chambers",
+      "confidence": 0.8704
+    },
+    {
+      "start": 665.28,
+      "end": 668.28,
+      "text": "were victims of a crime against humanity",
+      "confidence": 0.8704
+    },
+    {
+      "start": 668.28,
+      "end": 672.28,
+      "text": "too vast for the human mind to comprehend.",
+      "confidence": 0.8704
+    },
+    {
+      "start": 672.28,
+      "end": 678.8,
+      "text": "The mass graves of the Jewish martyrs are scattered over the face of war-ravaged Europe.",
+      "confidence": 0.7279
+    },
+    {
+      "start": 678.8,
+      "end": 687.24,
+      "text": "Of the Jews who fell into Hitler's clutches, only 1,400,000 survived.",
+      "confidence": 0.7279
+    },
+    {
+      "start": 687.24,
+      "end": 692.28,
+      "text": "The children were the first in most ruthlessly hunted victims.",
+      "confidence": 0.7279
+    },
+    {
+      "start": 692.28,
+      "end": 699.28,
+      "text": "Only one out of ten Jewish youngsters remains alive today.",
+      "confidence": 0.7279
+    },
+    {
+      "start": 699.28,
+      "end": 706.64,
+      "text": "Has one year of liberation brought these survivors of freedom in a security which they longed and hoped for?",
+      "confidence": 0.7279
+    },
+    {
+      "start": 707.6,
+      "end": 713.28,
+      "text": "The answer can be found in recent incidents in Austria and other parts of Europe.",
+      "confidence": 0.7279
+    },
+    {
+      "start": 713.68,
+      "end": 722.28,
+      "text": "It is unbelievable, but it is true that one year after liberation, long after the destruction of the Nazi",
+      "confidence": 0.7279
+    },
+    {
+      "start": 722.28,
+      "end": 729.72,
+      "text": "death sentences. The horrifying cry of two of the gas chambers can still be heard in public.",
+      "confidence": 0.871
+    },
+    {
+      "start": 730.68,
+      "end": 734.12,
+      "text": "Governments have been unable to cope with the anti-Semitism,",
+      "confidence": 0.871
+    },
+    {
+      "start": 734.76,
+      "end": 741.08,
+      "text": "planted and cultivated by the Nazis. Men and women seeking to return to their own homes",
+      "confidence": 0.871
+    },
+    {
+      "start": 741.08,
+      "end": 749.24,
+      "text": "have been driven away by demonstrations of hatred. The situation of the Jewish survivors in",
+      "confidence": 0.871
+    },
+    {
+      "start": 749.24,
+      "end": 758.68,
+      "text": "Europe is tragic beyond description. They are in desperate physical need. Despair is depleting",
+      "confidence": 0.8263
+    },
+    {
+      "start": 758.68,
+      "end": 765.4,
+      "text": "their spiritual strength. Many thousands of them plead for a place that they can call home.",
+      "confidence": 0.8263
+    },
+    {
+      "start": 766.44,
+      "end": 773.8,
+      "text": "Large numbers of them turning, longingly, towards Palestine as the one land that can deliver them",
+      "confidence": 0.8263
+    },
+    {
+      "start": 773.8,
+      "end": 780.12,
+      "text": "And for all time from the fears and anxieties of wandering and oppression.",
+      "confidence": 0.8471
+    },
+    {
+      "start": 780.12,
+      "end": 785.44,
+      "text": "Others with relatives and friends in the United States want to come here in accordance",
+      "confidence": 0.8471
+    },
+    {
+      "start": 785.44,
+      "end": 792.8,
+      "text": "with President Truman's directive to facilitate the immigration of displaced persons.",
+      "confidence": 0.8471
+    },
+    {
+      "start": 792.8,
+      "end": 800.44,
+      "text": "To assist both these groups and all the others, an unparalleled task in human reconstruction",
+      "confidence": 0.8471
+    },
+    {
+      "start": 800.44,
+      "end": 803.16,
+      "text": "must be carried on.",
+      "confidence": 0.8471
+    },
+    {
+      "start": 803.16,
+      "end": 810.76,
+      "text": "We seek to do it through the $100 million campaign of the United Jewish Appeal for refugees,",
+      "confidence": 0.8167
+    },
+    {
+      "start": 810.76,
+      "end": 815.02,
+      "text": "overseas needs, and Palestine.",
+      "confidence": 0.8167
+    },
+    {
+      "start": 815.02,
+      "end": 821.12,
+      "text": "The problem of saving the remnants of European jury is one of the most urgent questions facing",
+      "confidence": 0.8167
+    },
+    {
+      "start": 821.12,
+      "end": 823.92,
+      "text": "the architects of the new world.",
+      "confidence": 0.8167
+    },
+    {
+      "start": 823.92,
+      "end": 829.44,
+      "text": "The foundations of the structure of the world of tomorrow will be as sound as its provisions",
+      "confidence": 0.8167
+    },
+    {
+      "start": 829.44,
+      "end": 833.12,
+      "text": "for homeless and oppressed minorities.",
+      "confidence": 0.8167
+    },
+    {
+      "start": 833.12,
+      "end": 839.3,
+      "text": "The cause of its purposes are so closely linked with the attainment of true justice and human",
+      "confidence": 0.7049
+    },
+    {
+      "start": 839.3,
+      "end": 841.9,
+      "text": "liberty for all mankind.",
+      "confidence": 0.7049
+    },
+    {
+      "start": 841.9,
+      "end": 846.36,
+      "text": "United Jewish appeal deserves a support of every American.",
+      "confidence": 0.7049
+    },
+    {
+      "start": 846.36,
+      "end": 851.76,
+      "text": "Thank you, Mr. Morgenthau.",
+      "confidence": 0.7049
+    },
+    {
+      "start": 851.76,
+      "end": 858.0,
+      "text": "You have heard BE Day Plus 350, a special broadcast featuring Quentin Reynolds and Mady Christians",
+      "confidence": 0.7049
+    },
+    {
+      "start": 858.0,
+      "end": 864.0,
+      "text": "presented in behalf of the United Jewish Appeal for Refugees, Overseas Needs, and Palestine.",
+      "confidence": 0.8015
+    },
+    {
+      "start": 864.0,
+      "end": 869.0,
+      "text": "Copies, if they talk by the Honorable Henry Morgan Thor, or the original dramatization heard on this program,",
+      "confidence": 0.8015
+    },
+    {
+      "start": 869.0,
+      "end": 874.0,
+      "text": "may be obtained by writing to the United Jewish Appeal at 342 Madison Avenue, New York.",
+      "confidence": 0.8015
+    },
+    {
+      "start": 874.0,
+      "end": 879.0,
+      "text": "The dance of the Palestine Pioneers appears in songs of Zion compiled by Harry Cooperismitt.",
+      "confidence": 0.8015
+    },
+    {
+      "start": 879.0,
+      "end": 882.0,
+      "text": "This is NBC, the National Broadcasting Company.",
+      "confidence": 0.8015
+    }
+  ]
+}

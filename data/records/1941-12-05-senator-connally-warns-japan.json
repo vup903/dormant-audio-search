@@ -1,0 +1,139 @@
+{
+  "id": "1941-12-05-senator-connally-warns-japan",
+  "title": "Connally Warns Japan",
+  "program": "SENATOR",
+  "date": "1941-12-05",
+  "decade": "1940s",
+  "source_url": "https://archive.org/details/1941RadioNews",
+  "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+  "audio_file": "1941-12-05-senator-connally-warns-japan.mp3",
+  "language": "en",
+  "duration_s": 122.6,
+  "asr": {
+    "model": "faster-whisper-base",
+    "confidence": 0.779,
+    "ai_generated": true
+  },
+  "transcript": "Now, my consummate on the other side of the globe, Japan has joined the axis and embraced her doctrines of totalitarianism and aggression. She signed the nine-power treaty in 1922, expressly guaranteeing that she would respect the territorial the minions and the rights of China, this she has cruelly repudiated, and with her planes and cannon on the sword, for four years has been making war upon poor old helpless, peaceful, and innocent China, even at this moment in this world conspiracy into which she has entered. with the Nazis and with the fascists, she is threatening to attack Siam and perhaps the Burma Road. While we are talking, conferences are now going on in Washington. We want no war with Japan. No sensible man wants war anywhere, anytime. But we have precious rights to protect. people have rights. I would say to Japan if she is bent upon conquest, if she is bent upon violating our rights, if she is bent upon violating treaties which she signed with us. If she is determined to have war, I would remind her that we have a navy in the Pacific a mighty navy, a navy that knows how to shoot and knows how to shoot straight and strong. I would counsel Japan in all kindness that she had better not seek war with the United States of America.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.96,
+      "text": "Now, my consummate on the other side of the globe, Japan has joined the axis and embraced",
+      "confidence": 0.8014
+    },
+    {
+      "start": 7.96,
+      "end": 13.56,
+      "text": "her doctrines of totalitarianism and aggression.",
+      "confidence": 0.8014
+    },
+    {
+      "start": 13.56,
+      "end": 22.36,
+      "text": "She signed the nine-power treaty in 1922, expressly guaranteeing that she would respect the territorial",
+      "confidence": 0.8014
+    },
+    {
+      "start": 22.36,
+      "end": 30.06,
+      "text": "the minions and the rights of China, this she has cruelly repudiated, and with her planes",
+      "confidence": 0.7496
+    },
+    {
+      "start": 30.06,
+      "end": 39.78,
+      "text": "and cannon on the sword, for four years has been making war upon poor old helpless, peaceful,",
+      "confidence": 0.7496
+    },
+    {
+      "start": 39.78,
+      "end": 48.54,
+      "text": "and innocent China, even at this moment in this world conspiracy into which she has entered.",
+      "confidence": 0.7496
+    },
+    {
+      "start": 48.54,
+      "end": 56.74,
+      "text": "with the Nazis and with the fascists, she is threatening to attack Siam and perhaps the",
+      "confidence": 0.752
+    },
+    {
+      "start": 56.74,
+      "end": 57.74,
+      "text": "Burma Road.",
+      "confidence": 0.752
+    },
+    {
+      "start": 57.74,
+      "end": 63.5,
+      "text": "While we are talking, conferences are now going on in Washington.",
+      "confidence": 0.752
+    },
+    {
+      "start": 63.5,
+      "end": 66.38,
+      "text": "We want no war with Japan.",
+      "confidence": 0.752
+    },
+    {
+      "start": 66.38,
+      "end": 71.26,
+      "text": "No sensible man wants war anywhere, anytime.",
+      "confidence": 0.752
+    },
+    {
+      "start": 71.26,
+      "end": 75.26,
+      "text": "But we have precious rights to protect.",
+      "confidence": 0.752
+    },
+    {
+      "start": 75.26,
+      "end": 84.22,
+      "text": "people have rights. I would say to Japan if she is bent upon conquest, if she is bent upon",
+      "confidence": 0.8358
+    },
+    {
+      "start": 84.22,
+      "end": 91.66,
+      "text": "violating our rights, if she is bent upon violating treaties which she signed with us.",
+      "confidence": 0.8358
+    },
+    {
+      "start": 91.66,
+      "end": 99.78,
+      "text": "If she is determined to have war, I would remind her that we have a navy in the Pacific",
+      "confidence": 0.8358
+    },
+    {
+      "start": 99.78,
+      "end": 109.78,
+      "text": "a mighty navy, a navy that knows how to shoot and knows how to shoot straight and strong.",
+      "confidence": 0.7606
+    },
+    {
+      "start": 109.78,
+      "end": 121.78,
+      "text": "I would counsel Japan in all kindness that she had better not seek war with the United States of America.",
+      "confidence": 0.7606
+    }
+  ],
+  "tags": [
+    {
+      "term": "international",
+      "score": 0.3777,
+      "ai_generated": true
+    },
+    {
+      "term": "war",
+      "score": 0.3217,
+      "ai_generated": true
+    },
+    {
+      "term": "military",
+      "score": 0.3123,
+      "ai_generated": true
+    }
+  ]
+}

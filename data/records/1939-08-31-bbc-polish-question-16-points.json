@@ -1,0 +1,397 @@
+{
+  "id": "1939-08-31-bbc-polish-question-16-points",
+  "title": "Polish Question 16 Points",
+  "program": "BBC",
+  "date": "1939-08-31",
+  "decade": "1930s",
+  "source_url": "https://archive.org/details/1939RadioNews",
+  "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+  "audio_file": "1939-08-31-bbc-polish-question-16-points.mp3",
+  "language": "en",
+  "duration_s": 279.0,
+  "asr": {
+    "model": "faster-whisper-base",
+    "confidence": 0.7684,
+    "ai_generated": true
+  },
+  "transcript": "This is the regional program. Here is the Air Ministry's weather forecast for tomorrow. There will be occasional rain in most districts, but also bright intervals. Thunder will occur locally, it will continue rather warm. Outlook for Saturday, rather unsettled. Here is the fourth news, copyright reserved. The German Wallace announced tonight the German government's reply to a British communication and gave the German government's proposals for a settlement of the Polish problem in the following 16 points. Point 1 The free city of Danzig should return to the Reich unconditionally and forthwith on account of its purely a German character and the unanimous will of its population. Two. The corridor should decide itself whether it desires to belong to Germany or Perl. For this purpose a plebiscite should be held. Point three. Those entitled to vote in this plebiscite would be all Germans and Poles who had been resident in the corridor since the 1st of January 1918, or had been born there. All Germans expelled from the corridor, or forced to leave, would return in order to cast their votes. Point four. In order to guarantee an entirely objective form of voting, an international commission would be set up, similar to that which operated during the Tsar plebiscite, it would consist of representatives of Italy, Soviet Russia, France and Great Britain. All Polish police, military and other authorities would have to leave the corridor at the shortest possible notice, except at Gidinia, which would remain purish. The exact frontier between Gidinia and Germany would have to be fixed through agreement between Berlin and Warsaw. .5. The plebiscite would not take place before a lapse of 12 months. .6. To maintain communication between Germany and East Prussia, before unduring the plebiscite, Only would be given a rail road and a motor road through the corridor for her exclusive use. 0.7. The plebiscite would be decided by her simple modality of votes. 0.8. To guarantee the safety of traffic between Germany and East Prussia, in case the plebiscite would result in a partition of the corridor, special motor roads and rail roads should be granted not extending wider than one kilometer. This strip would be declared an extraterritorial zone. Point 9. In case the plebiscite decides that the corridor should remain with Poland, Germany is prepared to carry out an exchange of population. Point 10. The special privileges sought by Poland in Danzig would be laid down in a way analogous to the German privileges in Gerdinia. Point 11. In order to obviate all feeling of insecurity, both Gdynia and Danzig would be declared to be centres of trade which would not be fortified. The peninsula of Hell would in any case be demilitarised. Point 12. For the settlement of possible complaints of the minorities, both contracting parties agree that these complaints be submitted to an international commission. At 13, Germany and Poland should agree to repair and recompense all economic damages caused to their respective minorities since 1918. Point 14 The minorities remaining in either country after the plebiscite would be exempt from military service and enjoy full social and cultural freedom. Point 15 In case of acceptance of these proposals, Germany and Poland should declare themselves ready to order and carry out immediate demobilization of their respective armies. Point 16. All further measures which might become necessary should be laid down through mutual agreement between Germany and Poland. The German announcer who read out these proposals concluded by saying, the F\u00fchrer and the German government have waited for two days in vain for a reply to these proposals and therefore or agar these proposals as practically rejected.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "This is the regional program. Here is the Air Ministry's weather forecast for tomorrow.",
+      "confidence": 0.7991
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": "There will be occasional rain in most districts, but also bright intervals.",
+      "confidence": 0.7991
+    },
+    {
+      "start": 12.0,
+      "end": 21.0,
+      "text": "Thunder will occur locally, it will continue rather warm. Outlook for Saturday, rather unsettled.",
+      "confidence": 0.7991
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "text": "Here is the fourth news, copyright reserved.",
+      "confidence": 0.7991
+    },
+    {
+      "start": 25.0,
+      "end": 30.08,
+      "text": "The German Wallace announced tonight the German government's reply to a British",
+      "confidence": 0.7172
+    },
+    {
+      "start": 30.08,
+      "end": 34.84,
+      "text": "communication and gave the German government's proposals for a settlement of",
+      "confidence": 0.7172
+    },
+    {
+      "start": 34.84,
+      "end": 39.88,
+      "text": "the Polish problem in the following 16 points.",
+      "confidence": 0.7172
+    },
+    {
+      "start": 39.88,
+      "end": 45.7,
+      "text": "Point 1 The free city of Danzig should return to the Reich unconditionally and",
+      "confidence": 0.7172
+    },
+    {
+      "start": 45.7,
+      "end": 50.76,
+      "text": "forthwith on account of its purely a German character and the unanimous will of",
+      "confidence": 0.7172
+    },
+    {
+      "start": 50.76,
+      "end": 53.28,
+      "text": "its population.",
+      "confidence": 0.7172
+    },
+    {
+      "start": 53.28,
+      "end": 60.16,
+      "text": "Two. The corridor should decide itself whether it desires to belong to Germany or Perl.",
+      "confidence": 0.809
+    },
+    {
+      "start": 60.16,
+      "end": 63.7,
+      "text": "For this purpose a plebiscite should be held.",
+      "confidence": 0.809
+    },
+    {
+      "start": 63.7,
+      "end": 69.24,
+      "text": "Point three. Those entitled to vote in this plebiscite would be all Germans and Poles",
+      "confidence": 0.809
+    },
+    {
+      "start": 69.24,
+      "end": 76.12,
+      "text": "who had been resident in the corridor since the 1st of January 1918, or had been born there.",
+      "confidence": 0.809
+    },
+    {
+      "start": 76.12,
+      "end": 81.24,
+      "text": "All Germans expelled from the corridor, or forced to leave, would return in order to cast",
+      "confidence": 0.809
+    },
+    {
+      "start": 81.24,
+      "end": 88.48,
+      "text": "their votes. Point four. In order to guarantee an entirely objective form of voting, an",
+      "confidence": 0.7682
+    },
+    {
+      "start": 88.48,
+      "end": 92.96,
+      "text": "international commission would be set up, similar to that which operated during the Tsar",
+      "confidence": 0.7682
+    },
+    {
+      "start": 92.96,
+      "end": 100.56,
+      "text": "plebiscite, it would consist of representatives of Italy, Soviet Russia, France and Great Britain.",
+      "confidence": 0.7682
+    },
+    {
+      "start": 100.56,
+      "end": 106.16,
+      "text": "All Polish police, military and other authorities would have to leave the corridor at the shortest",
+      "confidence": 0.7682
+    },
+    {
+      "start": 106.16,
+      "end": 111.44,
+      "text": "possible notice, except at Gidinia, which would remain purish.",
+      "confidence": 0.7593
+    },
+    {
+      "start": 111.44,
+      "end": 115.92,
+      "text": "The exact frontier between Gidinia and Germany would have to be fixed through agreement",
+      "confidence": 0.7593
+    },
+    {
+      "start": 115.92,
+      "end": 119.6,
+      "text": "between Berlin and Warsaw.",
+      "confidence": 0.7593
+    },
+    {
+      "start": 119.6,
+      "end": 120.76,
+      "text": ".5.",
+      "confidence": 0.7593
+    },
+    {
+      "start": 120.76,
+      "end": 125.8,
+      "text": "The plebiscite would not take place before a lapse of 12 months.",
+      "confidence": 0.7593
+    },
+    {
+      "start": 125.8,
+      "end": 126.96,
+      "text": ".6.",
+      "confidence": 0.7593
+    },
+    {
+      "start": 126.96,
+      "end": 132.84,
+      "text": "To maintain communication between Germany and East Prussia, before unduring the plebiscite,",
+      "confidence": 0.7593
+    },
+    {
+      "start": 132.84,
+      "end": 139.64,
+      "text": "Only would be given a rail road and a motor road through the corridor for her exclusive use.",
+      "confidence": 0.7882
+    },
+    {
+      "start": 139.64,
+      "end": 140.8,
+      "text": "0.7.",
+      "confidence": 0.7882
+    },
+    {
+      "start": 140.8,
+      "end": 145.64,
+      "text": "The plebiscite would be decided by her simple modality of votes.",
+      "confidence": 0.7882
+    },
+    {
+      "start": 145.64,
+      "end": 146.8,
+      "text": "0.8.",
+      "confidence": 0.7882
+    },
+    {
+      "start": 146.8,
+      "end": 151.48,
+      "text": "To guarantee the safety of traffic between Germany and East Prussia, in case the plebiscite",
+      "confidence": 0.7882
+    },
+    {
+      "start": 151.48,
+      "end": 156.48,
+      "text": "would result in a partition of the corridor, special motor roads and rail roads should be",
+      "confidence": 0.7882
+    },
+    {
+      "start": 156.48,
+      "end": 161.2,
+      "text": "granted not extending wider than one kilometer.",
+      "confidence": 0.7882
+    },
+    {
+      "start": 161.2,
+      "end": 165.86,
+      "text": "This strip would be declared an extraterritorial zone.",
+      "confidence": 0.7468
+    },
+    {
+      "start": 165.86,
+      "end": 167.36,
+      "text": "Point 9.",
+      "confidence": 0.7468
+    },
+    {
+      "start": 167.36,
+      "end": 172.32,
+      "text": "In case the plebiscite decides that the corridor should remain with Poland, Germany is prepared",
+      "confidence": 0.7468
+    },
+    {
+      "start": 172.32,
+      "end": 176.12,
+      "text": "to carry out an exchange of population.",
+      "confidence": 0.7468
+    },
+    {
+      "start": 176.12,
+      "end": 177.6,
+      "text": "Point 10.",
+      "confidence": 0.7468
+    },
+    {
+      "start": 177.6,
+      "end": 183.24,
+      "text": "The special privileges sought by Poland in Danzig would be laid down in a way analogous to",
+      "confidence": 0.7468
+    },
+    {
+      "start": 183.24,
+      "end": 186.88,
+      "text": "the German privileges in Gerdinia.",
+      "confidence": 0.7468
+    },
+    {
+      "start": 186.88,
+      "end": 188.52,
+      "text": "Point 11.",
+      "confidence": 0.7468
+    },
+    {
+      "start": 188.52,
+      "end": 193.96,
+      "text": "In order to obviate all feeling of insecurity, both Gdynia and Danzig would be declared",
+      "confidence": 0.7838
+    },
+    {
+      "start": 193.96,
+      "end": 197.68,
+      "text": "to be centres of trade which would not be fortified.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 197.68,
+      "end": 203.08,
+      "text": "The peninsula of Hell would in any case be demilitarised.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 203.08,
+      "end": 204.68,
+      "text": "Point 12.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 204.68,
+      "end": 210.72,
+      "text": "For the settlement of possible complaints of the minorities, both contracting parties agree",
+      "confidence": 0.7838
+    },
+    {
+      "start": 210.72,
+      "end": 215.84,
+      "text": "that these complaints be submitted to an international commission.",
+      "confidence": 0.7838
+    },
+    {
+      "start": 215.84,
+      "end": 223.04,
+      "text": "At 13, Germany and Poland should agree to repair and recompense all economic damages caused",
+      "confidence": 0.7668
+    },
+    {
+      "start": 223.04,
+      "end": 227.44,
+      "text": "to their respective minorities since 1918.",
+      "confidence": 0.7668
+    },
+    {
+      "start": 227.44,
+      "end": 231.32,
+      "text": "Point 14 The minorities remaining in either country",
+      "confidence": 0.7668
+    },
+    {
+      "start": 231.32,
+      "end": 236.72,
+      "text": "after the plebiscite would be exempt from military service and enjoy full social and",
+      "confidence": 0.7668
+    },
+    {
+      "start": 236.72,
+      "end": 239.36,
+      "text": "cultural freedom.",
+      "confidence": 0.7668
+    },
+    {
+      "start": 239.36,
+      "end": 245.44,
+      "text": "Point 15 In case of acceptance of these proposals, Germany and Poland should declare themselves",
+      "confidence": 0.7668
+    },
+    {
+      "start": 245.44,
+      "end": 252.76,
+      "text": "ready to order and carry out immediate demobilization of their respective armies.",
+      "confidence": 0.7619
+    },
+    {
+      "start": 252.76,
+      "end": 254.6,
+      "text": "Point 16.",
+      "confidence": 0.7619
+    },
+    {
+      "start": 254.6,
+      "end": 259.36,
+      "text": "All further measures which might become necessary should be laid down through mutual agreement",
+      "confidence": 0.7619
+    },
+    {
+      "start": 259.36,
+      "end": 263.44,
+      "text": "between Germany and Poland.",
+      "confidence": 0.7619
+    },
+    {
+      "start": 263.44,
+      "end": 269.56,
+      "text": "The German announcer who read out these proposals concluded by saying, the F\u00fchrer and the German",
+      "confidence": 0.7619
+    },
+    {
+      "start": 269.56,
+      "end": 275.84,
+      "text": "government have waited for two days in vain for a reply to these proposals and therefore",
+      "confidence": 0.8241
+    },
+    {
+      "start": 275.84,
+      "end": 278.84,
+      "text": "or agar these proposals as practically rejected.",
+      "confidence": 0.5161
+    }
+  ],
+  "tags": [
+    {
+      "term": "weather",
+      "score": 0.3563,
+      "ai_generated": true
+    },
+    {
+      "term": "war",
+      "score": 0.3509,
+      "ai_generated": true
+    },
+    {
+      "term": "international",
+      "score": 0.3389,
+      "ai_generated": true
+    }
+  ]
+}

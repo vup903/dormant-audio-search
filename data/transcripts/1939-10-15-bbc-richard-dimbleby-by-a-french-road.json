@@ -1,0 +1,69 @@
+{
+  "id": "1939-10-15-bbc-richard-dimbleby-by-a-french-road",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 68.0,
+  "confidence": 0.706,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "We're standing in the porting rain at the side of a French road.",
+      "confidence": 0.7456
+    },
+    {
+      "start": 4.0,
+      "end": 11.0,
+      "text": "A road scrotting with mud and line right away over the plain to the fast skyline with the inevitable double row of poplars.",
+      "confidence": 0.7456
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "It's a grey, cold, dismal day.",
+      "confidence": 0.7456
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "A few lorries only are splashing by to and from the forward areas.",
+      "confidence": 0.7456
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "But coming down the road towards us is a battalion that I know to be of a famous artistry.",
+      "confidence": 0.7456
+    },
+    {
+      "start": 23.0,
+      "end": 27.36,
+      "text": "They are marching in threes and in their full battle-dressing kit they blend with the",
+      "confidence": 0.6066
+    },
+    {
+      "start": 27.36,
+      "end": 30.6,
+      "text": "dripping green grass throughout side and the brown of the haystacks.",
+      "confidence": 0.6066
+    },
+    {
+      "start": 45.32,
+      "end": 50.04,
+      "text": "As they pass us on that road, their brown capes glistening and their tin hats perched",
+      "confidence": 0.6066
+    },
+    {
+      "start": 50.04,
+      "end": 56.04,
+      "text": "on their heads. I thought how similar this must be to pictures of the last war. The road,",
+      "confidence": 0.7407
+    },
+    {
+      "start": 56.04,
+      "end": 59.04,
+      "text": "the trees, the rain, and the everlasting beat of feet.",
+      "confidence": 0.7407
+    }
+  ]
+}

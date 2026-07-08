@@ -1,0 +1,597 @@
+{
+  "id": "1953-02-11-kook-cbs-news",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 402.0,
+  "confidence": 0.7164,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Do know the time folks have again, so I'll just say right now it can.",
+      "confidence": 0.7505
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "10 o'clock, 10 o'clock, 10 o'clock.",
+      "confidence": 0.7505
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Correct, mountain time.",
+      "confidence": 0.7505
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "10 o'clock, courtesy, copy jewelry.",
+      "confidence": 0.7505
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "For over 30 years, famous for diamonds.",
+      "confidence": 0.7505
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Fire transcription.",
+      "confidence": 0.7505
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "Here's Robert Trout, with five minutes of the latest news,",
+      "confidence": 0.7505
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "brought to you by the four dealers of your community.",
+      "confidence": 0.7505
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "America's worth more cars, the new 53 Ford.",
+      "confidence": 0.7505
+    },
+    {
+      "start": 26.0,
+      "end": 30.56,
+      "text": "Ford. With its quality-built crest-marked body, this Ford is setting style standards",
+      "confidence": 0.7584
+    },
+    {
+      "start": 30.56,
+      "end": 34.88,
+      "text": "for years to come. And Ford's new Runder Ride is another worth-more feature designed",
+      "confidence": 0.7584
+    },
+    {
+      "start": 34.88,
+      "end": 40.24,
+      "text": "to make this Ford worth more today and years from today. Ford's new Runder Ride combines",
+      "confidence": 0.7584
+    },
+    {
+      "start": 40.24,
+      "end": 44.84,
+      "text": "advances like more responsive spring and shock absorber action with new rubber compression",
+      "confidence": 0.7584
+    },
+    {
+      "start": 44.84,
+      "end": 50.48,
+      "text": "bumpers to reduce front-end road shock up to 80%. Visit your Ford dealers, test-drive the",
+      "confidence": 0.7584
+    },
+    {
+      "start": 50.48,
+      "end": 55.76,
+      "text": "53-4 tomorrow. Now you're a nightly reporter, Robert Trump.",
+      "confidence": 0.7343
+    },
+    {
+      "start": 55.76,
+      "end": 59.52,
+      "text": "Soviet Russia tonight broke off diplomatic relations with Israel, demanding that the",
+      "confidence": 0.7343
+    },
+    {
+      "start": 59.52,
+      "end": 63.92,
+      "text": "Israeli minister leave Moscow without delay. And the Russians, of course, are withdrawing",
+      "confidence": 0.7343
+    },
+    {
+      "start": 63.92,
+      "end": 68.4,
+      "text": "their mission from Tel Aviv. It was the Soviet negation in Tel Aviv that was bombed",
+      "confidence": 0.7343
+    },
+    {
+      "start": 68.4,
+      "end": 72.88,
+      "text": "under this week by Hebrew extremists. With the premiere of Israel, David Ben-Gurion calling",
+      "confidence": 0.7343
+    },
+    {
+      "start": 72.88,
+      "end": 77.36,
+      "text": "the bombing a senseless crime and offering the compensate Russia for the damage. That",
+      "confidence": 0.7343
+    },
+    {
+      "start": 77.36,
+      "end": 81.76,
+      "text": "Moscow accused the Israeli officials of conniving in the incident, and not tonight we have the",
+      "confidence": 0.8044
+    },
+    {
+      "start": 81.76,
+      "end": 85.36,
+      "text": "breaking off of diplomatic relations between the two countries.",
+      "confidence": 0.8044
+    },
+    {
+      "start": 85.36,
+      "end": 89.12,
+      "text": "We can expect a great uproar from the iron curtain countries in protest over President",
+      "confidence": 0.8044
+    },
+    {
+      "start": 89.12,
+      "end": 93.68,
+      "text": "Eisenhower's decision that the atomic spies must die, but practically all of the action",
+      "confidence": 0.8044
+    },
+    {
+      "start": 93.68,
+      "end": 96.6,
+      "text": "that we have so far tonight is in support of the president.",
+      "confidence": 0.8044
+    },
+    {
+      "start": 96.6,
+      "end": 101.04,
+      "text": "Republican Senator Robert Taft says, I don't see how President Eisenhower could do anything",
+      "confidence": 0.8044
+    },
+    {
+      "start": 101.04,
+      "end": 102.04,
+      "text": "else.",
+      "confidence": 0.8044
+    },
+    {
+      "start": 102.04,
+      "end": 105.9,
+      "text": "And Democratic Senator Henry Jackson of Washington State who used to be a member of the",
+      "confidence": 0.8044
+    },
+    {
+      "start": 105.9,
+      "end": 110.1,
+      "text": "The atomic energy committee in Congress says he can curse with what the president said",
+      "confidence": 0.7861
+    },
+    {
+      "start": 110.1,
+      "end": 114.82,
+      "text": "about the seriousness of the offense committed by Julius Ametha Rosenberg and the obvious",
+      "confidence": 0.7861
+    },
+    {
+      "start": 114.82,
+      "end": 119.58,
+      "text": "fact that their action in giving atomic secrets to Russia could be disastrous to thousands",
+      "confidence": 0.7861
+    },
+    {
+      "start": 119.58,
+      "end": 122.26,
+      "text": "and perhaps millions of people.",
+      "confidence": 0.7861
+    },
+    {
+      "start": 122.26,
+      "end": 126.54,
+      "text": "The Supreme Court will be asked once again by the Rosenberg's attorney to review the case",
+      "confidence": 0.7861
+    },
+    {
+      "start": 126.54,
+      "end": 130.38,
+      "text": "which the court previously refused to do, and that seems to be the last hope left for",
+      "confidence": 0.7861
+    },
+    {
+      "start": 130.38,
+      "end": 134.38,
+      "text": "the Rosenberg's who have heard the news of President Eisenhower's decision on radio's",
+      "confidence": 0.7861
+    },
+    {
+      "start": 134.38,
+      "end": 137.88,
+      "text": "in their cells at Sing Sing that gave no outward sign of emotion.",
+      "confidence": 0.6896
+    },
+    {
+      "start": 137.88,
+      "end": 141.38,
+      "text": "But really for a month, the Federal Jewelry here in New York has been hearing the case",
+      "confidence": 0.6896
+    },
+    {
+      "start": 141.38,
+      "end": 146.06,
+      "text": "of John Perrull, the former Army sergeant accused of treason for helping the Japanese during",
+      "confidence": 0.6896
+    },
+    {
+      "start": 146.06,
+      "end": 151.18,
+      "text": "the Second World War, and a few minutes ago, the Jewelry returned to verdict guilty of treason",
+      "confidence": 0.6896
+    },
+    {
+      "start": 151.18,
+      "end": 152.78,
+      "text": "on two counts.",
+      "confidence": 0.6896
+    },
+    {
+      "start": 152.78,
+      "end": 156.5,
+      "text": "President Eisenhower and his State of the Union message called for the rule of the Reciprocal",
+      "confidence": 0.6896
+    },
+    {
+      "start": 156.5,
+      "end": 160.58,
+      "text": "Trade Act, and today the President conferred with Republican Congressional leaders for an",
+      "confidence": 0.6896
+    },
+    {
+      "start": 160.58,
+      "end": 164.9,
+      "text": "an hour-and-a-half discussing the general subject of international trade.",
+      "confidence": 0.7636
+    },
+    {
+      "start": 164.9,
+      "end": 169.04,
+      "text": "The domestic economy came in for attention today when the President named James Brownlee",
+      "confidence": 0.7636
+    },
+    {
+      "start": 169.04,
+      "end": 173.22,
+      "text": "the New York investment banker to the job of government consultant on wage and price",
+      "confidence": 0.7636
+    },
+    {
+      "start": 173.22,
+      "end": 174.22,
+      "text": "controls.",
+      "confidence": 0.7636
+    },
+    {
+      "start": 174.22,
+      "end": 178.46,
+      "text": "Assigned perhaps that the new administration is thinking in terms of keeping some curbs",
+      "confidence": 0.7636
+    },
+    {
+      "start": 178.46,
+      "end": 181.62,
+      "text": "on wages and prices possibly on a standby basis.",
+      "confidence": 0.7636
+    },
+    {
+      "start": 181.62,
+      "end": 186.26,
+      "text": "In time the decontrolling process goes on, the United Press says that tomorrow the government",
+      "confidence": 0.7636
+    },
+    {
+      "start": 186.26,
+      "end": 190.26,
+      "text": "It may do away with the price ceilings on poetry eggs, teen soap, and lard.",
+      "confidence": 0.6976
+    },
+    {
+      "start": 190.26,
+      "end": 194.56,
+      "text": "Chairman Salton Stoll of the Senate Armed Services Committee says the General James Van",
+      "confidence": 0.6976
+    },
+    {
+      "start": 194.56,
+      "end": 199.06,
+      "text": "Fleet, the former commander of the 8th Army in Korea, will be asked to explain his statement",
+      "confidence": 0.6976
+    },
+    {
+      "start": 199.06,
+      "end": 202.9,
+      "text": "that an allied offensive now can break the Korean stalemate.",
+      "confidence": 0.6976
+    },
+    {
+      "start": 202.9,
+      "end": 207.22,
+      "text": "Senators of quoted General Omar Bradley as saying that such an attack would cost many lives",
+      "confidence": 0.6976
+    },
+    {
+      "start": 207.22,
+      "end": 210.18,
+      "text": "and would not assure us an early victory at all.",
+      "confidence": 0.6976
+    },
+    {
+      "start": 210.18,
+      "end": 215.38,
+      "text": "In Korea tonight, the South Korean President, Mr. Singh Mri, endorsed the proposals for a blockade",
+      "confidence": 0.6976
+    },
+    {
+      "start": 215.38,
+      "end": 219.74,
+      "text": "of the coast of China, and in East Germany today, the Communist began talking all over",
+      "confidence": 0.7448
+    },
+    {
+      "start": 219.74,
+      "end": 222.94,
+      "text": "again about a new blockade of Berlin.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 222.94,
+      "end": 227.34,
+      "text": "Tomorrow night, at this time, Secretary of State John Foster-Dulles will make a radio report",
+      "confidence": 0.7448
+    },
+    {
+      "start": 227.34,
+      "end": 231.3,
+      "text": "to the American People and this program will not be heard tomorrow, but I will of course",
+      "confidence": 0.7448
+    },
+    {
+      "start": 231.3,
+      "end": 234.06,
+      "text": "be back with the news as usual on Friday night.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 234.06,
+      "end": 236.9,
+      "text": "This is Robert Trout in New York.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 236.9,
+      "end": 241.18,
+      "text": "Now here is Harry Clark for the Ford dealer in New York Community.",
+      "confidence": 0.7448
+    },
+    {
+      "start": 241.18,
+      "end": 246.18,
+      "text": "To save on truck running costs, get a thrifty new Ford truck.",
+      "confidence": 0.846
+    },
+    {
+      "start": 246.18,
+      "end": 250.18,
+      "text": "Only Ford trucks offer savings up to 14% on gas.",
+      "confidence": 0.846
+    },
+    {
+      "start": 250.18,
+      "end": 255.18,
+      "text": "Ford's modern, all-new overhead valve short stroke engines reduce piston travel,",
+      "confidence": 0.846
+    },
+    {
+      "start": 255.18,
+      "end": 258.18,
+      "text": "cut friction, and save up to one gallon in seven.",
+      "confidence": 0.846
+    },
+    {
+      "start": 258.18,
+      "end": 263.18,
+      "text": "Only Ford trucks give you all this plus a choice of V8 or 6 engines.",
+      "confidence": 0.846
+    },
+    {
+      "start": 263.18,
+      "end": 267.18,
+      "text": "See your Ford dealer now for a thrifty new Ford truck.",
+      "confidence": 0.846
+    },
+    {
+      "start": 267.18,
+      "end": 270.18,
+      "text": "He'll give you a generous allowance on your old truck.",
+      "confidence": 0.846
+    },
+    {
+      "start": 270.18,
+      "end": 274.18,
+      "text": "Listen for Robert Krauton, Friday evening on the CBS Radio Network.",
+      "confidence": 0.7019
+    },
+    {
+      "start": 275.18,
+      "end": 279.18,
+      "text": "I'm CBS Radio, serving the Midland Empire, K. Double O.K. and Billing.",
+      "confidence": 0.7019
+    },
+    {
+      "start": 284.18,
+      "end": 287.18,
+      "text": "How did it sign for Sheridan Bear?",
+      "confidence": 0.7019
+    },
+    {
+      "start": 291.18,
+      "end": 295.18,
+      "text": "Wherever you go, people are stopping for Sheridan Bear.",
+      "confidence": 0.7019
+    },
+    {
+      "start": 295.18,
+      "end": 298.18,
+      "text": "Because of its mellow brewing, it is truly...",
+      "confidence": 0.7019
+    },
+    {
+      "start": 298.18,
+      "end": 301.18,
+      "text": "for premium beer out of North West.",
+      "confidence": 0.3693
+    },
+    {
+      "start": 301.18,
+      "end": 305.18,
+      "text": "[\"Fantasy of the World\"]",
+      "confidence": 0.3693
+    },
+    {
+      "start": 314.18,
+      "end": 321.18,
+      "text": "[\"Fantasy of the World\"]",
+      "confidence": 0.3693
+    },
+    {
+      "start": 321.18,
+      "end": 324.68,
+      "text": "Everybody on your twinkling star",
+      "confidence": 0.3693
+    },
+    {
+      "start": 324.68,
+      "end": 328.18,
+      "text": "Doesn't matter on which one you are",
+      "confidence": 0.7128
+    },
+    {
+      "start": 328.18,
+      "end": 331.18,
+      "text": "If you're digging me on your radar",
+      "confidence": 0.7128
+    },
+    {
+      "start": 331.18,
+      "end": 333.18,
+      "text": "Hello, how's the hello?",
+      "confidence": 0.7128
+    },
+    {
+      "start": 335.18,
+      "end": 338.18,
+      "text": "You are a strange and foreign race",
+      "confidence": 0.7128
+    },
+    {
+      "start": 338.18,
+      "end": 341.18,
+      "text": "If you are equipped to fly through space",
+      "confidence": 0.7128
+    },
+    {
+      "start": 341.18,
+      "end": 344.18,
+      "text": "Pay a little visit to our place",
+      "confidence": 0.7128
+    },
+    {
+      "start": 344.18,
+      "end": 347.18,
+      "text": "Hello, how's the hello?",
+      "confidence": 0.7128
+    },
+    {
+      "start": 348.18,
+      "end": 350.18,
+      "text": "If you got nothing else to do",
+      "confidence": 0.7128
+    },
+    {
+      "start": 350.18,
+      "end": 352.18,
+      "text": "Just grab up the rocket",
+      "confidence": 0.7128
+    },
+    {
+      "start": 352.18,
+      "end": 359.18,
+      "text": "To pocket to pocket to pocket if you've a pair of wings that you attached to was pocket",
+      "confidence": 0.5972
+    },
+    {
+      "start": 359.18,
+      "end": 368.18,
+      "text": "Don't you let a bear us worry you we are pretty funny looking to",
+      "confidence": 0.5972
+    },
+    {
+      "start": 368.18,
+      "end": 371.18,
+      "text": "Anywhere in case of come",
+      "confidence": 0.5972
+    },
+    {
+      "start": 371.18,
+      "end": 374.18,
+      "text": "Hello",
+      "confidence": 0.5972
+    },
+    {
+      "start": 376.18,
+      "end": 381.18,
+      "text": "Are you listening well hello out there get ready to go",
+      "confidence": 0.5972
+    },
+    {
+      "start": 381.18,
+      "end": 386.18,
+      "text": "This is quick viewing, ready to conduct another recorded clips tour through music lines.",
+      "confidence": 0.6348
+    },
+    {
+      "start": 386.18,
+      "end": 391.18,
+      "text": "I'm going to find the stoppops in the lamp today and they're all for you during the next 55 minutes.",
+      "confidence": 0.6348
+    },
+    {
+      "start": 391.18,
+      "end": 394.18,
+      "text": "So, tune in my radar set and let's get going.",
+      "confidence": 0.6348
+    },
+    {
+      "start": 394.18,
+      "end": 398.18,
+      "text": "At 31 degrees, it's cooked on this chilly snowy February night.",
+      "confidence": 0.6348
+    },
+    {
+      "start": 398.18,
+      "end": 402.18,
+      "text": "We begin with Percy Faith on the orchestra playing the sweetest rap music.",
+      "confidence": 0.6348
+    }
+  ]
+}

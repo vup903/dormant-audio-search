@@ -1,0 +1,2205 @@
+{
+  "id": "1945-12-30-afrs-the-fred-allen-show-duke-ellington-pre-emption",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 1726.9,
+  "confidence": 0.5152,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.92,
+      "text": "It isn't ever in an magic violin jittery.",
+      "confidence": 0.3595
+    },
+    {
+      "start": 12.92,
+      "end": 25.8,
+      "text": "The great album show with best guest, Gregory Lattor, Thornton Huffer, Mererva Pius' Mrs.",
+      "confidence": 0.3595
+    },
+    {
+      "start": 25.8,
+      "end": 30.3,
+      "text": "the farm, the demarcled history, and our goodman and his officer, and if you ever want",
+      "confidence": 0.5706
+    },
+    {
+      "start": 30.3,
+      "end": 37.98,
+      "text": "to have me saved, my name is Kenny Delmar.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 37.98,
+      "end": 46.1,
+      "text": "The night briefing you, the man of the year, for 1929, a bad year, and here he is, 3 hours.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 46.1,
+      "end": 55.78,
+      "text": "Everybody from Missouri is coming to Washington, covered wagons, the leaving Kansas City on",
+      "confidence": 0.5706
+    },
+    {
+      "start": 55.78,
+      "end": 56.78,
+      "text": "on the half hour.",
+      "confidence": 0.588
+    },
+    {
+      "start": 56.78,
+      "end": 61.5,
+      "text": "So who's lapsed in Missouri, but, well, nobody's getting it.",
+      "confidence": 0.588
+    },
+    {
+      "start": 61.5,
+      "end": 65.06,
+      "text": "Next year, Missouri isn't going to bother electing the governor, they're just going to",
+      "confidence": 0.588
+    },
+    {
+      "start": 65.06,
+      "end": 70.18,
+      "text": "hire a caretaker to walk through the states with a lamp in the one night of recess.",
+      "confidence": 0.588
+    },
+    {
+      "start": 70.18,
+      "end": 73.78,
+      "text": "Our friends in Allen's alley will be Nickelodeff to see us tonight.",
+      "confidence": 0.588
+    },
+    {
+      "start": 73.78,
+      "end": 75.78,
+      "text": "How do you assess this?",
+      "confidence": 0.588
+    },
+    {
+      "start": 75.78,
+      "end": 77.78,
+      "text": "Wait a minute, let me read that again.",
+      "confidence": 0.588
+    },
+    {
+      "start": 77.78,
+      "end": 80.78,
+      "text": "Our friends will be Nickelodeff now.",
+      "confidence": 0.588
+    },
+    {
+      "start": 80.78,
+      "end": 81.78,
+      "text": "It's the line.",
+      "confidence": 0.588
+    },
+    {
+      "start": 81.78,
+      "end": 93.78,
+      "text": "We need better off yet going up with some blank paper here right now.",
+      "confidence": 0.5814
+    },
+    {
+      "start": 93.78,
+      "end": 99.78,
+      "text": "And so our question to the night is how do you feel about helicopter returns to private life?",
+      "confidence": 0.5814
+    },
+    {
+      "start": 99.78,
+      "end": 105.78,
+      "text": "As the man said when he saw the light of cigarette on the floor, let's get on.",
+      "confidence": 0.5814
+    },
+    {
+      "start": 111.78,
+      "end": 115.78,
+      "text": "Guys, Portland is good to be back in Alan's hour.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 115.78,
+      "end": 119.78,
+      "text": "Well, let's see what kind of smoothie is up to tonight.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 119.78,
+      "end": 122.78,
+      "text": "Howdy, Bob.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 122.78,
+      "end": 125.78,
+      "text": "Hey, Mr. Moody, you look shorter tonight.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 125.78,
+      "end": 128.78,
+      "text": "That's time I have a warrior union suit and tucking",
+      "confidence": 0.6737
+    },
+    {
+      "start": 128.78,
+      "end": 130.78,
+      "text": "to watch out what makes you look shorter.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 130.78,
+      "end": 133.78,
+      "text": "So you keep up my tucking your tucking?",
+      "confidence": 0.6737
+    },
+    {
+      "start": 133.78,
+      "end": 134.78,
+      "text": "Yeah.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 134.78,
+      "end": 139.78,
+      "text": "There's little door hanging down on the back of the union suit.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 139.78,
+      "end": 146.78,
+      "text": "And when I button that door on a mastoc here, it pulls me down, pushes me back.",
+      "confidence": 0.5885
+    },
+    {
+      "start": 153.78,
+      "end": 155.78,
+      "text": "It'll go it every time.",
+      "confidence": 0.5885
+    },
+    {
+      "start": 155.78,
+      "end": 159.78,
+      "text": "Well, Mr. Modi, what do you think about me and LaGuardia leaving office?",
+      "confidence": 0.5885
+    },
+    {
+      "start": 159.78,
+      "end": 164.78,
+      "text": "Well, he's been a good man, what the real having?",
+      "confidence": 0.5885
+    },
+    {
+      "start": 164.78,
+      "end": 167.78,
+      "text": "So what kind of work do you think he should go in for?",
+      "confidence": 0.5885
+    },
+    {
+      "start": 167.78,
+      "end": 170.22,
+      "text": "He's a good man on the farm, Bob.",
+      "confidence": 0.5842
+    },
+    {
+      "start": 170.22,
+      "end": 171.22,
+      "text": "What do you mean?",
+      "confidence": 0.5842
+    },
+    {
+      "start": 171.22,
+      "end": 174.42,
+      "text": "He's the only man I know that can milk a towel stemming up.",
+      "confidence": 0.5842
+    },
+    {
+      "start": 174.42,
+      "end": 180.22,
+      "text": "Oh, I mean, Mr. Moody, do you think the mayor is sorry to go?",
+      "confidence": 0.5842
+    },
+    {
+      "start": 180.22,
+      "end": 183.02,
+      "text": "Oh, I know just how it's yours, but I do, huh?",
+      "confidence": 0.5842
+    },
+    {
+      "start": 183.02,
+      "end": 185.18,
+      "text": "Yeah, I used to be mayor in my town.",
+      "confidence": 0.5842
+    },
+    {
+      "start": 185.18,
+      "end": 186.22,
+      "text": "You were mayor?",
+      "confidence": 0.5842
+    },
+    {
+      "start": 186.22,
+      "end": 188.98,
+      "text": "Yeah, but I wasn't all the quiet at the beginning.",
+      "confidence": 0.5842
+    },
+    {
+      "start": 188.98,
+      "end": 191.94,
+      "text": "I had to work around the farm for 30 years, yeah.",
+      "confidence": 0.5842
+    },
+    {
+      "start": 191.94,
+      "end": 194.06,
+      "text": "I didn't smell like no little flower.",
+      "confidence": 0.5842
+    },
+    {
+      "start": 194.06,
+      "end": 195.06,
+      "text": "Oh no!",
+      "confidence": 0.5842
+    },
+    {
+      "start": 195.06,
+      "end": 205.06,
+      "text": "It's too bad Mr. Moody isn't here because you can't tell from here either way.",
+      "confidence": 0.6103
+    },
+    {
+      "start": 205.06,
+      "end": 208.06,
+      "text": "Well, let's see what happens at this next house.",
+      "confidence": 0.6103
+    },
+    {
+      "start": 208.06,
+      "end": 210.06,
+      "text": "No!",
+      "confidence": 0.6103
+    },
+    {
+      "start": 210.06,
+      "end": 213.06,
+      "text": "Ah, this is no sign.",
+      "confidence": 0.6103
+    },
+    {
+      "start": 213.06,
+      "end": 217.06,
+      "text": "Tell me this is no sign.",
+      "confidence": 0.6103
+    },
+    {
+      "start": 217.06,
+      "end": 221.06,
+      "text": "How do you feel about male agglotty, leaving every tyrant in city hall?",
+      "confidence": 0.6103
+    },
+    {
+      "start": 221.06,
+      "end": 224.06,
+      "text": "I'm asking about male agglotty, a farewell poem.",
+      "confidence": 0.6103
+    },
+    {
+      "start": 224.06,
+      "end": 227.06,
+      "text": "or farewell poem, how did your old to the mayor go?",
+      "confidence": 0.6089
+    },
+    {
+      "start": 227.06,
+      "end": 229.06,
+      "text": "How many times he was fine.",
+      "confidence": 0.6089
+    },
+    {
+      "start": 229.06,
+      "end": 234.06,
+      "text": "But how much time did I allow you to say goodbye to him?",
+      "confidence": 0.6089
+    },
+    {
+      "start": 234.06,
+      "end": 237.06,
+      "text": "But who else won here as an office?",
+      "confidence": 0.6089
+    },
+    {
+      "start": 237.06,
+      "end": 241.06,
+      "text": "Progress was your goal, but there is never housing shortage,",
+      "confidence": 0.6089
+    },
+    {
+      "start": 241.06,
+      "end": 245.06,
+      "text": "and the subway is still in the hole.",
+      "confidence": 0.6089
+    },
+    {
+      "start": 245.06,
+      "end": 249.06,
+      "text": "I read your program Sunday, you're in a fighting booth,",
+      "confidence": 0.6089
+    },
+    {
+      "start": 249.06,
+      "end": 252.06,
+      "text": "crossing down on gamblers and cookies,",
+      "confidence": 0.6089
+    },
+    {
+      "start": 252.06,
+      "end": 255.9,
+      "text": "to help him take him to the top of the hill.",
+      "confidence": 0.4224
+    },
+    {
+      "start": 255.9,
+      "end": 258.38,
+      "text": "Your plan to ask me out today",
+      "confidence": 0.4224
+    },
+    {
+      "start": 258.38,
+      "end": 261.14,
+      "text": "tell this garden to get by nature.",
+      "confidence": 0.4224
+    },
+    {
+      "start": 261.14,
+      "end": 263.82,
+      "text": "There's recipes to pop up the door.",
+      "confidence": 0.4224
+    },
+    {
+      "start": 263.82,
+      "end": 266.02,
+      "text": "You also read the paper.",
+      "confidence": 0.4224
+    },
+    {
+      "start": 267.02,
+      "end": 269.26,
+      "text": "You can do all you want me to.",
+      "confidence": 0.4224
+    },
+    {
+      "start": 269.26,
+      "end": 271.9,
+      "text": "To you are happy with that.",
+      "confidence": 0.4224
+    },
+    {
+      "start": 271.9,
+      "end": 274.18,
+      "text": "Good bye dear male agave.",
+      "confidence": 0.4224
+    },
+    {
+      "start": 274.18,
+      "end": 276.26,
+      "text": "Good luck and love you too.",
+      "confidence": 0.4224
+    },
+    {
+      "start": 276.26,
+      "end": 288.26,
+      "text": "And there's a sun, as the sun slowly sinks behind our beloved Mayor, we say adieu to City Hall and turn to the five democracy.",
+      "confidence": 0.5322
+    },
+    {
+      "start": 288.26,
+      "end": 295.26,
+      "text": "The girls are accompanied by my so-called good men, and as cast an occasion department Simpson, he sings, let it snow.",
+      "confidence": 0.5322
+    },
+    {
+      "start": 325.26,
+      "end": 329.26,
+      "text": "Good night, I want to go without him to tell me",
+      "confidence": 0.5677
+    },
+    {
+      "start": 329.26,
+      "end": 332.26,
+      "text": "But if you really hold me tight",
+      "confidence": 0.5677
+    },
+    {
+      "start": 332.26,
+      "end": 334.26,
+      "text": "Oh, but where all might be why?",
+      "confidence": 0.5677
+    },
+    {
+      "start": 334.26,
+      "end": 337.26,
+      "text": "If you buy me slowly tight",
+      "confidence": 0.5677
+    },
+    {
+      "start": 337.26,
+      "end": 340.26,
+      "text": "And the human will stand by you",
+      "confidence": 0.5677
+    },
+    {
+      "start": 340.26,
+      "end": 343.26,
+      "text": "But if all you do love me so",
+      "confidence": 0.5677
+    },
+    {
+      "start": 343.26,
+      "end": 346.26,
+      "text": "There's no light at all, there's no light at all",
+      "confidence": 0.5677
+    },
+    {
+      "start": 346.26,
+      "end": 349.26,
+      "text": "And if you buy me just a light",
+      "confidence": 0.5677
+    },
+    {
+      "start": 349.26,
+      "end": 352.26,
+      "text": "Oh, I will go without him to tell me",
+      "confidence": 0.5677
+    },
+    {
+      "start": 352.26,
+      "end": 354.26,
+      "text": "But if you really hold me tight",
+      "confidence": 0.5677
+    },
+    {
+      "start": 354.26,
+      "end": 358.26,
+      "text": "I don't know what I'll do when I'm home, I'll do what I'll do",
+      "confidence": 0.5944
+    },
+    {
+      "start": 358.26,
+      "end": 363.26,
+      "text": "Oh, the fire, the fire is dying, and my guilt is dead by me",
+      "confidence": 0.5944
+    },
+    {
+      "start": 363.26,
+      "end": 366.26,
+      "text": "And my body, body, you love me so",
+      "confidence": 0.5944
+    },
+    {
+      "start": 366.26,
+      "end": 369.26,
+      "text": "Let it flow, let it flow, let it flow",
+      "confidence": 0.5944
+    },
+    {
+      "start": 369.26,
+      "end": 374.26,
+      "text": "I don't care, let it flow, let it flow",
+      "confidence": 0.5944
+    },
+    {
+      "start": 384.26,
+      "end": 401.26,
+      "text": "My story, Al Goodman, and his tiny pharma fuseliers have just laid a few sweet gauze of symphony.",
+      "confidence": 0.5546
+    },
+    {
+      "start": 401.26,
+      "end": 404.26,
+      "text": "And now, say Portland, have you an aspirin?",
+      "confidence": 0.5546
+    },
+    {
+      "start": 404.26,
+      "end": 405.26,
+      "text": "I'm aspirin.",
+      "confidence": 0.5546
+    },
+    {
+      "start": 405.26,
+      "end": 407.26,
+      "text": "Something's wrong with my stomach.",
+      "confidence": 0.5546
+    },
+    {
+      "start": 407.26,
+      "end": 410.26,
+      "text": "If you thought you had hoped, nobody will notice it.",
+      "confidence": 0.5546
+    },
+    {
+      "start": 410.26,
+      "end": 412.26,
+      "text": "Now wait, come, come, come.",
+      "confidence": 0.5546
+    },
+    {
+      "start": 412.26,
+      "end": 416.26,
+      "text": "Never mind that Eddie Sanders comedy. I am an agonist.",
+      "confidence": 0.6987
+    },
+    {
+      "start": 418.26,
+      "end": 423.26,
+      "text": "Well, tomorrow night, I am going on information, please, with Gregory Rackoff.",
+      "confidence": 0.6987
+    },
+    {
+      "start": 423.26,
+      "end": 425.26,
+      "text": "You know the big director at 20th Century Fox?",
+      "confidence": 0.6987
+    },
+    {
+      "start": 425.26,
+      "end": 429.26,
+      "text": "And yesterday Mr. Rackoff gave me two casters for the Roxy Theater.",
+      "confidence": 0.6987
+    },
+    {
+      "start": 429.26,
+      "end": 433.26,
+      "text": "To see the new 20th Century Fox picture, leave it to heaven. It was wonderful.",
+      "confidence": 0.6987
+    },
+    {
+      "start": 433.26,
+      "end": 435.26,
+      "text": "Can I have a color in it?",
+      "confidence": 0.6987
+    },
+    {
+      "start": 435.26,
+      "end": 440.26,
+      "text": "Well, after I left the Roxy, Mr. Rackoff invited me to meet him for a Russian dinner.",
+      "confidence": 0.6987
+    },
+    {
+      "start": 440.26,
+      "end": 446.56,
+      "text": "I had a little rest in the village called Excitlix-Candy, where I went out of Excitlix-Candy",
+      "confidence": 0.5836
+    },
+    {
+      "start": 446.56,
+      "end": 451.26,
+      "text": "as I walked in the door to get to the orchestra with just finishing a number.",
+      "confidence": 0.5836
+    },
+    {
+      "start": 461.26,
+      "end": 464.26,
+      "text": "They had a noisy clientele with the candy.",
+      "confidence": 0.5836
+    },
+    {
+      "start": 464.26,
+      "end": 468.26,
+      "text": "Well as I looked around, I heard a voice saying,",
+      "confidence": 0.5836
+    },
+    {
+      "start": 468.26,
+      "end": 470.9,
+      "text": "Waiter, I want this dinner should be colorful,",
+      "confidence": 0.5526
+    },
+    {
+      "start": 470.9,
+      "end": 472.34,
+      "text": "terrific, sensational.",
+      "confidence": 0.5526
+    },
+    {
+      "start": 472.34,
+      "end": 473.54,
+      "text": "Anything else?",
+      "confidence": 0.5526
+    },
+    {
+      "start": 473.54,
+      "end": 475.94,
+      "text": "Yes, all for the food that you eat for you.",
+      "confidence": 0.5526
+    },
+    {
+      "start": 477.54,
+      "end": 479.06,
+      "text": "Gregory Rato!",
+      "confidence": 0.5526
+    },
+    {
+      "start": 485.86,
+      "end": 488.5,
+      "text": "The new, you look excited, Gregory.",
+      "confidence": 0.5526
+    },
+    {
+      "start": 488.5,
+      "end": 490.1,
+      "text": "I am just ordering the dinner.",
+      "confidence": 0.5526
+    },
+    {
+      "start": 490.1,
+      "end": 492.74,
+      "text": "And how I'm looking forward to it, Gregory.",
+      "confidence": 0.5526
+    },
+    {
+      "start": 492.74,
+      "end": 496.1,
+      "text": "Fred, the real reason I'm Ross and me when you're food, huh?",
+      "confidence": 0.5526
+    },
+    {
+      "start": 496.1,
+      "end": 500.02,
+      "text": "A Russian banquet is like a six-day bicycle race, only with Thomas.",
+      "confidence": 0.627
+    },
+    {
+      "start": 502.36,
+      "end": 503.5,
+      "text": "Well, what happened?",
+      "confidence": 0.627
+    },
+    {
+      "start": 503.5,
+      "end": 506.6,
+      "text": "Well, the 4th of January starts with being a toss to the test.",
+      "confidence": 0.627
+    },
+    {
+      "start": 506.6,
+      "end": 507.6,
+      "text": "Fine.",
+      "confidence": 0.627
+    },
+    {
+      "start": 507.6,
+      "end": 510.6,
+      "text": "Then we are drinking a toss to eat individual gear.",
+      "confidence": 0.627
+    },
+    {
+      "start": 510.6,
+      "end": 512.1,
+      "text": "I see.",
+      "confidence": 0.627
+    },
+    {
+      "start": 512.1,
+      "end": 516.2,
+      "text": "Next, the toss to all of the friends of the guests who are not there at the banquet.",
+      "confidence": 0.627
+    },
+    {
+      "start": 516.2,
+      "end": 517.6,
+      "text": "That's a nice gesture.",
+      "confidence": 0.627
+    },
+    {
+      "start": 517.6,
+      "end": 521.0,
+      "text": "Then we think a toss to the friends of the friends who are not there.",
+      "confidence": 0.627
+    },
+    {
+      "start": 521.0,
+      "end": 524.6,
+      "text": "So, this sounds like a testimony of the NWC to you.",
+      "confidence": 0.627
+    },
+    {
+      "start": 526.1,
+      "end": 530.1,
+      "text": "How many more toasts are there?",
+      "confidence": 0.5706
+    },
+    {
+      "start": 530.1,
+      "end": 533.1,
+      "text": "Well, we'll bring the toast to all of the toasts we have done.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 533.1,
+      "end": 535.1,
+      "text": "And then the banquet begins.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 535.1,
+      "end": 537.1,
+      "text": "You'll start with the food.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 537.1,
+      "end": 539.1,
+      "text": "Yeah, toast, you'll get into the kitchen.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 539.1,
+      "end": 541.1,
+      "text": "You'll get into the portal.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 541.1,
+      "end": 544.1,
+      "text": "Pravea, a carry-off portal later.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 544.1,
+      "end": 548.1,
+      "text": "Oh, I see.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 548.1,
+      "end": 549.1,
+      "text": "Yeah, that's good.",
+      "confidence": 0.5706
+    },
+    {
+      "start": 549.1,
+      "end": 551.1,
+      "text": "We'll have a little bit of mushroom,",
+      "confidence": 0.5706
+    },
+    {
+      "start": 551.1,
+      "end": 553.1,
+      "text": "little milk, little cabbage,",
+      "confidence": 0.5706
+    },
+    {
+      "start": 553.1,
+      "end": 555.1,
+      "text": "little beans, little pancakes,",
+      "confidence": 0.5706
+    },
+    {
+      "start": 555.1,
+      "end": 557.8,
+      "text": "...sickle o each and sickle calm quick.",
+      "confidence": 0.2139
+    },
+    {
+      "start": 558.0,
+      "end": 560.44,
+      "text": "Sickle...sickle calm quick.",
+      "confidence": 0.2139
+    },
+    {
+      "start": 560.7,
+      "end": 564.26,
+      "text": "But after all those shows to get must be tickle two.",
+      "confidence": 0.2139
+    },
+    {
+      "start": 564.46,
+      "end": 566.86,
+      "text": "There will be one thing what comes next.",
+      "confidence": 0.2139
+    },
+    {
+      "start": 567.06,
+      "end": 569.46,
+      "text": "All kind of cakes, what's that?",
+      "confidence": 0.2139
+    },
+    {
+      "start": 569.66,
+      "end": 570.54,
+      "text": "A port.",
+      "confidence": 0.2139
+    },
+    {
+      "start": 570.74,
+      "end": 574.38,
+      "text": "Or a sweet port with a typical power pin.",
+      "confidence": 0.2139
+    },
+    {
+      "start": 574.58,
+      "end": 578.32,
+      "text": "Well, one thing that's an expert with a power pin.",
+      "confidence": 0.2139
+    },
+    {
+      "start": 578.52,
+      "end": 581.5,
+      "text": "That is power pin with an attached wall power pin.",
+      "confidence": 0.2139
+    },
+    {
+      "start": 581.5,
+      "end": 589.9,
+      "text": "As far as I tell you, you have faith with a Russian dinner, so they are serving you",
+      "confidence": 0.5384
+    },
+    {
+      "start": 589.9,
+      "end": 590.9,
+      "text": "to eat the combo.",
+      "confidence": 0.5384
+    },
+    {
+      "start": 590.9,
+      "end": 591.9,
+      "text": "It's must be.",
+      "confidence": 0.5384
+    },
+    {
+      "start": 591.9,
+      "end": 592.9,
+      "text": "It's a tradition.",
+      "confidence": 0.5384
+    },
+    {
+      "start": 592.9,
+      "end": 596.7,
+      "text": "You have to have two days to come, they say, go for a while.",
+      "confidence": 0.5384
+    },
+    {
+      "start": 596.7,
+      "end": 599.7,
+      "text": "Well, for if you are getting from the plate, a light serving.",
+      "confidence": 0.5384
+    },
+    {
+      "start": 599.7,
+      "end": 600.7,
+      "text": "A light serving?",
+      "confidence": 0.5384
+    },
+    {
+      "start": 600.7,
+      "end": 601.7,
+      "text": "Yeah.",
+      "confidence": 0.5384
+    },
+    {
+      "start": 601.7,
+      "end": 607.7,
+      "text": "You are beating the torsion to death with a cookie combo.",
+      "confidence": 0.5384
+    },
+    {
+      "start": 607.7,
+      "end": 614.02,
+      "text": "This is some dinner, well for the next call to meet, you are standing up, you're standing",
+      "confidence": 0.5536
+    },
+    {
+      "start": 614.02,
+      "end": 622.22,
+      "text": "up, well what what is the new cord, this polar bear in the jacket, over there in the jacket",
+      "confidence": 0.5536
+    },
+    {
+      "start": 622.22,
+      "end": 627.32,
+      "text": "eh, as you say you have to stand, well the bear is called the reading cup on T5 late, with",
+      "confidence": 0.5536
+    },
+    {
+      "start": 627.32,
+      "end": 632.7,
+      "text": "kidnap you, with this, well don't tell me that each guy and I get an individual polar",
+      "confidence": 0.5536
+    },
+    {
+      "start": 632.7,
+      "end": 635.2,
+      "text": "Oh, no, no, it is four people to a bear.",
+      "confidence": 0.604
+    },
+    {
+      "start": 635.2,
+      "end": 636.2,
+      "text": "Oh!",
+      "confidence": 0.604
+    },
+    {
+      "start": 640.7,
+      "end": 642.2,
+      "text": "Four people to a bear.",
+      "confidence": 0.604
+    },
+    {
+      "start": 642.2,
+      "end": 643.7,
+      "text": "Yeah, you start with the bear seat",
+      "confidence": 0.604
+    },
+    {
+      "start": 643.7,
+      "end": 645.7,
+      "text": "and you're reaching top as far as you can reach.",
+      "confidence": 0.604
+    },
+    {
+      "start": 647.2,
+      "end": 649.2,
+      "text": "I sure yes, it's out of lust.",
+      "confidence": 0.604
+    },
+    {
+      "start": 649.2,
+      "end": 651.2,
+      "text": "Well, it's better to be tall.",
+      "confidence": 0.604
+    },
+    {
+      "start": 651.2,
+      "end": 653.2,
+      "text": "It's better to fall, but up on the bear.",
+      "confidence": 0.604
+    },
+    {
+      "start": 654.2,
+      "end": 656.7,
+      "text": "Well, what comes with the bear, Gregory?",
+      "confidence": 0.604
+    },
+    {
+      "start": 656.7,
+      "end": 659.7,
+      "text": "Well, all kinds of five people, you know, will omelette",
+      "confidence": 0.604
+    },
+    {
+      "start": 659.7,
+      "end": 661.7,
+      "text": "or potatoes with raspberry jam.",
+      "confidence": 0.604
+    },
+    {
+      "start": 661.7,
+      "end": 666.54,
+      "text": "A raw eggplant, walrus, and after all things, when grasping, fat, rock, salt, wood,",
+      "confidence": 0.458
+    },
+    {
+      "start": 666.54,
+      "end": 669.74,
+      "text": "meat, salt, and fat, wood, cheese, wood, plain to your prawns,",
+      "confidence": 0.458
+    },
+    {
+      "start": 669.74,
+      "end": 671.74,
+      "text": "this ends the meal.",
+      "confidence": 0.458
+    },
+    {
+      "start": 671.74,
+      "end": 676.98,
+      "text": "Oh, no, after the fish are heading to the well, how they do it, but what is the good?",
+      "confidence": 0.458
+    },
+    {
+      "start": 676.98,
+      "end": 681.34,
+      "text": "A lot of pomegranate, floating lazily in a keeping pile of honey.",
+      "confidence": 0.458
+    },
+    {
+      "start": 681.34,
+      "end": 687.38,
+      "text": "Yum, yum, well, on the top of the pomegranate, it's a big gap of wood,",
+      "confidence": 0.458
+    },
+    {
+      "start": 687.38,
+      "end": 688.38,
+      "text": "king.",
+      "confidence": 0.458
+    },
+    {
+      "start": 688.38,
+      "end": 690.38,
+      "text": "That's fine.",
+      "confidence": 0.6227
+    },
+    {
+      "start": 690.38,
+      "end": 694.38,
+      "text": "Well, basically you are rocking down with a priceless hot bottle of juice.",
+      "confidence": 0.6227
+    },
+    {
+      "start": 694.38,
+      "end": 696.38,
+      "text": "Say a Russian dinner must be wonderful, Gregory.",
+      "confidence": 0.6227
+    },
+    {
+      "start": 696.38,
+      "end": 700.38,
+      "text": "What are we having here at the Dutch Lake County tonight?",
+      "confidence": 0.6227
+    },
+    {
+      "start": 700.38,
+      "end": 702.38,
+      "text": "M&A.",
+      "confidence": 0.6227
+    },
+    {
+      "start": 702.38,
+      "end": 703.38,
+      "text": "M&A?",
+      "confidence": 0.6227
+    },
+    {
+      "start": 703.38,
+      "end": 705.38,
+      "text": "Ah, the crossing food ruins might vomit.",
+      "confidence": 0.6227
+    },
+    {
+      "start": 705.38,
+      "end": 708.38,
+      "text": "I'm always taking out the filter.",
+      "confidence": 0.6227
+    },
+    {
+      "start": 708.38,
+      "end": 709.38,
+      "text": "Really?",
+      "confidence": 0.6227
+    },
+    {
+      "start": 709.38,
+      "end": 712.38,
+      "text": "How do people in Russia know about how to filter?",
+      "confidence": 0.6227
+    },
+    {
+      "start": 712.38,
+      "end": 713.38,
+      "text": "Let me see.",
+      "confidence": 0.6227
+    },
+    {
+      "start": 713.38,
+      "end": 715.38,
+      "text": "Oh, let me see.",
+      "confidence": 0.6227
+    },
+    {
+      "start": 715.38,
+      "end": 724.5,
+      "text": "Well, you and I are going to be on information for you tomorrow night.",
+      "confidence": 0.6605
+    },
+    {
+      "start": 724.5,
+      "end": 727.02,
+      "text": "Greg, I wonder what questions they're asking.",
+      "confidence": 0.6605
+    },
+    {
+      "start": 727.02,
+      "end": 728.02,
+      "text": "Oh, no.",
+      "confidence": 0.6605
+    },
+    {
+      "start": 728.02,
+      "end": 730.5,
+      "text": "I hope it is something about order and the B3.",
+      "confidence": 0.6605
+    },
+    {
+      "start": 730.5,
+      "end": 732.5,
+      "text": "Well, right here is certainly surprising.",
+      "confidence": 0.6605
+    },
+    {
+      "start": 732.5,
+      "end": 737.9,
+      "text": "They're copying American mass-producing methods, automobiles, ice boxes, horses behind",
+      "confidence": 0.6605
+    },
+    {
+      "start": 737.9,
+      "end": 739.9,
+      "text": "the times and only one thing.",
+      "confidence": 0.6605
+    },
+    {
+      "start": 739.9,
+      "end": 740.9,
+      "text": "They're idea.",
+      "confidence": 0.6605
+    },
+    {
+      "start": 740.9,
+      "end": 743.42,
+      "text": "You mean they have no radio programs over there like ours?",
+      "confidence": 0.6605
+    },
+    {
+      "start": 743.42,
+      "end": 747.1,
+      "text": "When I got the water, I would like to take some American fuckers with me.",
+      "confidence": 0.5508
+    },
+    {
+      "start": 747.1,
+      "end": 749.0,
+      "text": "They, that's a great idea.",
+      "confidence": 0.5508
+    },
+    {
+      "start": 749.0,
+      "end": 751.6,
+      "text": "American radio should be a novelty in Russia.",
+      "confidence": 0.5508
+    },
+    {
+      "start": 751.6,
+      "end": 753.6,
+      "text": "They, how about the smiling kites?",
+      "confidence": 0.5508
+    },
+    {
+      "start": 753.6,
+      "end": 757.3,
+      "text": "Do you think the smiling ice ones would pop up in the front?",
+      "confidence": 0.5508
+    },
+    {
+      "start": 757.3,
+      "end": 759.9,
+      "text": "It's tougher in the front, lady.",
+      "confidence": 0.5508
+    },
+    {
+      "start": 759.9,
+      "end": 767.98,
+      "text": "Well, in Russia, you might have to call in the snickering Siberian, the cuckling Caucasian,",
+      "confidence": 0.5508
+    },
+    {
+      "start": 767.98,
+      "end": 771.42,
+      "text": "or the Goli Georgian, but here's a commercial, Gregory.",
+      "confidence": 0.5508
+    },
+    {
+      "start": 771.42,
+      "end": 775.42,
+      "text": "Let's see how the smiling Irishman was found in Moscow.",
+      "confidence": 0.6278
+    },
+    {
+      "start": 801.42,
+      "end": 808.06,
+      "text": "In the back, if the dogs are still a dog, then nothing keeps on following.",
+      "confidence": 0.3948
+    },
+    {
+      "start": 814.86,
+      "end": 819.1,
+      "text": "Tell me what other type programs you think they might like in Wester.",
+      "confidence": 0.3948
+    },
+    {
+      "start": 819.1,
+      "end": 822.18,
+      "text": "Use coming days! You know the Russians are crazy about the guys!",
+      "confidence": 0.3948
+    },
+    {
+      "start": 822.18,
+      "end": 826.46,
+      "text": "Well, for gossip, there's only one guy. Now hear how he might sound in Wester.",
+      "confidence": 0.3948
+    },
+    {
+      "start": 826.46,
+      "end": 832.26,
+      "text": "Good evening Mr. and Mrs. Dobie at Ratchet and all the autonomously public.",
+      "confidence": 0.4849
+    },
+    {
+      "start": 832.26,
+      "end": 835.98,
+      "text": "This is your Moscow power funded, all of it will shelter it.",
+      "confidence": 0.4849
+    },
+    {
+      "start": 835.98,
+      "end": 838.22,
+      "text": "Let's throw the press.",
+      "confidence": 0.4849
+    },
+    {
+      "start": 838.22,
+      "end": 843.5,
+      "text": "Moscow Ratchet, what assistantistic manager of what tracks the combined, is making a fool",
+      "confidence": 0.4849
+    },
+    {
+      "start": 843.5,
+      "end": 847.42,
+      "text": "of himself over the little blonde steel puddle from Kampzol.",
+      "confidence": 0.4849
+    },
+    {
+      "start": 847.42,
+      "end": 853.06,
+      "text": "They were seen making it a new for hydroelectric dam, Friday night.",
+      "confidence": 0.4849
+    },
+    {
+      "start": 853.06,
+      "end": 855.06,
+      "text": "More power to them.",
+      "confidence": 0.4849
+    },
+    {
+      "start": 855.06,
+      "end": 861.06,
+      "text": "It's a blasted event for the third game, Manicivic.",
+      "confidence": 0.5627
+    },
+    {
+      "start": 861.06,
+      "end": 865.06,
+      "text": "He is a former miscollected farm for 1937.",
+      "confidence": 0.5627
+    },
+    {
+      "start": 865.06,
+      "end": 870.06,
+      "text": "He is the cost-worth puzzle editor and financial advisor of Krausev.",
+      "confidence": 0.5627
+    },
+    {
+      "start": 870.06,
+      "end": 874.06,
+      "text": "An author whose plan to contend with S-time off-beat.",
+      "confidence": 0.5627
+    },
+    {
+      "start": 874.06,
+      "end": 880.06,
+      "text": "He is responsible for this month's sensational 30% rise in the production of Bala Lightup.",
+      "confidence": 0.5627
+    },
+    {
+      "start": 880.06,
+      "end": 887.2,
+      "text": "This is the same turn-off, you only last year, won the Cops the COVID award without standing",
+      "confidence": 0.4885
+    },
+    {
+      "start": 887.2,
+      "end": 891.2,
+      "text": "work on Thombone Val.",
+      "confidence": 0.4885
+    },
+    {
+      "start": 891.2,
+      "end": 893.48,
+      "text": "And now to answer the mail as the time allows.",
+      "confidence": 0.4885
+    },
+    {
+      "start": 893.48,
+      "end": 901.58,
+      "text": "Nikolayev had cut off its 327 Potemkin Flasik Smolensk, so are you, Comrade?",
+      "confidence": 0.4885
+    },
+    {
+      "start": 901.58,
+      "end": 906.66,
+      "text": "That's all for the night, Tavaraki.",
+      "confidence": 0.4885
+    },
+    {
+      "start": 906.66,
+      "end": 910.26,
+      "text": "which is when Celtic is boy of all the big things,",
+      "confidence": 0.5548
+    },
+    {
+      "start": 910.26,
+      "end": 912.14,
+      "text": "he tells you are a Russian,",
+      "confidence": 0.5548
+    },
+    {
+      "start": 912.14,
+      "end": 914.46,
+      "text": "because when you are a Russian,",
+      "confidence": 0.5548
+    },
+    {
+      "start": 914.46,
+      "end": 916.42,
+      "text": "you are a Russian.",
+      "confidence": 0.5548
+    },
+    {
+      "start": 919.1,
+      "end": 922.14,
+      "text": "Well, that's the big Moscow up to date, Gregory.",
+      "confidence": 0.5548
+    },
+    {
+      "start": 922.14,
+      "end": 923.78,
+      "text": "You know, I wonder if that was the family",
+      "confidence": 0.5548
+    },
+    {
+      "start": 923.78,
+      "end": 925.54,
+      "text": "that is still part of some hike up,",
+      "confidence": 0.5548
+    },
+    {
+      "start": 925.54,
+      "end": 928.46,
+      "text": "who went to the duper down with him in 19th row.",
+      "confidence": 0.5548
+    },
+    {
+      "start": 928.46,
+      "end": 929.9,
+      "text": "Oh, no, no, he couldn't be.",
+      "confidence": 0.5548
+    },
+    {
+      "start": 929.9,
+      "end": 931.46,
+      "text": "Could be he to fight the cold now.",
+      "confidence": 0.5548
+    },
+    {
+      "start": 931.46,
+      "end": 932.98,
+      "text": "Oh, no.",
+      "confidence": 0.5548
+    },
+    {
+      "start": 932.98,
+      "end": 936.18,
+      "text": "Well, Gregory, can you think of any other American program",
+      "confidence": 0.5548
+    },
+    {
+      "start": 936.18,
+      "end": 937.82,
+      "text": "the rest in total to go for?",
+      "confidence": 0.5577
+    },
+    {
+      "start": 937.82,
+      "end": 938.78,
+      "text": "Yes, Fred.",
+      "confidence": 0.5577
+    },
+    {
+      "start": 938.78,
+      "end": 939.78,
+      "text": "Cheerio.",
+      "confidence": 0.5577
+    },
+    {
+      "start": 939.78,
+      "end": 940.78,
+      "text": "Cheerio.",
+      "confidence": 0.5577
+    },
+    {
+      "start": 940.78,
+      "end": 942.62,
+      "text": "Do you really think they'd like Cheerio programs over there?",
+      "confidence": 0.5577
+    },
+    {
+      "start": 942.62,
+      "end": 944.5,
+      "text": "With all that suffering and fragility,",
+      "confidence": 0.5577
+    },
+    {
+      "start": 944.5,
+      "end": 946.74,
+      "text": "they will be for crazy for the cheerio program.",
+      "confidence": 0.5577
+    },
+    {
+      "start": 946.74,
+      "end": 947.58,
+      "text": "Really?",
+      "confidence": 0.5577
+    },
+    {
+      "start": 947.58,
+      "end": 951.18,
+      "text": "A true awesome is mellow for 80s as when you come here.",
+      "confidence": 0.5577
+    },
+    {
+      "start": 951.18,
+      "end": 952.9,
+      "text": "All right, Gregory.",
+      "confidence": 0.5577
+    },
+    {
+      "start": 952.9,
+      "end": 955.5,
+      "text": "Now, here is our rest in Cheerio, myself.",
+      "confidence": 0.5577
+    },
+    {
+      "start": 963.74,
+      "end": 965.82,
+      "text": "And now we present",
+      "confidence": 0.5577
+    },
+    {
+      "start": 965.82,
+      "end": 967.5,
+      "text": "Yes, plain mishia.",
+      "confidence": 0.5386
+    },
+    {
+      "start": 972.5,
+      "end": 975.58,
+      "text": "When we left, just plain mishia yesterday, he was going to sorry twice.",
+      "confidence": 0.5386
+    },
+    {
+      "start": 975.58,
+      "end": 979.54,
+      "text": "He had 24 hours to decide whether he should marry a master for Saturday.",
+      "confidence": 0.5386
+    },
+    {
+      "start": 979.54,
+      "end": 982.62,
+      "text": "The poor little gypsy girl would save his life when he's cut to the scene",
+      "confidence": 0.5386
+    },
+    {
+      "start": 982.62,
+      "end": 984.34,
+      "text": "he bundled him into a veil of the haze.",
+      "confidence": 0.5386
+    },
+    {
+      "start": 985.86,
+      "end": 989.94,
+      "text": "Or Mary wealthy Sonia Grumpton, daughter of coming to our grumpton.",
+      "confidence": 0.5386
+    },
+    {
+      "start": 989.94,
+      "end": 991.86,
+      "text": "Life with master will be poverty.",
+      "confidence": 0.5386
+    },
+    {
+      "start": 991.86,
+      "end": 993.86,
+      "text": "Black bread he's didn't know.",
+      "confidence": 0.5386
+    },
+    {
+      "start": 993.86,
+      "end": 996.06,
+      "text": "Life with Tonya will be luxury,",
+      "confidence": 0.4434
+    },
+    {
+      "start": 996.06,
+      "end": 998.62,
+      "text": "coastal water and chilies and with food.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 999.58,
+      "end": 1001.34,
+      "text": "It is hard to do.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1001.34,
+      "end": 1003.3,
+      "text": "Today we find just a nipper at the door",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1003.3,
+      "end": 1005.38,
+      "text": "of Master Katsuki's house.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1005.38,
+      "end": 1006.22,
+      "text": "Nipper not.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1007.62,
+      "end": 1008.94,
+      "text": "Master of Nipper all.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1009.98,
+      "end": 1010.78,
+      "text": "Nipper.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1010.78,
+      "end": 1011.62,
+      "text": "Master.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1014.62,
+      "end": 1015.94,
+      "text": "Tony Nipper.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1015.94,
+      "end": 1017.5,
+      "text": "But he's a master.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1017.5,
+      "end": 1020.26,
+      "text": "The family is all here, they should be nipper.",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1020.26,
+      "end": 1021.98,
+      "text": "Wait before what, Master?",
+      "confidence": 0.4434
+    },
+    {
+      "start": 1021.98,
+      "end": 1025.34,
+      "text": "We are Navata, for in Russia, why don't you get a wait for?",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1025.34,
+      "end": 1028.02,
+      "text": "Yeah, only then I'm responsible.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1028.02,
+      "end": 1029.42,
+      "text": "We too are maintenance.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1029.42,
+      "end": 1030.66,
+      "text": "We too are Martha.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1030.66,
+      "end": 1033.26,
+      "text": "Oh, oh, oh.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1033.26,
+      "end": 1034.58,
+      "text": "Who is Monica?",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1034.58,
+      "end": 1036.22,
+      "text": "Grandpa Bore is the old one.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1036.22,
+      "end": 1038.1,
+      "text": "He's glad he's in the fire.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1038.1,
+      "end": 1039.7,
+      "text": "Why does he move?",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1039.7,
+      "end": 1041.02,
+      "text": "Why does he move?",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1041.02,
+      "end": 1041.9,
+      "text": "Why do you move?",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1041.9,
+      "end": 1042.86,
+      "text": "He moves here.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1042.86,
+      "end": 1045.1,
+      "text": "Grandpa is out.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1045.1,
+      "end": 1046.26,
+      "text": "Promotion.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1046.26,
+      "end": 1047.22,
+      "text": "Through Martha.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1047.22,
+      "end": 1049.58,
+      "text": "Oh, oh.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1049.58,
+      "end": 1051.42,
+      "text": "Grandpa Bore is the morning to dinner.",
+      "confidence": 0.4649
+    },
+    {
+      "start": 1051.42,
+      "end": 1053.42,
+      "text": "The other leg is in the fire.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1054.42,
+      "end": 1056.42,
+      "text": "He is preventing himself.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1056.42,
+      "end": 1058.42,
+      "text": "I think he is born with him.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1058.42,
+      "end": 1060.42,
+      "text": "You have plenty of trouble, Matta.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1060.42,
+      "end": 1065.42,
+      "text": "Problem is that there is no food that might have eaten with it.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1065.42,
+      "end": 1067.42,
+      "text": "And then you have souped out of the oven.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1067.42,
+      "end": 1068.42,
+      "text": "This is all cooking, God.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1068.42,
+      "end": 1070.42,
+      "text": "We are having him for dinner.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1071.42,
+      "end": 1073.42,
+      "text": "Everything is trouble.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1073.42,
+      "end": 1075.42,
+      "text": "I have more trouble for you, Matta.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1075.42,
+      "end": 1076.42,
+      "text": "More trouble, Matta.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1076.42,
+      "end": 1077.42,
+      "text": "Yes, Matta.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1077.42,
+      "end": 1079.42,
+      "text": "Our wedding is over.",
+      "confidence": 0.6386
+    },
+    {
+      "start": 1079.42,
+      "end": 1081.42,
+      "text": "I am going to marry Sonia.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1081.42,
+      "end": 1084.42,
+      "text": "So, life is a very neutral world.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1084.42,
+      "end": 1086.42,
+      "text": "It's a great experience.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1086.42,
+      "end": 1087.42,
+      "text": "I am drinking water.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1087.42,
+      "end": 1089.42,
+      "text": "Now you are having trouble with her.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1089.42,
+      "end": 1090.42,
+      "text": "trouble matters?",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1090.42,
+      "end": 1092.42,
+      "text": "The truth is poison, Lydia.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1092.42,
+      "end": 1094.42,
+      "text": "A blood year on you matter.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1094.42,
+      "end": 1097.42,
+      "text": "You are angry with me, Lydia.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1097.42,
+      "end": 1098.42,
+      "text": "I'm angry with you.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1098.42,
+      "end": 1099.42,
+      "text": "You are angry with me, Lydia.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1099.42,
+      "end": 1100.42,
+      "text": "I'm angry with you.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1100.42,
+      "end": 1101.42,
+      "text": "I'm angry with you.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1101.42,
+      "end": 1102.42,
+      "text": "But this is Russia.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1102.42,
+      "end": 1104.42,
+      "text": "When you first see without lemons,",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1104.42,
+      "end": 1106.42,
+      "text": "you should drop dead.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1106.42,
+      "end": 1107.42,
+      "text": "I will.",
+      "confidence": 0.5857
+    },
+    {
+      "start": 1107.42,
+      "end": 1114.42,
+      "text": "This is what Barbara will be seeing and I'll miss you, Marka.",
+      "confidence": 0.6269
+    },
+    {
+      "start": 1114.42,
+      "end": 1125.42,
+      "text": "Well, I was curious what the greatest, right, the Gregory?",
+      "confidence": 0.6269
+    },
+    {
+      "start": 1125.42,
+      "end": 1127.42,
+      "text": "People would be killing themselves off.",
+      "confidence": 0.6269
+    },
+    {
+      "start": 1127.42,
+      "end": 1130.42,
+      "text": "You'd have a new family on the air every other day.",
+      "confidence": 0.6269
+    },
+    {
+      "start": 1130.42,
+      "end": 1133.42,
+      "text": "Well, I guess that takes care of most of your problems,",
+      "confidence": 0.6269
+    },
+    {
+      "start": 1133.42,
+      "end": 1138.42,
+      "text": "I go boy, just one more thing for you, another program, Beetle.",
+      "confidence": 0.5652
+    },
+    {
+      "start": 1138.42,
+      "end": 1141.42,
+      "text": "I would like to introduce some of the tuning Beetle's truck.",
+      "confidence": 0.5652
+    },
+    {
+      "start": 1141.42,
+      "end": 1144.42,
+      "text": "Alright, when Beetle's hit the mask on network,",
+      "confidence": 0.5652
+    },
+    {
+      "start": 1144.42,
+      "end": 1146.42,
+      "text": "you hear something like this.",
+      "confidence": 0.5652
+    },
+    {
+      "start": 1147.42,
+      "end": 1159.42,
+      "text": "Go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go.",
+      "confidence": 0.5652
+    },
+    {
+      "start": 1163.42,
+      "end": 1176.66,
+      "text": "That hour will be that again next week. And now we take you to the Cafe Van der Barg or",
+      "confidence": 0.4961
+    },
+    {
+      "start": 1176.66,
+      "end": 1178.66,
+      "text": "the music out, you're telling them.",
+      "confidence": 0.4427
+    },
+    {
+      "start": 1206.66,
+      "end": 1213.66,
+      "text": ".",
+      "confidence": 0.4743
+    },
+    {
+      "start": 1213.66,
+      "end": 1220.66,
+      "text": ".",
+      "confidence": 0.4743
+    },
+    {
+      "start": 1220.66,
+      "end": 1226.66,
+      "text": ".",
+      "confidence": 0.4743
+    },
+    {
+      "start": 1226.66,
+      "end": 1233.66,
+      "text": ".",
+      "confidence": 0.4743
+    },
+    {
+      "start": 1233.66,
+      "end": 1253.3,
+      "text": "I do really, really you?",
+      "confidence": 0.0243
+    },
+    {
+      "start": 1283.3,
+      "end": 1287.3,
+      "text": "There's a secret for me, isn't it?",
+      "confidence": 0.4353
+    },
+    {
+      "start": 1287.3,
+      "end": 1291.3,
+      "text": "Cause yeah,",
+      "confidence": 0.4353
+    },
+    {
+      "start": 1291.3,
+      "end": 1294.3,
+      "text": "secret on the road,",
+      "confidence": 0.4353
+    },
+    {
+      "start": 1294.3,
+      "end": 1301.3,
+      "text": "I'll show you the news that I'm gonna get",
+      "confidence": 0.4353
+    },
+    {
+      "start": 1301.3,
+      "end": 1304.3,
+      "text": "I'll show you my plan",
+      "confidence": 0.4353
+    },
+    {
+      "start": 1304.3,
+      "end": 1310.3,
+      "text": "I'll show you the secret for me",
+      "confidence": 0.4353
+    },
+    {
+      "start": 1340.3,
+      "end": 1343.98,
+      "text": "He's a rubber, rubber, rubber.",
+      "confidence": 0.1664
+    },
+    {
+      "start": 1344.92,
+      "end": 1348.82,
+      "text": "Kna'vo, rubber, rubber, rubber.",
+      "confidence": 0.1664
+    },
+    {
+      "start": 1349.38,
+      "end": 1352.36,
+      "text": "He's the rubber. He's the rubber.",
+      "confidence": 0.1664
+    },
+    {
+      "start": 1352.88,
+      "end": 1358.24,
+      "text": "He's a little rubber, a little rubber, rubber.",
+      "confidence": 0.1664
+    },
+    {
+      "start": 1358.24,
+      "end": 1362.72,
+      "text": "Car, a-a-\ufffd, a-a-a-are.",
+      "confidence": 0.1664
+    },
+    {
+      "start": 1363.02,
+      "end": 1370.08,
+      "text": "You've got all the glass in my head.",
+      "confidence": 0.1664
+    },
+    {
+      "start": 1370.08,
+      "end": 1375.08,
+      "text": "That makes no risk at all, at all.",
+      "confidence": 0.354
+    },
+    {
+      "start": 1430.08,
+      "end": 1450.48,
+      "text": "Well, see your heart, enjoy yourselves thinking that one that was risked to come out.",
+      "confidence": 0.4742
+    },
+    {
+      "start": 1450.48,
+      "end": 1454.0,
+      "text": "Now I do challenge him to vocalist Albert Gibber to the microphone with Johnny Hodges,",
+      "confidence": 0.4742
+    },
+    {
+      "start": 1454.0,
+      "end": 1458.0,
+      "text": "and the outside was back to going back around every hour on the hour.",
+      "confidence": 0.4233
+    },
+    {
+      "start": 1484.0,
+      "end": 1507.0,
+      "text": "When everything I got on the road, I fell in love with you.",
+      "confidence": 0.3058
+    },
+    {
+      "start": 1507.0,
+      "end": 1526.48,
+      "text": "I fall in love, every minute on the minute, one of the dreams comes true.",
+      "confidence": 0.5658
+    },
+    {
+      "start": 1526.48,
+      "end": 1538.48,
+      "text": "There's every second that you've heard me The thrill is still the same",
+      "confidence": 0.4899
+    },
+    {
+      "start": 1538.48,
+      "end": 1550.48,
+      "text": "For the first time I've just seen The second time we all know",
+      "confidence": 0.4899
+    },
+    {
+      "start": 1550.48,
+      "end": 1556.16,
+      "text": "We don't have to be together",
+      "confidence": 0.4205
+    },
+    {
+      "start": 1556.16,
+      "end": 1560.56,
+      "text": "for a minute of the day or night",
+      "confidence": 0.4205
+    },
+    {
+      "start": 1561.56,
+      "end": 1564.56,
+      "text": "Just the thought of you",
+      "confidence": 0.4205
+    },
+    {
+      "start": 1564.56,
+      "end": 1573.36,
+      "text": "conveys the dream of you so much",
+      "confidence": 0.4205
+    },
+    {
+      "start": 1573.36,
+      "end": 1578.48,
+      "text": "Every second of a minute",
+      "confidence": 0.4205
+    },
+    {
+      "start": 1578.48,
+      "end": 1584.98,
+      "text": "You are in my heart and baby",
+      "confidence": 0.4929
+    },
+    {
+      "start": 1584.98,
+      "end": 1589.98,
+      "text": "Every hour of the day",
+      "confidence": 0.4929
+    },
+    {
+      "start": 1589.98,
+      "end": 1596.98,
+      "text": "I fall in love again",
+      "confidence": 0.4929
+    },
+    {
+      "start": 1608.48,
+      "end": 1636.48,
+      "text": "Every hour of the hour",
+      "confidence": 0.4011
+    },
+    {
+      "start": 1636.48,
+      "end": 1646.48,
+      "text": "I fall in love, oh, yeah.",
+      "confidence": 0.4694
+    },
+    {
+      "start": 1646.48,
+      "end": 1656.48,
+      "text": "The vocalist was now a bit different.",
+      "confidence": 0.4694
+    },
+    {
+      "start": 1656.48,
+      "end": 1659.48,
+      "text": "Now this next one is not an novelty tune.",
+      "confidence": 0.4694
+    },
+    {
+      "start": 1659.48,
+      "end": 1661.48,
+      "text": "This title is just a minute.",
+      "confidence": 0.4694
+    },
+    {
+      "start": 1661.48,
+      "end": 1663.48,
+      "text": "I'm calling his death.",
+      "confidence": 0.2947
+    }
+  ]
+}

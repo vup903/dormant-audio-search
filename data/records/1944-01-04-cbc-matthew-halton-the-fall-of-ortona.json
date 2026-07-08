@@ -1,0 +1,409 @@
+{
+  "id": "1944-01-04-cbc-matthew-halton-the-fall-of-ortona",
+  "title": "Matthew Halton The Fall Of Ortona",
+  "program": "CBC",
+  "date": "1944-01-04",
+  "decade": "1940s",
+  "source_url": "https://archive.org/details/1944RadioNews",
+  "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+  "audio_file": "1944-01-04-cbc-matthew-halton-the-fall-of-ortona.mp3",
+  "language": "en",
+  "duration_s": 311.0,
+  "asr": {
+    "model": "faster-whisper-base",
+    "confidence": 0.7152,
+    "ai_generated": true
+  },
+  "transcript": "This is Nancy Bolton of the CDC, speaking from Italy. I think across this morning I was bumping over the trade route into the outskirts of Artona. There was a strange silence, and I surmised something. I brought into the command post of a Western Canadian unit from the heart of the town. Only a few machine guns were clattering, only an occasional enemy shell was falling. And bearded men who hadn't had their boots off for 30 days were laughing. The Colonel Grimm, and I came in, I said, don't tell me, and he replied, yes. I think we've got our tone up. There's a patrol going to the fort now, and if they find no Germans there, the thing is over. We'll know any minute. Two minutes later, the radio boat and Corporal Bill Paulville of Edmonton took the message from the signaler of the port not 400 yards away. Many took off and fearful and turned to the Colonel. Sir, the Jerry's have gone or else they're all dead. Ortona was ours. And so ended the battle of the moral river, one of the most savage Canadians ever After 21 days of hard enough fighting, the Canadians had had seven days and eight nights of fearful battle in Artona, against one of the best units ever produced by the fierce junta, the fourth Paris division, demons admit, and now the battle was over and won at no small car. I left the command post and walked down the narrow street, an office and came to a little square which had better not be described. Continuing down another street, I came to the ruins of a three-story building. I looked through the rubble and saw several mangled German dead. This was where the battle ended last night in a pit of heroism and ferocity. For the last two days, the fighting had been offended from host to host. The company of one of the Western units under Captain Bill Longhurst of Vancouver, I'm sorry of Edmonton, had fought its way into one building and fought its way to the top, thereby staring and roamed by room. Then they had to get into the next building to kill the Germans there, so they blew holes in the wall. German sticky bones and two hand grenades through the holes and then clawed through and started fighting their way downstairs, down the stairs, or blowing holes in the floor and shooting down. But meanwhile, one opera, the regimental interpreter, crawled close to a window of this building to hear the Germans talking. He heard an officer upgrading his men for having left the Canadians get him to the top floor. In the Canadian crept away and found some of our engineers. In half an hour, the engineers would place charges of high explosives under the building. And after the Canadians on the top floor had been warned to get out, the building was blown up, and 40 or 50 Germans in it were killed or crushed. This was a revenge, because we We had lost men that way. And that will tell you perhaps what kind of a battle has been going on in our sauna for seven days and eight nights. Men blowing holes through walls and fighting their way down from top to bottom of a building in a hell storm of machine gun bullets and hand grenades. Thousands of hand grenades, potato mashers as the Canadians call them, were used in this demonic fight. I looked around there, horrified. Captain Vicksoli of Edmonton was telling me stories, but I hardly heard them. But I remember him saying that at dusk yesterday, in the last minute convulsion, a young Italian woman found buried alive, which delivered her baby by a sergeant in that kingdom, both doing well. The mother well enough to say that her baby's second name with the Cater days in, meaning Canadian. I went slowly down another main street and came to another square. The buildings were either empty shells or piles of bricks and rubble. Some covered with dead Germans and blood. And this havoc caused by shells, not bombs. On one pile of rubble, precariously balanced. Killed by an anti-tank gun, and set on fire as its attack with a Canadian tank. I see it now as I see it, as I always see it, not static and dead, but dynamic in that minute when gallantly it climbed the minefield pile of rubble only yesterday and was struck down by an energy tank shell.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "This is Nancy Bolton of the CDC, speaking from Italy.",
+      "confidence": 0.6977
+    },
+    {
+      "start": 6.0,
+      "end": 11.6,
+      "text": "I think across this morning I was bumping over the trade route into the outskirts of",
+      "confidence": 0.6977
+    },
+    {
+      "start": 11.6,
+      "end": 12.6,
+      "text": "Artona.",
+      "confidence": 0.6977
+    },
+    {
+      "start": 12.6,
+      "end": 17.0,
+      "text": "There was a strange silence, and I surmised something.",
+      "confidence": 0.6977
+    },
+    {
+      "start": 17.0,
+      "end": 23.0,
+      "text": "I brought into the command post of a Western Canadian unit from the heart of the town.",
+      "confidence": 0.6977
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "Only a few machine guns were clattering, only an occasional enemy shell was falling.",
+      "confidence": 0.6977
+    },
+    {
+      "start": 29.0,
+      "end": 34.38,
+      "text": "And bearded men who hadn't had their boots off for 30 days were laughing.",
+      "confidence": 0.6933
+    },
+    {
+      "start": 34.38,
+      "end": 41.46,
+      "text": "The Colonel Grimm, and I came in, I said, don't tell me, and he replied, yes.",
+      "confidence": 0.6933
+    },
+    {
+      "start": 41.46,
+      "end": 44.38,
+      "text": "I think we've got our tone up.",
+      "confidence": 0.6933
+    },
+    {
+      "start": 44.38,
+      "end": 49.34,
+      "text": "There's a patrol going to the fort now, and if they find no Germans there, the thing",
+      "confidence": 0.6933
+    },
+    {
+      "start": 49.34,
+      "end": 50.34,
+      "text": "is over.",
+      "confidence": 0.6933
+    },
+    {
+      "start": 50.34,
+      "end": 53.38,
+      "text": "We'll know any minute.",
+      "confidence": 0.6933
+    },
+    {
+      "start": 53.38,
+      "end": 60.02,
+      "text": "Two minutes later, the radio boat and Corporal Bill Paulville of Edmonton took the message from the",
+      "confidence": 0.6994
+    },
+    {
+      "start": 60.02,
+      "end": 66.74,
+      "text": "signaler of the port not 400 yards away. Many took off and fearful and turned to the Colonel.",
+      "confidence": 0.6994
+    },
+    {
+      "start": 67.54,
+      "end": 70.66,
+      "text": "Sir, the Jerry's have gone or else they're all dead.",
+      "confidence": 0.6994
+    },
+    {
+      "start": 72.26,
+      "end": 79.7,
+      "text": "Ortona was ours. And so ended the battle of the moral river, one of the most savage Canadians ever",
+      "confidence": 0.6994
+    },
+    {
+      "start": 79.7,
+      "end": 88.12,
+      "text": "After 21 days of hard enough fighting, the Canadians had had seven days and eight nights",
+      "confidence": 0.6595
+    },
+    {
+      "start": 88.12,
+      "end": 93.64,
+      "text": "of fearful battle in Artona, against one of the best units ever produced by the fierce",
+      "confidence": 0.6595
+    },
+    {
+      "start": 93.64,
+      "end": 101.96,
+      "text": "junta, the fourth Paris division, demons admit, and now the battle was over and won at no",
+      "confidence": 0.6595
+    },
+    {
+      "start": 101.96,
+      "end": 110.48,
+      "text": "small car. I left the command post and walked down the narrow street, an office and came to",
+      "confidence": 0.742
+    },
+    {
+      "start": 110.48,
+      "end": 116.92,
+      "text": "a little square which had better not be described. Continuing down another street, I came to",
+      "confidence": 0.742
+    },
+    {
+      "start": 116.92,
+      "end": 122.88,
+      "text": "the ruins of a three-story building. I looked through the rubble and saw several mangled",
+      "confidence": 0.742
+    },
+    {
+      "start": 122.88,
+      "end": 131.6,
+      "text": "German dead. This was where the battle ended last night in a pit of heroism and ferocity.",
+      "confidence": 0.742
+    },
+    {
+      "start": 131.6,
+      "end": 136.28,
+      "text": "For the last two days, the fighting had been offended from host to host.",
+      "confidence": 0.7012
+    },
+    {
+      "start": 136.28,
+      "end": 142.16,
+      "text": "The company of one of the Western units under Captain Bill Longhurst of Vancouver,",
+      "confidence": 0.7012
+    },
+    {
+      "start": 142.16,
+      "end": 147.12,
+      "text": "I'm sorry of Edmonton, had fought its way into one building and fought its way to the",
+      "confidence": 0.7012
+    },
+    {
+      "start": 147.12,
+      "end": 151.84,
+      "text": "top, thereby staring and roamed by room.",
+      "confidence": 0.7012
+    },
+    {
+      "start": 151.84,
+      "end": 156.84,
+      "text": "Then they had to get into the next building to kill the Germans there, so they blew holes",
+      "confidence": 0.7012
+    },
+    {
+      "start": 156.84,
+      "end": 160.28,
+      "text": "in the wall.",
+      "confidence": 0.7012
+    },
+    {
+      "start": 160.28,
+      "end": 167.16,
+      "text": "German sticky bones and two hand grenades through the holes and then clawed through and started",
+      "confidence": 0.7525
+    },
+    {
+      "start": 167.16,
+      "end": 173.4,
+      "text": "fighting their way downstairs, down the stairs, or blowing holes in the floor and shooting down.",
+      "confidence": 0.7525
+    },
+    {
+      "start": 174.6,
+      "end": 180.44,
+      "text": "But meanwhile, one opera, the regimental interpreter, crawled close to a window of this building",
+      "confidence": 0.7525
+    },
+    {
+      "start": 180.44,
+      "end": 186.68,
+      "text": "to hear the Germans talking. He heard an officer upgrading his men for having left the Canadians",
+      "confidence": 0.7525
+    },
+    {
+      "start": 186.68,
+      "end": 193.8,
+      "text": "get him to the top floor. In the Canadian crept away and found some of our engineers. In",
+      "confidence": 0.7745
+    },
+    {
+      "start": 193.8,
+      "end": 199.36,
+      "text": "half an hour, the engineers would place charges of high explosives under the building. And",
+      "confidence": 0.7745
+    },
+    {
+      "start": 199.36,
+      "end": 203.8,
+      "text": "after the Canadians on the top floor had been warned to get out, the building was blown",
+      "confidence": 0.7745
+    },
+    {
+      "start": 203.8,
+      "end": 210.78,
+      "text": "up, and 40 or 50 Germans in it were killed or crushed. This was a revenge, because we",
+      "confidence": 0.7745
+    },
+    {
+      "start": 210.78,
+      "end": 213.7,
+      "text": "We had lost men that way.",
+      "confidence": 0.7323
+    },
+    {
+      "start": 213.7,
+      "end": 218.26,
+      "text": "And that will tell you perhaps what kind of a battle has been going on in our sauna",
+      "confidence": 0.7323
+    },
+    {
+      "start": 218.26,
+      "end": 221.06,
+      "text": "for seven days and eight nights.",
+      "confidence": 0.7323
+    },
+    {
+      "start": 221.06,
+      "end": 226.7,
+      "text": "Men blowing holes through walls and fighting their way down from top to bottom of a building",
+      "confidence": 0.7323
+    },
+    {
+      "start": 226.7,
+      "end": 230.26,
+      "text": "in a hell storm of machine gun bullets and hand grenades.",
+      "confidence": 0.7323
+    },
+    {
+      "start": 230.26,
+      "end": 235.94,
+      "text": "Thousands of hand grenades, potato mashers as the Canadians call them, were used in this",
+      "confidence": 0.7323
+    },
+    {
+      "start": 235.94,
+      "end": 238.46,
+      "text": "demonic fight.",
+      "confidence": 0.7323
+    },
+    {
+      "start": 238.46,
+      "end": 241.34,
+      "text": "I looked around there, horrified.",
+      "confidence": 0.7163
+    },
+    {
+      "start": 241.34,
+      "end": 244.7,
+      "text": "Captain Vicksoli of Edmonton was telling me stories,",
+      "confidence": 0.7163
+    },
+    {
+      "start": 244.7,
+      "end": 246.78,
+      "text": "but I hardly heard them.",
+      "confidence": 0.7163
+    },
+    {
+      "start": 246.78,
+      "end": 250.14,
+      "text": "But I remember him saying that at dusk yesterday,",
+      "confidence": 0.7163
+    },
+    {
+      "start": 250.14,
+      "end": 253.86,
+      "text": "in the last minute convulsion, a young Italian woman",
+      "confidence": 0.7163
+    },
+    {
+      "start": 253.86,
+      "end": 256.98,
+      "text": "found buried alive, which delivered her baby",
+      "confidence": 0.7163
+    },
+    {
+      "start": 256.98,
+      "end": 261.66,
+      "text": "by a sergeant in that kingdom, both doing well.",
+      "confidence": 0.7163
+    },
+    {
+      "start": 261.66,
+      "end": 264.9,
+      "text": "The mother well enough to say that her baby's second name",
+      "confidence": 0.7163
+    },
+    {
+      "start": 264.9,
+      "end": 269.38,
+      "text": "with the Cater days in, meaning Canadian.",
+      "confidence": 0.7066
+    },
+    {
+      "start": 269.38,
+      "end": 273.94,
+      "text": "I went slowly down another main street and came to another square.",
+      "confidence": 0.7066
+    },
+    {
+      "start": 273.94,
+      "end": 278.14,
+      "text": "The buildings were either empty shells or piles of bricks and rubble.",
+      "confidence": 0.7066
+    },
+    {
+      "start": 278.14,
+      "end": 281.38,
+      "text": "Some covered with dead Germans and blood.",
+      "confidence": 0.7066
+    },
+    {
+      "start": 281.38,
+      "end": 285.3,
+      "text": "And this havoc caused by shells, not bombs.",
+      "confidence": 0.7066
+    },
+    {
+      "start": 285.3,
+      "end": 288.78,
+      "text": "On one pile of rubble, precariously balanced.",
+      "confidence": 0.7066
+    },
+    {
+      "start": 288.78,
+      "end": 294.7,
+      "text": "Killed by an anti-tank gun, and set on fire as its attack with a Canadian tank.",
+      "confidence": 0.7066
+    },
+    {
+      "start": 294.7,
+      "end": 301.9,
+      "text": "I see it now as I see it, as I always see it, not static and dead, but dynamic in that",
+      "confidence": 0.6911
+    },
+    {
+      "start": 301.9,
+      "end": 308.22,
+      "text": "minute when gallantly it climbed the minefield pile of rubble only yesterday and was struck",
+      "confidence": 0.6911
+    },
+    {
+      "start": 308.22,
+      "end": 309.66,
+      "text": "down by an energy tank shell.",
+      "confidence": 0.6911
+    }
+  ],
+  "tags": [
+    {
+      "term": "war",
+      "score": 0.3661,
+      "ai_generated": true
+    },
+    {
+      "term": "military",
+      "score": 0.3253,
+      "ai_generated": true
+    },
+    {
+      "term": "disaster",
+      "score": 0.2957,
+      "ai_generated": true
+    }
+  ]
+}

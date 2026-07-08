@@ -1,0 +1,201 @@
+{
+  "id": "1951-04-19-general-douglas-macarthur---address-to-congress",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 301.0,
+  "confidence": 0.7439,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Some may say to avoid spread the conflict into an all-out wall with China.",
+      "confidence": 0.8155
+    },
+    {
+      "start": 7.0,
+      "end": 15.0,
+      "text": "Others to avoid Soviet intervention, neither explanation seems valid.",
+      "confidence": 0.8155
+    },
+    {
+      "start": 15.0,
+      "end": 22.0,
+      "text": "For China is already engaging with a maximum power it can commit,",
+      "confidence": 0.8155
+    },
+    {
+      "start": 22.0,
+      "end": 30.72,
+      "text": "And the Soviet will not necessarily mesh its actions with our moves like a cobra.",
+      "confidence": 0.8219
+    },
+    {
+      "start": 30.72,
+      "end": 37.8,
+      "text": "Any new enemy will more likely strike whenever it feels that the relativity and military",
+      "confidence": 0.8219
+    },
+    {
+      "start": 37.8,
+      "end": 44.4,
+      "text": "or other potential is in its favor on a worldwide basis.",
+      "confidence": 0.8219
+    },
+    {
+      "start": 44.4,
+      "end": 52.88,
+      "text": "The tragedy of Korea is further heightened by the fact that as military action is confined",
+      "confidence": 0.8376
+    },
+    {
+      "start": 52.88,
+      "end": 59.84,
+      "text": "to its territorial limits, it condemns that nation, which it is our purpose to save, to",
+      "confidence": 0.8376
+    },
+    {
+      "start": 59.84,
+      "end": 66.48,
+      "text": "suffer the devastating impact of full naval and air bombardment, while the enemy's",
+      "confidence": 0.8376
+    },
+    {
+      "start": 66.48,
+      "end": 71.72,
+      "text": "Sexuaries are fully protected from such attack and devastation.",
+      "confidence": 0.7232
+    },
+    {
+      "start": 71.72,
+      "end": 74.6,
+      "text": "Of the nations of the world,",
+      "confidence": 0.7232
+    },
+    {
+      "start": 74.6,
+      "end": 79.96,
+      "text": "Korea alone up to now is the sole one",
+      "confidence": 0.7232
+    },
+    {
+      "start": 79.96,
+      "end": 83.64,
+      "text": "which has risked its all against communism,",
+      "confidence": 0.7232
+    },
+    {
+      "start": 83.64,
+      "end": 88.4,
+      "text": "the magnificence of the courage and fortitude",
+      "confidence": 0.7232
+    },
+    {
+      "start": 88.4,
+      "end": 92.28,
+      "text": "of the Korean people defies description.",
+      "confidence": 0.7232
+    },
+    {
+      "start": 92.28,
+      "end": 110.92,
+      "text": "they have chosen to risk death rather than slavery. Their last words, to me, were don't",
+      "confidence": 0.673
+    },
+    {
+      "start": 110.92,
+      "end": 113.72,
+      "text": "scuffle the Pacific.",
+      "confidence": 0.6257
+    },
+    {
+      "start": 113.72,
+      "end": 130.32,
+      "text": "I have just left your fighting sons in Korea.",
+      "confidence": 0.6257
+    },
+    {
+      "start": 130.32,
+      "end": 137.16,
+      "text": "They have not all tests there, and I can report to you without reservation because they",
+      "confidence": 0.6257
+    },
+    {
+      "start": 137.16,
+      "end": 152.08,
+      "text": "They are splendid in every way.",
+      "confidence": 0.7811
+    },
+    {
+      "start": 152.08,
+      "end": 159.76,
+      "text": "It was my constant effort to preserve them, and then the savage conflict honorably and",
+      "confidence": 0.7811
+    },
+    {
+      "start": 159.76,
+      "end": 165.2,
+      "text": "with the least lost of time and a minimum sacrifice of life.",
+      "confidence": 0.7811
+    },
+    {
+      "start": 165.2,
+      "end": 175.68,
+      "text": "This growing bloodshed has caused me the deepest anguish and anxiety.",
+      "confidence": 0.7283
+    },
+    {
+      "start": 175.68,
+      "end": 186.24,
+      "text": "Those gallant men will remain often in my thoughts and in my prayers always.",
+      "confidence": 0.7283
+    },
+    {
+      "start": 195.2,
+      "end": 211.98,
+      "text": "I am closing my 52 years of military service.",
+      "confidence": 0.7799
+    },
+    {
+      "start": 211.98,
+      "end": 221.9,
+      "text": "When I joined the army even before the turn of the century, it was the fulfillment of all",
+      "confidence": 0.7799
+    },
+    {
+      "start": 221.9,
+      "end": 233.34,
+      "text": "all my boyish hopes and dreams. The world has turned over many times since I took the oath",
+      "confidence": 0.7917
+    },
+    {
+      "start": 233.34,
+      "end": 244.14,
+      "text": "on the planet West Point and the hopes and dreams have long since vanished. But I still",
+      "confidence": 0.7917
+    },
+    {
+      "start": 244.14,
+      "end": 255.64,
+      "text": "remember the refrain of one of the most popular baroque ballads of that day, which proclaimed",
+      "confidence": 0.6574
+    },
+    {
+      "start": 255.64,
+      "end": 272.16,
+      "text": "most proudly, that old soldiers never died. They just stayed away. And like the old soldier",
+      "confidence": 0.6511
+    },
+    {
+      "start": 272.16,
+      "end": 286.4,
+      "text": "of that bad. I now close my military career and just fade away, an old soldier who tried",
+      "confidence": 0.7129
+    },
+    {
+      "start": 286.4,
+      "end": 293.04,
+      "text": "to do his duty as God gave in the light to see that duty. Goodbye.",
+      "confidence": 0.7129
+    }
+  ]
+}

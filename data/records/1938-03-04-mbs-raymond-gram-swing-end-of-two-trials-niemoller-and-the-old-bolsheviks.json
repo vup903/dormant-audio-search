@@ -1,0 +1,559 @@
+{
+  "id": "1938-03-04-mbs-raymond-gram-swing-end-of-two-trials-niemoller-and-the-old-bolsheviks",
+  "title": "Raymond Gram Swing End of two trials Niemoller and the old Bolsheviks",
+  "program": "MBS",
+  "date": "1938-03-04",
+  "decade": "1930s",
+  "source_url": "https://archive.org/details/1938RadioNews",
+  "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+  "audio_file": "1938-03-04-mbs-raymond-gram-swing-end-of-two-trials-niemoller-and-the-old-bolsheviks.mp3",
+  "language": "en",
+  "duration_s": 327.0,
+  "asr": {
+    "model": "faster-whisper-base",
+    "confidence": 0.7832,
+    "ai_generated": true
+  },
+  "transcript": "Presenting the distinguished international news commentator and foreign correspondents, Raymond Graham Swing. This is another of his programs known as World Event on which Mr. Swing gives his interpretations of international affairs. Raymond Graham Swing. Good evening. This has been an extraordinary week in World Affairs. It has given us two trials. The numerous trial in Berlin, and the trial of the old Bolsheviks in Russia, and the two of them together really sum up the spiritual half of the anguish and scryfe of this unfolding century. I suppose every century has to answer the same question. What shall become of man's freedom, and what shall become of man's material life, but the questions seem harder to answer today than in the past. And these trials are really epic dramatizations of the problem of freedom as it stands in part of Europe today. They are dramas of tragedy. They don't give the answer. They don't tell what ought to be done. They tell us what fortes are at work, and that what is being done is tragic. After Nemela, this week, received a seven-month sentence for defying the Nazi state, and As he has been in prison since August, he is entitled to his liberty. After the sentence of the court, he was, however, taken back to prison. I suppose to put off the day of celebrations over his release. The whole struggle between the church and the state in Germany comes to a focus in the person of this man named Miller. To begin with, it isn't simply a struggle of the state to get the church, Protestant and Catholic, out of politics. If it had been, I think there would have been much sympathy for the state. That would have been a conflict like the one over the separation of churches state in France, the generation of gold. And people in this country, I think, would have felt that the church had better confined itself to spiritual life and leave politics alone. But that wasn't the issue. A church out of politics can be just as free as one in politics, perhaps even more so. But the Nazis didn't want a free church. They wanted to do a brute Christianity in Germany. They disliked its Hebrew origin. They disliked its humanitarianism. They thought it made men soft. But most of all, they wanted this thing to have the supreme authority to tell men what to do. They came close to following the old Roman custom of promoting their emperor to a deity, making Hitler the voice of God. So the defiance, put up by this courageous pastor, was defiant on behalf of conscience and the right of man to obey God in questions of conscience and not the head of the state. Or to put it in another way, it was a brave German assertion of his individualism as against the claim of the state to control the individual's thinking. And what made the trial highly dramatic is that Martin Niembeller was not a man out of the cloister. He wasn't unmodern without sympathy for the Hitler revolution. He wasn't a pale aesthetic. He was a fighter. During the World War, he was commander of a submarine, and for distinguished bravery won the highest German decoration, the Holy Marie. He loved the daring and the excitement of war, and he was fervently patriotic. And when peace came, rather than sink his submarine at Scappa's flow at the behest of the British, he resigned and became a farm worker, hoping to save up money enough to own his own land. Then German inflation wiped out his savings, and he entered the church, working his way through theological seminary as a day laborer. He disliked the Prime Minister with public. He was a super patriot. And so he was among the staunch supporters of the Nazis and Hitler, when they came into power. It took just that kind of man to have within himself the qualities to defy the Nazi drift toward paganism and imbifying it to rally opinion behind him. He was a symbol for the chaplains in the German army for the sturdy pression-fighting protestants. and finally, for all those in Germany who feel the need to be individuals with the liberty of their own consciences. That is the kind of a man the Nazis have condemned. The man who fought gloriously for his fatherland, the man whose personal life was manly and fearless, and who, along with these traits, refused to surrender to paganism and the curtailment of conscience. Now what will be the outcome of this trial? So in effect, the German high court has removed those who prosecuted him. The future would seem to depend on what men and women in Germany feel about the issue the pastor has raised. And if not enough of them are stirred to standard his side, the neo-paganism of Alfred Rosenberg, the philosopher of the Hitler regime, will march on. And if it does, as German political power grows, As German political power grows, it will reach all corners of the earth.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Presenting the distinguished international news commentator and foreign correspondents, Raymond Graham Swing.",
+      "confidence": 0.7617
+    },
+    {
+      "start": 7.0,
+      "end": 14.0,
+      "text": "This is another of his programs known as World Event on which Mr. Swing gives his interpretations of international affairs.",
+      "confidence": 0.7617
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Raymond Graham Swing.",
+      "confidence": 0.7617
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "Good evening.",
+      "confidence": 0.7617
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "This has been an extraordinary week in World Affairs.",
+      "confidence": 0.7617
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "It has given us two trials.",
+      "confidence": 0.7617
+    },
+    {
+      "start": 23.0,
+      "end": 28.84,
+      "text": "The numerous trial in Berlin, and the trial of the old Bolsheviks in Russia, and the two",
+      "confidence": 0.7353
+    },
+    {
+      "start": 28.84,
+      "end": 36.12,
+      "text": "of them together really sum up the spiritual half of the anguish and scryfe of this unfolding",
+      "confidence": 0.7353
+    },
+    {
+      "start": 36.12,
+      "end": 37.12,
+      "text": "century.",
+      "confidence": 0.7353
+    },
+    {
+      "start": 37.12,
+      "end": 41.36,
+      "text": "I suppose every century has to answer the same question.",
+      "confidence": 0.7353
+    },
+    {
+      "start": 41.36,
+      "end": 47.68,
+      "text": "What shall become of man's freedom, and what shall become of man's material life, but",
+      "confidence": 0.7353
+    },
+    {
+      "start": 47.68,
+      "end": 52.0,
+      "text": "the questions seem harder to answer today than in the past.",
+      "confidence": 0.7353
+    },
+    {
+      "start": 52.0,
+      "end": 58.56,
+      "text": "And these trials are really epic dramatizations of the problem of freedom as it stands in",
+      "confidence": 0.7138
+    },
+    {
+      "start": 58.56,
+      "end": 61.12,
+      "text": "part of Europe today.",
+      "confidence": 0.7138
+    },
+    {
+      "start": 61.12,
+      "end": 63.48,
+      "text": "They are dramas of tragedy.",
+      "confidence": 0.7138
+    },
+    {
+      "start": 63.48,
+      "end": 65.04,
+      "text": "They don't give the answer.",
+      "confidence": 0.7138
+    },
+    {
+      "start": 65.04,
+      "end": 66.72,
+      "text": "They don't tell what ought to be done.",
+      "confidence": 0.7138
+    },
+    {
+      "start": 66.72,
+      "end": 72.08,
+      "text": "They tell us what fortes are at work, and that what is being done is tragic.",
+      "confidence": 0.7138
+    },
+    {
+      "start": 72.08,
+      "end": 78.32,
+      "text": "After Nemela, this week, received a seven-month sentence for defying the Nazi state, and",
+      "confidence": 0.7138
+    },
+    {
+      "start": 78.32,
+      "end": 82.72,
+      "text": "As he has been in prison since August, he is entitled to his liberty.",
+      "confidence": 0.7854
+    },
+    {
+      "start": 82.72,
+      "end": 86.64,
+      "text": "After the sentence of the court, he was, however, taken back to prison.",
+      "confidence": 0.7854
+    },
+    {
+      "start": 86.64,
+      "end": 91.48,
+      "text": "I suppose to put off the day of celebrations over his release.",
+      "confidence": 0.7854
+    },
+    {
+      "start": 91.48,
+      "end": 96.52,
+      "text": "The whole struggle between the church and the state in Germany comes to a focus",
+      "confidence": 0.7854
+    },
+    {
+      "start": 96.52,
+      "end": 99.4,
+      "text": "in the person of this man named Miller.",
+      "confidence": 0.7854
+    },
+    {
+      "start": 99.4,
+      "end": 102.48,
+      "text": "To begin with, it isn't simply a struggle of the state",
+      "confidence": 0.7854
+    },
+    {
+      "start": 102.48,
+      "end": 106.44,
+      "text": "to get the church, Protestant and Catholic, out of politics.",
+      "confidence": 0.7854
+    },
+    {
+      "start": 106.44,
+      "end": 110.22,
+      "text": "If it had been, I think there would have been much sympathy for the state.",
+      "confidence": 0.8057
+    },
+    {
+      "start": 110.22,
+      "end": 114.42,
+      "text": "That would have been a conflict like the one over the separation of churches",
+      "confidence": 0.8057
+    },
+    {
+      "start": 114.42,
+      "end": 117.14,
+      "text": "state in France, the generation of gold.",
+      "confidence": 0.8057
+    },
+    {
+      "start": 117.14,
+      "end": 121.22,
+      "text": "And people in this country, I think, would have felt that the church had better",
+      "confidence": 0.8057
+    },
+    {
+      "start": 121.22,
+      "end": 126.38,
+      "text": "confined itself to spiritual life and leave politics alone.",
+      "confidence": 0.8057
+    },
+    {
+      "start": 126.38,
+      "end": 128.62,
+      "text": "But that wasn't the issue.",
+      "confidence": 0.8057
+    },
+    {
+      "start": 128.62,
+      "end": 132.62,
+      "text": "A church out of politics can be just as free as one in politics,",
+      "confidence": 0.8057
+    },
+    {
+      "start": 132.62,
+      "end": 134.46,
+      "text": "perhaps even more so.",
+      "confidence": 0.8057
+    },
+    {
+      "start": 134.46,
+      "end": 136.7,
+      "text": "But the Nazis didn't want a free church.",
+      "confidence": 0.8548
+    },
+    {
+      "start": 136.7,
+      "end": 140.26,
+      "text": "They wanted to do a brute Christianity in Germany.",
+      "confidence": 0.8548
+    },
+    {
+      "start": 140.26,
+      "end": 143.1,
+      "text": "They disliked its Hebrew origin.",
+      "confidence": 0.8548
+    },
+    {
+      "start": 143.1,
+      "end": 145.42,
+      "text": "They disliked its humanitarianism.",
+      "confidence": 0.8548
+    },
+    {
+      "start": 145.42,
+      "end": 147.58,
+      "text": "They thought it made men soft.",
+      "confidence": 0.8548
+    },
+    {
+      "start": 147.58,
+      "end": 150.3,
+      "text": "But most of all, they wanted this thing",
+      "confidence": 0.8548
+    },
+    {
+      "start": 150.3,
+      "end": 155.1,
+      "text": "to have the supreme authority to tell men what to do.",
+      "confidence": 0.8548
+    },
+    {
+      "start": 155.1,
+      "end": 157.9,
+      "text": "They came close to following the old Roman custom",
+      "confidence": 0.8548
+    },
+    {
+      "start": 157.9,
+      "end": 160.94,
+      "text": "of promoting their emperor to a deity,",
+      "confidence": 0.8548
+    },
+    {
+      "start": 160.94,
+      "end": 164.02,
+      "text": "making Hitler the voice of God.",
+      "confidence": 0.8548
+    },
+    {
+      "start": 164.02,
+      "end": 170.82,
+      "text": "So the defiance, put up by this courageous pastor, was defiant on behalf of conscience and",
+      "confidence": 0.7932
+    },
+    {
+      "start": 170.82,
+      "end": 177.18,
+      "text": "the right of man to obey God in questions of conscience and not the head of the state.",
+      "confidence": 0.7932
+    },
+    {
+      "start": 177.18,
+      "end": 183.5,
+      "text": "Or to put it in another way, it was a brave German assertion of his individualism as against",
+      "confidence": 0.7932
+    },
+    {
+      "start": 183.5,
+      "end": 187.62,
+      "text": "the claim of the state to control the individual's thinking.",
+      "confidence": 0.7932
+    },
+    {
+      "start": 187.62,
+      "end": 194.12,
+      "text": "And what made the trial highly dramatic is that Martin Niembeller was not a man out of",
+      "confidence": 0.7299
+    },
+    {
+      "start": 194.12,
+      "end": 195.62,
+      "text": "the cloister.",
+      "confidence": 0.7299
+    },
+    {
+      "start": 195.62,
+      "end": 200.16,
+      "text": "He wasn't unmodern without sympathy for the Hitler revolution.",
+      "confidence": 0.7299
+    },
+    {
+      "start": 200.16,
+      "end": 202.72,
+      "text": "He wasn't a pale aesthetic.",
+      "confidence": 0.7299
+    },
+    {
+      "start": 202.72,
+      "end": 204.12,
+      "text": "He was a fighter.",
+      "confidence": 0.7299
+    },
+    {
+      "start": 204.12,
+      "end": 209.28,
+      "text": "During the World War, he was commander of a submarine, and for distinguished bravery won",
+      "confidence": 0.7299
+    },
+    {
+      "start": 209.28,
+      "end": 213.56,
+      "text": "the highest German decoration, the Holy Marie.",
+      "confidence": 0.7299
+    },
+    {
+      "start": 213.56,
+      "end": 219.52,
+      "text": "He loved the daring and the excitement of war, and he was fervently patriotic.",
+      "confidence": 0.7951
+    },
+    {
+      "start": 219.52,
+      "end": 225.08,
+      "text": "And when peace came, rather than sink his submarine at Scappa's flow at the behest of",
+      "confidence": 0.7951
+    },
+    {
+      "start": 225.08,
+      "end": 231.28,
+      "text": "the British, he resigned and became a farm worker, hoping to save up money enough to own",
+      "confidence": 0.7951
+    },
+    {
+      "start": 231.28,
+      "end": 233.12,
+      "text": "his own land.",
+      "confidence": 0.7951
+    },
+    {
+      "start": 233.12,
+      "end": 237.52,
+      "text": "Then German inflation wiped out his savings, and he entered the church, working his way",
+      "confidence": 0.7951
+    },
+    {
+      "start": 237.52,
+      "end": 241.28,
+      "text": "through theological seminary as a day laborer.",
+      "confidence": 0.7951
+    },
+    {
+      "start": 241.28,
+      "end": 243.04,
+      "text": "He disliked the Prime Minister with public.",
+      "confidence": 0.7761
+    },
+    {
+      "start": 243.04,
+      "end": 244.78,
+      "text": "He was a super patriot.",
+      "confidence": 0.7761
+    },
+    {
+      "start": 244.78,
+      "end": 248.08,
+      "text": "And so he was among the staunch supporters of the Nazis",
+      "confidence": 0.7761
+    },
+    {
+      "start": 248.08,
+      "end": 250.64,
+      "text": "and Hitler, when they came into power.",
+      "confidence": 0.7761
+    },
+    {
+      "start": 250.64,
+      "end": 254.64,
+      "text": "It took just that kind of man to have within himself",
+      "confidence": 0.7761
+    },
+    {
+      "start": 254.64,
+      "end": 258.64,
+      "text": "the qualities to defy the Nazi drift toward paganism",
+      "confidence": 0.7761
+    },
+    {
+      "start": 258.64,
+      "end": 262.52,
+      "text": "and imbifying it to rally opinion behind him.",
+      "confidence": 0.7761
+    },
+    {
+      "start": 262.52,
+      "end": 265.56,
+      "text": "He was a symbol for the chaplains in the German army",
+      "confidence": 0.7761
+    },
+    {
+      "start": 265.56,
+      "end": 268.6,
+      "text": "for the sturdy pression-fighting protestants.",
+      "confidence": 0.7761
+    },
+    {
+      "start": 268.6,
+      "end": 272.36,
+      "text": "and finally, for all those in Germany who feel the need",
+      "confidence": 0.8257
+    },
+    {
+      "start": 272.36,
+      "end": 276.6,
+      "text": "to be individuals with the liberty of their own consciences.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 276.6,
+      "end": 279.76,
+      "text": "That is the kind of a man the Nazis have condemned.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 279.76,
+      "end": 282.76,
+      "text": "The man who fought gloriously for his fatherland,",
+      "confidence": 0.8257
+    },
+    {
+      "start": 282.76,
+      "end": 286.16,
+      "text": "the man whose personal life was manly and fearless,",
+      "confidence": 0.8257
+    },
+    {
+      "start": 286.16,
+      "end": 288.4,
+      "text": "and who, along with these traits,",
+      "confidence": 0.8257
+    },
+    {
+      "start": 288.4,
+      "end": 291.04,
+      "text": "refused to surrender to paganism",
+      "confidence": 0.8257
+    },
+    {
+      "start": 291.04,
+      "end": 293.28,
+      "text": "and the curtailment of conscience.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 293.28,
+      "end": 295.68,
+      "text": "Now what will be the outcome of this trial?",
+      "confidence": 0.8257
+    },
+    {
+      "start": 295.68,
+      "end": 300.68,
+      "text": "So in effect, the German high court has removed those who prosecuted him.",
+      "confidence": 0.8057
+    },
+    {
+      "start": 300.68,
+      "end": 304.68,
+      "text": "The future would seem to depend on what men and women in Germany",
+      "confidence": 0.8057
+    },
+    {
+      "start": 304.68,
+      "end": 307.68,
+      "text": "feel about the issue the pastor has raised.",
+      "confidence": 0.8057
+    },
+    {
+      "start": 307.68,
+      "end": 311.68,
+      "text": "And if not enough of them are stirred to standard his side,",
+      "confidence": 0.8057
+    },
+    {
+      "start": 311.68,
+      "end": 316.68,
+      "text": "the neo-paganism of Alfred Rosenberg, the philosopher of the Hitler regime,",
+      "confidence": 0.8057
+    },
+    {
+      "start": 316.68,
+      "end": 318.68,
+      "text": "will march on.",
+      "confidence": 0.8057
+    },
+    {
+      "start": 318.68,
+      "end": 322.68,
+      "text": "And if it does, as German political power grows,",
+      "confidence": 0.8057
+    },
+    {
+      "start": 322.68,
+      "end": 327.68,
+      "text": "As German political power grows, it will reach all corners of the earth.",
+      "confidence": 0.811
+    }
+  ],
+  "tags": [
+    {
+      "term": "religion",
+      "score": 0.397,
+      "ai_generated": true
+    },
+    {
+      "term": "international",
+      "score": 0.3919,
+      "ai_generated": true
+    },
+    {
+      "term": "crime",
+      "score": 0.2975,
+      "ai_generated": true
+    }
+  ]
+}

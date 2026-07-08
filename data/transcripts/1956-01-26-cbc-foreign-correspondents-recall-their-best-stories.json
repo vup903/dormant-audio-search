@@ -1,0 +1,1317 @@
+{
+  "id": "1956-01-26-cbc-foreign-correspondents-recall-their-best-stories",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 798.0,
+  "confidence": 0.762,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "Your best story, tonight's assignment abroad for four veteran broadcasters.",
+      "confidence": 0.7976
+    },
+    {
+      "start": 5.8,
+      "end": 10.04,
+      "text": "On January 1st of this year, the CBC News Service was 15 years old.",
+      "confidence": 0.7976
+    },
+    {
+      "start": 10.04,
+      "end": 14.92,
+      "text": "Part of that service is the reporting of CBC correspondence in London, Paris, Washington",
+      "confidence": 0.7976
+    },
+    {
+      "start": 14.92,
+      "end": 16.32,
+      "text": "and the United Nations.",
+      "confidence": 0.7976
+    },
+    {
+      "start": 16.32,
+      "end": 20.76,
+      "text": "Recently, we asked all four men to choose the most interesting assignment they have covered",
+      "confidence": 0.7976
+    },
+    {
+      "start": 20.76,
+      "end": 22.36,
+      "text": "in their years abroad.",
+      "confidence": 0.7976
+    },
+    {
+      "start": 22.36,
+      "end": 26.76,
+      "text": "And tonight, you'll hear the choices of Matthew Houghton, Peter Sturzberg, Douglas",
+      "confidence": 0.7976
+    },
+    {
+      "start": 26.76,
+      "end": 29.76,
+      "text": "Shantz and James M. Menophe.",
+      "confidence": 0.7691
+    },
+    {
+      "start": 29.76,
+      "end": 32.32,
+      "text": "Senior in years of service is Matthew Halt and in London,",
+      "confidence": 0.7691
+    },
+    {
+      "start": 32.32,
+      "end": 35.6,
+      "text": "whose assignments began in the most exciting days of the war.",
+      "confidence": 0.7691
+    },
+    {
+      "start": 35.6,
+      "end": 40.0,
+      "text": "Now here is his account of May the 8th, 1945.",
+      "confidence": 0.7691
+    },
+    {
+      "start": 40.0,
+      "end": 43.2,
+      "text": "I think it was the day when I reported the end of the world.",
+      "confidence": 0.7691
+    },
+    {
+      "start": 43.2,
+      "end": 46.44,
+      "text": "That is, something that looked like the end of the world.",
+      "confidence": 0.7691
+    },
+    {
+      "start": 46.44,
+      "end": 49.6,
+      "text": "Berlin on B.E. Day.",
+      "confidence": 0.7691
+    },
+    {
+      "start": 49.6,
+      "end": 51.6,
+      "text": "A day earlier, General Eisenhower had taken",
+      "confidence": 0.7691
+    },
+    {
+      "start": 51.6,
+      "end": 53.6,
+      "text": "the unconditional surrender of the German armies",
+      "confidence": 0.7691
+    },
+    {
+      "start": 53.6,
+      "end": 56.08,
+      "text": "at his headquarters in France.",
+      "confidence": 0.7691
+    },
+    {
+      "start": 56.08,
+      "end": 61.32,
+      "text": "The next day, Air Marshall Tedder, who was Eisenhower's British deputy, flew into Berlin to join",
+      "confidence": 0.8205
+    },
+    {
+      "start": 61.32,
+      "end": 65.72,
+      "text": "the Russian commander, Marshall Zhukov, in a similar ceremony.",
+      "confidence": 0.8205
+    },
+    {
+      "start": 65.72,
+      "end": 70.28,
+      "text": "He could take with him only ten of the hundreds of war correspondents, and I had to be one",
+      "confidence": 0.8205
+    },
+    {
+      "start": 70.28,
+      "end": 72.32,
+      "text": "of them.",
+      "confidence": 0.8205
+    },
+    {
+      "start": 72.32,
+      "end": 77.4,
+      "text": "It was a lovely day, and the heart of the world seemed to be soaring with joy.",
+      "confidence": 0.8205
+    },
+    {
+      "start": 77.4,
+      "end": 81.84,
+      "text": "We flew over the skeleton of Cologne Cathedral, and over the Rhine.",
+      "confidence": 0.8205
+    },
+    {
+      "start": 81.84,
+      "end": 86.6,
+      "text": "At the Elbe, Russian fighters met us and escorted us into Berlin.",
+      "confidence": 0.8514
+    },
+    {
+      "start": 86.6,
+      "end": 90.52,
+      "text": "And we flew into a vast cloud of smoke and dust.",
+      "confidence": 0.8514
+    },
+    {
+      "start": 90.52,
+      "end": 95.08,
+      "text": "The great city of five million people was still smoking and burning.",
+      "confidence": 0.8514
+    },
+    {
+      "start": 95.08,
+      "end": 100.92,
+      "text": "And when we came down through this cloud and saw what we saw, we were all speechless.",
+      "confidence": 0.8514
+    },
+    {
+      "start": 100.92,
+      "end": 104.28,
+      "text": "Four out of five buildings in Berlin had been destroyed.",
+      "confidence": 0.8514
+    },
+    {
+      "start": 104.28,
+      "end": 107.84,
+      "text": "That is, completely levelled or completely gutted.",
+      "confidence": 0.8514
+    },
+    {
+      "start": 107.84,
+      "end": 111.52,
+      "text": "This did look like the end of the world.",
+      "confidence": 0.8514
+    },
+    {
+      "start": 111.52,
+      "end": 117.2,
+      "text": "On Templehof Airfield, in that appalling scene of ruin, Marshall Teder took the salute",
+      "confidence": 0.8
+    },
+    {
+      "start": 117.2,
+      "end": 121.16,
+      "text": "in a march past of 10,000 Russian guards.",
+      "confidence": 0.8
+    },
+    {
+      "start": 121.16,
+      "end": 126.84,
+      "text": "Then we were driven to Zhukov's headquarters through the rubble and ashes of Berlin.",
+      "confidence": 0.8
+    },
+    {
+      "start": 126.84,
+      "end": 131.12,
+      "text": "I didn't recognize famous streets I had known well.",
+      "confidence": 0.8
+    },
+    {
+      "start": 131.12,
+      "end": 137.18,
+      "text": "In that long appalling drive, we saw only 9 or 10 Berliners, all men and women, scare",
+      "confidence": 0.8
+    },
+    {
+      "start": 137.18,
+      "end": 143.3,
+      "text": "crows, crawling out frightened to see the British and American flags.",
+      "confidence": 0.8056
+    },
+    {
+      "start": 143.3,
+      "end": 146.5,
+      "text": "Just before midnight, we saw the German Phil Marshall Kitel.",
+      "confidence": 0.8056
+    },
+    {
+      "start": 146.5,
+      "end": 147.86,
+      "text": "He was hanged later.",
+      "confidence": 0.8056
+    },
+    {
+      "start": 147.86,
+      "end": 151.94,
+      "text": "We saw him slowly strip off his glove and sign the surrender.",
+      "confidence": 0.8056
+    },
+    {
+      "start": 151.94,
+      "end": 155.46,
+      "text": "Then the Russians gave us a banquet that lasted all night.",
+      "confidence": 0.8056
+    },
+    {
+      "start": 155.46,
+      "end": 158.82,
+      "text": "In the morning we went out again into the fearful scene.",
+      "confidence": 0.8056
+    },
+    {
+      "start": 158.82,
+      "end": 161.86,
+      "text": "The Russians took us to see the smoking ruins of Hitler's famous marble",
+      "confidence": 0.8056
+    },
+    {
+      "start": 161.86,
+      "end": 166.18,
+      "text": "chancellery, but they didn't show us the bunker where he died.",
+      "confidence": 0.8056
+    },
+    {
+      "start": 166.18,
+      "end": 171.22,
+      "text": "As we left, my car was the last in the procession, and at one point, in the clouds of dust,",
+      "confidence": 0.8521
+    },
+    {
+      "start": 171.22,
+      "end": 173.42,
+      "text": "my driver lost the others.",
+      "confidence": 0.8521
+    },
+    {
+      "start": 173.42,
+      "end": 176.66,
+      "text": "We were lost for a few minutes in that utter ruin and silence.",
+      "confidence": 0.8521
+    },
+    {
+      "start": 176.66,
+      "end": 180.5,
+      "text": "In the end of the world, I was afraid.",
+      "confidence": 0.8521
+    },
+    {
+      "start": 180.5,
+      "end": 185.42,
+      "text": "But soon we were in the airplane again, flying out of the ruin, into the bright smile of France",
+      "confidence": 0.8521
+    },
+    {
+      "start": 185.42,
+      "end": 189.06,
+      "text": "and the sunshine of victory and peace.",
+      "confidence": 0.8521
+    },
+    {
+      "start": 189.06,
+      "end": 193.22,
+      "text": "This is Matthew Holtam speaking from London.",
+      "confidence": 0.8521
+    },
+    {
+      "start": 193.22,
+      "end": 197.76,
+      "text": "The last five years Peter Stursberg has covered the United Nations for the CBC, but for",
+      "confidence": 0.8112
+    },
+    {
+      "start": 197.76,
+      "end": 203.36,
+      "text": "his story tonight he goes back to the days when he was one of our war correspondents.",
+      "confidence": 0.8112
+    },
+    {
+      "start": 203.36,
+      "end": 207.54,
+      "text": "It was only the other day that I realized how I came to be the first to broadcast the",
+      "confidence": 0.8112
+    },
+    {
+      "start": 207.54,
+      "end": 210.18,
+      "text": "song of the last war, Lily Marlene.",
+      "confidence": 0.8112
+    },
+    {
+      "start": 210.18,
+      "end": 214.82,
+      "text": "I was reading Dennis Johnston's memoirs, Nine Revers from Jordan, in which he tells how",
+      "confidence": 0.8112
+    },
+    {
+      "start": 214.82,
+      "end": 218.94,
+      "text": "he used to listen to Lily Marlene while waiting for the battle of Alamein.",
+      "confidence": 0.8112
+    },
+    {
+      "start": 218.94,
+      "end": 223.74,
+      "text": "He British Tommy's called it their bedtime song, and sitting on the sand in the sparkling",
+      "confidence": 0.7512
+    },
+    {
+      "start": 223.74,
+      "end": 228.86,
+      "text": "desert night with a wireless tuned in to radio bear grad, Dennis Johnston, who was a BBC",
+      "confidence": 0.7512
+    },
+    {
+      "start": 228.86,
+      "end": 234.3,
+      "text": "correspondent, marvelled at the way a German girl was singing the opposing armies to sleep.",
+      "confidence": 0.7512
+    },
+    {
+      "start": 234.3,
+      "end": 237.54,
+      "text": "He prepared a broadcast about this, but was told, what?",
+      "confidence": 0.7512
+    },
+    {
+      "start": 237.54,
+      "end": 239.5,
+      "text": "Give publicity to Lily Marlene?",
+      "confidence": 0.7512
+    },
+    {
+      "start": 239.5,
+      "end": 241.02,
+      "text": "No you don't.",
+      "confidence": 0.7512
+    },
+    {
+      "start": 241.02,
+      "end": 245.46,
+      "text": "And so it happened that months later I came along and made a recording of the song which",
+      "confidence": 0.7512
+    },
+    {
+      "start": 245.46,
+      "end": 250.5,
+      "text": "somehow got past the censor and was transmitted to Canada via London.",
+      "confidence": 0.7768
+    },
+    {
+      "start": 250.5,
+      "end": 255.66,
+      "text": "I, too, was struck by the way our Canadian soldiers took to Lillie-Marlaine, but what impressed",
+      "confidence": 0.7768
+    },
+    {
+      "start": 255.66,
+      "end": 260.02,
+      "text": "me more was the fact that when we landed in Sicily, the peasants were singing it in",
+      "confidence": 0.7768
+    },
+    {
+      "start": 260.02,
+      "end": 261.1,
+      "text": "the fields.",
+      "confidence": 0.7768
+    },
+    {
+      "start": 261.1,
+      "end": 266.14,
+      "text": "And so, during the lull between the Sicilian and Italian campaigns, I hired a little local",
+      "confidence": 0.7768
+    },
+    {
+      "start": 266.14,
+      "end": 270.7,
+      "text": "orchestra which included an operatic tenor to record Lillie-Marlaine.",
+      "confidence": 0.7768
+    },
+    {
+      "start": 270.7,
+      "end": 272.7,
+      "text": "It's a sad song, really.",
+      "confidence": 0.7768
+    },
+    {
+      "start": 272.7,
+      "end": 278.26,
+      "text": "A sentimental song about a soldier's promise to meet his girl again beside a lamppost in the rain.",
+      "confidence": 0.8162
+    },
+    {
+      "start": 278.26,
+      "end": 285.66,
+      "text": "A promise which is never kept, and even if you didn't understand it, as most of the Canadians didn't, there was its haunting too.",
+      "confidence": 0.8162
+    },
+    {
+      "start": 285.66,
+      "end": 292.78,
+      "text": "Sometime later when we entered Berlin, I was to meet the composer Norbert Schutzer and to learn the full story of Lily Marley.",
+      "confidence": 0.8162
+    },
+    {
+      "start": 292.78,
+      "end": 295.54,
+      "text": "It was a flop, he said, when it first came out.",
+      "confidence": 0.8162
+    },
+    {
+      "start": 295.54,
+      "end": 301.46,
+      "text": "But the war came along, and the gramophone company tried to cash in by changing the name of the record from",
+      "confidence": 0.8162
+    },
+    {
+      "start": 301.46,
+      "end": 304.78,
+      "text": "Lily Marlaine, to the song of the young God.",
+      "confidence": 0.7937
+    },
+    {
+      "start": 304.78,
+      "end": 307.46,
+      "text": "But that didn't work, at least not immediately.",
+      "confidence": 0.7937
+    },
+    {
+      "start": 307.46,
+      "end": 309.06,
+      "text": "The Germans were flushed with victory",
+      "confidence": 0.7937
+    },
+    {
+      "start": 309.06,
+      "end": 312.1,
+      "text": "and via Farrin Gagan England was their song.",
+      "confidence": 0.7937
+    },
+    {
+      "start": 312.1,
+      "end": 313.74,
+      "text": "But the war went on and on,",
+      "confidence": 0.7937
+    },
+    {
+      "start": 313.74,
+      "end": 316.1,
+      "text": "and the Vietnam took radio bear grads",
+      "confidence": 0.7937
+    },
+    {
+      "start": 316.1,
+      "end": 319.34,
+      "text": "and turned it into a forces station for the Africa Corps.",
+      "confidence": 0.7937
+    },
+    {
+      "start": 319.34,
+      "end": 321.22,
+      "text": "Even the Nazis were growing tired",
+      "confidence": 0.7937
+    },
+    {
+      "start": 321.22,
+      "end": 323.7,
+      "text": "when the soldier who was in charge of the new station",
+      "confidence": 0.7937
+    },
+    {
+      "start": 323.7,
+      "end": 325.3,
+      "text": "looked through a pile of old records",
+      "confidence": 0.7937
+    },
+    {
+      "start": 325.3,
+      "end": 327.14,
+      "text": "and saw the song of the young God",
+      "confidence": 0.7937
+    },
+    {
+      "start": 327.14,
+      "end": 328.98,
+      "text": "and thought that it would be a good one",
+      "confidence": 0.7937
+    },
+    {
+      "start": 328.98,
+      "end": 331.46,
+      "text": "to put on at 10 at lights out.",
+      "confidence": 0.8239
+    },
+    {
+      "start": 331.46,
+      "end": 333.06,
+      "text": "He played it three nights running",
+      "confidence": 0.8239
+    },
+    {
+      "start": 333.06,
+      "end": 335.54,
+      "text": "and then decided that it wasn't much good.",
+      "confidence": 0.8239
+    },
+    {
+      "start": 335.54,
+      "end": 337.1,
+      "text": "But by then, it was made.",
+      "confidence": 0.8239
+    },
+    {
+      "start": 337.1,
+      "end": 340.42,
+      "text": "The German soldiers insisted that it be put on every night.",
+      "confidence": 0.8239
+    },
+    {
+      "start": 340.42,
+      "end": 343.62,
+      "text": "A camp was named Lily Marleyne by the Africa Corps",
+      "confidence": 0.8239
+    },
+    {
+      "start": 343.62,
+      "end": 347.54,
+      "text": "and a statue was put up to her on the road to Minsk in Russia.",
+      "confidence": 0.8239
+    },
+    {
+      "start": 347.54,
+      "end": 349.94,
+      "text": "Lana Anderson, the girl who sang the song",
+      "confidence": 0.8239
+    },
+    {
+      "start": 349.94,
+      "end": 351.7,
+      "text": "was skyrocketed to fame.",
+      "confidence": 0.8239
+    },
+    {
+      "start": 351.7,
+      "end": 355.34,
+      "text": "But poor Norbert Schultzer only collected a few thousand marks",
+      "confidence": 0.8239
+    },
+    {
+      "start": 355.34,
+      "end": 358.1,
+      "text": "in royalties because not many records could be made",
+      "confidence": 0.8239
+    },
+    {
+      "start": 358.1,
+      "end": 363.1,
+      "text": "in war short Germany. Not only were the Germans singing it, but the Allies as well.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 363.1,
+      "end": 368.1,
+      "text": "And in the end, the Germans did not sing it anymore, and only the Allies did.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 368.1,
+      "end": 372.1,
+      "text": "I have one of the original recordings of Lily Marley. It was difficult to come by.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 372.1,
+      "end": 376.1,
+      "text": "And when I play it now, it reminds me of dark nights in Sicily,",
+      "confidence": 0.8257
+    },
+    {
+      "start": 376.1,
+      "end": 381.1,
+      "text": "and the darkest silhouettes of the olive trees, of the rain and mud in Italy,",
+      "confidence": 0.8257
+    },
+    {
+      "start": 381.1,
+      "end": 384.1,
+      "text": "and the sound of the guns and comrades of oaths.",
+      "confidence": 0.8257
+    },
+    {
+      "start": 388.1,
+      "end": 392.76,
+      "text": "I'm going to have to do a little bit of the work.",
+      "confidence": 0.1736
+    },
+    {
+      "start": 392.76,
+      "end": 395.8,
+      "text": "I'm not going to have to.",
+      "confidence": 0.1736
+    },
+    {
+      "start": 395.8,
+      "end": 400.6,
+      "text": "I'm not going to have to do a little bit of the work.",
+      "confidence": 0.1736
+    },
+    {
+      "start": 400.6,
+      "end": 403.1,
+      "text": "Don't worry, my son.",
+      "confidence": 0.1736
+    },
+    {
+      "start": 403.1,
+      "end": 405.1,
+      "text": "No, no, no.",
+      "confidence": 0.1736
+    },
+    {
+      "start": 405.1,
+      "end": 408.1,
+      "text": "This is the first time I've done this.",
+      "confidence": 0.1736
+    },
+    {
+      "start": 408.1,
+      "end": 411.98,
+      "text": "The old lady, who is in the court,",
+      "confidence": 0.1736
+    },
+    {
+      "start": 411.98,
+      "end": 416.44,
+      "text": "and he is going to be in the court.",
+      "confidence": 0.1736
+    },
+    {
+      "start": 416.44,
+      "end": 423.84,
+      "text": "Peter Sturzberg, now the United Nations. Since 1952, our Paris Correspondence, correspondent",
+      "confidence": 0.6949
+    },
+    {
+      "start": 423.84,
+      "end": 430.56,
+      "text": "rather has been Douglas Leschants, formerly of Ottawa, his story is of recent events in France.",
+      "confidence": 0.6949
+    },
+    {
+      "start": 430.56,
+      "end": 435.88,
+      "text": "Like the time that making a routine political recording of a communist demonstration, I",
+      "confidence": 0.6949
+    },
+    {
+      "start": 435.88,
+      "end": 441.06,
+      "text": "stood with open microphone in the Place de la R\u00e9publique and nearby police stopped a small",
+      "confidence": 0.6949
+    },
+    {
+      "start": 441.06,
+      "end": 445.94,
+      "text": "black sedan, from which they jerked a little fat man carrying a briefcase, whose",
+      "confidence": 0.745
+    },
+    {
+      "start": 445.94,
+      "end": 448.24,
+      "text": "putters went down on my tape.",
+      "confidence": 0.745
+    },
+    {
+      "start": 448.24,
+      "end": 452.54,
+      "text": "That was Jacques Tooclose, Secretary General of the French Communist Party.",
+      "confidence": 0.745
+    },
+    {
+      "start": 452.54,
+      "end": 457.34,
+      "text": "His arrest was first an international sensation, and then a subject of comedy.",
+      "confidence": 0.745
+    },
+    {
+      "start": 457.34,
+      "end": 461.7,
+      "text": "For the police searching his car, found in the back three pigeons, and in the front",
+      "confidence": 0.745
+    },
+    {
+      "start": 461.7,
+      "end": 462.9,
+      "text": "of radio.",
+      "confidence": 0.745
+    },
+    {
+      "start": 462.9,
+      "end": 465.98,
+      "text": "The police classified the first as Kerry or Pigeon.",
+      "confidence": 0.745
+    },
+    {
+      "start": 465.98,
+      "end": 470.82,
+      "text": "Obviously standard equipment for any spy, and the radio is a transmitter.",
+      "confidence": 0.745
+    },
+    {
+      "start": 470.82,
+      "end": 475.38,
+      "text": "Too close is later able to prove that the pigeons had been both dead and standard birds of",
+      "confidence": 0.74
+    },
+    {
+      "start": 475.38,
+      "end": 478.46,
+      "text": "eating variety given him by a friend.",
+      "confidence": 0.74
+    },
+    {
+      "start": 478.46,
+      "end": 483.1,
+      "text": "As for the radio, it turned out to be an ordinary car set which didn't even get police",
+      "confidence": 0.74
+    },
+    {
+      "start": 483.1,
+      "end": 484.1,
+      "text": "calls.",
+      "confidence": 0.74
+    },
+    {
+      "start": 484.1,
+      "end": 488.86,
+      "text": "Probably that occasion was memorable only for the excitement at the time and the humor",
+      "confidence": 0.74
+    },
+    {
+      "start": 488.86,
+      "end": 491.38,
+      "text": "of the official mismanagement afterwards.",
+      "confidence": 0.74
+    },
+    {
+      "start": 491.38,
+      "end": 493.38,
+      "text": "What other stories do I remember?",
+      "confidence": 0.74
+    },
+    {
+      "start": 493.38,
+      "end": 496.7,
+      "text": "Well, there was the Army Day Parade in May, 1964.",
+      "confidence": 0.74
+    },
+    {
+      "start": 496.7,
+      "end": 502.82,
+      "text": "The week after the fall of Jen-Ven Poo, a parade the Lannual Cabinet did not dare to attend.",
+      "confidence": 0.703
+    },
+    {
+      "start": 502.82,
+      "end": 507.14,
+      "text": "President Cody alone reviewing the ranks of troops on the Shanzali days, while hundreds",
+      "confidence": 0.703
+    },
+    {
+      "start": 507.14,
+      "end": 511.7,
+      "text": "of thousands of shamed people stood in absolute silence to watch.",
+      "confidence": 0.703
+    },
+    {
+      "start": 511.7,
+      "end": 516.54,
+      "text": "And the next day, the gold walking up the Shanzali Day alone, while frightened police",
+      "confidence": 0.703
+    },
+    {
+      "start": 516.54,
+      "end": 522.06,
+      "text": "and troops kept watch and held back crowds, lest he summon them to a coup d'\u00e9tat.",
+      "confidence": 0.703
+    },
+    {
+      "start": 522.06,
+      "end": 526.94,
+      "text": "The aging general in the old brown uniform, but gray at the temples now, moving stiffly",
+      "confidence": 0.7654
+    },
+    {
+      "start": 526.94,
+      "end": 531.82,
+      "text": "as always across the plastulet wall, and standing at attention in front of the unknown soldiers",
+      "confidence": 0.7654
+    },
+    {
+      "start": 531.82,
+      "end": 534.06,
+      "text": "grave and the eternal flame.",
+      "confidence": 0.7654
+    },
+    {
+      "start": 534.06,
+      "end": 539.2,
+      "text": "And from everywhere, from all the thousands behind the police lines, surged up the Marseille's",
+      "confidence": 0.7654
+    },
+    {
+      "start": 539.2,
+      "end": 543.74,
+      "text": "chanted softly, even the soldiers around the arch singing it too.",
+      "confidence": 0.7654
+    },
+    {
+      "start": 543.74,
+      "end": 548.06,
+      "text": "Coming after a great national humiliation, the event had the relieving effect of tears",
+      "confidence": 0.7654
+    },
+    {
+      "start": 548.06,
+      "end": 550.02,
+      "text": "after tragedy.",
+      "confidence": 0.7654
+    },
+    {
+      "start": 550.02,
+      "end": 551.42,
+      "text": "There are other memories.",
+      "confidence": 0.7607
+    },
+    {
+      "start": 551.42,
+      "end": 554.02,
+      "text": "Here are Mendelstraus coming to power soon after.",
+      "confidence": 0.7607
+    },
+    {
+      "start": 554.02,
+      "end": 556.18,
+      "text": "Milk drinking, happily buoyant.",
+      "confidence": 0.7607
+    },
+    {
+      "start": 556.18,
+      "end": 559.38,
+      "text": "So on use to power, he refused an official car at first,",
+      "confidence": 0.7607
+    },
+    {
+      "start": 559.38,
+      "end": 561.94,
+      "text": "and went everywhere in his battered old Citro\u00ebn,",
+      "confidence": 0.7607
+    },
+    {
+      "start": 561.94,
+      "end": 564.3,
+      "text": "while we of the press roared after.",
+      "confidence": 0.7607
+    },
+    {
+      "start": 564.3,
+      "end": 568.3,
+      "text": "And when Mendel's cabinet fell, 4 a.m. last February 5th,",
+      "confidence": 0.7607
+    },
+    {
+      "start": 568.3,
+      "end": 570.78,
+      "text": "the retiring premier, trying to speak,",
+      "confidence": 0.7607
+    },
+    {
+      "start": 570.78,
+      "end": 573.1,
+      "text": "merely to pass on advice about the budget.",
+      "confidence": 0.7607
+    },
+    {
+      "start": 573.1,
+      "end": 575.06,
+      "text": "And the hundreds of mediocrities",
+      "confidence": 0.7607
+    },
+    {
+      "start": 575.06,
+      "end": 576.78,
+      "text": "filled with hatred for the one Frenchman",
+      "confidence": 0.7607
+    },
+    {
+      "start": 576.78,
+      "end": 579.02,
+      "text": "since the war who had tried to govern,",
+      "confidence": 0.8539
+    },
+    {
+      "start": 579.02,
+      "end": 580.22,
+      "text": "screaming their venom,",
+      "confidence": 0.8539
+    },
+    {
+      "start": 580.22,
+      "end": 582.86,
+      "text": "though not one single word of his speech could be heard.",
+      "confidence": 0.8539
+    },
+    {
+      "start": 582.86,
+      "end": 585.34,
+      "text": "And he had to make it to the official stenographer",
+      "confidence": 0.8539
+    },
+    {
+      "start": 585.34,
+      "end": 586.98,
+      "text": "under the reign of cries,",
+      "confidence": 0.8539
+    },
+    {
+      "start": 586.98,
+      "end": 589.5,
+      "text": "Jew, assassin, traitor.",
+      "confidence": 0.8539
+    },
+    {
+      "start": 589.5,
+      "end": 592.3,
+      "text": "I've never considered these anecdotes together before,",
+      "confidence": 0.8539
+    },
+    {
+      "start": 592.3,
+      "end": 593.7,
+      "text": "but I think now looking at them",
+      "confidence": 0.8539
+    },
+    {
+      "start": 593.7,
+      "end": 595.62,
+      "text": "that they contain a common point.",
+      "confidence": 0.8539
+    },
+    {
+      "start": 595.62,
+      "end": 598.18,
+      "text": "The French refused to conform to the norm.",
+      "confidence": 0.8539
+    },
+    {
+      "start": 598.18,
+      "end": 601.58,
+      "text": "All their activities have an element of comedy and tragedy.",
+      "confidence": 0.8539
+    },
+    {
+      "start": 601.58,
+      "end": 604.1,
+      "text": "Whoever has the privilege of covering this country",
+      "confidence": 0.8539
+    },
+    {
+      "start": 604.1,
+      "end": 608.66,
+      "text": "We'll find just watching its people react to history, memorable in itself.",
+      "confidence": 0.7282
+    },
+    {
+      "start": 608.66,
+      "end": 611.7,
+      "text": "This is Douglas Flescheun speaking from Paris.",
+      "confidence": 0.7282
+    },
+    {
+      "start": 611.7,
+      "end": 616.1,
+      "text": "Finally, James M. Menophe reports regularly from Washington, but his choice tonight recalls",
+      "confidence": 0.7282
+    },
+    {
+      "start": 616.1,
+      "end": 620.42,
+      "text": "the days when he was correspondent for the New York Rail Tribune, and sent home the occasional",
+      "confidence": 0.7282
+    },
+    {
+      "start": 620.42,
+      "end": 624.86,
+      "text": "stories to his native Canada.",
+      "confidence": 0.7282
+    },
+    {
+      "start": 624.86,
+      "end": 630.02,
+      "text": "Just before Christmas, 1941, I was sitting with a friend in a little hotel room in Washington",
+      "confidence": 0.7282
+    },
+    {
+      "start": 630.02,
+      "end": 634.06,
+      "text": "waiting for Wendo Wilkie, a leader of the Republican Party to come back from the White",
+      "confidence": 0.7282
+    },
+    {
+      "start": 634.06,
+      "end": 640.06,
+      "text": "House, President Velt had sent for him secretly. It was a grim time for the democracy. The American",
+      "confidence": 0.8051
+    },
+    {
+      "start": 640.06,
+      "end": 645.42,
+      "text": "Pacific Fleet was sitting at the bottom on Pearl Harbor. The Japs were on the march. Great",
+      "confidence": 0.8051
+    },
+    {
+      "start": 645.42,
+      "end": 650.06,
+      "text": "pressure was building up in the United States to concentrate on the Pacific and let Europe",
+      "confidence": 0.8051
+    },
+    {
+      "start": 650.06,
+      "end": 655.42,
+      "text": "ride. It would have been the popular but fatal decision, and we wondered if Wilkie were getting",
+      "confidence": 0.8051
+    },
+    {
+      "start": 655.42,
+      "end": 661.02,
+      "text": "that pitch. He stumbled into a room. I just can't tell you, fellow. He said he swore me to secrecy.",
+      "confidence": 0.8051
+    },
+    {
+      "start": 661.02,
+      "end": 664.98,
+      "text": "We waited, Wilkie could never keep a secret long.",
+      "confidence": 0.7693
+    },
+    {
+      "start": 664.98,
+      "end": 668.86,
+      "text": "He took a deep breath, then he whispered, Churchill's coming.",
+      "confidence": 0.7693
+    },
+    {
+      "start": 668.86,
+      "end": 675.02,
+      "text": "Out of flash of conviction, at that moment I felt the tide was turning, I still believe",
+      "confidence": 0.7693
+    },
+    {
+      "start": 675.02,
+      "end": 677.5,
+      "text": "that this was the furthest ebb.",
+      "confidence": 0.7693
+    },
+    {
+      "start": 677.5,
+      "end": 682.98,
+      "text": "To be sure many disasters were ahead, Singapore and Manila would fall, the battleships repulsed",
+      "confidence": 0.7693
+    },
+    {
+      "start": 682.98,
+      "end": 688.58,
+      "text": "in Prince of Wales with the sunk, but Alamine was only six months ahead, and this made Alamine",
+      "confidence": 0.7693
+    },
+    {
+      "start": 688.58,
+      "end": 689.58,
+      "text": "possible.",
+      "confidence": 0.7693
+    },
+    {
+      "start": 689.58,
+      "end": 694.58,
+      "text": "At this Christmas, the grand alliance would be founded, the European struggle, given",
+      "confidence": 0.77
+    },
+    {
+      "start": 694.58,
+      "end": 698.58,
+      "text": "priority, and Congress and the people reconciled to it.",
+      "confidence": 0.77
+    },
+    {
+      "start": 698.58,
+      "end": 702.9,
+      "text": "FDR and Churchill had a rendezvous with Destiny.",
+      "confidence": 0.77
+    },
+    {
+      "start": 702.9,
+      "end": 707.14,
+      "text": "The two leaders gave a press conference, jointly, in the little oval room in the White House",
+      "confidence": 0.77
+    },
+    {
+      "start": 707.14,
+      "end": 708.62,
+      "text": "where the President worked.",
+      "confidence": 0.77
+    },
+    {
+      "start": 708.62,
+      "end": 710.9,
+      "text": "FDR sat at his cluttered desk.",
+      "confidence": 0.77
+    },
+    {
+      "start": 710.9,
+      "end": 713.1,
+      "text": "He had a cigarette in a long holder.",
+      "confidence": 0.77
+    },
+    {
+      "start": 713.1,
+      "end": 718.14,
+      "text": "Churchill sat beside him thinking bland, with his inevitable cigar.",
+      "confidence": 0.77
+    },
+    {
+      "start": 718.14,
+      "end": 722.7,
+      "text": "We're prima donners, and I hoped that they were not getting in each other's hair.",
+      "confidence": 0.7379
+    },
+    {
+      "start": 722.7,
+      "end": 725.18,
+      "text": "But obviously the two were getting along famously.",
+      "confidence": 0.7379
+    },
+    {
+      "start": 725.18,
+      "end": 730.58,
+      "text": "As we crowd it in, FDR leaned over to Churchill and said softly nodding toward us,",
+      "confidence": 0.7379
+    },
+    {
+      "start": 730.58,
+      "end": 735.38,
+      "text": "they're an awful bunch of wolves, you know, and I'm going to throw you to them.",
+      "confidence": 0.7379
+    },
+    {
+      "start": 735.38,
+      "end": 736.54,
+      "text": "Churchill chuckled.",
+      "confidence": 0.7379
+    },
+    {
+      "start": 736.54,
+      "end": 738.82,
+      "text": "He answered the first question sitting down.",
+      "confidence": 0.7379
+    },
+    {
+      "start": 738.82,
+      "end": 744.5,
+      "text": "Someone at the back shouted, can't hear you, and someone else said, or see you.",
+      "confidence": 0.7379
+    },
+    {
+      "start": 744.5,
+      "end": 749.74,
+      "text": "When the amazing man stood up, he climbed laboriously onto his chair, beamed at the reporters,",
+      "confidence": 0.8054
+    },
+    {
+      "start": 749.74,
+      "end": 752.34,
+      "text": "waved his cigar, and gave the v-sign.",
+      "confidence": 0.8054
+    },
+    {
+      "start": 752.34,
+      "end": 755.34,
+      "text": "He said simply, here I am.",
+      "confidence": 0.8054
+    },
+    {
+      "start": 755.34,
+      "end": 756.54,
+      "text": "That took care of the press.",
+      "confidence": 0.8054
+    },
+    {
+      "start": 756.54,
+      "end": 759.46,
+      "text": "They forgot the tough questions they'd come to ask.",
+      "confidence": 0.8054
+    },
+    {
+      "start": 759.46,
+      "end": 762.22,
+      "text": "Next day he brought Congress into camp.",
+      "confidence": 0.8054
+    },
+    {
+      "start": 762.22,
+      "end": 766.78,
+      "text": "They shouted with laughter when he commented to a joint session of the House and Senate.",
+      "confidence": 0.8054
+    },
+    {
+      "start": 766.78,
+      "end": 771.74,
+      "text": "If my father had been American and my mother British, instead of the other way around, I might",
+      "confidence": 0.8054
+    },
+    {
+      "start": 771.74,
+      "end": 774.06,
+      "text": "have got here on my own.",
+      "confidence": 0.8054
+    },
+    {
+      "start": 774.06,
+      "end": 778.44,
+      "text": "The nation bought him when he helped like the White House Christmas tree.",
+      "confidence": 0.756
+    },
+    {
+      "start": 778.44,
+      "end": 781.06,
+      "text": "Churchill was always a good assignment.",
+      "confidence": 0.756
+    },
+    {
+      "start": 781.06,
+      "end": 782.56,
+      "text": "That was the best of them.",
+      "confidence": 0.756
+    },
+    {
+      "start": 782.56,
+      "end": 784.7,
+      "text": "This has deemed them in Indian Washington.",
+      "confidence": 0.756
+    },
+    {
+      "start": 784.7,
+      "end": 788.54,
+      "text": "This has been assignment abroad, a choice of stories by CBC Foreign Correspondents.",
+      "confidence": 0.756
+    },
+    {
+      "start": 788.54,
+      "end": 792.98,
+      "text": "Tonight's special program marked the 15 years of the CBC News Service, which includes regular",
+      "confidence": 0.756
+    },
+    {
+      "start": 792.98,
+      "end": 796.3,
+      "text": "reporting from London, Paris, Washington and the United Nations.",
+      "confidence": 0.756
+    },
+    {
+      "start": 796.3,
+      "end": 798.1,
+      "text": "This is the Dominion Network of the CBC.",
+      "confidence": 0.756
+    }
+  ]
+}

@@ -1,0 +1,1593 @@
+{
+  "id": "1948-10-30-afrs-truman-address-at-the-kiel-auditorium-st-louis",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 1728.0,
+  "confidence": 0.5794,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 21.0,
+      "text": "You may be my friend. I appreciate most pilots. I appreciate most pilots. This is a second and third month. But bear in mind that I've got to talk to the whole United States neither, and you can carry in between times too.",
+      "confidence": 0.5959
+    },
+    {
+      "start": 21.0,
+      "end": 35.84,
+      "text": "I can't tell you how it's very much, I appreciate this reception on my return to my home",
+      "confidence": 0.6302
+    },
+    {
+      "start": 35.84,
+      "end": 36.84,
+      "text": "state.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 36.84,
+      "end": 40.84,
+      "text": "It touches my heart, right here.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 40.84,
+      "end": 53.38,
+      "text": "I said, I said the governor most sincerely for his personal introduction with their",
+      "confidence": 0.4437
+    },
+    {
+      "start": 53.38,
+      "end": 65.1,
+      "text": "bodyhorses, with the radio audience, but I know that when the sir feels this way, we",
+      "confidence": 0.4437
+    },
+    {
+      "start": 65.1,
+      "end": 67.1,
+      "text": "and the road to Vettelor.",
+      "confidence": 0.4954
+    },
+    {
+      "start": 67.1,
+      "end": 69.1,
+      "text": "And the road to Vettelor.",
+      "confidence": 0.4954
+    },
+    {
+      "start": 77.6,
+      "end": 79.1,
+      "text": "And the road to Vettelor",
+      "confidence": 0.4954
+    },
+    {
+      "start": 79.1,
+      "end": 81.1,
+      "text": "going to have a democratic",
+      "confidence": 0.4954
+    },
+    {
+      "start": 81.1,
+      "end": 83.1,
+      "text": "government and a democratic",
+      "confidence": 0.4954
+    },
+    {
+      "start": 83.1,
+      "end": 86.1,
+      "text": "delegation in the Congress of the United States.",
+      "confidence": 0.4954
+    },
+    {
+      "start": 86.1,
+      "end": 103.26,
+      "text": "I've been in the memory campaign, my friends, I've made four genius and hard-fought campaigns",
+      "confidence": 0.5816
+    },
+    {
+      "start": 103.26,
+      "end": 113.5,
+      "text": "in the great state of Missouri, or United States Senator, but never in my lifetime have",
+      "confidence": 0.5816
+    },
+    {
+      "start": 113.5,
+      "end": 119.5,
+      "text": "I've been in a campaign or a senior campaign, such as I've been through recently.",
+      "confidence": 0.6679
+    },
+    {
+      "start": 126.5,
+      "end": 134.5,
+      "text": "I've been president of the United States, three years, six months and eighteen days ago.",
+      "confidence": 0.6679
+    },
+    {
+      "start": 135.5,
+      "end": 141.5,
+      "text": "We've been through the most tremendous period in history of the world in that time.",
+      "confidence": 0.6679
+    },
+    {
+      "start": 141.5,
+      "end": 148.5,
+      "text": "26 days after I became president, Germany surrendered unconditionally.",
+      "confidence": 0.554
+    },
+    {
+      "start": 148.5,
+      "end": 154.5,
+      "text": "Foreigners and federal members after I was born and was president of the United States,",
+      "confidence": 0.554
+    },
+    {
+      "start": 154.5,
+      "end": 159.5,
+      "text": "the time pulled up, and surrendered unconditionally.",
+      "confidence": 0.554
+    },
+    {
+      "start": 159.5,
+      "end": 177.5,
+      "text": "The greatest war in the history of the world, I have succeeded to the present day, after",
+      "confidence": 0.5292
+    },
+    {
+      "start": 177.5,
+      "end": 183.5,
+      "text": "one of the greatest domestic evidence in this world have been there for the other 12 years.",
+      "confidence": 0.5292
+    },
+    {
+      "start": 183.5,
+      "end": 202.98,
+      "text": "I was nominated in Chicago with Franklin Roosevelt in 1944 on a Democratic platform and I have",
+      "confidence": 0.5495
+    },
+    {
+      "start": 202.98,
+      "end": 206.98,
+      "text": "trying to call out that platform since 1000th President of the United States.",
+      "confidence": 0.6701
+    },
+    {
+      "start": 206.98,
+      "end": 217.98,
+      "text": "One of my first and greatest decisions after becoming President of the United States",
+      "confidence": 0.6701
+    },
+    {
+      "start": 217.98,
+      "end": 222.98,
+      "text": "was made just two minutes after I was born in.",
+      "confidence": 0.6701
+    },
+    {
+      "start": 222.98,
+      "end": 229.98,
+      "text": "And that was the order that the conference to farm the United Nations should go forward",
+      "confidence": 0.6701
+    },
+    {
+      "start": 229.98,
+      "end": 233.9,
+      "text": "followed in San Francisco on the 25th day of April.",
+      "confidence": 0.6973
+    },
+    {
+      "start": 233.9,
+      "end": 238.34,
+      "text": "That conference went forward to a successful conclusion,",
+      "confidence": 0.6973
+    },
+    {
+      "start": 238.34,
+      "end": 241.9,
+      "text": "and the United Nations is working for the peace",
+      "confidence": 0.6973
+    },
+    {
+      "start": 241.9,
+      "end": 243.66,
+      "text": "and welfare of this way right now.",
+      "confidence": 0.6973
+    },
+    {
+      "start": 250.0,
+      "end": 256.14,
+      "text": "Four days after Japan surrendered on September the 2nd,",
+      "confidence": 0.6973
+    },
+    {
+      "start": 256.14,
+      "end": 259.98,
+      "text": "My first policy message went to Congress.",
+      "confidence": 0.6731
+    },
+    {
+      "start": 259.98,
+      "end": 263.32,
+      "text": "That message contained 21 points",
+      "confidence": 0.6731
+    },
+    {
+      "start": 263.32,
+      "end": 267.18,
+      "text": "based on the Democratic platform of 1924,",
+      "confidence": 0.6731
+    },
+    {
+      "start": 267.18,
+      "end": 269.58,
+      "text": "which I'd helped to write.",
+      "confidence": 0.6731
+    },
+    {
+      "start": 269.58,
+      "end": 272.26,
+      "text": "When that message went to Congress,",
+      "confidence": 0.6731
+    },
+    {
+      "start": 272.26,
+      "end": 275.42,
+      "text": "the media campaign on their president started",
+      "confidence": 0.6731
+    },
+    {
+      "start": 275.42,
+      "end": 278.86,
+      "text": "in all this vile and uncouthfully slanted,",
+      "confidence": 0.6731
+    },
+    {
+      "start": 278.86,
+      "end": 282.06,
+      "text": "headlines, problems, and editorial.",
+      "confidence": 0.6731
+    },
+    {
+      "start": 282.06,
+      "end": 286.6,
+      "text": "First character assessments, McCormick, Paterson, Saboteurs,",
+      "confidence": 0.519
+    },
+    {
+      "start": 286.6,
+      "end": 290.58,
+      "text": "all began firing at me as different conservative columnists",
+      "confidence": 0.519
+    },
+    {
+      "start": 290.58,
+      "end": 292.38,
+      "text": "in the radio commentators,",
+      "confidence": 0.519
+    },
+    {
+      "start": 292.38,
+      "end": 295.5,
+      "text": "not because they believed in a thing you said,",
+      "confidence": 0.519
+    },
+    {
+      "start": 295.5,
+      "end": 299.5,
+      "text": "don't know, but because they were prepared to do it.",
+      "confidence": 0.519
+    },
+    {
+      "start": 299.5,
+      "end": 315.9,
+      "text": "And in January 1946, I repeated what I thought the government should do, and I repeated",
+      "confidence": 0.6054
+    },
+    {
+      "start": 315.9,
+      "end": 328.46,
+      "text": "it ten and again since that time, and I haven't changed a bit, I'm still.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 328.46,
+      "end": 333.84,
+      "text": "I am still the Democrat, you nominated in Chicago on the Democratic",
+      "confidence": 0.5014
+    },
+    {
+      "start": 333.84,
+      "end": 337.94,
+      "text": "platform of 1944, and I'm still from the Virginia.",
+      "confidence": 0.5014
+    },
+    {
+      "start": 337.94,
+      "end": 351.34,
+      "text": "Now the senators and Democrats do a lot better job of this,",
+      "confidence": 0.5014
+    },
+    {
+      "start": 351.34,
+      "end": 354.14,
+      "text": "intended to do in 1946.",
+      "confidence": 0.5014
+    },
+    {
+      "start": 354.14,
+      "end": 358.1,
+      "text": "They elected that Republican to nothing, 80th Congress.",
+      "confidence": 0.5014
+    },
+    {
+      "start": 358.1,
+      "end": 359.42,
+      "text": "And then they came...",
+      "confidence": 0.4463
+    },
+    {
+      "start": 365.42,
+      "end": 368.9,
+      "text": "And then their issues were clearly gone.",
+      "confidence": 0.4463
+    },
+    {
+      "start": 368.9,
+      "end": 370.9,
+      "text": "We know whether the public understand,",
+      "confidence": 0.4463
+    },
+    {
+      "start": 370.9,
+      "end": 372.94,
+      "text": "they may know where the Democrats stand,",
+      "confidence": 0.4463
+    },
+    {
+      "start": 372.94,
+      "end": 375.9,
+      "text": "and I've bestowed this issue to the companies, my friends.",
+      "confidence": 0.4463
+    },
+    {
+      "start": 381.1,
+      "end": 383.7,
+      "text": "I've probably left in dire resolution.",
+      "confidence": 0.4463
+    },
+    {
+      "start": 383.7,
+      "end": 392.08,
+      "text": "I think it's 2,000 miles since the campaign started, and 9,100 miles on a non-political campaign",
+      "confidence": 0.6484
+    },
+    {
+      "start": 392.08,
+      "end": 396.08,
+      "text": "before the campaign started.",
+      "confidence": 0.6484
+    },
+    {
+      "start": 396.08,
+      "end": 413.68,
+      "text": "I have told them, I have told the people that there is just one big issue in this campaign",
+      "confidence": 0.6484
+    },
+    {
+      "start": 413.68,
+      "end": 418.68,
+      "text": "And that's the people against the special interests.",
+      "confidence": 0.6041
+    },
+    {
+      "start": 418.68,
+      "end": 431.68,
+      "text": "The Republicans stand for special interests, then they always have.",
+      "confidence": 0.6041
+    },
+    {
+      "start": 431.68,
+      "end": 441.68,
+      "text": "The Democratic Party, which are now heads, stands for the people and all,",
+      "confidence": 0.6041
+    },
+    {
+      "start": 441.68,
+      "end": 443.68,
+      "text": "I know it's hard stuff for the people.",
+      "confidence": 0.638
+    },
+    {
+      "start": 451.68,
+      "end": 459.68,
+      "text": "In 1932, the farmers in this great mission were bearing four calls,",
+      "confidence": 0.638
+    },
+    {
+      "start": 459.68,
+      "end": 462.68,
+      "text": "and were going growth at a terrific rate.",
+      "confidence": 0.638
+    },
+    {
+      "start": 462.68,
+      "end": 469.68,
+      "text": "I think in 1932, our 135,000 farmers were evicted from their farms.",
+      "confidence": 0.638
+    },
+    {
+      "start": 471.68,
+      "end": 487.96,
+      "text": "The farm income, that year, the net farm income was $2,500,000, $2,500,000.",
+      "confidence": 0.7076
+    },
+    {
+      "start": 487.96,
+      "end": 499.68,
+      "text": "The total income was $4,500,000, in 1947, the gross income of the farmers was $50,000,000",
+      "confidence": 0.7076
+    },
+    {
+      "start": 499.68,
+      "end": 502.68,
+      "text": "and the net income was 18 billion.",
+      "confidence": 0.5907
+    },
+    {
+      "start": 502.68,
+      "end": 514.68,
+      "text": "And in 1947, there were less than 800 farm foreclosures.",
+      "confidence": 0.5907
+    },
+    {
+      "start": 514.68,
+      "end": 519.68,
+      "text": "The Democratic Party is responsible for that result in nothing else.",
+      "confidence": 0.5907
+    },
+    {
+      "start": 519.68,
+      "end": 535.48,
+      "text": "And I said, you, that any farmer in this United States, who votes against his own interests,",
+      "confidence": 0.6117
+    },
+    {
+      "start": 535.48,
+      "end": 539.48,
+      "text": "that is, who goes to the public and take it out of heaven's head examiner.",
+      "confidence": 0.5647
+    },
+    {
+      "start": 555.48,
+      "end": 562.48,
+      "text": "One of the first things, one of the fifth things that this Republican do, nothing",
+      "confidence": 0.5647
+    },
+    {
+      "start": 562.48,
+      "end": 568.48,
+      "text": "80th Congress did was to hamstring the Commodity Credit Corporation so they couldn't",
+      "confidence": 0.6302
+    },
+    {
+      "start": 568.48,
+      "end": 571.48,
+      "text": "make such support long to the farmers.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 571.48,
+      "end": 580.48,
+      "text": "When I was over here in Illinois about a month ago, corn was selling down there in 7 Illinois",
+      "confidence": 0.6302
+    },
+    {
+      "start": 580.48,
+      "end": 586.48,
+      "text": "at 47 cents below what the support price ought to be because the Commodity Credit",
+      "confidence": 0.6302
+    },
+    {
+      "start": 586.48,
+      "end": 590.48,
+      "text": "Corporation couldn't furnish the bins in which the story got corn.",
+      "confidence": 0.6302
+    },
+    {
+      "start": 590.48,
+      "end": 597.48,
+      "text": "That's a provision that the Republicans put in the commodity credit corporation's shadow when they renewed it.",
+      "confidence": 0.667
+    },
+    {
+      "start": 597.48,
+      "end": 599.48,
+      "text": "That's how they love the farmers.",
+      "confidence": 0.667
+    },
+    {
+      "start": 599.48,
+      "end": 603.48,
+      "text": "They want to justice them. That's what they did in 1972.",
+      "confidence": 0.667
+    },
+    {
+      "start": 612.48,
+      "end": 619.48,
+      "text": "When the Democrats took over in 1933,",
+      "confidence": 0.667
+    },
+    {
+      "start": 619.48,
+      "end": 627.46,
+      "text": "Labour was at its lowest end. Labour unions had a very small membership at that time of",
+      "confidence": 0.6779
+    },
+    {
+      "start": 627.46,
+      "end": 634.22,
+      "text": "our 3 million. And there were 12 million people walking up and down the streets in this",
+      "confidence": 0.6779
+    },
+    {
+      "start": 634.22,
+      "end": 637.72,
+      "text": "country, hunting for jobs that they couldn't get.",
+      "confidence": 0.6779
+    },
+    {
+      "start": 637.72,
+      "end": 652.34,
+      "text": "And many of the first things that the Democratic administration did was to inaugurate a",
+      "confidence": 0.6121
+    },
+    {
+      "start": 652.34,
+      "end": 658.34,
+      "text": "for labor. A bit of rights for labor known as the Wagner Labor Relations Act.",
+      "confidence": 0.5806
+    },
+    {
+      "start": 667.34,
+      "end": 670.34,
+      "text": "And on May that Wednesday labor relations act?",
+      "confidence": 0.5806
+    },
+    {
+      "start": 671.34,
+      "end": 673.34,
+      "text": "The wages of labor?",
+      "confidence": 0.5806
+    },
+    {
+      "start": 674.34,
+      "end": 681.34,
+      "text": "Our fruit times what they were in 1932 and 1933.",
+      "confidence": 0.5806
+    },
+    {
+      "start": 682.34,
+      "end": 693.64,
+      "text": "There are 61 million people in work in this country and jobs are hurting for people, not",
+      "confidence": 0.5145
+    },
+    {
+      "start": 693.64,
+      "end": 708.42,
+      "text": "people hurting for jobs, and that's what's going on in this country.",
+      "confidence": 0.5145
+    },
+    {
+      "start": 708.42,
+      "end": 713.42,
+      "text": "The one of the first bells introduced to him was to do nothing Republican-Aidia Congress.",
+      "confidence": 0.4256
+    },
+    {
+      "start": 713.42,
+      "end": 718.42,
+      "text": "Who was to cripple the flag of the Liberation Act.",
+      "confidence": 0.4256
+    },
+    {
+      "start": 718.42,
+      "end": 722.42,
+      "text": "That pair caught the lowest pass over my defense.",
+      "confidence": 0.4256
+    },
+    {
+      "start": 732.42,
+      "end": 735.42,
+      "text": "That bell was passed over my defense.",
+      "confidence": 0.4256
+    },
+    {
+      "start": 735.42,
+      "end": 742.42,
+      "text": "They were fast with the idea of solving the public and leaders in the Congress instead of putting labor in its place.",
+      "confidence": 0.5556
+    },
+    {
+      "start": 742.42,
+      "end": 745.42,
+      "text": "They wanted to take the bargain entirely and come over.",
+      "confidence": 0.5556
+    },
+    {
+      "start": 745.42,
+      "end": 752.42,
+      "text": "So it could not deal with industry on a fair basis.",
+      "confidence": 0.5556
+    },
+    {
+      "start": 752.42,
+      "end": 772.3,
+      "text": "That came about because two-thirds of the people in 1946 decided that they did not have",
+      "confidence": 0.6891
+    },
+    {
+      "start": 772.3,
+      "end": 777.1,
+      "text": "an interest in their government and two-thirds of them didn't vote.",
+      "confidence": 0.6891
+    },
+    {
+      "start": 777.1,
+      "end": 782.5,
+      "text": "Most living men stay to live in the foes in 1926 and to walk their dogs,",
+      "confidence": 0.5059
+    },
+    {
+      "start": 782.5,
+      "end": 784.1,
+      "text": "to walk their dogs hardly at.",
+      "confidence": 0.5059
+    },
+    {
+      "start": 784.1,
+      "end": 800.1,
+      "text": "Now I'm advising you, as I've advised every audience to whom I've spoken in this United States.",
+      "confidence": 0.5059
+    },
+    {
+      "start": 800.1,
+      "end": 802.1,
+      "text": "That you're duty.",
+      "confidence": 0.5059
+    },
+    {
+      "start": 802.1,
+      "end": 806.1,
+      "text": "You are duty to the government because the government is yours",
+      "confidence": 0.5059
+    },
+    {
+      "start": 806.1,
+      "end": 812.42,
+      "text": "when you exercise that's power to vote. And if you don't hold on over for a second and you're",
+      "confidence": 0.6801
+    },
+    {
+      "start": 812.42,
+      "end": 819.22,
+      "text": "sent back to 81st Congress under the same leadership that the 80th Congress had, you'll be in some",
+      "confidence": 0.6801
+    },
+    {
+      "start": 819.22,
+      "end": 822.98,
+      "text": "picture enough, but on the Republicans have already said what they're going to do to",
+      "confidence": 0.6801
+    },
+    {
+      "start": 822.98,
+      "end": 824.98,
+      "text": "This is a gift and soul of the government.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 837.98,
+      "end": 842.98,
+      "text": "Now, one of the laws which is passed in that period of",
+      "confidence": 0.6054
+    },
+    {
+      "start": 842.98,
+      "end": 846.98,
+      "text": "Democratic administration was a minimum wage law.",
+      "confidence": 0.6054
+    },
+    {
+      "start": 846.98,
+      "end": 853.98,
+      "text": "That minimum wage law was intended for the floor under wages.",
+      "confidence": 0.7437
+    },
+    {
+      "start": 853.98,
+      "end": 858.98,
+      "text": "It's put a floor of 40 cents an hour under wages.",
+      "confidence": 0.7437
+    },
+    {
+      "start": 858.98,
+      "end": 862.98,
+      "text": "That was the Fair Labor Standards Act, and it's limited.",
+      "confidence": 0.7437
+    },
+    {
+      "start": 862.98,
+      "end": 866.98,
+      "text": "The hours it could be worth to 40 hours a week,",
+      "confidence": 0.7437
+    },
+    {
+      "start": 866.98,
+      "end": 870.98,
+      "text": "and it's eliminated child liver.",
+      "confidence": 0.7437
+    },
+    {
+      "start": 870.98,
+      "end": 887.98,
+      "text": "I've been fined with this 80th Congress ever since January 3rd, 1947, when it met the first time to raise that standard that's clear on the way just to 75 cents an hour.",
+      "confidence": 0.6187
+    },
+    {
+      "start": 887.98,
+      "end": 901.16,
+      "text": "They refuse to do that, and I thought maybe the remedy would be if I could manage my",
+      "confidence": 0.6133
+    },
+    {
+      "start": 901.16,
+      "end": 907.92,
+      "text": "transport, but I'd like to see those Republican congressional leaders decide to live in Washington",
+      "confidence": 0.6133
+    },
+    {
+      "start": 907.92,
+      "end": 910.94,
+      "text": "on $16 a week and support a family.",
+      "confidence": 0.6133
+    },
+    {
+      "start": 910.94,
+      "end": 934.9,
+      "text": "that the welfare of the whole people should come first. And that means that the farmers,",
+      "confidence": 0.6434
+    },
+    {
+      "start": 934.9,
+      "end": 943.9,
+      "text": "Labour, small businessmen, and everybody else in the government should have a fair share of the prosperity that goes around.",
+      "confidence": 0.7688
+    },
+    {
+      "start": 952.9,
+      "end": 958.9,
+      "text": "We placed the farmers in the best position they've ever been in the history of the world.",
+      "confidence": 0.7688
+    },
+    {
+      "start": 958.9,
+      "end": 963.9,
+      "text": "We placed labor in this deposition. It's ever been in the history of the world.",
+      "confidence": 0.6728
+    },
+    {
+      "start": 963.9,
+      "end": 968.9,
+      "text": "And we've been against monopolis of the star.",
+      "confidence": 0.6728
+    },
+    {
+      "start": 968.9,
+      "end": 981.9,
+      "text": "Now when farmers are tossed and when labor gets good wages, this is bound to be dead.",
+      "confidence": 0.6728
+    },
+    {
+      "start": 981.9,
+      "end": 987.9,
+      "text": "And that's the reason a national income is higher in this context than it's ever been before in the history of the world.",
+      "confidence": 0.6728
+    },
+    {
+      "start": 987.9,
+      "end": 998.9,
+      "text": "In the name of his Republic of New Orleans, and his son has been special privilege for us,",
+      "confidence": 0.5764
+    },
+    {
+      "start": 998.9,
+      "end": 1003.9,
+      "text": "the farmers that may have been getting too much pain after reason for the high cost of living.",
+      "confidence": 0.5764
+    },
+    {
+      "start": 1003.9,
+      "end": 1010.9,
+      "text": "And it's not that the laborers that the farmers didn't do much for his crops, not reason for the high cost of living.",
+      "confidence": 0.5764
+    },
+    {
+      "start": 1010.9,
+      "end": 1015.2,
+      "text": "Well, I'll tell you what the reason is, there's a fellow in the team now who's given two",
+      "confidence": 0.4006
+    },
+    {
+      "start": 1015.2,
+      "end": 1016.2,
+      "text": "websites to offer.",
+      "confidence": 0.4006
+    },
+    {
+      "start": 1016.2,
+      "end": 1023.7,
+      "text": "That's what they're going to say about it.",
+      "confidence": 0.4006
+    },
+    {
+      "start": 1023.7,
+      "end": 1036.7,
+      "text": "We're in the town, but for their conference in 1932 was through Benvin's mine on the",
+      "confidence": 0.4006
+    },
+    {
+      "start": 1036.7,
+      "end": 1038.82,
+      "text": "So it's all the legend.",
+      "confidence": 0.4418
+    },
+    {
+      "start": 1038.82,
+      "end": 1045.3,
+      "text": "In nineteen hundred and twenty-seven of the seventeen billions plus on the rest of the legend.",
+      "confidence": 0.4418
+    },
+    {
+      "start": 1045.3,
+      "end": 1047.7,
+      "text": "In the same request, we'll start about two.",
+      "confidence": 0.4418
+    },
+    {
+      "start": 1047.7,
+      "end": 1050.22,
+      "text": "There is about a ten million things given about that.",
+      "confidence": 0.4418
+    },
+    {
+      "start": 1050.22,
+      "end": 1062.38,
+      "text": "Now, I asked in this twenty-one point program, there was another person at the beginning,",
+      "confidence": 0.4418
+    },
+    {
+      "start": 1062.38,
+      "end": 1071.98,
+      "text": "for a housing bill. Three years ago, I asked for that housing bill. That was a one-and-a-half",
+      "confidence": 0.6222
+    },
+    {
+      "start": 1071.98,
+      "end": 1080.78,
+      "text": "bill. That bill was a housing bill which was in the interest of all the people. It was",
+      "confidence": 0.6222
+    },
+    {
+      "start": 1080.78,
+      "end": 1093.78,
+      "text": "Maryland, which to help low-income people to clear the slums and to help the cities get low-rate housing.",
+      "confidence": 0.5638
+    },
+    {
+      "start": 1093.78,
+      "end": 1102.78,
+      "text": "A lot of bail was killed in the House of Representatives and then in 1947 it was really reduced.",
+      "confidence": 0.5638
+    },
+    {
+      "start": 1102.78,
+      "end": 1112.78,
+      "text": "And it was known as the path of on the whiteenabelle, the three days revoked a little bit.",
+      "confidence": 0.5923
+    },
+    {
+      "start": 1112.78,
+      "end": 1118.78,
+      "text": "And I sent message after message to the farmers to get back their path.",
+      "confidence": 0.5923
+    },
+    {
+      "start": 1118.78,
+      "end": 1121.78,
+      "text": "Well, they didn't pass.",
+      "confidence": 0.5923
+    },
+    {
+      "start": 1121.78,
+      "end": 1124.78,
+      "text": "They passed a fake housing bill.",
+      "confidence": 0.5923
+    },
+    {
+      "start": 1124.78,
+      "end": 1129.78,
+      "text": "A housing bill which was intended to build no housing.",
+      "confidence": 0.5923
+    },
+    {
+      "start": 1129.78,
+      "end": 1133.38,
+      "text": "And they're trying to make you think they're trying to house him there.",
+      "confidence": 0.4948
+    },
+    {
+      "start": 1137.54,
+      "end": 1141.66,
+      "text": "Of all the face-to-face campaigns, this one is the topsofars",
+      "confidence": 0.4948
+    },
+    {
+      "start": 1141.66,
+      "end": 1144.26,
+      "text": "or the public intended of the face-to-face dancers.",
+      "confidence": 0.4948
+    },
+    {
+      "start": 1153.86,
+      "end": 1156.7,
+      "text": "He's been following me up and down this country",
+      "confidence": 0.4948
+    },
+    {
+      "start": 1156.7,
+      "end": 1161.42,
+      "text": "making speeches about home and mother and unity inefficiently in things of that time.",
+      "confidence": 0.6003
+    },
+    {
+      "start": 1165.42,
+      "end": 1168.88,
+      "text": "He won't talk about the issues, but he did let his foot slip on the endorsement of the",
+      "confidence": 0.6003
+    },
+    {
+      "start": 1168.88,
+      "end": 1177.18,
+      "text": "area of Congress. He already met the Congress. He said that Congress had done great things for",
+      "confidence": 0.6003
+    },
+    {
+      "start": 1177.18,
+      "end": 1181.98,
+      "text": "the future of this country. It's done great things for the special innocentness of this,",
+      "confidence": 0.6003
+    },
+    {
+      "start": 1181.98,
+      "end": 1183.46,
+      "text": "This works for the lobby.",
+      "confidence": 0.4858
+    },
+    {
+      "start": 1183.46,
+      "end": 1186.86,
+      "text": "The lobbyists, the activists, the new Hensley do not expect.",
+      "confidence": 0.4858
+    },
+    {
+      "start": 1186.86,
+      "end": 1188.06,
+      "text": "Hensley wasn't them.",
+      "confidence": 0.4858
+    },
+    {
+      "start": 1188.06,
+      "end": 1189.66,
+      "text": "So they're in that area of Congress.",
+      "confidence": 0.4858
+    },
+    {
+      "start": 1189.66,
+      "end": 1192.94,
+      "text": "And they haven't done that saying that these different lobbyists",
+      "confidence": 0.4858
+    },
+    {
+      "start": 1192.94,
+      "end": 1194.26,
+      "text": "haven't asked them to do it.",
+      "confidence": 0.4858
+    },
+    {
+      "start": 1203.78,
+      "end": 1206.06,
+      "text": "When we sit with that Hensley there are parties",
+      "confidence": 0.4858
+    },
+    {
+      "start": 1206.06,
+      "end": 1208.78,
+      "text": "because the real estate lobbyists are at home",
+      "confidence": 0.4858
+    },
+    {
+      "start": 1208.78,
+      "end": 1210.5,
+      "text": "and let it come out of the committee.",
+      "confidence": 0.4858
+    },
+    {
+      "start": 1211.98,
+      "end": 1220.42,
+      "text": "I said, finally, to do something about high prices, in fact, that's all about the infestation",
+      "confidence": 0.5686
+    },
+    {
+      "start": 1220.42,
+      "end": 1221.42,
+      "text": "price.",
+      "confidence": 0.5686
+    },
+    {
+      "start": 1221.42,
+      "end": 1222.42,
+      "text": "That's the question.",
+      "confidence": 0.5686
+    },
+    {
+      "start": 1222.42,
+      "end": 1227.8,
+      "text": "And beg them, or everything I had to do something about the inflationary price",
+      "confidence": 0.5686
+    },
+    {
+      "start": 1227.8,
+      "end": 1228.8,
+      "text": "file that was going on.",
+      "confidence": 0.5686
+    },
+    {
+      "start": 1228.8,
+      "end": 1230.8,
+      "text": "Oh, no, they couldn't do that.",
+      "confidence": 0.5686
+    },
+    {
+      "start": 1230.8,
+      "end": 1238.96,
+      "text": "But they could test a rich loan tax bill, a tax bill benefited by the top income, at",
+      "confidence": 0.5686
+    },
+    {
+      "start": 1238.96,
+      "end": 1242.96,
+      "text": "at the top of the income basket, but didn't do the $10,000 end of the end.",
+      "confidence": 0.5815
+    },
+    {
+      "start": 1242.96,
+      "end": 1252.96,
+      "text": "I want to show you why they passed that bill.",
+      "confidence": 0.5815
+    },
+    {
+      "start": 1252.96,
+      "end": 1255.96,
+      "text": "We give one of their campaign documents,",
+      "confidence": 0.5815
+    },
+    {
+      "start": 1255.96,
+      "end": 1258.96,
+      "text": "which is a record of what the Republicans believe.",
+      "confidence": 0.5815
+    },
+    {
+      "start": 1258.96,
+      "end": 1260.96,
+      "text": "Now that rich man's test bill,",
+      "confidence": 0.5815
+    },
+    {
+      "start": 1260.96,
+      "end": 1262.96,
+      "text": "which I do told three times,",
+      "confidence": 0.5815
+    },
+    {
+      "start": 1262.96,
+      "end": 1265.96,
+      "text": "I had to pass the three times so they could make a whole out of it.",
+      "confidence": 0.5815
+    },
+    {
+      "start": 1265.96,
+      "end": 1277.96,
+      "text": "The dollar is getting $60 a week, a spending of about $1.58 a week.",
+      "confidence": 0.5436
+    },
+    {
+      "start": 1277.96,
+      "end": 1284.96,
+      "text": "And the first dollar is taking that all in and going out to the roof and taking some of the savings away from it too.",
+      "confidence": 0.5436
+    },
+    {
+      "start": 1284.96,
+      "end": 1293.52,
+      "text": "But that same test bill, where the federal is with $100,000, you have $16,658,000 and",
+      "confidence": 0.4483
+    },
+    {
+      "start": 1293.52,
+      "end": 1295.32,
+      "text": "$10,000,000 in savings.",
+      "confidence": 0.4483
+    },
+    {
+      "start": 1295.32,
+      "end": 1304.8,
+      "text": "That's two times the net salary of a person in the United States.",
+      "confidence": 0.4483
+    },
+    {
+      "start": 1304.8,
+      "end": 1312.4,
+      "text": "Well, you know how to do that?",
+      "confidence": 0.4483
+    },
+    {
+      "start": 1312.4,
+      "end": 1314.4,
+      "text": "Here's what that thing says.",
+      "confidence": 0.4483
+    },
+    {
+      "start": 1314.4,
+      "end": 1321.4,
+      "text": "There's money in your pocket. Now this is a document sent out in a number of the states to the Republican State Committee.",
+      "confidence": 0.6008
+    },
+    {
+      "start": 1321.4,
+      "end": 1325.4,
+      "text": "But all the Republicans in the Middle East Congress reduced your income tax.",
+      "confidence": 0.6008
+    },
+    {
+      "start": 1325.4,
+      "end": 1331.4,
+      "text": "The following period shows you a possible setting under the new tax setting law.",
+      "confidence": 0.6008
+    },
+    {
+      "start": 1331.4,
+      "end": 1335.4,
+      "text": "In fact, you're made the first nineteen forty-eighth after I vetoed it three times.",
+      "confidence": 0.6008
+    },
+    {
+      "start": 1335.4,
+      "end": 1340.4,
+      "text": "Now listen to this. This is outrageous. This is one of the most-",
+      "confidence": 0.6008
+    },
+    {
+      "start": 1340.4,
+      "end": 1356.4,
+      "text": "This is the new or more of this sort of constructive government action, the new or tax savings",
+      "confidence": 0.4129
+    },
+    {
+      "start": 1356.4,
+      "end": 1360.4,
+      "text": "to make a substantial investment in the Republican victory.",
+      "confidence": 0.4129
+    },
+    {
+      "start": 1360.4,
+      "end": 1368.4,
+      "text": "You know what I mean?",
+      "confidence": 0.4129
+    },
+    {
+      "start": 1368.4,
+      "end": 1371.56,
+      "text": "I'm allergic to those that are getting all of a sudden,",
+      "confidence": 0.5149
+    },
+    {
+      "start": 1371.56,
+      "end": 1373.96,
+      "text": "and I'm just trying to think that if we get it,",
+      "confidence": 0.5149
+    },
+    {
+      "start": 1373.96,
+      "end": 1375.24,
+      "text": "yes, send it to us,",
+      "confidence": 0.5149
+    },
+    {
+      "start": 1375.24,
+      "end": 1377.44,
+      "text": "or we can spend it to beat the Democrat.",
+      "confidence": 0.5149
+    },
+    {
+      "start": 1377.44,
+      "end": 1379.4,
+      "text": "That's better than what that means.",
+      "confidence": 0.5149
+    },
+    {
+      "start": 1383.24,
+      "end": 1388.2,
+      "text": "Now there was another issue between me and the founders",
+      "confidence": 0.5149
+    },
+    {
+      "start": 1388.2,
+      "end": 1390.44,
+      "text": "on which we didn't agree.",
+      "confidence": 0.5149
+    },
+    {
+      "start": 1390.44,
+      "end": 1391.84,
+      "text": "Now there's education.",
+      "confidence": 0.5149
+    },
+    {
+      "start": 1393.56,
+      "end": 1397.76,
+      "text": "There was an education bill to help the state",
+      "confidence": 0.5149
+    },
+    {
+      "start": 1398.4,
+      "end": 1406.7,
+      "text": "introduced into this song and its past percent and it provided $300 million to be allocated",
+      "confidence": 0.6757
+    },
+    {
+      "start": 1406.7,
+      "end": 1414.02,
+      "text": "to the state on the same basis as we allocate the money to help build roads but the Republican",
+      "confidence": 0.6757
+    },
+    {
+      "start": 1414.02,
+      "end": 1420.16,
+      "text": "leadership in the House of Representatives wouldn't let the House vote on that bill.",
+      "confidence": 0.6757
+    },
+    {
+      "start": 1420.16,
+      "end": 1426.26,
+      "text": "They are not interested in whether teachers have to pay or not, they're not interested",
+      "confidence": 0.6757
+    },
+    {
+      "start": 1426.26,
+      "end": 1428.58,
+      "text": "and whether they're kids, get the proper education.",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1428.58,
+      "end": 1432.48,
+      "text": "I don't care if they're 75 or 80 kids in one room",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1432.48,
+      "end": 1433.98,
+      "text": "and one teacher has to look at them",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1433.98,
+      "end": 1436.26,
+      "text": "and they're selling it's not on a living wage,",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1436.26,
+      "end": 1438.58,
+      "text": "they're not in it for the net.",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1438.58,
+      "end": 1440.1,
+      "text": "And I want to say to you,",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1440.1,
+      "end": 1443.42,
+      "text": "that I also get justice important.",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1443.42,
+      "end": 1445.86,
+      "text": "To see that three children get the proper",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1445.86,
+      "end": 1447.48,
+      "text": "sort of place to go to school",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1447.48,
+      "end": 1449.94,
+      "text": "and the proper sort of teacher's to teach them",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1449.94,
+      "end": 1451.86,
+      "text": "as if there's a deal road from the right",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1451.86,
+      "end": 1453.9,
+      "text": "and buttons over the road to school.",
+      "confidence": 0.6173
+    },
+    {
+      "start": 1453.9,
+      "end": 1471.9,
+      "text": "When I asked this farmer to do something about the health of the super next country, I asked him for health insurance, I asked him for hospital.",
+      "confidence": 0.6854
+    },
+    {
+      "start": 1471.9,
+      "end": 1478.9,
+      "text": "You know in this country there are two classes of people that get all the medical care that they also have.",
+      "confidence": 0.6854
+    },
+    {
+      "start": 1478.9,
+      "end": 1480.5,
+      "text": "And that's the following.",
+      "confidence": 0.5041
+    },
+    {
+      "start": 1480.5,
+      "end": 1484.9,
+      "text": "We've got a million dollars at the same time as the stair and the phone run and got a cent of their sales.",
+      "confidence": 0.5041
+    },
+    {
+      "start": 1484.9,
+      "end": 1486.9,
+      "text": "But the two are in the mail.",
+      "confidence": 0.5041
+    },
+    {
+      "start": 1486.9,
+      "end": 1492.9,
+      "text": "The big large number of people in the mail, the two of those two classes,",
+      "confidence": 0.5041
+    },
+    {
+      "start": 1492.9,
+      "end": 1494.9,
+      "text": "so enough for them to go to Austin.",
+      "confidence": 0.5041
+    },
+    {
+      "start": 1494.9,
+      "end": 1497.9,
+      "text": "And when they're told, of course, the course, what it costs sometimes,",
+      "confidence": 0.5041
+    },
+    {
+      "start": 1497.9,
+      "end": 1501.9,
+      "text": "and it's paying the course sometimes, even if they're about to go after they get service.",
+      "confidence": 0.5041
+    },
+    {
+      "start": 1501.9,
+      "end": 1514.22,
+      "text": "And I wanted an insurance program that had worked so that the federal head out made a money",
+      "confidence": 0.5153
+    },
+    {
+      "start": 1514.22,
+      "end": 1515.22,
+      "text": "to save up.",
+      "confidence": 0.5153
+    },
+    {
+      "start": 1515.22,
+      "end": 1519.36,
+      "text": "But at the same time the federal medical and hospital bills and the doctors and the hospital",
+      "confidence": 0.5153
+    },
+    {
+      "start": 1519.36,
+      "end": 1522.7,
+      "text": "would get paid trumpet, but the Republicans are against that.",
+      "confidence": 0.5153
+    },
+    {
+      "start": 1522.7,
+      "end": 1525.7,
+      "text": "They say that's socialized, menace.",
+      "confidence": 0.5153
+    },
+    {
+      "start": 1525.7,
+      "end": 1536.98,
+      "text": "Well, that's just a good common sense, and some of these days we're going to get it,",
+      "confidence": 0.6276
+    },
+    {
+      "start": 1536.98,
+      "end": 1543.94,
+      "text": "because the Democrats are going back and falling, we're going to see it, we'll get it.",
+      "confidence": 0.6276
+    },
+    {
+      "start": 1543.94,
+      "end": 1555.94,
+      "text": "Now my friends, I've been all over the United States.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 1555.94,
+      "end": 1557.94,
+      "text": "The money I'm going to get it.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 1557.94,
+      "end": 1564.94,
+      "text": "And when I started out, the song was, well, we can't win.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 1564.94,
+      "end": 1568.94,
+      "text": "The Democrats can't win.",
+      "confidence": 0.6737
+    },
+    {
+      "start": 1568.94,
+      "end": 1577.94,
+      "text": "Well, 90%, 90% of the press is against us.",
+      "confidence": 0.5192
+    },
+    {
+      "start": 1577.94,
+      "end": 1580.94,
+      "text": "But that's been the same for a little bit, you know.",
+      "confidence": 0.5192
+    },
+    {
+      "start": 1580.94,
+      "end": 1583.94,
+      "text": "I had four sand bums, and they said I'm a good one.",
+      "confidence": 0.5192
+    },
+    {
+      "start": 1583.94,
+      "end": 1585.94,
+      "text": "And I never had to make a fault and take a phone with me.",
+      "confidence": 0.5192
+    },
+    {
+      "start": 1585.94,
+      "end": 1586.94,
+      "text": "And that's how it's all.",
+      "confidence": 0.5192
+    },
+    {
+      "start": 1586.94,
+      "end": 1588.94,
+      "text": "And I listen at the time.",
+      "confidence": 0.5192
+    },
+    {
+      "start": 1588.94,
+      "end": 1612.62,
+      "text": "I've been in San Miguel, I've been in Boston, I've been in Seattle, I've been in",
+      "confidence": 0.6708
+    },
+    {
+      "start": 1612.62,
+      "end": 1619.62,
+      "text": "I've been in New York, in Chicago, and all the time I've been sitting there, and I've",
+      "confidence": 0.4843
+    },
+    {
+      "start": 1619.62,
+      "end": 1626.62,
+      "text": "had just been in the session as you've given me here tonight, and I think that means something.",
+      "confidence": 0.4843
+    },
+    {
+      "start": 1626.62,
+      "end": 1641.62,
+      "text": "People are waiting up to the fact that this is their government, and that person can",
+      "confidence": 0.4843
+    },
+    {
+      "start": 1641.62,
+      "end": 1647.62,
+      "text": "And so there, government that sends it out and vote on a lesson there, that's all it means to do.",
+      "confidence": 0.5465
+    },
+    {
+      "start": 1647.62,
+      "end": 1656.62,
+      "text": "When I was in New York yesterday, on the day before, I'd bet Great Lakes turn off its ever happened in that city and its history, so everybody told me.",
+      "confidence": 0.5465
+    },
+    {
+      "start": 1656.62,
+      "end": 1661.62,
+      "text": "But for the half million to not see what I look like, and then listen to what I have to say.",
+      "confidence": 0.5465
+    },
+    {
+      "start": 1661.62,
+      "end": 1675.62,
+      "text": "And there were a million people on the street in Chicago, and it's going to take my secretary",
+      "confidence": 0.5549
+    },
+    {
+      "start": 1675.62,
+      "end": 1679.62,
+      "text": "and it's going to be that many people in Boston because Boston didn't have that many people",
+      "confidence": 0.5549
+    },
+    {
+      "start": 1679.62,
+      "end": 1681.62,
+      "text": "in it, but there were.",
+      "confidence": 0.5549
+    },
+    {
+      "start": 1681.62,
+      "end": 1688.26,
+      "text": "Here we are again at the time of the beginning of the day when I'm here to tell you that a",
+      "confidence": 0.4358
+    },
+    {
+      "start": 1688.26,
+      "end": 1694.92,
+      "text": "huge interview of citizens of the Jefferson, the Tunisers ever show on, we will have a",
+      "confidence": 0.4358
+    },
+    {
+      "start": 1694.92,
+      "end": 1700.52,
+      "text": "government center, a B.P.I. this, a base of peace in the world, and for the welfare of all",
+      "confidence": 0.4358
+    },
+    {
+      "start": 1700.52,
+      "end": 1702.52,
+      "text": "the people and not just the few.",
+      "confidence": 0.4358
+    },
+    {
+      "start": 1711.62,
+      "end": 1726.62,
+      "text": "I'm feeling out of time and I'm so glad that you're here today because we can't",
+      "confidence": 0.3561
+    }
+  ]
+}

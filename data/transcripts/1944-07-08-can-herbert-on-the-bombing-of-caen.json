@@ -1,0 +1,135 @@
+{
+  "id": "1944-07-08-can-herbert-on-the-bombing-of-caen",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 70.0,
+  "confidence": 0.7513,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Now, gray and purple smoke is filling up in the kind area.",
+      "confidence": 0.7933
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "The results of this visual bombing attack are really terrific.",
+      "confidence": 0.7933
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "Hundreds upon hundreds of pounds of bombs are raining down in the stricken town,",
+      "confidence": 0.7933
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "and still the bombers come pouring in. There seems to be no end to them.",
+      "confidence": 0.7933
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "This is an attack in a big way.",
+      "confidence": 0.7933
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "The enemy is throwing up everything he has in the book,",
+      "confidence": 0.7933
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "but he seems not able to get in any hits on our plate.",
+      "confidence": 0.7933
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "Thoughts of near misses, but no telling shots.",
+      "confidence": 0.7933
+    },
+    {
+      "start": 29.0,
+      "end": 32.04,
+      "text": "One bomber passing overhead has lost part of his tail assembly.",
+      "confidence": 0.7231
+    },
+    {
+      "start": 32.04,
+      "end": 36.84,
+      "text": "The whole of the pilot is lower than the other planes and his wife.",
+      "confidence": 0.7231
+    },
+    {
+      "start": 36.84,
+      "end": 39.88,
+      "text": "He's keeping her straight and steady on a homework court.",
+      "confidence": 0.7231
+    },
+    {
+      "start": 39.88,
+      "end": 42.68,
+      "text": "The whole target area is receiving massive smoke.",
+      "confidence": 0.7231
+    },
+    {
+      "start": 42.68,
+      "end": 46.12,
+      "text": "In the growing darkness, I can see the first dull red outline of the fire",
+      "confidence": 0.7231
+    },
+    {
+      "start": 46.12,
+      "end": 48.16,
+      "text": "that is apparently raging in the cat.",
+      "confidence": 0.7231
+    },
+    {
+      "start": 48.16,
+      "end": 50.12,
+      "text": "It'll be a big bonfire soon.",
+      "confidence": 0.7231
+    },
+    {
+      "start": 50.12,
+      "end": 51.32,
+      "text": "And you can look for those words.",
+      "confidence": 0.7231
+    },
+    {
+      "start": 51.32,
+      "end": 55.0,
+      "text": "Big fires reflect burning into Mars communicate.",
+      "confidence": 0.7231
+    },
+    {
+      "start": 55.0,
+      "end": 58.04,
+      "text": "Pilotless planes could never do a job like this, I'll bet.",
+      "confidence": 0.7231
+    },
+    {
+      "start": 58.04,
+      "end": 59.84,
+      "text": "And now smoke is spreading over time.",
+      "confidence": 0.6868
+    },
+    {
+      "start": 59.84,
+      "end": 61.64,
+      "text": "Great clouds of it mushrooming upwards",
+      "confidence": 0.6868
+    },
+    {
+      "start": 61.64,
+      "end": 64.24,
+      "text": "and the flames are beginning to show an angry red color.",
+      "confidence": 0.6868
+    }
+  ]
+}

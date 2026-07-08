@@ -1,0 +1,141 @@
+{
+  "id": "1939-12-31-siegfried-line",
+  "model": "faster-whisper-base",
+  "language": "en",
+  "duration_s": 166.0,
+  "confidence": 0.6834,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.0,
+      "text": "We're going to hang out, the washing on the sea, freed light.",
+      "confidence": 0.7099
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "Have you any dirty washing on the dead?",
+      "confidence": 0.7099
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "We're going to hang out, the washing on the sea, freed light.",
+      "confidence": 0.7099
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "Cause the washing day is here.",
+      "confidence": 0.7099
+    },
+    {
+      "start": 27.0,
+      "end": 36.0,
+      "text": "Whether the weather may be weak or fine, we'll just rub along without a can.",
+      "confidence": 0.6898
+    },
+    {
+      "start": 36.0,
+      "end": 41.0,
+      "text": "We're going to hang out, the washing, on the seafood line,",
+      "confidence": 0.6898
+    },
+    {
+      "start": 41.0,
+      "end": 46.0,
+      "text": "if that seafood line's still there.",
+      "confidence": 0.6898
+    },
+    {
+      "start": 46.0,
+      "end": 50.0,
+      "text": "Not the deer I'm writing you from somewhere in France,",
+      "confidence": 0.6898
+    },
+    {
+      "start": 50.0,
+      "end": 55.0,
+      "text": "hoping this finds you well.",
+      "confidence": 0.6898
+    },
+    {
+      "start": 55.0,
+      "end": 59.4,
+      "text": "Sergeant says, I'm doing fine, a soldier and a hawk",
+      "confidence": 0.6772
+    },
+    {
+      "start": 59.4,
+      "end": 64.0,
+      "text": "Here's the song that we all sing, this song makes you laugh",
+      "confidence": 0.6772
+    },
+    {
+      "start": 68.0,
+      "end": 73.0,
+      "text": "We're going to hang out, watching on the sea, free life",
+      "confidence": 0.6772
+    },
+    {
+      "start": 73.0,
+      "end": 77.0,
+      "text": "Have you any dirty, watching on the day?",
+      "confidence": 0.6772
+    },
+    {
+      "start": 77.0,
+      "end": 82.0,
+      "text": "We're going to hang out, watching on the sea, free life",
+      "confidence": 0.6772
+    },
+    {
+      "start": 82.0,
+      "end": 87.0,
+      "text": "Cause the watching guy is here",
+      "confidence": 0.694
+    },
+    {
+      "start": 87.0,
+      "end": 91.0,
+      "text": "Whether the weather may be wet or fine",
+      "confidence": 0.694
+    },
+    {
+      "start": 91.0,
+      "end": 95.0,
+      "text": "We'll just ride along without a can",
+      "confidence": 0.694
+    },
+    {
+      "start": 95.0,
+      "end": 100.0,
+      "text": "We're going to hang out watching on the sea cream line",
+      "confidence": 0.694
+    },
+    {
+      "start": 100.0,
+      "end": 105.0,
+      "text": "If that sea cream line's still there",
+      "confidence": 0.694
+    },
+    {
+      "start": 142.0,
+      "end": 151.0,
+      "text": "Whether the weather may be wet or fine, we'll just ride along without a can.",
+      "confidence": 0.6308
+    },
+    {
+      "start": 151.0,
+      "end": 156.0,
+      "text": "We're going to hang out, washing on the sea-free light.",
+      "confidence": 0.6308
+    },
+    {
+      "start": 156.0,
+      "end": 161.0,
+      "text": "If that sea-free light is still there.",
+      "confidence": 0.6308
+    }
+  ]
+}
