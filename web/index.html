@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>dormant-audio-search</title>
+<style>
+  :root {
+    --ink: #1a1a1a; --muted: #6b6b6b; --line: #e2ddd4;
+    --paper: #faf7f2; --card: #ffffff; --accent: #8a3324; --tag: #ece7de;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: Georgia, 'Times New Roman', serif; background: var(--paper); color: var(--ink); }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+  header { border-bottom: 3px double var(--ink); padding-bottom: 1rem; margin-bottom: 1.5rem; }
+  h1 { font-size: 1.7rem; letter-spacing: .02em; }
+  h1 span { color: var(--accent); }
+  .sub { color: var(--muted); font-style: italic; margin-top: .3rem; }
+  nav { margin-top: .5rem; font-size: .85rem; }
+  nav a { color: var(--accent); margin-right: 1rem; }
+  form { display: flex; gap: .5rem; margin: 1.2rem 0 .6rem; }
+  input[type=text] {
+    flex: 1; font: inherit; font-size: 1.05rem; padding: .6rem .8rem;
+    border: 1.5px solid var(--ink); background: var(--card); border-radius: 3px;
+  }
+  button.go {
+    font: inherit; padding: .6rem 1.3rem; background: var(--ink); color: var(--paper);
+    border: none; border-radius: 3px; cursor: pointer;
+  }
+  .examples { font-size: .85rem; color: var(--muted); }
+  .examples a { color: var(--accent); cursor: pointer; margin-right: .8rem; }
+  #status { margin: 1.4rem 0; color: var(--muted); font-style: italic; }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 4px;
+    padding: 1rem 1.2rem; margin-bottom: 1rem; box-shadow: 0 1px 2px rgba(0,0,0,.04);
+  }
+  .meta { display: flex; flex-wrap: wrap; gap: .5rem; align-items: baseline; font-size: .85rem; }
+  .rank { font-weight: bold; color: var(--accent); font-size: 1rem; }
+  .prog { font-weight: bold; letter-spacing: .05em; }
+  .badge {
+    background: var(--tag); border-radius: 3px; padding: .1rem .5rem;
+    font-family: system-ui, sans-serif; font-size: .72rem; color: #444;
+  }
+  .title { margin: .35rem 0 .2rem; font-size: 1.02rem; font-weight: bold; }
+  blockquote {
+    border-left: 3px solid var(--line); padding: .2rem 0 .2rem .8rem;
+    margin: .5rem 0; color: #333; line-height: 1.5;
+  }
+  .prov { font-family: system-ui, sans-serif; font-size: .75rem; color: var(--muted); margin: .5rem 0; }
+  .prov .ai { color: var(--accent); font-weight: 600; }
+  .controls { display: flex; gap: .8rem; align-items: center; margin-top: .6rem; flex-wrap: wrap; }
+  button.play {
+    font-family: system-ui, sans-serif; font-size: .82rem; padding: .35rem .8rem;
+    background: var(--accent); color: #fff; border: none; border-radius: 3px; cursor: pointer;
+  }
+  audio { height: 32px; max-width: 320px; }
+  .src { font-family: system-ui, sans-serif; font-size: .78rem; }
+  .src a { color: var(--muted); }
+  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--line);
+    font-size: .8rem; color: var(--muted); line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>dormant-audio-<span>search</span></h1>
+    <div class="sub">Ask a question of 1930s–1950s radio news. Every answer points back to the original recording.</div>
+    <nav><a href="/eval">evaluation report</a><a href="https://github.com/vup903/dormant-audio-search">source</a></nav>
+  </header>
+
+  <form id="f">
+    <input type="text" id="q" placeholder="e.g. What did reporters say about the invasion of Normandy?" autofocus>
+    <button class="go">Search</button>
+  </form>
+  <div class="examples">Try:
+    <a>news about the invasion of Normandy</a>
+    <a>presidential election campaign</a>
+    <a>workers on strike</a>
+    <a>atomic weapons</a>
+  </div>
+
+  <div id="status"></div>
+  <div id="results"></div>
+
+  <footer>
+    All audio is public-domain historical broadcast material fetched from archive.org — no NPR content.
+    Transcripts and topic tags are AI-generated (faster-whisper + zero-shot tagging against a 20-term
+    controlled vocabulary) and labeled as such; expect transcription errors on 80-year-old recordings.
+    Results come only from the indexed corpus. <span class="ai">AI suggests — a human decides.</span>
+  </footer>
+</div>
+
+<script>
+const esc = s => s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const mmss = s => `${Math.floor(s/60)}:${String(Math.floor(s%60)).padStart(2,'0')}`;
+
+document.querySelectorAll('.examples a').forEach(a =>
+  a.onclick = () => { document.getElementById('q').value = a.textContent; run(); });
+
+document.getElementById('f').onsubmit = e => { e.preventDefault(); run(); };
+
+async function run() {
+  const q = document.getElementById('q').value.trim();
+  if (!q) return;
+  const status = document.getElementById('status');
+  const box = document.getElementById('results');
+  status.textContent = 'Searching the archive…';
+  box.innerHTML = '';
+  try {
+    const r = await fetch('/api/search', {
+      method: 'POST', headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({query: q})
+    });
+    const data = await r.json();
+    if (!data.results.length) {
+      status.textContent = 'Nothing in the corpus matches — no answer is shown when no source is found.';
+      return;
+    }
+    status.textContent = `${data.results.length} segments, ranked. Click play to hear the original from that moment.`;
+    data.results.forEach((res, i) => {
+      const tags = res.tags.map(t =>
+        `<span class="badge">${esc(t.term)} · AI ${(t.score*100).toFixed(0)}%</span>`).join(' ');
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <div class="meta">
+          <span class="rank">#${i+1}</span>
+          <span class="prog">${esc(res.program)}</span>
+          <span>${esc(res.date)}</span>
+          <span class="badge">${esc(res.decade)}</span>
+          <span class="badge">matched: ${esc(res.matched_by)}</span>
+          <span class="badge">@ ${mmss(res.start_s)}</span>
+        </div>
+        <div class="title">${esc(res.title)}</div>
+        <blockquote>“${esc(res.excerpt)}”</blockquote>
+        <div class="prov">
+          transcript: <span class="ai">AI-generated</span>, ASR confidence ${(res.asr_confidence*100).toFixed(0)}%
+          &nbsp;·&nbsp; tags: ${tags || '—'}
+        </div>
+        <div class="controls">
+          <button class="play">▶ Play from ${mmss(res.start_s)}</button>
+          <audio controls preload="none" src="/audio/${encodeURIComponent(res.audio_file)}"></audio>
+          <span class="src"><a href="${esc(res.source_url)}" target="_blank" rel="noopener">original on archive.org ↗</a></span>
+        </div>`;
+      const audio = card.querySelector('audio');
+      card.querySelector('.play').onclick = () => {
+        audio.currentTime = res.start_s;
+        audio.play();
+      };
+      box.appendChild(card);
+    });
+  } catch (err) {
+    status.textContent = 'Search failed: ' + err;
+  }
+}
+</script>
+</body>
+</html>
