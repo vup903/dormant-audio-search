@@ -1,0 +1,64 @@
+# Golden query -> expected-clip pairs. 15 queries, balanced across decades
+# (4 / 7 / 4 ~ matching the corpus split). Written the way a reporter would
+# ask, not the way the files are named: some rely on names (lexical-friendly),
+# some are pure paraphrase (semantic-only). On a real archive this set would
+# be built WITH journalists and archivists, not by the engineer alone.
+queries:
+  # ---- 1930s ----
+  - query: "Marian Anderson singing before a large crowd"
+    decade: "1930s"
+    expected: ["1939-04-09-marian-anderson-concert"]
+  - query: "Britain declaring war on Germany"
+    decade: "1930s"
+    expected:
+      - "1939-09-03-bbc-britain-declares-war-on-germany"
+      - "1959-08-23-bbc-prologue-to-war"
+  - query: "survivors describe the sinking of a passenger ship by a German submarine"
+    decade: "1930s"
+    expected: ["1939-09-06-bbc-survivors-recall-the-sinking-of-the-ss-athenia"]
+  - query: "the crisis over Czechoslovakia and negotiations with Hitler"
+    decade: "1930s"
+    expected:
+      - "1938-09-27-nbc-fred-bates-reporting"
+      - "1938-10-21-nbc-story-behind-the-headlines---great-britain-and-the-four-power-pact-2"
+
+  # ---- 1940s ----
+  - query: "Roosevelt's speech after the attack on Pearl Harbor"
+    decade: "1940s"
+    expected: ["1941-12-08-introduction-then-fdrs-day-of-infamy-speech"]
+  - query: "Churchill rallying the British people in a wartime speech"
+    decade: "1940s"
+    expected: ["1941-08-29-bbc-winston-churchill-these-are-great-days"]
+  - query: "report on the bombing of Caen during the Normandy campaign"
+    decade: "1940s"
+    expected: ["1944-07-08-can-herbert-on-the-bombing-of-caen"]
+  - query: "Roosevelt speaking to the nation about the Battle of the Bulge"
+    decade: "1940s"
+    expected: ["1945-01-06-fdr-fireside-chat-on-battle-of-the-bulge"]
+  - query: "reaction to the death of President Roosevelt"
+    decade: "1940s"
+    expected: ["1945-04-13-bbc-news-dora-bateman-commentary-on-fdrs-death"]
+  - query: "celebrations in the streets when Japan surrendered"
+    decade: "1940s"
+    expected: ["1945-08-14-cbs-live-streets-of-hollywood"]
+  - query: "Truman campaign speech about workers and labor"
+    decade: "1940s"
+    expected: ["1948-10-30-afrs-truman-address-at-the-kiel-auditorium-st-louis"]
+
+  # ---- 1950s ----
+  - query: "General MacArthur's farewell address to Congress"
+    decade: "1950s"
+    expected: ["1951-04-19-general-douglas-macarthur---address-to-congress"]
+  - query: "coverage of the Republican national convention"
+    decade: "1950s"
+    expected: ["1952-07-07-kghl-or-kbmy-1952-republican-convention"]
+  - query: "Bob Hope entertaining veterans in a hospital"
+    decade: "1950s"
+    expected:
+      - "1950-12-25-afrs-bob-hope-from-long-beach-california-veterans-hospital-bing-crosby"
+      - "1953-12-25-nbc-bob-hope-long-beach-veterans-hospital-esther-williams"
+  - query: "war correspondents recall their most memorable stories"
+    decade: "1950s"
+    expected:
+      - "1956-01-26-cbc-foreign-correspondents-recall-their-best-stories"
+      - "1956-12-10-cbc-matthew-halton-remembered-by-colleagues"

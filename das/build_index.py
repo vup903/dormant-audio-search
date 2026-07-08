@@ -42,12 +42,15 @@ def main() -> int:
                 "start": w["start"],
                 "end": w["end"],
                 "text": w["text"],
+                # what search sees: the recording's own metadata travels with
+                # every window (speakers rarely say their own name or the date)
+                "index_text": f"{rec['title']}. {rec['program']}, {rec['date']}. {w['text']}",
                 "confidence": w["confidence"],
             })
 
     model = SentenceTransformer(EMBED_MODEL)
     vecs = model.encode(
-        [w["text"] for w in windows],
+        [w["index_text"] for w in windows],
         normalize_embeddings=True,
         show_progress_bar=True,
     )

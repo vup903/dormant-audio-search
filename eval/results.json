@@ -1,0 +1,236 @@
+{
+  "generated_at": "2026-07-08T09:07:14+00:00",
+  "metric": "hit@5 (any expected clip in top 5)",
+  "retrieval": "semantic \u222a lexical top-8 \u2192 cross-encoder rerank \u2192 top-5",
+  "overall": {
+    "hits": 14,
+    "total": 15,
+    "hit_at_5": 0.933
+  },
+  "per_decade": {
+    "1930s": {
+      "hits": 4,
+      "total": 4,
+      "hit_at_5": 1.0
+    },
+    "1940s": {
+      "hits": 6,
+      "total": 7,
+      "hit_at_5": 0.857
+    },
+    "1950s": {
+      "hits": 4,
+      "total": 4,
+      "hit_at_5": 1.0
+    }
+  },
+  "queries": [
+    {
+      "query": "Marian Anderson singing before a large crowd",
+      "decade": "1930s",
+      "expected": [
+        "1939-04-09-marian-anderson-concert"
+      ],
+      "got": [
+        "1939-04-09-marian-anderson-concert"
+      ],
+      "hit": true
+    },
+    {
+      "query": "Britain declaring war on Germany",
+      "decade": "1930s",
+      "expected": [
+        "1939-09-03-bbc-britain-declares-war-on-germany",
+        "1959-08-23-bbc-prologue-to-war"
+      ],
+      "got": [
+        "1939-09-03-bbc-britain-declares-war-on-germany",
+        "1959-08-23-bbc-prologue-to-war",
+        "1941-01-01-kfwb-robert-arden-news-commentary-new-year-war-news",
+        "1938-10-21-nbc-story-behind-the-headlines---great-britain-and-the-four-power-pact-2"
+      ],
+      "hit": true
+    },
+    {
+      "query": "survivors describe the sinking of a passenger ship by a German submarine",
+      "decade": "1930s",
+      "expected": [
+        "1939-09-06-bbc-survivors-recall-the-sinking-of-the-ss-athenia"
+      ],
+      "got": [
+        "1939-09-06-bbc-survivors-recall-the-sinking-of-the-ss-athenia",
+        "1938-02-03-nbcb-march-of-time",
+        "1938-03-04-mbs-raymond-gram-swing-end-of-two-trials-niemoller-and-the-old-bolsheviks",
+        "1956-12-10-cbc-matthew-halton-remembered-by-colleagues"
+      ],
+      "hit": true
+    },
+    {
+      "query": "the crisis over Czechoslovakia and negotiations with Hitler",
+      "decade": "1930s",
+      "expected": [
+        "1938-09-27-nbc-fred-bates-reporting",
+        "1938-10-21-nbc-story-behind-the-headlines---great-britain-and-the-four-power-pact-2"
+      ],
+      "got": [
+        "1941-01-01-kfwb-robert-arden-news-commentary-new-year-war-news",
+        "1938-05-23-radio-berlin-news",
+        "1938-10-21-nbc-story-behind-the-headlines---great-britain-and-the-four-power-pact-2",
+        "1941-05-06-nbc-kaltenborn-edits-the-news-president-conferred-with-defense-advisers-today",
+        "1945-05-07-nbc-ve-day-350-united-jewish-appeal"
+      ],
+      "hit": true
+    },
+    {
+      "query": "Roosevelt's speech after the attack on Pearl Harbor",
+      "decade": "1940s",
+      "expected": [
+        "1941-12-08-introduction-then-fdrs-day-of-infamy-speech"
+      ],
+      "got": [
+        "1941-12-08-introduction-then-fdrs-day-of-infamy-speech",
+        "1944-12-31-cbs-world-news-today",
+        "1956-01-26-cbc-foreign-correspondents-recall-their-best-stories",
+        "1945-04-13-bbc-news-dora-bateman-commentary-on-fdrs-death",
+        "1948-10-30-afrs-truman-address-at-the-kiel-auditorium-st-louis"
+      ],
+      "hit": true
+    },
+    {
+      "query": "Churchill rallying the British people in a wartime speech",
+      "decade": "1940s",
+      "expected": [
+        "1941-08-29-bbc-winston-churchill-these-are-great-days"
+      ],
+      "got": [
+        "1956-01-26-cbc-foreign-correspondents-recall-their-best-stories",
+        "1944-12-31-cbs-world-news-today",
+        "1941-08-29-bbc-winston-churchill-these-are-great-days",
+        "1941-12-08-introduction-then-fdrs-day-of-infamy-speech",
+        "1950-02-06-billings-montana-news-warren-marshall"
+      ],
+      "hit": true
+    },
+    {
+      "query": "report on the bombing of Caen during the Normandy campaign",
+      "decade": "1940s",
+      "expected": [
+        "1944-07-08-can-herbert-on-the-bombing-of-caen"
+      ],
+      "got": [
+        "1944-07-08-can-herbert-on-the-bombing-of-caen",
+        "1956-12-10-cbc-matthew-halton-remembered-by-colleagues",
+        "1944-04-22-nbc-war-telescope---tensions-in-britain-increase-as-invasion-nears",
+        "1944-10-08-cbs-world-news-today",
+        "1945-01-06-fdr-fireside-chat-on-battle-of-the-bulge"
+      ],
+      "hit": true
+    },
+    {
+      "query": "Roosevelt speaking to the nation about the Battle of the Bulge",
+      "decade": "1940s",
+      "expected": [
+        "1945-01-06-fdr-fireside-chat-on-battle-of-the-bulge"
+      ],
+      "got": [
+        "1945-01-06-fdr-fireside-chat-on-battle-of-the-bulge"
+      ],
+      "hit": true
+    },
+    {
+      "query": "reaction to the death of President Roosevelt",
+      "decade": "1940s",
+      "expected": [
+        "1945-04-13-bbc-news-dora-bateman-commentary-on-fdrs-death"
+      ],
+      "got": [
+        "1945-04-13-bbc-news-dora-bateman-commentary-on-fdrs-death",
+        "1944-10-08-cbs-world-news-today",
+        "1941-01-01-kfwb-robert-arden-news-commentary-new-year-war-news",
+        "1941-12-08-introduction-then-fdrs-day-of-infamy-speech",
+        "1938-02-03-nbcb-march-of-time"
+      ],
+      "hit": true
+    },
+    {
+      "query": "celebrations in the streets when Japan surrendered",
+      "decade": "1940s",
+      "expected": [
+        "1945-08-14-cbs-live-streets-of-hollywood"
+      ],
+      "got": [
+        "1948-10-30-afrs-truman-address-at-the-kiel-auditorium-st-louis",
+        "1941-12-08-introduction-then-fdrs-day-of-infamy-speech",
+        "1941-12-28-rsh-lord-haw-haw---germany-calling",
+        "1941-05-06-nbc-kaltenborn-edits-the-news-president-conferred-with-defense-advisers-today",
+        "1944-12-31-cbs-world-news-today"
+      ],
+      "hit": false
+    },
+    {
+      "query": "Truman campaign speech about workers and labor",
+      "decade": "1940s",
+      "expected": [
+        "1948-10-30-afrs-truman-address-at-the-kiel-auditorium-st-louis"
+      ],
+      "got": [
+        "1948-10-30-afrs-truman-address-at-the-kiel-auditorium-st-louis"
+      ],
+      "hit": true
+    },
+    {
+      "query": "General MacArthur's farewell address to Congress",
+      "decade": "1950s",
+      "expected": [
+        "1951-04-19-general-douglas-macarthur---address-to-congress"
+      ],
+      "got": [
+        "1951-04-19-general-douglas-macarthur---address-to-congress",
+        "1948-10-30-afrs-truman-address-at-the-kiel-auditorium-st-louis",
+        "1941-12-08-introduction-then-fdrs-day-of-infamy-speech",
+        "1945-12-30-afrs-the-fred-allen-show-duke-ellington-pre-emption"
+      ],
+      "hit": true
+    },
+    {
+      "query": "coverage of the Republican national convention",
+      "decade": "1950s",
+      "expected": [
+        "1952-07-07-kghl-or-kbmy-1952-republican-convention"
+      ],
+      "got": [
+        "1952-07-07-kghl-or-kbmy-1952-republican-convention",
+        "1938-02-03-nbcb-march-of-time",
+        "1948-10-30-afrs-truman-address-at-the-kiel-auditorium-st-louis",
+        "1939-04-09-marian-anderson-concert",
+        "1950-02-06-billings-montana-news-warren-marshall"
+      ],
+      "hit": true
+    },
+    {
+      "query": "Bob Hope entertaining veterans in a hospital",
+      "decade": "1950s",
+      "expected": [
+        "1950-12-25-afrs-bob-hope-from-long-beach-california-veterans-hospital-bing-crosby",
+        "1953-12-25-nbc-bob-hope-long-beach-veterans-hospital-esther-williams"
+      ],
+      "got": [
+        "1950-12-25-afrs-bob-hope-from-long-beach-california-veterans-hospital-bing-crosby",
+        "1953-12-25-nbc-bob-hope-long-beach-veterans-hospital-esther-williams"
+      ],
+      "hit": true
+    },
+    {
+      "query": "war correspondents recall their most memorable stories",
+      "decade": "1950s",
+      "expected": [
+        "1956-01-26-cbc-foreign-correspondents-recall-their-best-stories",
+        "1956-12-10-cbc-matthew-halton-remembered-by-colleagues"
+      ],
+      "got": [
+        "1956-01-26-cbc-foreign-correspondents-recall-their-best-stories"
+      ],
+      "hit": true
+    }
+  ]
+}

@@ -27,6 +27,21 @@ CANDIDATES_PER_STAGE = 8
 TOP_K = 5
 
 
+def dedupe_by_clip(ranked: list[tuple[int, float]], windows: list[dict], k: int) -> list[tuple[int, float]]:
+    """Keep only the best-scoring window per clip, preserving rank order."""
+    seen: set[str] = set()
+    out = []
+    for idx, score in ranked:
+        clip = windows[idx]["clip_id"]
+        if clip in seen:
+            continue
+        seen.add(clip)
+        out.append((idx, score))
+        if len(out) == k:
+            break
+    return out
+
+
 class Searcher:
     def __init__(self) -> None:
         import numpy as np
@@ -41,7 +56,7 @@ class Searcher:
                 for p in RECORD_DIR.glob("*.json")
             )
         }
-        self.bm25 = BM25([w["text"] for w in self.windows])
+        self.bm25 = BM25([w["index_text"] for w in self.windows])
         self.embedder = SentenceTransformer(EMBED_MODEL)
         self.reranker = CrossEncoder(RERANK_MODEL)
 
@@ -57,10 +72,12 @@ class Searcher:
         if not candidates:
             return []
 
-        # Stage 2: rerank
-        pairs = [(query, self.windows[i]["text"]) for i in candidates]
+        # Stage 2: rerank, then keep each clip's best window — five windows of
+        # one broadcast shouldn't crowd four other broadcasts out of the top 5
+        pairs = [(query, self.windows[i]["index_text"]) for i in candidates]
         scores = self.reranker.predict(pairs)
-        ranked = sorted(zip(candidates, scores), key=lambda x: x[1], reverse=True)[:k]
+        ranked = sorted(zip(candidates, scores), key=lambda x: x[1], reverse=True)
+        ranked = dedupe_by_clip(ranked, self.windows, k)
 
         results = []
         for idx, score in ranked:

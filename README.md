@@ -71,11 +71,30 @@ explain, debug, and evaluate.
 
 ## Evaluation
 
-A golden set of natural-language queries → expected clips, scored with hit@5
+A golden set of 15 natural-language queries → expected clips, scored with hit@5
 (did any expected clip land in the top 5?). The suite **fails if overall hit@5
-drops below its floor**, so retrieval quality is gated by tests, not by how the
-demo felt. Scores are reported **per decade** — on a real archive that same
+drops below 0.8**, so retrieval quality is gated by tests, not by how the demo
+felt. Scores are reported **per decade** — on a real archive that same
 breakdown (per program, per community) is the bias evaluation.
+
+Current results (`eval/results.json`, rendered at `/eval`):
+
+| slice | hit@5 |
+|---|---|
+| **overall** | **0.93** (14/15) |
+| 1930s | 1.00 (4/4) |
+| 1940s | 0.86 (6/7) |
+| 1950s | 1.00 (4/4) |
+
+The eval already earned its keep once: the first run scored 0.60 and exposed
+two real defects — one broadcast's windows crowding others out of the top 5,
+and titles/dates not being indexed at all (nobody says their own name in a
+speech). Fixing both took hit@5 to 0.93.
+
+The one remaining miss is kept deliberately: a live V-J Day street broadcast
+where the reporter never says "Japan" or "surrender" — the event lives in
+context around the audio, not in it. That's the strongest argument in this
+repo for why archival metadata must travel with every clip.
 
 ## Known limitations
 
