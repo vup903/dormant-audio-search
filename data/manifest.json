@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1938-02-03-nbcb-march-of-time",
+    "item": "1938RadioNews",
+    "filename": "1938-02-03-NBCB-March-Of-Time.mp3",
+    "decade": "1930s",
+    "duration_s": 1728.0,
+    "size_bytes": 6914048,
+    "source_url": "https://archive.org/details/1938RadioNews",
+    "file_url": "https://archive.org/download/1938RadioNews/1938-02-03-NBCB-March-Of-Time.mp3",
+    "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+    "date": "1938-02-03",
+    "program": "NBCB",
+    "title": "March Of Time"
+  },
+  {
+    "id": "1938-03-04-mbs-raymond-gram-swing-end-of-two-trials-niemoller-and-the-old-bolsheviks",
+    "item": "1938RadioNews",
+    "filename": "1938-03-04-MBS-Raymond-Gram-Swing-End-of-two-trials-Niemoller-and-the-old-Bolsheviks.mp3",
+    "decade": "1930s",
+    "duration_s": 327.0,
+    "size_bytes": 1978487,
+    "source_url": "https://archive.org/details/1938RadioNews",
+    "file_url": "https://archive.org/download/1938RadioNews/1938-03-04-MBS-Raymond-Gram-Swing-End-of-two-trials-Niemoller-and-the-old-Bolsheviks.mp3",
+    "rights": "public domain (presumed; pre-1963 broadcast, no rights statement on archive.org item)",
+    "date": "1938-03-04",
+    "program": "MBS",
+    "title": "Raymond Gram Swing End of two trials Niemoller and the old Bolsheviks"
+  }
+]
